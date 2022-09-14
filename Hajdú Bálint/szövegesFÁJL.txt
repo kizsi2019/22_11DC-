@@ -1,0 +1,17 @@
+1) feladat 
+
+a)SELECT SupplierName,Country FROM [Suppliers] 
+where Country = "USA" OR Country = "UK"
+
+b)SELECT SupplierName,Country FROM [Suppliers] 
+where Country = "USA" OR City = "Bostonban"or City="New Orleansban"
+
+c)SELECT SupplierName,Country FROM [Suppliers] 
+  WHERE NOT Country = 'Japan'or "Canada"
+
+2)feladat
+
+a)SELECT ProductName, price FROM [Products] order by price ASC  
+b)SELECT ProductName, price FROM [Products] order by price DESC
+c)SELECT ProductName, unit FROM [Products] order by ProductName  ASC , Unit DESC
+
