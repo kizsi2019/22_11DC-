@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace proba
+namespace megintproba
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Másik szöveg");
+            Console.WriteLine("Anya segíts");
             Console.ReadKey();
         }
     }
