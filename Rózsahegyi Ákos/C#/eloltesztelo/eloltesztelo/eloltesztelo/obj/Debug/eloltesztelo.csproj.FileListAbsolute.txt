@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\eloltesztelo\eloltesztelo\eloltesztelo\bin\Debug\eloltesztelo.exe.config
+C:\Users\RozsahegyiAkos\Desktop\eloltesztelo\eloltesztelo\eloltesztelo\bin\Debug\eloltesztelo.exe
+C:\Users\RozsahegyiAkos\Desktop\eloltesztelo\eloltesztelo\eloltesztelo\bin\Debug\eloltesztelo.pdb
+C:\Users\RozsahegyiAkos\Desktop\eloltesztelo\eloltesztelo\eloltesztelo\obj\Debug\eloltesztelo.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\eloltesztelo\eloltesztelo\eloltesztelo\obj\Debug\eloltesztelo.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\eloltesztelo\eloltesztelo\eloltesztelo\obj\Debug\eloltesztelo.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\eloltesztelo\eloltesztelo\eloltesztelo\obj\Debug\eloltesztelo.exe
+C:\Users\RozsahegyiAkos\Desktop\eloltesztelo\eloltesztelo\eloltesztelo\obj\Debug\eloltesztelo.pdb
