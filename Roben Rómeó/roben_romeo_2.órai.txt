@@ -1,0 +1,21 @@
+Első feladat:
+a
+SELECT SupplierName,Country FROM [Suppliers]
+where Country = 'USA' or Country = 'UK';
+b
+SELECT * FROM [Suppliers]
+WHERE Country = 'USA' AND (City = 'Boston' OR City = 'New Orleans');
+c
+SELECT * FROM [Suppliers]
+WHERE NOT Country = 'Canada' OR not Country = 'Japan';
+
+Második feladat:
+a
+SELECT ProductName,Price FROM [Products]
+ ORDER BY Price ASC;
+b
+SELECT ProductName,Price FROM [Products]
+ ORDER BY Price ASC;
+c
+SELECT ProductName,Unit FROM [Products]
+  ORDER BY ProductName ASC,Unit DESC;
