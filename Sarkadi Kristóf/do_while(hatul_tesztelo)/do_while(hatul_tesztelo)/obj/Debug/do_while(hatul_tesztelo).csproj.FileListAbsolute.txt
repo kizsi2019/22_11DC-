@@ -1,0 +1,8 @@
+C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\do_while(hatul_tesztelo)\do_while(hatul_tesztelo)\bin\Debug\do_while(hatul_tesztelo).exe.config
+C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\do_while(hatul_tesztelo)\do_while(hatul_tesztelo)\bin\Debug\do_while(hatul_tesztelo).exe
+C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\do_while(hatul_tesztelo)\do_while(hatul_tesztelo)\bin\Debug\do_while(hatul_tesztelo).pdb
+C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\do_while(hatul_tesztelo)\do_while(hatul_tesztelo)\obj\Debug\do_while(hatul_tesztelo).csproj.AssemblyReference.cache
+C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\do_while(hatul_tesztelo)\do_while(hatul_tesztelo)\obj\Debug\do_while(hatul_tesztelo).csproj.SuggestedBindingRedirects.cache
+C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\do_while(hatul_tesztelo)\do_while(hatul_tesztelo)\obj\Debug\do_while(hatul_tesztelo).csproj.CoreCompileInputs.cache
+C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\do_while(hatul_tesztelo)\do_while(hatul_tesztelo)\obj\Debug\do_while(hatul_tesztelo).exe
+C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\do_while(hatul_tesztelo)\do_while(hatul_tesztelo)\obj\Debug\do_while(hatul_tesztelo).pdb

@@ -1,0 +1,12 @@
+A, SELECT * FROM Categories;
+B, SELECT CategoryName FROM Categories;
+C, SELECT CategoryName, Description FROM Categories;
+
+
+A, SELECT ProductName, Unit, Price FROM Products;
+B, SELECT * FROM Products where price < 20;
+C, SELECT * FROM Products where price between 20 and  30 ;
+D, SELECT ProductName, Price FROM Products where price <> 10;
+E, SELECT * From products where ProductName like "s%"
+
+3, SELECT City FROM Suppliers 
