@@ -1,0 +1,9 @@
+ 1feladat
+a)INSERT INTO Categories (CategoryName, Description)
+  VALUES ('kolbi','sajtos kolbi');
+
+b)INSERT INTO Categories (CategoryName)
+  VALUES ('kolbi');
+
+c)SELECT * FROM [Categories]
+ where Description is null;

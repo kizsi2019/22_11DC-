@@ -1,0 +1,9 @@
+1.feladat
+a
+INSERT INTO Categories (CategoryName, Description)
+VALUES ("name", "desc")
+b
+INSERT INTO Categories (CategoryName)
+VALUES ("name")
+c
+SELECT * FROM Categories WHERE Description = NULL
