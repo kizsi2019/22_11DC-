@@ -1,0 +1,9 @@
+1. feladat a : 
+INSERT INTO Categories (CatergoryName, Description)
+VALUES ("Sörike", "Nagyon fincsi nagyon jó mézes mázos habos mabos incsiklandozó finomság")
+b:
+INSERT INTO Categories (CategoryName)
+VALUES ("Almácskák")
+c:
+SELECT * FROM [Categories]
+WHERE Description IS NULL;

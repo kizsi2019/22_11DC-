@@ -1,0 +1,8 @@
+1. feladat
+
+a. INSERT INTO Categories (CategoryName, Description);
+VALUES ("Originals", "Countryside meals");
+b. INSERT INTO Categories (CategoryName);
+VALUES ("Originals");
+c. SELECT * FROM Categories;
+WHERE Description IS null;

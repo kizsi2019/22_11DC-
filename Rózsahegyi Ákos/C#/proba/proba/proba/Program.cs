@@ -10,7 +10,7 @@ namespace proba
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Próba");
+            Console.WriteLine("Másik szöveg");
             Console.ReadKey();
         }
     }
