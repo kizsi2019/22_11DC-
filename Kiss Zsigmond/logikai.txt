@@ -1,0 +1,4 @@
+1 feladat
+a, SELECT SupplierName,  Country FROM Suppliers
+WHERE Country = "USA" OR Country = "UK";
+b, 
