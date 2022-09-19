@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\hatultesztelo\hatultesztelo\hatultesztelo\bin\Debug\hatultesztelo.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\hatultesztelo\hatultesztelo\hatultesztelo\bin\Debug\hatultesztelo.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\hatultesztelo\hatultesztelo\hatultesztelo\bin\Debug\hatultesztelo.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\hatultesztelo\hatultesztelo\hatultesztelo\obj\Debug\hatultesztelo.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\hatultesztelo\hatultesztelo\hatultesztelo\obj\Debug\hatultesztelo.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\hatultesztelo\hatultesztelo\hatultesztelo\obj\Debug\hatultesztelo.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\hatultesztelo\hatultesztelo\hatultesztelo\obj\Debug\hatultesztelo.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\hatultesztelo\hatultesztelo\hatultesztelo\obj\Debug\hatultesztelo.pdb
