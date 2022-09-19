@@ -4,21 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace hatultesztelo
+namespace hatoltesztelo2022._09._19
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Adj meg egy jelszót");
-            string pswd ;
+            string pswd;
             do
             {
                 pswd = Console.ReadLine();
-            } while (pswd != "123");
+            } while (pswd != "Koxy100101");
             Console.WriteLine("Sikeres belépés");
             Console.ReadKey();
-
         }
     }
 }
