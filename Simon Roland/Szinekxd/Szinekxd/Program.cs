@@ -19,8 +19,13 @@ namespace Szinekxd
             Console.WriteLine("Színes"); 
             Console.ResetColor(); 
             Console.WriteLine("Alapértelmezett");
-            Console.BackgroundColor = ConsoleColor.DarkBlue; 
+            Console.BackgroundColor = ConsoleColor.DarkBlue;
             Console.Clear();
+            Console.Beep(400, 1000);
+            Console.Title = "ablak";
+            int m = Console.WindowHeight, sz = Console.WindowWidth;
+            Console.WriteLine(m + "*" + sz);
+            Console.SetWindowSize(50, 40);
             Console.ReadKey();
         }
     }
