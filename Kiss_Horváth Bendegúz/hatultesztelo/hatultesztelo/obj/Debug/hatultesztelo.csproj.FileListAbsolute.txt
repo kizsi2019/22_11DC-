@@ -1,0 +1,8 @@
+C:\Users\BendegúzKiss-Horváth\source\repos\hatultesztelo\hatultesztelo\bin\Debug\hatultesztelo.exe.config
+C:\Users\BendegúzKiss-Horváth\source\repos\hatultesztelo\hatultesztelo\bin\Debug\hatultesztelo.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\hatultesztelo\hatultesztelo\bin\Debug\hatultesztelo.pdb
+C:\Users\BendegúzKiss-Horváth\source\repos\hatultesztelo\hatultesztelo\obj\Debug\hatultesztelo.csproj.AssemblyReference.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\hatultesztelo\hatultesztelo\obj\Debug\hatultesztelo.csproj.SuggestedBindingRedirects.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\hatultesztelo\hatultesztelo\obj\Debug\hatultesztelo.csproj.CoreCompileInputs.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\hatultesztelo\hatultesztelo\obj\Debug\hatultesztelo.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\hatultesztelo\hatultesztelo\obj\Debug\hatultesztelo.pdb
