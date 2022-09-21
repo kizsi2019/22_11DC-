@@ -36,9 +36,10 @@ namespace mat_osztaly
             //x = Math.Sin(x);
             //double x = 25;
             //x = Math.Sqrt(x);
-            double x = 160;
-            x = Math.Tan(x);
-            Console.WriteLine(x);
+            //double x = 160;
+            //x = Math.Tan(x);
+            Console.WriteLine("A PI értéke: " + Math.PI);
+            //Console.WriteLine(x);
             Console.ReadKey();
 
         }
