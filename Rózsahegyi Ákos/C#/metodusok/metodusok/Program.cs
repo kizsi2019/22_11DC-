@@ -80,22 +80,22 @@ namespace metodusok
 
             //byte sz0 = 10, sz1 = 15;
             //byte max = Math.Max(sz0, sz1); //Megoldás: 15
-            //Console.WriteLine(x);
+            //Console.WriteLine(max);
             //Console.ReadKey();
 
             //byte sz0 = 10, sz1 = 15;
             //byte min = Math.Min(sz0, sz1); //Megoldás: 10
-            //Console.WriteLine(x);
+            //Console.WriteLine(min);
             //Console.ReadKey();
 
             //double alap = 3, kitevo = 4;
             //double pow = Math.Pow(alap, kitevo); //Megoldás: 81
-            //Console.WriteLine(x);
+            //Console.WriteLine(pow);
             //Console.ReadKey();
 
             //double x = 7.8;
             //double ker = Math.Round(x); //Megoldás: 8
-            //Console.WriteLine(x);
+            //Console.WriteLine(ker);
             //Console.ReadKey();
 
             //double x = 120;

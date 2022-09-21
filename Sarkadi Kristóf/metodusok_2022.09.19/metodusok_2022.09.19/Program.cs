@@ -25,6 +25,16 @@ namespace metodusok_2022._09._19
             int m = Console.WindowHeight, sz = Console.WindowWidth; 
             Console.WriteLine(m + "*" + sz);
             Console.SetWindowSize(50, 40);
+            int m = Console.WindowHeight; 
+            int sz = Console.WindowWidth; 
+            Console.SetCursorPosition(sz / 2, m / 2);
+            double x = -20.5; 
+            x = Math.Abs(x);
+            //Megoldás: 20.5
+            doublex = 12.6; 
+            x = Math.Ceiling(x); 
+            //Megoldás: 13
+
             Console.ReadKey();
         }
     }
