@@ -1,0 +1,8 @@
+C:\Users\SoponyaiAron\source\repos\2022_19_21\bin\Debug\2022_19_21.exe.config
+C:\Users\SoponyaiAron\source\repos\2022_19_21\bin\Debug\2022_19_21.exe
+C:\Users\SoponyaiAron\source\repos\2022_19_21\bin\Debug\2022_19_21.pdb
+C:\Users\SoponyaiAron\source\repos\2022_19_21\obj\Debug\2022_19_21.csproj.AssemblyReference.cache
+C:\Users\SoponyaiAron\source\repos\2022_19_21\obj\Debug\2022_19_21.csproj.SuggestedBindingRedirects.cache
+C:\Users\SoponyaiAron\source\repos\2022_19_21\obj\Debug\2022_19_21.csproj.CoreCompileInputs.cache
+C:\Users\SoponyaiAron\source\repos\2022_19_21\obj\Debug\2022_19_21.exe
+C:\Users\SoponyaiAron\source\repos\2022_19_21\obj\Debug\2022_19_21.pdb
