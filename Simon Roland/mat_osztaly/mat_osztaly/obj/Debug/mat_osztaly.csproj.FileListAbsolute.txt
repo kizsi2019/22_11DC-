@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\mat_osztaly\mat_osztaly\bin\Debug\mat_osztaly.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\mat_osztaly\mat_osztaly\bin\Debug\mat_osztaly.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\mat_osztaly\mat_osztaly\bin\Debug\mat_osztaly.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\mat_osztaly\mat_osztaly\obj\Debug\mat_osztaly.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\mat_osztaly\mat_osztaly\obj\Debug\mat_osztaly.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\mat_osztaly\mat_osztaly\obj\Debug\mat_osztaly.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\mat_osztaly\mat_osztaly\obj\Debug\mat_osztaly.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\mat_osztaly\mat_osztaly\obj\Debug\mat_osztaly.pdb
