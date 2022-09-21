@@ -4,19 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace for_ciklus
+namespace metodusok
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int fakt = 1;
-            for (int i = 2; i <=10; i++)
-            {
-                fakt *= i;
-                Console.WriteLine(fakt);
-            }
-            Console.WriteLine(fakt);
+            //Console.BackgroundColor = ConsoleColor.Blue;
+            //Console.WriteLine("Ez kék hátterű szöveg");
+            Console.Beep(32767, 4000);
             Console.ReadKey();
         }
     }

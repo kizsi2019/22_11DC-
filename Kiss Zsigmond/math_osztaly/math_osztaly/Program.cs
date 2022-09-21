@@ -4,19 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace for_ciklus
+
+namespace math_osztaly
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int fakt = 1;
-            for (int i = 2; i <=10; i++)
-            {
-                fakt *= i;
-                Console.WriteLine(fakt);
-            }
-            Console.WriteLine(fakt);
+            //double x = -20.5; 
+            //x = Math.Abs(x); //Megoldás: 20.5
+
+            double x = 12.6; 
+            x = Math.Ceiling(x); //Megoldás: 13
+
+
+            Console.WriteLine(x);
+
             Console.ReadKey();
         }
     }
