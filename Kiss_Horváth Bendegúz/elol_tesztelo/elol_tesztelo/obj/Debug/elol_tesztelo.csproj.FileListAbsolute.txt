@@ -1,8 +1,0 @@
-C:\Users\BendegúzKiss-Horváth\source\repos\elol_tesztelo\elol_tesztelo\bin\Debug\elol_tesztelo.exe.config
-C:\Users\BendegúzKiss-Horváth\source\repos\elol_tesztelo\elol_tesztelo\bin\Debug\elol_tesztelo.exe
-C:\Users\BendegúzKiss-Horváth\source\repos\elol_tesztelo\elol_tesztelo\bin\Debug\elol_tesztelo.pdb
-C:\Users\BendegúzKiss-Horváth\source\repos\elol_tesztelo\elol_tesztelo\obj\Debug\elol_tesztelo.csproj.AssemblyReference.cache
-C:\Users\BendegúzKiss-Horváth\source\repos\elol_tesztelo\elol_tesztelo\obj\Debug\elol_tesztelo.csproj.SuggestedBindingRedirects.cache
-C:\Users\BendegúzKiss-Horváth\source\repos\elol_tesztelo\elol_tesztelo\obj\Debug\elol_tesztelo.csproj.CoreCompileInputs.cache
-C:\Users\BendegúzKiss-Horváth\source\repos\elol_tesztelo\elol_tesztelo\obj\Debug\elol_tesztelo.exe
-C:\Users\BendegúzKiss-Horváth\source\repos\elol_tesztelo\elol_tesztelo\obj\Debug\elol_tesztelo.pdb
