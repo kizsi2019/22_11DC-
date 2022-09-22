@@ -1,8 +1,0 @@
-C:\Users\RozsahegyiAkos\source\repos\proba\proba\proba\bin\Debug\proba.exe.config
-C:\Users\RozsahegyiAkos\source\repos\proba\proba\proba\bin\Debug\proba.exe
-C:\Users\RozsahegyiAkos\source\repos\proba\proba\proba\bin\Debug\proba.pdb
-C:\Users\RozsahegyiAkos\source\repos\proba\proba\proba\obj\Debug\proba.csproj.AssemblyReference.cache
-C:\Users\RozsahegyiAkos\source\repos\proba\proba\proba\obj\Debug\proba.csproj.SuggestedBindingRedirects.cache
-C:\Users\RozsahegyiAkos\source\repos\proba\proba\proba\obj\Debug\proba.csproj.CoreCompileInputs.cache
-C:\Users\RozsahegyiAkos\source\repos\proba\proba\proba\obj\Debug\proba.exe
-C:\Users\RozsahegyiAkos\source\repos\proba\proba\proba\obj\Debug\proba.pdb

@@ -1,8 +1,0 @@
-C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\elol_tesztelo\elol_tesztelo\bin\Debug\elol_tesztelo.exe.config
-C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\elol_tesztelo\elol_tesztelo\bin\Debug\elol_tesztelo.exe
-C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\elol_tesztelo\elol_tesztelo\bin\Debug\elol_tesztelo.pdb
-C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\elol_tesztelo\elol_tesztelo\obj\Debug\elol_tesztelo.csproj.AssemblyReference.cache
-C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\elol_tesztelo\elol_tesztelo\obj\Debug\elol_tesztelo.csproj.SuggestedBindingRedirects.cache
-C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\elol_tesztelo\elol_tesztelo\obj\Debug\elol_tesztelo.csproj.CoreCompileInputs.cache
-C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\elol_tesztelo\elol_tesztelo\obj\Debug\elol_tesztelo.exe
-C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\elol_tesztelo\elol_tesztelo\obj\Debug\elol_tesztelo.pdb

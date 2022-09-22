@@ -1,8 +1,0 @@
-C:\Users\BoldisAron\source\repos\math_osztaly\math_osztaly\bin\Debug\math_osztaly.exe.config
-C:\Users\BoldisAron\source\repos\math_osztaly\math_osztaly\bin\Debug\math_osztaly.exe
-C:\Users\BoldisAron\source\repos\math_osztaly\math_osztaly\bin\Debug\math_osztaly.pdb
-C:\Users\BoldisAron\source\repos\math_osztaly\math_osztaly\obj\Debug\math_osztaly.csproj.AssemblyReference.cache
-C:\Users\BoldisAron\source\repos\math_osztaly\math_osztaly\obj\Debug\math_osztaly.csproj.SuggestedBindingRedirects.cache
-C:\Users\BoldisAron\source\repos\math_osztaly\math_osztaly\obj\Debug\math_osztaly.csproj.CoreCompileInputs.cache
-C:\Users\BoldisAron\source\repos\math_osztaly\math_osztaly\obj\Debug\math_osztaly.exe
-C:\Users\BoldisAron\source\repos\math_osztaly\math_osztaly\obj\Debug\math_osztaly.pdb

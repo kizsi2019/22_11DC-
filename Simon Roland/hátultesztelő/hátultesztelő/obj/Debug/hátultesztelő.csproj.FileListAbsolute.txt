@@ -1,8 +1,0 @@
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\hátultesztelő\hátultesztelő\bin\Debug\hátultesztelő.exe.config
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\hátultesztelő\hátultesztelő\bin\Debug\hátultesztelő.exe
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\hátultesztelő\hátultesztelő\bin\Debug\hátultesztelő.pdb
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\hátultesztelő\hátultesztelő\obj\Debug\hátultesztelő.csproj.AssemblyReference.cache
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\hátultesztelő\hátultesztelő\obj\Debug\hátultesztelő.csproj.SuggestedBindingRedirects.cache
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\hátultesztelő\hátultesztelő\obj\Debug\hátultesztelő.csproj.CoreCompileInputs.cache
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\hátultesztelő\hátultesztelő\obj\Debug\hátultesztelő.exe
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\hátultesztelő\hátultesztelő\obj\Debug\hátultesztelő.pdb

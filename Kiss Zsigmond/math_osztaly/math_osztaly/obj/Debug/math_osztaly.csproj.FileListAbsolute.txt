@@ -1,7 +1,0 @@
-C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\math_osztaly\math_osztaly\bin\Debug\math_osztaly.exe.config
-C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\math_osztaly\math_osztaly\bin\Debug\math_osztaly.exe
-C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\math_osztaly\math_osztaly\bin\Debug\math_osztaly.pdb
-C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\math_osztaly\math_osztaly\obj\Debug\math_osztaly.csproj.AssemblyReference.cache
-C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\math_osztaly\math_osztaly\obj\Debug\math_osztaly.csproj.CoreCompileInputs.cache
-C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\math_osztaly\math_osztaly\obj\Debug\math_osztaly.exe
-C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\math_osztaly\math_osztaly\obj\Debug\math_osztaly.pdb

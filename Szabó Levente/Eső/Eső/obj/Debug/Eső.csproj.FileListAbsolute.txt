@@ -1,8 +1,0 @@
-C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\Eső\bin\Debug\Eső.exe.config
-C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\Eső\bin\Debug\Eső.exe
-C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\Eső\bin\Debug\Eső.pdb
-C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\Eső\obj\Debug\Eső.csproj.AssemblyReference.cache
-C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\Eső\obj\Debug\Eső.csproj.SuggestedBindingRedirects.cache
-C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\Eső\obj\Debug\Eső.csproj.CoreCompileInputs.cache
-C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\Eső\obj\Debug\Eső.exe
-C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\Eső\obj\Debug\Eső.pdb

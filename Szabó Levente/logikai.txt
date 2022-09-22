@@ -1,9 +1,0 @@
-Egyedik feladat
-a, SELECT Suppliername, Country FROM Suppliers Where Country = "USA" OR Country = "UK";
-b, SELECT Suppliername, Country FROM Suppliers Where Country = "USA" And City = "Boston" Or "New Orleans";
-c, SELECT Suppliername, Country FROM Suppliers Where NOT Country = "Japan" And "Canada";
-
-Kettedik feladat
-a, SELECT Productname, Price FROM Products Order BY Price asc;
-b, SELECT Productname, Price FROM Products Order BY Price desc;
-c, 

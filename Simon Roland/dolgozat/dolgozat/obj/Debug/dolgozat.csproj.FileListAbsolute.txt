@@ -1,8 +1,0 @@
-C:\Users\SimonRoland\source\repos\dolgozat\dolgozat\bin\Debug\dolgozat.exe.config
-C:\Users\SimonRoland\source\repos\dolgozat\dolgozat\bin\Debug\dolgozat.exe
-C:\Users\SimonRoland\source\repos\dolgozat\dolgozat\bin\Debug\dolgozat.pdb
-C:\Users\SimonRoland\source\repos\dolgozat\dolgozat\obj\Debug\dolgozat.csproj.AssemblyReference.cache
-C:\Users\SimonRoland\source\repos\dolgozat\dolgozat\obj\Debug\dolgozat.csproj.SuggestedBindingRedirects.cache
-C:\Users\SimonRoland\source\repos\dolgozat\dolgozat\obj\Debug\dolgozat.csproj.CoreCompileInputs.cache
-C:\Users\SimonRoland\source\repos\dolgozat\dolgozat\obj\Debug\dolgozat.exe
-C:\Users\SimonRoland\source\repos\dolgozat\dolgozat\obj\Debug\dolgozat.pdb

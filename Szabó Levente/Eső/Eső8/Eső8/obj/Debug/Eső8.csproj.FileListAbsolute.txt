@@ -1,8 +1,0 @@
-C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\Eső8\Eső8\obj\Debug\Eső8.csproj.AssemblyReference.cache
-C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\Eső8\Eső8\obj\Debug\Eső8.csproj.SuggestedBindingRedirects.cache
-C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\Eső8\Eső8\obj\Debug\Eső8.csproj.CoreCompileInputs.cache
-C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\Eső8\Eső8\bin\Debug\Eső8.exe.config
-C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\Eső8\Eső8\bin\Debug\Eső8.exe
-C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\Eső8\Eső8\bin\Debug\Eső8.pdb
-C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\Eső8\Eső8\obj\Debug\Eső8.exe
-C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\Eső8\Eső8\obj\Debug\Eső8.pdb
