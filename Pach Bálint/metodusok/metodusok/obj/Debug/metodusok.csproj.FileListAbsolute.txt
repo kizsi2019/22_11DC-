@@ -1,0 +1,8 @@
+C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\metodusok\metodusok\bin\Debug\metodusok.exe.config
+C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\metodusok\metodusok\bin\Debug\metodusok.exe
+C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\metodusok\metodusok\bin\Debug\metodusok.pdb
+C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\metodusok\metodusok\obj\Debug\metodusok.csproj.AssemblyReference.cache
+C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\metodusok\metodusok\obj\Debug\metodusok.csproj.SuggestedBindingRedirects.cache
+C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\metodusok\metodusok\obj\Debug\metodusok.csproj.CoreCompileInputs.cache
+C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\metodusok\metodusok\obj\Debug\metodusok.exe
+C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\metodusok\metodusok\obj\Debug\metodusok.pdb
