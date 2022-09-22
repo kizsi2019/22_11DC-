@@ -1,0 +1,12 @@
+1.feladat
+SELECT * FROM [Categories]
+SELECT CategoryName FROM [Categories]
+SELECT CategoryName, DESCRIPTION FROM [Categories]
+
+2.feladat
+SELECT ProductName, Unit, Price FROM Products
+WHERE Price > 20
+WHERE Price BETWEEN 20 and 30
+WHERE Price 
+WHERE ProductName LIKE 't%'
+WHERE 

@@ -1,0 +1,7 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\hatultesztelo\hatultesztelo\bin\Debug\hatultesztelo.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\hatultesztelo\hatultesztelo\bin\Debug\hatultesztelo.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\hatultesztelo\hatultesztelo\bin\Debug\hatultesztelo.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\hatultesztelo\hatultesztelo\obj\Debug\hatultesztelo.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\hatultesztelo\hatultesztelo\obj\Debug\hatultesztelo.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\hatultesztelo\hatultesztelo\obj\Debug\hatultesztelo.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\hatultesztelo\hatultesztelo\obj\Debug\hatultesztelo.pdb

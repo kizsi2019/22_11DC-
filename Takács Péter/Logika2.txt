@@ -1,0 +1,11 @@
+1.FELADAT
+a)
+INSERT INTO Categories (CategoryName, Description)
+VALUES ('Roland Simon', 'Jó munkás ');
+b)
+INSERT INTO Categories (CategoryName)
+VALUES ('Roland Simon');
+c)
+SELECT CategoryName, CategoryID, Description
+	FROM Categoires
+	WHERE Address IS NULL;

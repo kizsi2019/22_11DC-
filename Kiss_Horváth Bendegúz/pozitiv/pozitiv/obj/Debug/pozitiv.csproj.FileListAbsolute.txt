@@ -1,0 +1,8 @@
+C:\Users\BendegúzKiss-Horváth\source\repos\pozitiv\pozitiv\bin\Debug\pozitiv.exe.config
+C:\Users\BendegúzKiss-Horváth\source\repos\pozitiv\pozitiv\bin\Debug\pozitiv.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\pozitiv\pozitiv\bin\Debug\pozitiv.pdb
+C:\Users\BendegúzKiss-Horváth\source\repos\pozitiv\pozitiv\obj\Debug\pozitiv.csproj.AssemblyReference.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\pozitiv\pozitiv\obj\Debug\pozitiv.csproj.SuggestedBindingRedirects.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\pozitiv\pozitiv\obj\Debug\pozitiv.csproj.CoreCompileInputs.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\pozitiv\pozitiv\obj\Debug\pozitiv.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\pozitiv\pozitiv\obj\Debug\pozitiv.pdb
