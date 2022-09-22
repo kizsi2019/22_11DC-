@@ -1,0 +1,11 @@
+első feladat
+a
+  INSERT INTO Categories (categoryName,Description)
+    VALUES ('roli sörikéje', 'sweet,sour');
+b
+  INSERT INTO Categories (categoryName)
+    VALUES ('roli sörikéje');
+c
+  SELECT CategoryName, CategoryID, 	Description
+    FROM Categories
+    WHERE Description IS NULL;
