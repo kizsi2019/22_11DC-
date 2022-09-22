@@ -1,8 +1,0 @@
-C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\for_ciklus\for_ciklus\bin\Debug\for_ciklus.exe.config
-C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\for_ciklus\for_ciklus\bin\Debug\for_ciklus.exe
-C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\for_ciklus\for_ciklus\bin\Debug\for_ciklus.pdb
-C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\for_ciklus\for_ciklus\obj\Debug\for_ciklus.csproj.AssemblyReference.cache
-C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\for_ciklus\for_ciklus\obj\Debug\for_ciklus.csproj.SuggestedBindingRedirects.cache
-C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\for_ciklus\for_ciklus\obj\Debug\for_ciklus.csproj.CoreCompileInputs.cache
-C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\for_ciklus\for_ciklus\obj\Debug\for_ciklus.exe
-C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\for_ciklus\for_ciklus\obj\Debug\for_ciklus.pdb

@@ -1,8 +1,0 @@
-C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\hatultesztelo\hatultesztelo\obj\Debug\hatultesztelo.csproj.AssemblyReference.cache
-C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\hatultesztelo\hatultesztelo\obj\Debug\hatultesztelo.csproj.SuggestedBindingRedirects.cache
-C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\hatultesztelo\hatultesztelo\obj\Debug\hatultesztelo.csproj.CoreCompileInputs.cache
-C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\hatultesztelo\hatultesztelo\bin\Debug\hatultesztelo.exe.config
-C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\hatultesztelo\hatultesztelo\bin\Debug\hatultesztelo.exe
-C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\hatultesztelo\hatultesztelo\bin\Debug\hatultesztelo.pdb
-C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\hatultesztelo\hatultesztelo\obj\Debug\hatultesztelo.exe
-C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\hatultesztelo\hatultesztelo\obj\Debug\hatultesztelo.pdb

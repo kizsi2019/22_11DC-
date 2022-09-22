@@ -1,8 +1,0 @@
-C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\for_ciklus\for_ciklus\bin\Debug\for_ciklus.exe.config
-C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\for_ciklus\for_ciklus\bin\Debug\for_ciklus.exe
-C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\for_ciklus\for_ciklus\bin\Debug\for_ciklus.pdb
-C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\for_ciklus\for_ciklus\obj\Debug\for_ciklus.csproj.AssemblyReference.cache
-C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\for_ciklus\for_ciklus\obj\Debug\for_ciklus.csproj.SuggestedBindingRedirects.cache
-C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\for_ciklus\for_ciklus\obj\Debug\for_ciklus.csproj.CoreCompileInputs.cache
-C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\for_ciklus\for_ciklus\obj\Debug\for_ciklus.exe
-C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\for_ciklus\for_ciklus\obj\Debug\for_ciklus.pdb

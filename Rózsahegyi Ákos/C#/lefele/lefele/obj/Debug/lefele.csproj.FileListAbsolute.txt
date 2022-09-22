@@ -1,8 +1,0 @@
-C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\lefele\lefele\bin\Debug\lefele.exe.config
-C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\lefele\lefele\bin\Debug\lefele.exe
-C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\lefele\lefele\bin\Debug\lefele.pdb
-C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\lefele\lefele\obj\Debug\lefele.csproj.AssemblyReference.cache
-C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\lefele\lefele\obj\Debug\lefele.csproj.SuggestedBindingRedirects.cache
-C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\lefele\lefele\obj\Debug\lefele.csproj.CoreCompileInputs.cache
-C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\lefele\lefele\obj\Debug\lefele.exe
-C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\lefele\lefele\obj\Debug\lefele.pdb

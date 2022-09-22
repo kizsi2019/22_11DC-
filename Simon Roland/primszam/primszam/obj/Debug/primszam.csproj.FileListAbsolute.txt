@@ -1,3 +1,0 @@
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\primszam\primszam\obj\Debug\primszam.csproj.AssemblyReference.cache
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\primszam\primszam\obj\Debug\primszam.csproj.SuggestedBindingRedirects.cache
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\primszam\primszam\obj\Debug\primszam.csproj.CoreCompileInputs.cache

@@ -1,8 +1,0 @@
-C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\dolgozat\dolgozat\bin\Debug\dolgozat.exe.config
-C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\dolgozat\dolgozat\bin\Debug\dolgozat.exe
-C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\dolgozat\dolgozat\bin\Debug\dolgozat.pdb
-C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\dolgozat\dolgozat\obj\Debug\dolgozat.csproj.AssemblyReference.cache
-C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\dolgozat\dolgozat\obj\Debug\dolgozat.csproj.SuggestedBindingRedirects.cache
-C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\dolgozat\dolgozat\obj\Debug\dolgozat.csproj.CoreCompileInputs.cache
-C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\dolgozat\dolgozat\obj\Debug\dolgozat.exe
-C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\dolgozat\dolgozat\obj\Debug\dolgozat.pdb

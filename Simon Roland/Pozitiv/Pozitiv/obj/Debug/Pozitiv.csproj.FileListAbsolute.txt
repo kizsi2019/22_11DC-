@@ -1,8 +1,0 @@
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\Pozitiv\Pozitiv\obj\Debug\Pozitiv.csproj.AssemblyReference.cache
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\Pozitiv\Pozitiv\obj\Debug\Pozitiv.csproj.SuggestedBindingRedirects.cache
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\Pozitiv\Pozitiv\obj\Debug\Pozitiv.csproj.CoreCompileInputs.cache
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\Pozitiv\Pozitiv\bin\Debug\Pozitiv.exe.config
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\Pozitiv\Pozitiv\bin\Debug\Pozitiv.exe
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\Pozitiv\Pozitiv\bin\Debug\Pozitiv.pdb
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\Pozitiv\Pozitiv\obj\Debug\Pozitiv.exe
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\Pozitiv\Pozitiv\obj\Debug\Pozitiv.pdb

@@ -1,8 +1,0 @@
-C:\Users\RozsahegyiAkos\Desktop\switch\switch\switch\bin\Debug\@switch.exe.config
-C:\Users\RozsahegyiAkos\Desktop\switch\switch\switch\bin\Debug\@switch.exe
-C:\Users\RozsahegyiAkos\Desktop\switch\switch\switch\bin\Debug\@switch.pdb
-C:\Users\RozsahegyiAkos\Desktop\switch\switch\switch\obj\Debug\switch.csproj.AssemblyReference.cache
-C:\Users\RozsahegyiAkos\Desktop\switch\switch\switch\obj\Debug\switch.csproj.SuggestedBindingRedirects.cache
-C:\Users\RozsahegyiAkos\Desktop\switch\switch\switch\obj\Debug\switch.csproj.CoreCompileInputs.cache
-C:\Users\RozsahegyiAkos\Desktop\switch\switch\switch\obj\Debug\@switch.exe
-C:\Users\RozsahegyiAkos\Desktop\switch\switch\switch\obj\Debug\@switch.pdb

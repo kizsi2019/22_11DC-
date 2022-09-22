@@ -1,8 +1,0 @@
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\Szinekxd\Szinekxd\bin\Debug\Szinekxd.exe.config
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\Szinekxd\Szinekxd\bin\Debug\Szinekxd.exe
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\Szinekxd\Szinekxd\bin\Debug\Szinekxd.pdb
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\Szinekxd\Szinekxd\obj\Debug\Szinekxd.csproj.AssemblyReference.cache
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\Szinekxd\Szinekxd\obj\Debug\Szinekxd.csproj.SuggestedBindingRedirects.cache
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\Szinekxd\Szinekxd\obj\Debug\Szinekxd.csproj.CoreCompileInputs.cache
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\Szinekxd\Szinekxd\obj\Debug\Szinekxd.exe
-C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\Szinekxd\Szinekxd\obj\Debug\Szinekxd.pdb

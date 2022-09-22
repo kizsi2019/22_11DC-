@@ -1,7 +1,0 @@
-A, SELECT SupplierName, Country FROM Suppliers WHERE Country = "USA" OR Country = "UK";
-B, SELECT SupplierName, City FROM Suppliers WHERE Country = "USA" AND (City = "Boston" OR City = "New Orleans")
-C, SELECT SupplierName, Country FROM Suppliers WHERE NOT Country = "Japan" OR "Canda"
-
-A, SELECT ProductName, Price FROM Products ORDER BY Price ASC
-B, SELECT ProductName, Price FROM Products ORDER BY Price DESC
-C, SELECT ProductName, Unit FROM Products ORDER BY Unit DESC
