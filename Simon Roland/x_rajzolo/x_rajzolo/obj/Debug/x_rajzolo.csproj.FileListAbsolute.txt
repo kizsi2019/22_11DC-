@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\x_rajzolo\x_rajzolo\bin\Debug\x_rajzolo.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\x_rajzolo\x_rajzolo\bin\Debug\x_rajzolo.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\x_rajzolo\x_rajzolo\bin\Debug\x_rajzolo.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\x_rajzolo\x_rajzolo\obj\Debug\x_rajzolo.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\x_rajzolo\x_rajzolo\obj\Debug\x_rajzolo.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\x_rajzolo\x_rajzolo\obj\Debug\x_rajzolo.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\x_rajzolo\x_rajzolo\obj\Debug\x_rajzolo.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\x_rajzolo\x_rajzolo\obj\Debug\x_rajzolo.pdb
