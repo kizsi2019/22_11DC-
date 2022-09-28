@@ -1,0 +1,3 @@
+SELECT COUNT(city) FROM employee WHERE city = "Seattle";
+SELECT COUNT(title) FROM employee WHERE title = "Sales Representative";
+SELECT COUNT(firstname) FROM employee WHERE firstname LIKE "M%";

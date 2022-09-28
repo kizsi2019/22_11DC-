@@ -1,0 +1,3 @@
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\kor_kerulet_terulet\kor_kerulet_terulet\obj\Debug\kor_kerulet_terulet.csproj.AssemblyReference.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\kor_kerulet_terulet\kor_kerulet_terulet\obj\Debug\kor_kerulet_terulet.csproj.SuggestedBindingRedirects.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\kor_kerulet_terulet\kor_kerulet_terulet\obj\Debug\kor_kerulet_terulet.csproj.CoreCompileInputs.cache

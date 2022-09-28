@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\x_rajzoloú\x_rajzoloú\bin\Debug\x_rajzoloú.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\x_rajzoloú\x_rajzoloú\bin\Debug\x_rajzoloú.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\x_rajzoloú\x_rajzoloú\bin\Debug\x_rajzoloú.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\x_rajzoloú\x_rajzoloú\obj\Debug\x_rajzoloú.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\x_rajzoloú\x_rajzoloú\obj\Debug\x_rajzoloú.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\x_rajzoloú\x_rajzoloú\obj\Debug\x_rajzoloú.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\x_rajzoloú\x_rajzoloú\obj\Debug\x_rajzoloú.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\x_rajzoloú\x_rajzoloú\obj\Debug\x_rajzoloú.pdb
