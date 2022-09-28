@@ -1,0 +1,8 @@
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szamkitalalrtoa\szamkitalalrtoa\bin\Debug\szamkitalalrtoa.exe.config
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szamkitalalrtoa\szamkitalalrtoa\bin\Debug\szamkitalalrtoa.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szamkitalalrtoa\szamkitalalrtoa\bin\Debug\szamkitalalrtoa.pdb
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szamkitalalrtoa\szamkitalalrtoa\obj\Debug\szamkitalalrtoa.csproj.AssemblyReference.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szamkitalalrtoa\szamkitalalrtoa\obj\Debug\szamkitalalrtoa.csproj.SuggestedBindingRedirects.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szamkitalalrtoa\szamkitalalrtoa\obj\Debug\szamkitalalrtoa.csproj.CoreCompileInputs.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szamkitalalrtoa\szamkitalalrtoa\obj\Debug\szamkitalalrtoa.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szamkitalalrtoa\szamkitalalrtoa\obj\Debug\szamkitalalrtoa.pdb

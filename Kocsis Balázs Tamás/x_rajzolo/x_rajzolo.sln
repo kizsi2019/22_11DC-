@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "x_rajzolo", "x_rajzolo\x_rajzolo.csproj", "{DF966DD5-6197-48A9-8322-5B2E0AF2D846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF966DD5-6197-48A9-8322-5B2E0AF2D846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF966DD5-6197-48A9-8322-5B2E0AF2D846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF966DD5-6197-48A9-8322-5B2E0AF2D846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF966DD5-6197-48A9-8322-5B2E0AF2D846}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACA1AAFA-4028-4076-89C3-5F93584EFDF5}
+	EndGlobalSection
+EndGlobal

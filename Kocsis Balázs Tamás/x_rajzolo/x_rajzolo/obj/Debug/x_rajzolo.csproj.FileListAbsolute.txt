@@ -1,0 +1,8 @@
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\x_rajzolo\x_rajzolo\obj\Debug\x_rajzolo.csproj.AssemblyReference.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\x_rajzolo\x_rajzolo\obj\Debug\x_rajzolo.csproj.SuggestedBindingRedirects.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\x_rajzolo\x_rajzolo\obj\Debug\x_rajzolo.csproj.CoreCompileInputs.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\x_rajzolo\x_rajzolo\bin\Debug\x_rajzolo.exe.config
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\x_rajzolo\x_rajzolo\bin\Debug\x_rajzolo.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\x_rajzolo\x_rajzolo\bin\Debug\x_rajzolo.pdb
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\x_rajzolo\x_rajzolo\obj\Debug\x_rajzolo.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\x_rajzolo\x_rajzolo\obj\Debug\x_rajzolo.pdb
