@@ -1,0 +1,8 @@
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\Lepcso\obj\Debug\Lepcso.csproj.AssemblyReference.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\Lepcso\obj\Debug\Lepcso.csproj.SuggestedBindingRedirects.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\Lepcso\obj\Debug\Lepcso.csproj.CoreCompileInputs.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\Lepcso\bin\Debug\Lepcso.exe.config
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\Lepcso\bin\Debug\Lepcso.exe
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\Lepcso\bin\Debug\Lepcso.pdb
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\Lepcso\obj\Debug\Lepcso.exe
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\Lepcso\obj\Debug\Lepcso.pdb
