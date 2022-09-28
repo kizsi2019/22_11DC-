@@ -1,0 +1,8 @@
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\SZAMKITALALA\obj\Debug\SZAMKITALALA.csproj.AssemblyReference.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\SZAMKITALALA\obj\Debug\SZAMKITALALA.csproj.SuggestedBindingRedirects.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\SZAMKITALALA\obj\Debug\SZAMKITALALA.csproj.CoreCompileInputs.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\SZAMKITALALA\bin\Debug\SZAMKITALALA.exe.config
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\SZAMKITALALA\bin\Debug\SZAMKITALALA.exe
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\SZAMKITALALA\bin\Debug\SZAMKITALALA.pdb
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\SZAMKITALALA\obj\Debug\SZAMKITALALA.exe
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\SZAMKITALALA\obj\Debug\SZAMKITALALA.pdb
