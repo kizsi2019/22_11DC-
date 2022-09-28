@@ -1,0 +1,8 @@
+C:\Users\BendegúzKiss-Horváth\source\repos\kor_kerulete_terulete\kor_kerulete_terulete\bin\Debug\kor_kerulete_terulete.exe.config
+C:\Users\BendegúzKiss-Horváth\source\repos\kor_kerulete_terulete\kor_kerulete_terulete\bin\Debug\kor_kerulete_terulete.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\kor_kerulete_terulete\kor_kerulete_terulete\bin\Debug\kor_kerulete_terulete.pdb
+C:\Users\BendegúzKiss-Horváth\source\repos\kor_kerulete_terulete\kor_kerulete_terulete\obj\Debug\kor_kerulete_terulete.csproj.AssemblyReference.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\kor_kerulete_terulete\kor_kerulete_terulete\obj\Debug\kor_kerulete_terulete.csproj.SuggestedBindingRedirects.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\kor_kerulete_terulete\kor_kerulete_terulete\obj\Debug\kor_kerulete_terulete.csproj.CoreCompileInputs.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\kor_kerulete_terulete\kor_kerulete_terulete\obj\Debug\kor_kerulete_terulete.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\kor_kerulete_terulete\kor_kerulete_terulete\obj\Debug\kor_kerulete_terulete.pdb

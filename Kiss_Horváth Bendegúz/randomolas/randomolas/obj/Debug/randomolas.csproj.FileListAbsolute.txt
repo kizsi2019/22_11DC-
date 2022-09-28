@@ -1,0 +1,8 @@
+C:\Users\BendegúzKiss-Horváth\source\repos\randomolas\randomolas\bin\Debug\randomolas.exe.config
+C:\Users\BendegúzKiss-Horváth\source\repos\randomolas\randomolas\bin\Debug\randomolas.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\randomolas\randomolas\bin\Debug\randomolas.pdb
+C:\Users\BendegúzKiss-Horváth\source\repos\randomolas\randomolas\obj\Debug\randomolas.csproj.AssemblyReference.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\randomolas\randomolas\obj\Debug\randomolas.csproj.SuggestedBindingRedirects.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\randomolas\randomolas\obj\Debug\randomolas.csproj.CoreCompileInputs.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\randomolas\randomolas\obj\Debug\randomolas.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\randomolas\randomolas\obj\Debug\randomolas.pdb
