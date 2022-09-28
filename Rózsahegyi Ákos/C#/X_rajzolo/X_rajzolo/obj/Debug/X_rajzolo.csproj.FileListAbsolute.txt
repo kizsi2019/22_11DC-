@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\X_rajzolo\X_rajzolo\bin\Debug\X_rajzolo.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\X_rajzolo\X_rajzolo\bin\Debug\X_rajzolo.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\X_rajzolo\X_rajzolo\bin\Debug\X_rajzolo.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\X_rajzolo\X_rajzolo\obj\Debug\X_rajzolo.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\X_rajzolo\X_rajzolo\obj\Debug\X_rajzolo.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\X_rajzolo\X_rajzolo\obj\Debug\X_rajzolo.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\X_rajzolo\X_rajzolo\obj\Debug\X_rajzolo.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\X_rajzolo\X_rajzolo\obj\Debug\X_rajzolo.pdb

@@ -1,0 +1,11 @@
+  CREATE TABLE szgk(
+      id INT, 
+      nev VARCHAR(20), 
+      kor INT CHECK (kor < 30),, 
+      nem VARCHAR(15), 
+      megjegyzes VARCHAR(500),
+  );
+  INSERT INTO szgk (nev, kor, nem, megjegyzes)
+  VALUES('Morzsi', '19', 'szuka', Ivartalanított és szoba tiszta);
+
+INSERT INTO kutya_menhely(nev, kor, nem, megjegyzes) VALUES('Roli', '18', 'kan', 'Egy szerethető kutya,terápiákra alkalmas');

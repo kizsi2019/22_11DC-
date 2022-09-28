@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\kor_terulet_kerulet\kor_terulet_kerulet\bin\Debug\kor_terulet_kerulet.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\kor_terulet_kerulet\kor_terulet_kerulet\bin\Debug\kor_terulet_kerulet.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\kor_terulet_kerulet\kor_terulet_kerulet\bin\Debug\kor_terulet_kerulet.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\kor_terulet_kerulet\kor_terulet_kerulet\obj\Debug\kor_terulet_kerulet.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\kor_terulet_kerulet\kor_terulet_kerulet\obj\Debug\kor_terulet_kerulet.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\kor_terulet_kerulet\kor_terulet_kerulet\obj\Debug\kor_terulet_kerulet.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\kor_terulet_kerulet\kor_terulet_kerulet\obj\Debug\kor_terulet_kerulet.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\kor_terulet_kerulet\kor_terulet_kerulet\obj\Debug\kor_terulet_kerulet.pdb

@@ -1,0 +1,7 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\x_rajzolo\x_rajzolo\bin\Debug\x_rajzolo.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\x_rajzolo\x_rajzolo\bin\Debug\x_rajzolo.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\x_rajzolo\x_rajzolo\bin\Debug\x_rajzolo.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\x_rajzolo\x_rajzolo\obj\Debug\x_rajzolo.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\x_rajzolo\x_rajzolo\obj\Debug\x_rajzolo.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\x_rajzolo\x_rajzolo\obj\Debug\x_rajzolo.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\x_rajzolo\x_rajzolo\obj\Debug\x_rajzolo.pdb
