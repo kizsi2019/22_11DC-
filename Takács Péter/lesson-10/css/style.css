@@ -6,8 +6,45 @@
 html {
 	font-size: 16px
 }
+
 body {
 	background: #ddd;
 	font-family: 'Roboto';
 	margin: 0
+}
+
+.wrapper{
+		max-width: 1200px;
+		margin: auto;
+		width: 95%;
+}
+.intro{
+	line-height: 1.7;
+	font-size: 1.2rem;
+	margin: 5rem 0
+}
+
+.intro p{
+	margin: 00 lrem 0
+}
+
+.intro img{
+	float: right;
+	margin: 0 0 2rem 2rem;
+	border-radius: 50%
+}
+
+.intro h1{
+	font-weight: 100;
+	font-size: 5rem;
+	margin: 0 0 2rem 0
+}
+
+.box-wrapper{
+	display: flex;
+	flex-flow: row-wrap;
+}
+
+.box{
+	flex: 1;
 }
