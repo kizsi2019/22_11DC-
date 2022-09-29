@@ -1,0 +1,4 @@
+SELECT * FROM `employee` WHERE 1
+a, SELECT * FROM `employee` WHERE city = "Seattle"
+b, SELECT * FROM `employee` WHERE title = "Sales Representative"
+c, SELECT * FROM `employee` WHERE City LIKE = "a%";
