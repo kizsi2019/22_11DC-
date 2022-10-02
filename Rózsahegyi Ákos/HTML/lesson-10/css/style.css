@@ -16,6 +16,11 @@ img {
 	max-width: 100%
 }
 
+h2 {
+	font-size: 3rem;
+	font-weight: 300
+}
+
 nav {
 	background: #86b604;
 	position: sticky;
@@ -176,5 +181,20 @@ nav ul li:first-child {
 	}
 	.navigaton a {
 		padding: .8rem 1rem 
+	}
+}
+
+@media print {
+	nav {
+		display: none
+	}
+	.intro {
+		margin-top: 0
+	}
+	.intro h1 {
+		line-height: 1
+	}
+	.intro img {
+		display: none
 	}
 }
