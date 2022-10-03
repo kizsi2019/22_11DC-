@@ -17,15 +17,14 @@ namespace multidimenzios_tom_rejderrrrrrrrrrrrrr
                 new int[] {12,31,56},
             };
             Console.WriteLine("For ciklussal: ");
-            for (int i = 0; i < mutatokovetor.Length; i++)
+            foreach (int[] belsővektor in mutatokovetor)
             {
-                for (int j = 0; j < mutatokovetor.Length; j++)
+                foreach (int elem in belsővektor)
                 {
-                    Console.WriteLine(mutatokovetor[i][j] + ", ");
+                    Console.WriteLine(elem + ", ");
                 }
                 Console.WriteLine();
             }
-            Console.WriteLine("Foreach ciklussal");
             Console.ReadKey();
         }
     }
