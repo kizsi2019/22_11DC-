@@ -1,0 +1,43 @@
+.wrapper
+.intro
+.intro p
+.intro img
+.intro h1
+.box-wrapper
+.box
+img
+.box-content
+.box h3
+.btn
+nav
+nav ul
+nav ul li
+nav::after
+w3 pszeudo elements
+nav a
+nav a:hover
+nav ul li::first-child
+mobil emulator.. media query w3
+.intro p
+.intro img
+@media maxwidt800 - csak button egyenlőre
+@media maxwidt480
+navhoz---
+@media maxwidth800
+mobile menu button+
+w3
+mobile menu button+ checked
+mobile menu button span
+mobile menu button 
+mobile menu button span last-oftype
+@media maxwidt800 - többi
+h2
+ctrlP nyomtatási nézet
+mediaprint
+validálás
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\xrajzolo\xrajzolo\bin\Debug\xrajzolo.exe.config
+C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\xrajzolo\xrajzolo\bin\Debug\xrajzolo.exe
+C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\xrajzolo\xrajzolo\bin\Debug\xrajzolo.pdb
+C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\xrajzolo\xrajzolo\obj\Debug\xrajzolo.csproj.AssemblyReference.cache
+C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\xrajzolo\xrajzolo\obj\Debug\xrajzolo.csproj.SuggestedBindingRedirects.cache
+C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\xrajzolo\xrajzolo\obj\Debug\xrajzolo.csproj.CoreCompileInputs.cache
+C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\xrajzolo\xrajzolo\obj\Debug\xrajzolo.exe
+C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\xrajzolo\xrajzolo\obj\Debug\xrajzolo.pdb

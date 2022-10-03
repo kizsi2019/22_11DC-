@@ -1,0 +1,7 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\tombok\tombok\bin\Debug\tombok.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\tombok\tombok\bin\Debug\tombok.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\tombok\tombok\bin\Debug\tombok.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\tombok\tombok\obj\Debug\tombok.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\tombok\tombok\obj\Debug\tombok.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\tombok\tombok\obj\Debug\tombok.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\tombok\tombok\obj\Debug\tombok.pdb
