@@ -1,0 +1,16 @@
+3:
+
+a)
+SELECT COUNT(employeeId) AS Alkalmazottak_száma FROM employee WHERE city = "Seattle";
+
+
+
+
+b)
+SELECT COUNT(employeeId) AS Alkalmazottak_száma FROM employee WHERE title = "Sales Representative";
+
+
+
+
+c)
+SELECT COUNT(lastname) AS Alkalmazottak_száma FROM employee WHERE lastname = "A%";

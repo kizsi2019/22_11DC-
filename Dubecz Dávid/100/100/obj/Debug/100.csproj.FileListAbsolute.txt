@@ -1,0 +1,8 @@
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\100\100\obj\Debug\100.csproj.AssemblyReference.cache
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\100\100\obj\Debug\100.csproj.SuggestedBindingRedirects.cache
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\100\100\obj\Debug\100.csproj.CoreCompileInputs.cache
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\100\100\bin\Debug\100.exe.config
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\100\100\bin\Debug\100.exe
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\100\100\bin\Debug\100.pdb
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\100\100\obj\Debug\100.exe
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\100\100\obj\Debug\100.pdb
