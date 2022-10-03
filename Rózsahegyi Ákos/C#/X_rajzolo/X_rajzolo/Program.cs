@@ -15,6 +15,7 @@ namespace X_rajzolo
 
             int szamfele = szam / 2;
             int j = 1;
+            int x = szamfele;
             
             for (int i = 1; i <= szamfele; i++)
             {
@@ -24,15 +25,16 @@ namespace X_rajzolo
                     j++;
                 }
 
-            for (int e = szamfele; e > 1; e--)
+            for (int e = szamfele; e >= 1; e--)
             {
-                while (j <= szamfele)
-                {
-                    Console.Write("x");
-                    j--;
-                }
-                Console.WriteLine();
-            } Console.ReadKey();
+                while (x <= szamfele)
+                    {
+                        Console.Write("x");
+                        x--;
+                    }
+            }
+            Console.WriteLine();
+            Console.ReadKey();
         }
     }
 }

@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\matrix_feltoltese_veletlenszamokkal\matrix_feltoltese_veletlenszamokkal\bin\Debug\matrix_feltoltese_veletlenszamokkal.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\matrix_feltoltese_veletlenszamokkal\matrix_feltoltese_veletlenszamokkal\bin\Debug\matrix_feltoltese_veletlenszamokkal.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\matrix_feltoltese_veletlenszamokkal\matrix_feltoltese_veletlenszamokkal\bin\Debug\matrix_feltoltese_veletlenszamokkal.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\matrix_feltoltese_veletlenszamokkal\matrix_feltoltese_veletlenszamokkal\obj\Debug\matrix_feltoltese_veletlenszamokkal.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\matrix_feltoltese_veletlenszamokkal\matrix_feltoltese_veletlenszamokkal\obj\Debug\matrix_feltoltese_veletlenszamokkal.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\matrix_feltoltese_veletlenszamokkal\matrix_feltoltese_veletlenszamokkal\obj\Debug\matrix_feltoltese_veletlenszamokkal.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\matrix_feltoltese_veletlenszamokkal\matrix_feltoltese_veletlenszamokkal\obj\Debug\matrix_feltoltese_veletlenszamokkal.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\matrix_feltoltese_veletlenszamokkal\matrix_feltoltese_veletlenszamokkal\obj\Debug\matrix_feltoltese_veletlenszamokkal.pdb

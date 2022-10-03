@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\matrix_feltoltes_randomszamokkal\matrix_feltoltes_randomszamokkal\bin\Debug\matrix_feltoltes_randomszamokkal.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\matrix_feltoltes_randomszamokkal\matrix_feltoltes_randomszamokkal\bin\Debug\matrix_feltoltes_randomszamokkal.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\matrix_feltoltes_randomszamokkal\matrix_feltoltes_randomszamokkal\bin\Debug\matrix_feltoltes_randomszamokkal.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\matrix_feltoltes_randomszamokkal\matrix_feltoltes_randomszamokkal\obj\Debug\matrix_feltoltes_randomszamokkal.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\matrix_feltoltes_randomszamokkal\matrix_feltoltes_randomszamokkal\obj\Debug\matrix_feltoltes_randomszamokkal.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\matrix_feltoltes_randomszamokkal\matrix_feltoltes_randomszamokkal\obj\Debug\matrix_feltoltes_randomszamokkal.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\matrix_feltoltes_randomszamokkal\matrix_feltoltes_randomszamokkal\obj\Debug\matrix_feltoltes_randomszamokkal.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\matrix_feltoltes_randomszamokkal\matrix_feltoltes_randomszamokkal\obj\Debug\matrix_feltoltes_randomszamokkal.pdb
