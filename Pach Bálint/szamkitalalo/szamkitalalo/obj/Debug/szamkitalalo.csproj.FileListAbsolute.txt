@@ -1,0 +1,8 @@
+C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\szamkitalalo\szamkitalalo\obj\Debug\szamkitalalo.csproj.AssemblyReference.cache
+C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\szamkitalalo\szamkitalalo\obj\Debug\szamkitalalo.csproj.SuggestedBindingRedirects.cache
+C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\szamkitalalo\szamkitalalo\obj\Debug\szamkitalalo.csproj.CoreCompileInputs.cache
+C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\szamkitalalo\szamkitalalo\bin\Debug\szamkitalalo.exe.config
+C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\szamkitalalo\szamkitalalo\bin\Debug\szamkitalalo.exe
+C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\szamkitalalo\szamkitalalo\bin\Debug\szamkitalalo.pdb
+C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\szamkitalalo\szamkitalalo\obj\Debug\szamkitalalo.exe
+C:\Users\PachBalint\Desktop\Github\22_11DC-\Pach Bálint\szamkitalalo\szamkitalalo\obj\Debug\szamkitalalo.pdb
