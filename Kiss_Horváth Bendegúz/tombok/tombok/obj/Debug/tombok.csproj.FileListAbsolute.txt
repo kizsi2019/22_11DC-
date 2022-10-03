@@ -1,0 +1,8 @@
+C:\Users\BendegúzKiss-Horváth\source\repos\tombok\tombok\bin\Debug\tombok.exe.config
+C:\Users\BendegúzKiss-Horváth\source\repos\tombok\tombok\bin\Debug\tombok.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\tombok\tombok\bin\Debug\tombok.pdb
+C:\Users\BendegúzKiss-Horváth\source\repos\tombok\tombok\obj\Debug\tombok.csproj.AssemblyReference.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\tombok\tombok\obj\Debug\tombok.csproj.SuggestedBindingRedirects.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\tombok\tombok\obj\Debug\tombok.csproj.CoreCompileInputs.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\tombok\tombok\obj\Debug\tombok.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\tombok\tombok\obj\Debug\tombok.pdb
