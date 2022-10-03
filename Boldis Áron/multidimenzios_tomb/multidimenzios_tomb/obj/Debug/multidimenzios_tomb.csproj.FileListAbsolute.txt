@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\multidimenzios_tomb\multidimenzios_tomb\bin\Debug\multidimenzios_tomb.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\multidimenzios_tomb\multidimenzios_tomb\bin\Debug\multidimenzios_tomb.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\multidimenzios_tomb\multidimenzios_tomb\bin\Debug\multidimenzios_tomb.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\multidimenzios_tomb\multidimenzios_tomb\obj\Debug\multidimenzios_tomb.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\multidimenzios_tomb\multidimenzios_tomb\obj\Debug\multidimenzios_tomb.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\multidimenzios_tomb\multidimenzios_tomb\obj\Debug\multidimenzios_tomb.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\multidimenzios_tomb\multidimenzios_tomb\obj\Debug\multidimenzios_tomb.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\multidimenzios_tomb\multidimenzios_tomb\obj\Debug\multidimenzios_tomb.pdb
