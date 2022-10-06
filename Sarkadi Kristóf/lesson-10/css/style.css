@@ -12,6 +12,30 @@ body {
 	margin: 0
 }
 
+nav {
+	background: #86b604;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+nav ul li {
+	float: left;
+}
+
+nav::after {
+	content: '';
+	clear: both;
+	display: table;
+}
+
+nav a {
+	display: block;
+}
+
 .wrapper {
 	max-width: 1200px;
 	margin: 0 auto;
@@ -22,6 +46,10 @@ body {
 	line-height: 1200;
 	font-size: 1.2rem;
 	margin: 5rem 0;
+}
+
+.img {
+max-height: 100%;
 }
 
 .intro p {
@@ -54,3 +82,21 @@ body {
 	box-shadow: 1px 1px 1px rgba(0,0,0,.1);
 }
 
+.box-cotent {
+	padding: 1.5rem;
+	font-size: 0.9rem;
+}
+
+.box h2 {
+	margin: 0;
+	font-size: 1.2rem;
+}
+
+.btn {
+	display: inline-block;
+	padding: 0.5rem 1rem;
+	background-color: #86b604;
+	color: white;
+	text-decoration: none;
+	border-radius: 5px;
+}
