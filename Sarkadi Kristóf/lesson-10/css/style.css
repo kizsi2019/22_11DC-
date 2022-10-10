@@ -12,6 +12,48 @@ body {
 	margin: 0
 }
 
+nav {
+	background: #86b604;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+nav ul li {
+	float: left;
+}
+
+nav::after {
+	content: '';
+	clear: both;
+	display: table;
+}
+
+nav a {
+	display: block;
+	text-decoration: none;
+	color: white;
+	padding: 1.2rem 1rem;
+}
+
+nav a:hover{
+	background: rgba(0,0,0,.1);
+}
+
+.navigation ul li:first-child{
+	padding: 1.2rem 1rem;
+	color: rgba(255,255,255,.5);
+}
+
+@media(max-width:800px){
+	.navigation li:not(:first-child){
+		display: block;
+	}
+}
+
 .wrapper {
 	max-width: 1200px;
 	margin: 0 auto;
@@ -19,9 +61,13 @@ body {
 }
 
 .intro {
-	line-height: 1200;
+	line-height: 120;
 	font-size: 1.2rem;
 	margin: 5rem 0;
+}
+
+.img {
+max-height: 100%;
 }
 
 .intro p {
@@ -40,6 +86,20 @@ body {
 	margin: 0 0 2rem 0;
 }
 
+@media(max-width:800px){
+	.intro img{
+		max-width: 200px;
+	}
+}
+
+@media(max-width:800px){
+	.intro img{
+		float: none;
+		margin: lrem auto;
+		display: block;
+	}
+}
+
 .box-wrapper {
 	display: flex;
 	flex-flow: row wrap;
@@ -54,3 +114,27 @@ body {
 	box-shadow: 1px 1px 1px rgba(0,0,0,.1);
 }
 
+.box-cotent {
+	padding: 1.5rem;
+	font-size: .9rem;
+}
+
+.box h2 {
+	margin: 0;
+	font-size: 1.2rem;
+}
+
+.btn {
+	display: inline-block;
+	padding: 0.5rem 1rem;
+	background-color: #86b604;
+	color: white;
+	text-decoration: none;
+	border-radius: 5px;
+}
+
+.mobile-menu-button * input[type="checkbox"] {
+	display: none;
+}
+
+.mobile-menu-button * input[type="checkbox"]:checked ~ 
