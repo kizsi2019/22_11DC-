@@ -1,0 +1,8 @@
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\feladat 2022 10 10\bin\Debug\feladat 2022 10 10.exe.config
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\feladat 2022 10 10\bin\Debug\feladat 2022 10 10.exe
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\feladat 2022 10 10\bin\Debug\feladat 2022 10 10.pdb
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\feladat 2022 10 10\obj\Debug\feladat 2022 10 10.csproj.AssemblyReference.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\feladat 2022 10 10\obj\Debug\feladat 2022 10 10.csproj.SuggestedBindingRedirects.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\feladat 2022 10 10\obj\Debug\feladat 2022 10 10.csproj.CoreCompileInputs.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\feladat 2022 10 10\obj\Debug\feladat 2022 10 10.exe
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\feladat 2022 10 10\obj\Debug\feladat 2022 10 10.pdb
