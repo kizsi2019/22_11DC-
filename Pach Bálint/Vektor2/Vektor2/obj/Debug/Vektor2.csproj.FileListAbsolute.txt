@@ -1,0 +1,8 @@
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\Vektor2\Vektor2\bin\Debug\Vektor2.exe.config
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\Vektor2\Vektor2\bin\Debug\Vektor2.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\Vektor2\Vektor2\bin\Debug\Vektor2.pdb
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\Vektor2\Vektor2\obj\Debug\Vektor2.csproj.AssemblyReference.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\Vektor2\Vektor2\obj\Debug\Vektor2.csproj.SuggestedBindingRedirects.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\Vektor2\Vektor2\obj\Debug\Vektor2.csproj.CoreCompileInputs.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\Vektor2\Vektor2\obj\Debug\Vektor2.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\Vektor2\Vektor2\obj\Debug\Vektor2.pdb
