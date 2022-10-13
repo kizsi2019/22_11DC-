@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vektor2feladat", "vektor2feladat\vektor2feladat.csproj", "{A6DE4EA0-0F74-4B9E-863F-E2A0E0E984F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6DE4EA0-0F74-4B9E-863F-E2A0E0E984F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6DE4EA0-0F74-4B9E-863F-E2A0E0E984F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6DE4EA0-0F74-4B9E-863F-E2A0E0E984F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6DE4EA0-0F74-4B9E-863F-E2A0E0E984F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30DCF422-57A9-408F-BF10-A3A35435F98D}
+	EndGlobalSection
+EndGlobal
