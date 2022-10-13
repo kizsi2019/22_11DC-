@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\vektor1feladat\vektor1feladat\bin\Debug\vektor1feladat.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\vektor1feladat\vektor1feladat\bin\Debug\vektor1feladat.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\vektor1feladat\vektor1feladat\bin\Debug\vektor1feladat.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\vektor1feladat\vektor1feladat\obj\Debug\vektor1feladat.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\vektor1feladat\vektor1feladat\obj\Debug\vektor1feladat.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\vektor1feladat\vektor1feladat\obj\Debug\vektor1feladat.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\vektor1feladat\vektor1feladat\obj\Debug\vektor1feladat.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\vektor1feladat\vektor1feladat\obj\Debug\vektor1feladat.pdb
