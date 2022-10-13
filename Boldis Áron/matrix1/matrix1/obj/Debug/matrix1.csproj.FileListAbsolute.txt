@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\matrix1\matrix1\bin\Debug\matrix1.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\matrix1\matrix1\bin\Debug\matrix1.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\matrix1\matrix1\bin\Debug\matrix1.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\matrix1\matrix1\obj\Debug\matrix1.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\matrix1\matrix1\obj\Debug\matrix1.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\matrix1\matrix1\obj\Debug\matrix1.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\matrix1\matrix1\obj\Debug\matrix1.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\matrix1\matrix1\obj\Debug\matrix1.pdb
