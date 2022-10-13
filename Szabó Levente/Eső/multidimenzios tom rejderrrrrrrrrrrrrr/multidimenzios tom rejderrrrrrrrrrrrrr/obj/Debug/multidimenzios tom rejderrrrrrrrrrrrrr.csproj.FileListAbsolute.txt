@@ -1,8 +1,0 @@
-C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\multidimenzios tom rejderrrrrrrrrrrrrr\multidimenzios tom rejderrrrrrrrrrrrrr\obj\Debug\multidimenzios tom rejderrrrrrrrrrrrrr.csproj.AssemblyReference.cache
-C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\multidimenzios tom rejderrrrrrrrrrrrrr\multidimenzios tom rejderrrrrrrrrrrrrr\obj\Debug\multidimenzios tom rejderrrrrrrrrrrrrr.csproj.SuggestedBindingRedirects.cache
-C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\multidimenzios tom rejderrrrrrrrrrrrrr\multidimenzios tom rejderrrrrrrrrrrrrr\obj\Debug\multidimenzios tom rejderrrrrrrrrrrrrr.csproj.CoreCompileInputs.cache
-C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\multidimenzios tom rejderrrrrrrrrrrrrr\multidimenzios tom rejderrrrrrrrrrrrrr\bin\Debug\multidimenzios tom rejderrrrrrrrrrrrrr.exe.config
-C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\multidimenzios tom rejderrrrrrrrrrrrrr\multidimenzios tom rejderrrrrrrrrrrrrr\bin\Debug\multidimenzios tom rejderrrrrrrrrrrrrr.exe
-C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\multidimenzios tom rejderrrrrrrrrrrrrr\multidimenzios tom rejderrrrrrrrrrrrrr\bin\Debug\multidimenzios tom rejderrrrrrrrrrrrrr.pdb
-C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\multidimenzios tom rejderrrrrrrrrrrrrr\multidimenzios tom rejderrrrrrrrrrrrrr\obj\Debug\multidimenzios tom rejderrrrrrrrrrrrrr.exe
-C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\multidimenzios tom rejderrrrrrrrrrrrrr\multidimenzios tom rejderrrrrrrrrrrrrr\obj\Debug\multidimenzios tom rejderrrrrrrrrrrrrr.pdb
