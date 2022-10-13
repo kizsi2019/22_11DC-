@@ -1,0 +1,31 @@
+SELECT ship_state_province FROM orders 
+  UNION ALL
+ SELECT state_province FROM customers 
+
+SELECT ship_state_province FROM orders 
+  UNION ALL
+ SELECT state_province FROM customers 
+
+
+
+(onlien adatbázis)
+SELECT COUNT(categoryID), ProductName
+  FROM Products
+  GROUP BY ProductName
+  ORDER BY COUNT(CategoryID) DESC;
+
+
+
+
+SELECT COUNT(ship_city), ship_name
+  FROM orders
+  GROUP BY ship_city
+  ORDER BY COUNT(id) DESC;
+
+SELECT COUNT(CustomerID), Country
+  FROM Customers
+  GROUP BY Country
+  HAVING COUNT(CustomerID) > 5
+  ORDER BY COUNT(CustomerID) DESC;
+  
+
