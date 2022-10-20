@@ -1,0 +1,8 @@
+C:\Users\BendegúzKiss-Horváth\source\repos\x_rajzolo\x_rajzolo\bin\Debug\x_rajzolo.exe.config
+C:\Users\BendegúzKiss-Horváth\source\repos\x_rajzolo\x_rajzolo\bin\Debug\x_rajzolo.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\x_rajzolo\x_rajzolo\bin\Debug\x_rajzolo.pdb
+C:\Users\BendegúzKiss-Horváth\source\repos\x_rajzolo\x_rajzolo\obj\Debug\x_rajzolo.csproj.AssemblyReference.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\x_rajzolo\x_rajzolo\obj\Debug\x_rajzolo.csproj.SuggestedBindingRedirects.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\x_rajzolo\x_rajzolo\obj\Debug\x_rajzolo.csproj.CoreCompileInputs.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\x_rajzolo\x_rajzolo\obj\Debug\x_rajzolo.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\x_rajzolo\x_rajzolo\obj\Debug\x_rajzolo.pdb
