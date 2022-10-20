@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\billentyuzetkezeles\billentyuzetkezeles\bin\Debug\billentyuzetkezeles.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\billentyuzetkezeles\billentyuzetkezeles\bin\Debug\billentyuzetkezeles.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\billentyuzetkezeles\billentyuzetkezeles\bin\Debug\billentyuzetkezeles.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\billentyuzetkezeles\billentyuzetkezeles\obj\Debug\billentyuzetkezeles.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\billentyuzetkezeles\billentyuzetkezeles\obj\Debug\billentyuzetkezeles.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\billentyuzetkezeles\billentyuzetkezeles\obj\Debug\billentyuzetkezeles.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\billentyuzetkezeles\billentyuzetkezeles\obj\Debug\billentyuzetkezeles.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\billentyuzetkezeles\billentyuzetkezeles\obj\Debug\billentyuzetkezeles.pdb
