@@ -1,0 +1,8 @@
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\billentyijkopuig\billentyijkopuig\bin\Debug\billentyijkopuig.exe.config
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\billentyijkopuig\billentyijkopuig\bin\Debug\billentyijkopuig.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\billentyijkopuig\billentyijkopuig\bin\Debug\billentyijkopuig.pdb
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\billentyijkopuig\billentyijkopuig\obj\Debug\billentyijkopuig.csproj.AssemblyReference.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\billentyijkopuig\billentyijkopuig\obj\Debug\billentyijkopuig.csproj.SuggestedBindingRedirects.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\billentyijkopuig\billentyijkopuig\obj\Debug\billentyijkopuig.csproj.CoreCompileInputs.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\billentyijkopuig\billentyijkopuig\obj\Debug\billentyijkopuig.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\billentyijkopuig\billentyijkopuig\obj\Debug\billentyijkopuig.pdb
