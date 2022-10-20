@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\billentyuzet_kezeles\billentyuzet_kezeles\bin\Debug\billentyuzet_kezeles.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\billentyuzet_kezeles\billentyuzet_kezeles\bin\Debug\billentyuzet_kezeles.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\billentyuzet_kezeles\billentyuzet_kezeles\bin\Debug\billentyuzet_kezeles.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\billentyuzet_kezeles\billentyuzet_kezeles\obj\Debug\billentyuzet_kezeles.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\billentyuzet_kezeles\billentyuzet_kezeles\obj\Debug\billentyuzet_kezeles.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\billentyuzet_kezeles\billentyuzet_kezeles\obj\Debug\billentyuzet_kezeles.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\billentyuzet_kezeles\billentyuzet_kezeles\obj\Debug\billentyuzet_kezeles.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\billentyuzet_kezeles\billentyuzet_kezeles\obj\Debug\billentyuzet_kezeles.pdb
