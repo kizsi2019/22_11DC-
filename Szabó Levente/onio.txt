@@ -1,4 +1,0 @@
-1. SELECT * FROM `orders` GROUP BY ship_state_province;
-2. SELECT COUNT(id) AS Szám, category From products GROUP By category;
-3. SELECT Count(id) AS Rendeles FROM orders GROUP BY ship_city;
-4. SELECT Count(id) AS szam FROM customers GROUP BY city HAVING COUNT(id) >=3;
