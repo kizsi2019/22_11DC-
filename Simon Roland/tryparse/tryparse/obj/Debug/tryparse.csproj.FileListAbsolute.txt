@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tryparse\tryparse\bin\Debug\tryparse.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tryparse\tryparse\bin\Debug\tryparse.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tryparse\tryparse\bin\Debug\tryparse.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tryparse\tryparse\obj\Debug\tryparse.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tryparse\tryparse\obj\Debug\tryparse.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tryparse\tryparse\obj\Debug\tryparse.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tryparse\tryparse\obj\Debug\tryparse.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tryparse\tryparse\obj\Debug\tryparse.pdb
