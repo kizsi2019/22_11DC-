@@ -1,0 +1,8 @@
+C:\Users\BendegúzKiss-Horváth\source\repos\multidimenzios_tomb\multidimenzios_tomb\bin\Debug\multidimenzios_tomb.exe.config
+C:\Users\BendegúzKiss-Horváth\source\repos\multidimenzios_tomb\multidimenzios_tomb\bin\Debug\multidimenzios_tomb.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\multidimenzios_tomb\multidimenzios_tomb\bin\Debug\multidimenzios_tomb.pdb
+C:\Users\BendegúzKiss-Horváth\source\repos\multidimenzios_tomb\multidimenzios_tomb\obj\Debug\multidimenzios_tomb.csproj.AssemblyReference.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\multidimenzios_tomb\multidimenzios_tomb\obj\Debug\multidimenzios_tomb.csproj.SuggestedBindingRedirects.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\multidimenzios_tomb\multidimenzios_tomb\obj\Debug\multidimenzios_tomb.csproj.CoreCompileInputs.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\multidimenzios_tomb\multidimenzios_tomb\obj\Debug\multidimenzios_tomb.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\multidimenzios_tomb\multidimenzios_tomb\obj\Debug\multidimenzios_tomb.pdb

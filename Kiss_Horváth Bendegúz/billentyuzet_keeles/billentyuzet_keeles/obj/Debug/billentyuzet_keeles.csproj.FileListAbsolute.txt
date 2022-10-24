@@ -1,0 +1,8 @@
+C:\Users\BendegúzKiss-Horváth\source\repos\billentyuzet_keeles\billentyuzet_keeles\bin\Debug\billentyuzet_keeles.exe.config
+C:\Users\BendegúzKiss-Horváth\source\repos\billentyuzet_keeles\billentyuzet_keeles\bin\Debug\billentyuzet_keeles.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\billentyuzet_keeles\billentyuzet_keeles\bin\Debug\billentyuzet_keeles.pdb
+C:\Users\BendegúzKiss-Horváth\source\repos\billentyuzet_keeles\billentyuzet_keeles\obj\Debug\billentyuzet_keeles.csproj.AssemblyReference.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\billentyuzet_keeles\billentyuzet_keeles\obj\Debug\billentyuzet_keeles.csproj.SuggestedBindingRedirects.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\billentyuzet_keeles\billentyuzet_keeles\obj\Debug\billentyuzet_keeles.csproj.CoreCompileInputs.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\billentyuzet_keeles\billentyuzet_keeles\obj\Debug\billentyuzet_keeles.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\billentyuzet_keeles\billentyuzet_keeles\obj\Debug\billentyuzet_keeles.pdb
