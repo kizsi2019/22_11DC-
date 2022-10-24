@@ -1,0 +1,63 @@
+1. feladat
+CREATE DATABASE muhely;
+USE muhely;
+  
+DROP TABLE IF EXISTS szgk;
+  
+CREATE TABLE szgk(
+    id INT PRIMARY KEY AUTO_INCREMENT, 
+    tipus VARCHAR(20), 
+    modell VARCHAR(20), 
+    rendszam VARCHAR(15), 
+    ajtok_szama INT,
+    gyartas_eve DATE
+);
+  
+INSERT INTO szgk (tipus, modell, rendszam, ajtok_szama, gyartas_eve) VALUES("Opel", "Corsa C", "AAA123", 4, "2002-10-03");
+INSERT INTO szgk (tipus, modell, rendszam, ajtok_szama, gyartas_eve) VALUES("Chevrolet", "ALERO", "BBB123", 4, "2003-08-10");
+
+CREATE TABLE auto_tulajdonosok (
+    tulaj_id INT,
+    id INT,
+    PRIMARY KEY (tulaj_id),
+    tulaj_nev VARCHAR(30),
+    tulaj_eletkor INT,
+    lakcim VARCHAR(30),
+    FOREIGN KEY (id) REFERENCES szgk (id)
+);
+
+INSERT INTO auto_tulajdonosok (tulaj_id, id, tulaj_nev, tulaj_eletkor, lakcim)
+VALUES(10, 1, "Nagy Lajos", 24, "Budapest");
+INSERT INTO auto_tulajdonosok (tulaj_id, id, tulaj_nev, tulaj_eletkor, lakcim)
+VALUES(20, 2, "Kiss Mária", 21, "Szeged");
+
+
+2. feladat
+CREATE DATABASE kutyamenhely;
+USE kutyamenhely;
+  
+DROP TABLE IF EXISTS kutyak;
+  
+CREATE TABLE kutyak (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    nev VARCHAR(20) NOT NULL,
+    kor INT CHECK (kor < 30),
+    nem VARCHAR(10) DEFAULT "kan",
+    megjegyzes VARCHAR(500)
+);
+
+INSERT INTO kutyak (nev, kor, nem, megjegyzes) VALUES("Bajuszurfi", 10, "hím", "Nem harap");
+INSERT INTO kutyak (nev, kor, nem, megjegyzes) VALUES("Málna", 8, "nőstény", "Mindenkit kedvel");
+
+CREATE TABLE kutya_gazdak (
+    gazda_id INT,
+    id INT,
+    PRIMARY KEY (gazda_id),
+    gazda_nev VARCHAR(30),
+    gazda_eletkor INT,
+    lakcim VARCHAR(30),
+    FOREIGN KEY (id) REFERENCES kutyak (id)
+);
+
+INSERT INTO kutya_gazdak (gazda_id, gazda_nev, gazda_eletkor, lakcim) VALUES(12, "Kaktusz József", 31, "Mezőkövesd");
+INSERT INTO kutya_gazdak (gazda_id, gazda_nev, gazda_eletkor, lakcim) VALUES(18, "Pálma Anna", 35, "Budapest");
