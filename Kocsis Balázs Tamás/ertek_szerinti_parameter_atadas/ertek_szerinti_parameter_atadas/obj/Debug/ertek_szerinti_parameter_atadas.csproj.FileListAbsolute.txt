@@ -1,0 +1,8 @@
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\ertek_szerinti_parameter_atadas\ertek_szerinti_parameter_atadas\bin\Debug\ertek_szerinti_parameter_atadas.exe.config
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\ertek_szerinti_parameter_atadas\ertek_szerinti_parameter_atadas\bin\Debug\ertek_szerinti_parameter_atadas.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\ertek_szerinti_parameter_atadas\ertek_szerinti_parameter_atadas\bin\Debug\ertek_szerinti_parameter_atadas.pdb
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\ertek_szerinti_parameter_atadas\ertek_szerinti_parameter_atadas\obj\Debug\ertek_szerinti_parameter_atadas.csproj.AssemblyReference.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\ertek_szerinti_parameter_atadas\ertek_szerinti_parameter_atadas\obj\Debug\ertek_szerinti_parameter_atadas.csproj.SuggestedBindingRedirects.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\ertek_szerinti_parameter_atadas\ertek_szerinti_parameter_atadas\obj\Debug\ertek_szerinti_parameter_atadas.csproj.CoreCompileInputs.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\ertek_szerinti_parameter_atadas\ertek_szerinti_parameter_atadas\obj\Debug\ertek_szerinti_parameter_atadas.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\ertek_szerinti_parameter_atadas\ertek_szerinti_parameter_atadas\obj\Debug\ertek_szerinti_parameter_atadas.pdb

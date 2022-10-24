@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\billentyuzetkezeles\billentyuzetkezeles\bin\Debug\billentyuzetkezeles.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\billentyuzetkezeles\billentyuzetkezeles\bin\Debug\billentyuzetkezeles.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\billentyuzetkezeles\billentyuzetkezeles\bin\Debug\billentyuzetkezeles.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\billentyuzetkezeles\billentyuzetkezeles\obj\Debug\billentyuzetkezeles.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\billentyuzetkezeles\billentyuzetkezeles\obj\Debug\billentyuzetkezeles.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\billentyuzetkezeles\billentyuzetkezeles\obj\Debug\billentyuzetkezeles.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\billentyuzetkezeles\billentyuzetkezeles\obj\Debug\billentyuzetkezeles.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\billentyuzetkezeles\billentyuzetkezeles\obj\Debug\billentyuzetkezeles.pdb

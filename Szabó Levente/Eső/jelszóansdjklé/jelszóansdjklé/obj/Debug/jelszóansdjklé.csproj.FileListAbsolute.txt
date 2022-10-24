@@ -1,0 +1,8 @@
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\jelszóansdjklé\jelszóansdjklé\bin\Debug\jelszóansdjklé.exe.config
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\jelszóansdjklé\jelszóansdjklé\bin\Debug\jelszóansdjklé.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\jelszóansdjklé\jelszóansdjklé\bin\Debug\jelszóansdjklé.pdb
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\jelszóansdjklé\jelszóansdjklé\obj\Debug\jelszóansdjklé.csproj.AssemblyReference.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\jelszóansdjklé\jelszóansdjklé\obj\Debug\jelszóansdjklé.csproj.SuggestedBindingRedirects.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\jelszóansdjklé\jelszóansdjklé\obj\Debug\jelszóansdjklé.csproj.CoreCompileInputs.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\jelszóansdjklé\jelszóansdjklé\obj\Debug\jelszóansdjklé.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\jelszóansdjklé\jelszóansdjklé\obj\Debug\jelszóansdjklé.pdb
