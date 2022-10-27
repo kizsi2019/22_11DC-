@@ -1,0 +1,8 @@
+C:\Users\BendegúzKiss-Horváth\source\repos\kimeneti_valtozo_out\kimeneti_valtozo_out\bin\Debug\kimeneti_valtozo_out.exe.config
+C:\Users\BendegúzKiss-Horváth\source\repos\kimeneti_valtozo_out\kimeneti_valtozo_out\bin\Debug\kimeneti_valtozo_out.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\kimeneti_valtozo_out\kimeneti_valtozo_out\bin\Debug\kimeneti_valtozo_out.pdb
+C:\Users\BendegúzKiss-Horváth\source\repos\kimeneti_valtozo_out\kimeneti_valtozo_out\obj\Debug\kimeneti_valtozo_out.csproj.AssemblyReference.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\kimeneti_valtozo_out\kimeneti_valtozo_out\obj\Debug\kimeneti_valtozo_out.csproj.SuggestedBindingRedirects.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\kimeneti_valtozo_out\kimeneti_valtozo_out\obj\Debug\kimeneti_valtozo_out.csproj.CoreCompileInputs.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\kimeneti_valtozo_out\kimeneti_valtozo_out\obj\Debug\kimeneti_valtozo_out.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\kimeneti_valtozo_out\kimeneti_valtozo_out\obj\Debug\kimeneti_valtozo_out.pdb
