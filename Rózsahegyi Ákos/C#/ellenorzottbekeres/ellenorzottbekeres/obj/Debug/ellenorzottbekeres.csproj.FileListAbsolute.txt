@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\ellenorzottbekeres\ellenorzottbekeres\bin\Debug\ellenorzottbekeres.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\ellenorzottbekeres\ellenorzottbekeres\bin\Debug\ellenorzottbekeres.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\ellenorzottbekeres\ellenorzottbekeres\bin\Debug\ellenorzottbekeres.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\ellenorzottbekeres\ellenorzottbekeres\obj\Debug\ellenorzottbekeres.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\ellenorzottbekeres\ellenorzottbekeres\obj\Debug\ellenorzottbekeres.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\ellenorzottbekeres\ellenorzottbekeres\obj\Debug\ellenorzottbekeres.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\ellenorzottbekeres\ellenorzottbekeres\obj\Debug\ellenorzottbekeres.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\ellenorzottbekeres\ellenorzottbekeres\obj\Debug\ellenorzottbekeres.pdb
