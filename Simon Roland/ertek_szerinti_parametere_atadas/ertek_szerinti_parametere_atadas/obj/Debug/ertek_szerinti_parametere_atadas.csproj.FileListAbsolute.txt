@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\ertek_szerinti_parametere_atadas\ertek_szerinti_parametere_atadas\bin\Debug\ertek_szerinti_parametere_atadas.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\ertek_szerinti_parametere_atadas\ertek_szerinti_parametere_atadas\bin\Debug\ertek_szerinti_parametere_atadas.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\ertek_szerinti_parametere_atadas\ertek_szerinti_parametere_atadas\bin\Debug\ertek_szerinti_parametere_atadas.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\ertek_szerinti_parametere_atadas\ertek_szerinti_parametere_atadas\obj\Debug\ertek_szerinti_parametere_atadas.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\ertek_szerinti_parametere_atadas\ertek_szerinti_parametere_atadas\obj\Debug\ertek_szerinti_parametere_atadas.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\ertek_szerinti_parametere_atadas\ertek_szerinti_parametere_atadas\obj\Debug\ertek_szerinti_parametere_atadas.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\ertek_szerinti_parametere_atadas\ertek_szerinti_parametere_atadas\obj\Debug\ertek_szerinti_parametere_atadas.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\ertek_szerinti_parametere_atadas\ertek_szerinti_parametere_atadas\obj\Debug\ertek_szerinti_parametere_atadas.pdb
