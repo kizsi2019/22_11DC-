@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "min_tomb", "min_tomb\min_tomb.csproj", "{6085FD4F-2B71-4D48-A586-9B27FD3BC737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6085FD4F-2B71-4D48-A586-9B27FD3BC737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6085FD4F-2B71-4D48-A586-9B27FD3BC737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6085FD4F-2B71-4D48-A586-9B27FD3BC737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6085FD4F-2B71-4D48-A586-9B27FD3BC737}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {411AFA14-2276-4838-8F64-C0C82CB3E73F}
+	EndGlobalSection
+EndGlobal
