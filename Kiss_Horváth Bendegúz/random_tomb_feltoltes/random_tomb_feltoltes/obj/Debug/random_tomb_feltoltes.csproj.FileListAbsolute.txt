@@ -1,0 +1,8 @@
+C:\Users\BendegúzKiss-Horváth\source\repos\random_tomb_feltoltes\random_tomb_feltoltes\bin\Debug\random_tomb_feltoltes.exe.config
+C:\Users\BendegúzKiss-Horváth\source\repos\random_tomb_feltoltes\random_tomb_feltoltes\bin\Debug\random_tomb_feltoltes.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\random_tomb_feltoltes\random_tomb_feltoltes\bin\Debug\random_tomb_feltoltes.pdb
+C:\Users\BendegúzKiss-Horváth\source\repos\random_tomb_feltoltes\random_tomb_feltoltes\obj\Debug\random_tomb_feltoltes.csproj.AssemblyReference.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\random_tomb_feltoltes\random_tomb_feltoltes\obj\Debug\random_tomb_feltoltes.csproj.SuggestedBindingRedirects.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\random_tomb_feltoltes\random_tomb_feltoltes\obj\Debug\random_tomb_feltoltes.csproj.CoreCompileInputs.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\random_tomb_feltoltes\random_tomb_feltoltes\obj\Debug\random_tomb_feltoltes.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\random_tomb_feltoltes\random_tomb_feltoltes\obj\Debug\random_tomb_feltoltes.pdb
