@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\ertekszerintiparametermegadas\ertekszerintiparametermegadas\bin\Debug\ertekszerintiparametermegadas.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\ertekszerintiparametermegadas\ertekszerintiparametermegadas\bin\Debug\ertekszerintiparametermegadas.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\ertekszerintiparametermegadas\ertekszerintiparametermegadas\bin\Debug\ertekszerintiparametermegadas.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\ertekszerintiparametermegadas\ertekszerintiparametermegadas\obj\Debug\ertekszerintiparametermegadas.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\ertekszerintiparametermegadas\ertekszerintiparametermegadas\obj\Debug\ertekszerintiparametermegadas.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\ertekszerintiparametermegadas\ertekszerintiparametermegadas\obj\Debug\ertekszerintiparametermegadas.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\ertekszerintiparametermegadas\ertekszerintiparametermegadas\obj\Debug\ertekszerintiparametermegadas.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\ertekszerintiparametermegadas\ertekszerintiparametermegadas\obj\Debug\ertekszerintiparametermegadas.pdb

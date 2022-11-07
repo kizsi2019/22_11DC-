@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\eljarasok\eljarasok\obj\Debug\eljarasok.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\eljarasok\eljarasok\obj\Debug\eljarasok.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\eljarasok\eljarasok\obj\Debug\eljarasok.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\eljarasok\eljarasok\bin\Debug\eljarasok.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\eljarasok\eljarasok\bin\Debug\eljarasok.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\eljarasok\eljarasok\bin\Debug\eljarasok.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\eljarasok\eljarasok\obj\Debug\eljarasok.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\eljarasok\eljarasok\obj\Debug\eljarasok.pdb
