@@ -1,0 +1,8 @@
+C:\Users\BalintHajdu\Desktop\Eljarasok\bin\Debug\Eljarasok.exe.config
+C:\Users\BalintHajdu\Desktop\Eljarasok\bin\Debug\Eljarasok.exe
+C:\Users\BalintHajdu\Desktop\Eljarasok\bin\Debug\Eljarasok.pdb
+C:\Users\BalintHajdu\Desktop\Eljarasok\obj\Debug\Eljarasok.csproj.AssemblyReference.cache
+C:\Users\BalintHajdu\Desktop\Eljarasok\obj\Debug\Eljarasok.csproj.SuggestedBindingRedirects.cache
+C:\Users\BalintHajdu\Desktop\Eljarasok\obj\Debug\Eljarasok.csproj.CoreCompileInputs.cache
+C:\Users\BalintHajdu\Desktop\Eljarasok\obj\Debug\Eljarasok.exe
+C:\Users\BalintHajdu\Desktop\Eljarasok\obj\Debug\Eljarasok.pdb

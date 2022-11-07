@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kimenetivaltozo", "kimenetivaltozo\kimenetivaltozo.csproj", "{98BF31B6-5D00-4BE9-BCBC-38FC79FA811E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98BF31B6-5D00-4BE9-BCBC-38FC79FA811E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98BF31B6-5D00-4BE9-BCBC-38FC79FA811E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98BF31B6-5D00-4BE9-BCBC-38FC79FA811E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98BF31B6-5D00-4BE9-BCBC-38FC79FA811E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A0A74B9-AAFF-418B-94AA-7F3DF568C27D}
+	EndGlobalSection
+EndGlobal

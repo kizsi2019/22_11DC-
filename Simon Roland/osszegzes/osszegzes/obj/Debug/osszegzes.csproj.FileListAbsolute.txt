@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\osszegzes\osszegzes\bin\Debug\osszegzes.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\osszegzes\osszegzes\bin\Debug\osszegzes.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\osszegzes\osszegzes\bin\Debug\osszegzes.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\osszegzes\osszegzes\obj\Debug\osszegzes.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\osszegzes\osszegzes\obj\Debug\osszegzes.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\osszegzes\osszegzes\obj\Debug\osszegzes.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\osszegzes\osszegzes\obj\Debug\osszegzes.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\osszegzes\osszegzes\obj\Debug\osszegzes.pdb

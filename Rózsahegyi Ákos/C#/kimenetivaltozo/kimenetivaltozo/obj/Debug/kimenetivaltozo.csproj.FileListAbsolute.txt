@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\kimenetivaltozo\kimenetivaltozo\bin\Debug\kimenetivaltozo.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\kimenetivaltozo\kimenetivaltozo\bin\Debug\kimenetivaltozo.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\kimenetivaltozo\kimenetivaltozo\bin\Debug\kimenetivaltozo.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\kimenetivaltozo\kimenetivaltozo\obj\Debug\kimenetivaltozo.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\kimenetivaltozo\kimenetivaltozo\obj\Debug\kimenetivaltozo.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\kimenetivaltozo\kimenetivaltozo\obj\Debug\kimenetivaltozo.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\kimenetivaltozo\kimenetivaltozo\obj\Debug\kimenetivaltozo.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\kimenetivaltozo\kimenetivaltozo\obj\Debug\kimenetivaltozo.pdb
