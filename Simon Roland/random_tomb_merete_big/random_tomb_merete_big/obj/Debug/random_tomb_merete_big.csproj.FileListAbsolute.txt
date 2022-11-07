@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\random_tomb_merete_big\random_tomb_merete_big\obj\Debug\random_tomb_merete_big.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\random_tomb_merete_big\random_tomb_merete_big\obj\Debug\random_tomb_merete_big.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\random_tomb_merete_big\random_tomb_merete_big\obj\Debug\random_tomb_merete_big.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\random_tomb_merete_big\random_tomb_merete_big\bin\Debug\random_tomb_merete_big.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\random_tomb_merete_big\random_tomb_merete_big\bin\Debug\random_tomb_merete_big.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\random_tomb_merete_big\random_tomb_merete_big\bin\Debug\random_tomb_merete_big.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\random_tomb_merete_big\random_tomb_merete_big\obj\Debug\random_tomb_merete_big.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\random_tomb_merete_big\random_tomb_merete_big\obj\Debug\random_tomb_merete_big.pdb

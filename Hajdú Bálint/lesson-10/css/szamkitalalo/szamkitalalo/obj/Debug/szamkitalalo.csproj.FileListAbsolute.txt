@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\szamkitalalo\szamkitalalo\obj\Debug\szamkitalalo.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\szamkitalalo\szamkitalalo\obj\Debug\szamkitalalo.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\szamkitalalo\szamkitalalo\obj\Debug\szamkitalalo.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\szamkitalalo\szamkitalalo\bin\Debug\szamkitalalo.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\szamkitalalo\szamkitalalo\bin\Debug\szamkitalalo.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\szamkitalalo\szamkitalalo\bin\Debug\szamkitalalo.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\szamkitalalo\szamkitalalo\obj\Debug\szamkitalalo.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\szamkitalalo\szamkitalalo\obj\Debug\szamkitalalo.pdb
