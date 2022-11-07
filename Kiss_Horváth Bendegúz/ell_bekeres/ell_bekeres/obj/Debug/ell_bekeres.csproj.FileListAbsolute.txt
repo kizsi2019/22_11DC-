@@ -1,0 +1,8 @@
+C:\Users\BendegúzKiss-Horváth\source\repos\ell_bekeres\ell_bekeres\bin\Debug\ell_bekeres.exe.config
+C:\Users\BendegúzKiss-Horváth\source\repos\ell_bekeres\ell_bekeres\bin\Debug\ell_bekeres.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\ell_bekeres\ell_bekeres\bin\Debug\ell_bekeres.pdb
+C:\Users\BendegúzKiss-Horváth\source\repos\ell_bekeres\ell_bekeres\obj\Debug\ell_bekeres.csproj.AssemblyReference.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\ell_bekeres\ell_bekeres\obj\Debug\ell_bekeres.csproj.SuggestedBindingRedirects.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\ell_bekeres\ell_bekeres\obj\Debug\ell_bekeres.csproj.CoreCompileInputs.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\ell_bekeres\ell_bekeres\obj\Debug\ell_bekeres.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\ell_bekeres\ell_bekeres\obj\Debug\ell_bekeres.pdb

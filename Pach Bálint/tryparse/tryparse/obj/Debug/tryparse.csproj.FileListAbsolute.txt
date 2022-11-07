@@ -1,0 +1,8 @@
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\tryparse\tryparse\bin\Debug\tryparse.exe.config
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\tryparse\tryparse\bin\Debug\tryparse.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\tryparse\tryparse\bin\Debug\tryparse.pdb
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\tryparse\tryparse\obj\Debug\tryparse.csproj.AssemblyReference.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\tryparse\tryparse\obj\Debug\tryparse.csproj.SuggestedBindingRedirects.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\tryparse\tryparse\obj\Debug\tryparse.csproj.CoreCompileInputs.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\tryparse\tryparse\obj\Debug\tryparse.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\tryparse\tryparse\obj\Debug\tryparse.pdb
