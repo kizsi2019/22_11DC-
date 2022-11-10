@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ertek_szerinti_parametere_atadas", "ertek_szerinti_parametere_atadas\ertek_szerinti_parametere_atadas.csproj", "{CA4D93F4-297C-45A0-91D3-0A16F1FAEA13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA4D93F4-297C-45A0-91D3-0A16F1FAEA13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA4D93F4-297C-45A0-91D3-0A16F1FAEA13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA4D93F4-297C-45A0-91D3-0A16F1FAEA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA4D93F4-297C-45A0-91D3-0A16F1FAEA13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BAA36F2-E070-4AE4-9A1D-1937E7E0326D}
+	EndGlobalSection
+EndGlobal

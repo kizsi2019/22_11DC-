@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\xml_dukumentáláshoz\xml_dukumentáláshoz\bin\Debug\xml_dukumentáláshoz.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\xml_dukumentáláshoz\xml_dukumentáláshoz\bin\Debug\xml_dukumentáláshoz.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\xml_dukumentáláshoz\xml_dukumentáláshoz\bin\Debug\xml_dukumentáláshoz.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\xml_dukumentáláshoz\xml_dukumentáláshoz\obj\Debug\xml_dukumentáláshoz.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\xml_dukumentáláshoz\xml_dukumentáláshoz\obj\Debug\xml_dukumentáláshoz.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\xml_dukumentáláshoz\xml_dukumentáláshoz\obj\Debug\xml_dukumentáláshoz.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\xml_dukumentáláshoz\xml_dukumentáláshoz\obj\Debug\xml_dukumentáláshoz.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\xml_dukumentáláshoz\xml_dukumentáláshoz\obj\Debug\xml_dukumentáláshoz.pdb
