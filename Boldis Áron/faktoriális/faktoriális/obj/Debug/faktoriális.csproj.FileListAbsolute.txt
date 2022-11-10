@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\faktoriális\faktoriális\bin\Debug\faktoriális.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\faktoriális\faktoriális\bin\Debug\faktoriális.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\faktoriális\faktoriális\bin\Debug\faktoriális.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\faktoriális\faktoriális\obj\Debug\faktoriális.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\faktoriális\faktoriális\obj\Debug\faktoriális.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\faktoriális\faktoriális\obj\Debug\faktoriális.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\faktoriális\faktoriális\obj\Debug\faktoriális.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\faktoriális\faktoriális\obj\Debug\faktoriális.pdb
