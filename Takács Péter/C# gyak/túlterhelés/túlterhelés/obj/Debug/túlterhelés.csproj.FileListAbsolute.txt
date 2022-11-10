@@ -1,0 +1,8 @@
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\túlterhelés\túlterhelés\bin\Debug\túlterhelés.exe.config
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\túlterhelés\túlterhelés\bin\Debug\túlterhelés.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\túlterhelés\túlterhelés\bin\Debug\túlterhelés.pdb
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\túlterhelés\túlterhelés\obj\Debug\túlterhelés.csproj.AssemblyReference.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\túlterhelés\túlterhelés\obj\Debug\túlterhelés.csproj.SuggestedBindingRedirects.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\túlterhelés\túlterhelés\obj\Debug\túlterhelés.csproj.CoreCompileInputs.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\túlterhelés\túlterhelés\obj\Debug\túlterhelés.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\túlterhelés\túlterhelés\obj\Debug\túlterhelés.pdb
