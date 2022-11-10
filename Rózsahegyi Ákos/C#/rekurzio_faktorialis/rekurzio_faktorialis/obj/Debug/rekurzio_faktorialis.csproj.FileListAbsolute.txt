@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\rekurzio_faktorialis\rekurzio_faktorialis\bin\Debug\rekurzio_faktorialis.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\rekurzio_faktorialis\rekurzio_faktorialis\bin\Debug\rekurzio_faktorialis.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\rekurzio_faktorialis\rekurzio_faktorialis\bin\Debug\rekurzio_faktorialis.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\rekurzio_faktorialis\rekurzio_faktorialis\obj\Debug\rekurzio_faktorialis.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\rekurzio_faktorialis\rekurzio_faktorialis\obj\Debug\rekurzio_faktorialis.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\rekurzio_faktorialis\rekurzio_faktorialis\obj\Debug\rekurzio_faktorialis.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\rekurzio_faktorialis\rekurzio_faktorialis\obj\Debug\rekurzio_faktorialis.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\rekurzio_faktorialis\rekurzio_faktorialis\obj\Debug\rekurzio_faktorialis.pdb
