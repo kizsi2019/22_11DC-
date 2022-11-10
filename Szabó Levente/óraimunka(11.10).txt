@@ -1,0 +1,39 @@
+1,
+  SELECT dalok.cim, eloadok.nev
+  FROM dalok, eloadok
+  WHERE dalok.eloadoid = eloadok.eloadoid AND eloadok.nev = 'Queen';
+  
+2,
+  SELECT lista.ev, dalok.cim, eloadok.nev
+  FROM lista, dalok, eloadok
+  WHERE lista.ev = '2010' AND lista.helyezes = 1
+      AND lista.dalid = dalok.dalid AND dalok.eloadoid = eloadok.eloadoid;
+
+3,
+  SELECT lista.ev, dalok.cim, eloadok.nev
+  FROM lista, dalok, eloadok
+  WHERE lista.ev = '2001' AND lista.helyezes = 1
+      AND lista.dalid = dalok.dalid AND dalok.eloadoid = eloadok.eloadoid;
+
+4,
+  SELECT lista.ev, dalok.cim, eloadok.nev
+  FROM lista, dalok, eloadok
+  WHERE lista.ev = '2019' AND lista.helyezes < 4
+  AND lista.dalid = dalok.dalid AND dalok.eloadoid = eloadok.eloadoid;
+
+5,
+  SELECT lista.ev, dalok.cim, eloadok.nev
+  FROM lista, dalok, eloadok
+  WHERE eloadok.nev like "b%";
+
+6,
+  CREATE TABLE x_customers
+  SELECT COUNT(id) AS vasarlo_szama, city
+  FROM customers
+  WHERE vasarlok_szama > 1
+  GROUP BY city;
+7,
+  CREATE TABLE x2_products
+  SELECT COUNT(id) AS termek_szama, category
+  FROM products
+  GROUP BY category;
