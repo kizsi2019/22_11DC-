@@ -1,0 +1,3 @@
+C:\Users\BendegúzKiss-Horváth\source\repos\kiir\kiir\obj\Debug\kiir.csproj.AssemblyReference.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\kiir\kiir\obj\Debug\kiir.csproj.SuggestedBindingRedirects.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\kiir\kiir\obj\Debug\kiir.csproj.CoreCompileInputs.cache

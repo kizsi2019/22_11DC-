@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\ertek_szerinti_paramater_atadas\ertek_szerinti_paramater_atadas\bin\Debug\ertek_szerinti_paramater_atadas.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\ertek_szerinti_paramater_atadas\ertek_szerinti_paramater_atadas\bin\Debug\ertek_szerinti_paramater_atadas.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\ertek_szerinti_paramater_atadas\ertek_szerinti_paramater_atadas\bin\Debug\ertek_szerinti_paramater_atadas.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\ertek_szerinti_paramater_atadas\ertek_szerinti_paramater_atadas\obj\Debug\ertek_szerinti_paramater_atadas.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\ertek_szerinti_paramater_atadas\ertek_szerinti_paramater_atadas\obj\Debug\ertek_szerinti_paramater_atadas.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\ertek_szerinti_paramater_atadas\ertek_szerinti_paramater_atadas\obj\Debug\ertek_szerinti_paramater_atadas.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\ertek_szerinti_paramater_atadas\ertek_szerinti_paramater_atadas\obj\Debug\ertek_szerinti_paramater_atadas.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\ertek_szerinti_paramater_atadas\ertek_szerinti_paramater_atadas\obj\Debug\ertek_szerinti_paramater_atadas.pdb

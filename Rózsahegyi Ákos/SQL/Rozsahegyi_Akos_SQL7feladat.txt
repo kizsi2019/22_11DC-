@@ -1,0 +1,2 @@
+1. CREATE TABLE x1_customers SELECT COUNT(id) AS ugyfel, city AS varos FROM customers GROUP BY city;
+2. CREATE TABLE x2_products SELECT COUNT(id) AS termek, category AS kategoria FROM products GROUP BY category;

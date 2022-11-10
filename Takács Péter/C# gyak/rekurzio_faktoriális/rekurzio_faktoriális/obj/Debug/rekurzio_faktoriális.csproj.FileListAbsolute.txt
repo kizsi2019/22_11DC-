@@ -1,0 +1,8 @@
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\rekurzio_faktoriális\rekurzio_faktoriális\bin\Debug\rekurzio_faktoriális.exe.config
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\rekurzio_faktoriális\rekurzio_faktoriális\bin\Debug\rekurzio_faktoriális.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\rekurzio_faktoriális\rekurzio_faktoriális\bin\Debug\rekurzio_faktoriális.pdb
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\rekurzio_faktoriális\rekurzio_faktoriális\obj\Debug\rekurzio_faktoriális.csproj.AssemblyReference.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\rekurzio_faktoriális\rekurzio_faktoriális\obj\Debug\rekurzio_faktoriális.csproj.SuggestedBindingRedirects.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\rekurzio_faktoriális\rekurzio_faktoriális\obj\Debug\rekurzio_faktoriális.csproj.CoreCompileInputs.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\rekurzio_faktoriális\rekurzio_faktoriális\obj\Debug\rekurzio_faktoriális.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\rekurzio_faktoriális\rekurzio_faktoriális\obj\Debug\rekurzio_faktoriális.pdb
