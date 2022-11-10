@@ -1,0 +1,8 @@
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\rekurzio_nemes\rekurzio_nemes\bin\Debug\rekurzio_nemes.exe.config
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\rekurzio_nemes\rekurzio_nemes\bin\Debug\rekurzio_nemes.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\rekurzio_nemes\rekurzio_nemes\bin\Debug\rekurzio_nemes.pdb
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\rekurzio_nemes\rekurzio_nemes\obj\Debug\rekurzio_nemes.csproj.AssemblyReference.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\rekurzio_nemes\rekurzio_nemes\obj\Debug\rekurzio_nemes.csproj.SuggestedBindingRedirects.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\rekurzio_nemes\rekurzio_nemes\obj\Debug\rekurzio_nemes.csproj.CoreCompileInputs.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\rekurzio_nemes\rekurzio_nemes\obj\Debug\rekurzio_nemes.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\rekurzio_nemes\rekurzio_nemes\obj\Debug\rekurzio_nemes.pdb

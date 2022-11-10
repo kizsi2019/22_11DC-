@@ -1,0 +1,8 @@
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\rekurzio_faktoriális\rekurzio_faktoriális\bin\Debug\rekurzio_faktoriális.exe.config
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\rekurzio_faktoriális\rekurzio_faktoriális\bin\Debug\rekurzio_faktoriális.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\rekurzio_faktoriális\rekurzio_faktoriális\bin\Debug\rekurzio_faktoriális.pdb
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\rekurzio_faktoriális\rekurzio_faktoriális\obj\Debug\rekurzio_faktoriális.csproj.AssemblyReference.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\rekurzio_faktoriális\rekurzio_faktoriális\obj\Debug\rekurzio_faktoriális.csproj.SuggestedBindingRedirects.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\rekurzio_faktoriális\rekurzio_faktoriális\obj\Debug\rekurzio_faktoriális.csproj.CoreCompileInputs.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\rekurzio_faktoriális\rekurzio_faktoriális\obj\Debug\rekurzio_faktoriális.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\rekurzio_faktoriális\rekurzio_faktoriális\obj\Debug\rekurzio_faktoriális.pdb
