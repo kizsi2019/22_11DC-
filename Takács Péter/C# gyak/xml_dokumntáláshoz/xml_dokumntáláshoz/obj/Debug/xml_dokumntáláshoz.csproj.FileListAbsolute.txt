@@ -1,0 +1,8 @@
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\xml_dokumntáláshoz\xml_dokumntáláshoz\bin\Debug\xml_dokumntáláshoz.exe.config
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\xml_dokumntáláshoz\xml_dokumntáláshoz\bin\Debug\xml_dokumntáláshoz.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\xml_dokumntáláshoz\xml_dokumntáláshoz\bin\Debug\xml_dokumntáláshoz.pdb
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\xml_dokumntáláshoz\xml_dokumntáláshoz\obj\Debug\xml_dokumntáláshoz.csproj.AssemblyReference.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\xml_dokumntáláshoz\xml_dokumntáláshoz\obj\Debug\xml_dokumntáláshoz.csproj.SuggestedBindingRedirects.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\xml_dokumntáláshoz\xml_dokumntáláshoz\obj\Debug\xml_dokumntáláshoz.csproj.CoreCompileInputs.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\xml_dokumntáláshoz\xml_dokumntáláshoz\obj\Debug\xml_dokumntáláshoz.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\xml_dokumntáláshoz\xml_dokumntáláshoz\obj\Debug\xml_dokumntáláshoz.pdb

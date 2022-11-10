@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tulterheles\tulterheles\bin\Debug\tulterheles.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tulterheles\tulterheles\bin\Debug\tulterheles.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tulterheles\tulterheles\bin\Debug\tulterheles.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tulterheles\tulterheles\obj\Debug\tulterheles.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tulterheles\tulterheles\obj\Debug\tulterheles.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tulterheles\tulterheles\obj\Debug\tulterheles.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tulterheles\tulterheles\obj\Debug\tulterheles.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tulterheles\tulterheles\obj\Debug\tulterheles.pdb

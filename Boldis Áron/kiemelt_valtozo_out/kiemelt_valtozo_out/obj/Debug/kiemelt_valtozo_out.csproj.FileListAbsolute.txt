@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\kiemelt_valtozo_out\kiemelt_valtozo_out\bin\Debug\kiemelt_valtozo_out.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\kiemelt_valtozo_out\kiemelt_valtozo_out\bin\Debug\kiemelt_valtozo_out.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\kiemelt_valtozo_out\kiemelt_valtozo_out\bin\Debug\kiemelt_valtozo_out.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\kiemelt_valtozo_out\kiemelt_valtozo_out\obj\Debug\kiemelt_valtozo_out.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\kiemelt_valtozo_out\kiemelt_valtozo_out\obj\Debug\kiemelt_valtozo_out.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\kiemelt_valtozo_out\kiemelt_valtozo_out\obj\Debug\kiemelt_valtozo_out.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\kiemelt_valtozo_out\kiemelt_valtozo_out\obj\Debug\kiemelt_valtozo_out.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\kiemelt_valtozo_out\kiemelt_valtozo_out\obj\Debug\kiemelt_valtozo_out.pdb
