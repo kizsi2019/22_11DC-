@@ -1,0 +1,8 @@
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\xml_dokumentalashoz\xml_dokumentalashoz\bin\Debug\xml_dokumentalashoz.exe.config
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\xml_dokumentalashoz\xml_dokumentalashoz\bin\Debug\xml_dokumentalashoz.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\xml_dokumentalashoz\xml_dokumentalashoz\bin\Debug\xml_dokumentalashoz.pdb
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\xml_dokumentalashoz\xml_dokumentalashoz\obj\Debug\xml_dokumentalashoz.csproj.AssemblyReference.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\xml_dokumentalashoz\xml_dokumentalashoz\obj\Debug\xml_dokumentalashoz.csproj.SuggestedBindingRedirects.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\xml_dokumentalashoz\xml_dokumentalashoz\obj\Debug\xml_dokumentalashoz.csproj.CoreCompileInputs.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\xml_dokumentalashoz\xml_dokumentalashoz\obj\Debug\xml_dokumentalashoz.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\xml_dokumentalashoz\xml_dokumentalashoz\obj\Debug\xml_dokumentalashoz.pdb

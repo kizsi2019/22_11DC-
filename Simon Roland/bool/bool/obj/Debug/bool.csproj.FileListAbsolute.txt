@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\bool\bool\bin\Debug\@bool.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\bool\bool\bin\Debug\@bool.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\bool\bool\bin\Debug\@bool.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\bool\bool\obj\Debug\bool.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\bool\bool\obj\Debug\bool.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\bool\bool\obj\Debug\bool.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\bool\bool\obj\Debug\@bool.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\bool\bool\obj\Debug\@bool.pdb
