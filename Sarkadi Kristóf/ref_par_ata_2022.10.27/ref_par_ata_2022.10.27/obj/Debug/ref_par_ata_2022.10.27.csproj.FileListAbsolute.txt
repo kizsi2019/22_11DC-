@@ -1,0 +1,8 @@
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\ref_par_ata_2022.10.27\ref_par_ata_2022.10.27\bin\Debug\ref_par_ata_2022.10.27.exe.config
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\ref_par_ata_2022.10.27\ref_par_ata_2022.10.27\bin\Debug\ref_par_ata_2022.10.27.exe
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\ref_par_ata_2022.10.27\ref_par_ata_2022.10.27\bin\Debug\ref_par_ata_2022.10.27.pdb
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\ref_par_ata_2022.10.27\ref_par_ata_2022.10.27\obj\Debug\ref_par_ata_2022.10.27.csproj.AssemblyReference.cache
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\ref_par_ata_2022.10.27\ref_par_ata_2022.10.27\obj\Debug\ref_par_ata_2022.10.27.csproj.SuggestedBindingRedirects.cache
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\ref_par_ata_2022.10.27\ref_par_ata_2022.10.27\obj\Debug\ref_par_ata_2022.10.27.csproj.CoreCompileInputs.cache
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\ref_par_ata_2022.10.27\ref_par_ata_2022.10.27\obj\Debug\ref_par_ata_2022.10.27.exe
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\ref_par_ata_2022.10.27\ref_par_ata_2022.10.27\obj\Debug\ref_par_ata_2022.10.27.pdb
