@@ -1,0 +1,8 @@
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\faktoralish\faktoralish\bin\Debug\faktoralish.exe.config
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\faktoralish\faktoralish\bin\Debug\faktoralish.exe
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\faktoralish\faktoralish\bin\Debug\faktoralish.pdb
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\faktoralish\faktoralish\obj\Debug\faktoralish.csproj.AssemblyReference.cache
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\faktoralish\faktoralish\obj\Debug\faktoralish.csproj.SuggestedBindingRedirects.cache
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\faktoralish\faktoralish\obj\Debug\faktoralish.csproj.CoreCompileInputs.cache
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\faktoralish\faktoralish\obj\Debug\faktoralish.exe
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\faktoralish\faktoralish\obj\Debug\faktoralish.pdb
