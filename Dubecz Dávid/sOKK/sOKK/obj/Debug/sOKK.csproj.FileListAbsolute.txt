@@ -1,0 +1,8 @@
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\sOKK\sOKK\bin\Debug\sOKK.exe.config
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\sOKK\sOKK\bin\Debug\sOKK.exe
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\sOKK\sOKK\bin\Debug\sOKK.pdb
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\sOKK\sOKK\obj\Debug\sOKK.csproj.AssemblyReference.cache
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\sOKK\sOKK\obj\Debug\sOKK.csproj.SuggestedBindingRedirects.cache
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\sOKK\sOKK\obj\Debug\sOKK.csproj.CoreCompileInputs.cache
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\sOKK\sOKK\obj\Debug\sOKK.exe
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\sOKK\sOKK\obj\Debug\sOKK.pdb
