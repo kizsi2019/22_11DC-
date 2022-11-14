@@ -1,0 +1,11 @@
+1/
+CREATE TABLE x_customers
+SELECT COUNT(id) AS costumers, city
+FROM costumers
+WHERE vasarlok_szama > 1
+GROUP BY city;
+2/
+CREAT TABLE x2_products
+SELECT COUNT(id) AS termek_szama, category
+FROM products 
+GROUP BY category;
