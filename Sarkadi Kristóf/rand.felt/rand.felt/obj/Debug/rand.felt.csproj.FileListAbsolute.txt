@@ -1,0 +1,8 @@
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\rand.felt\rand.felt\obj\Debug\rand.felt.csproj.AssemblyReference.cache
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\rand.felt\rand.felt\obj\Debug\rand.felt.csproj.SuggestedBindingRedirects.cache
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\rand.felt\rand.felt\obj\Debug\rand.felt.csproj.CoreCompileInputs.cache
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\rand.felt\rand.felt\bin\Debug\rand.felt.exe.config
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\rand.felt\rand.felt\bin\Debug\rand.felt.exe
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\rand.felt\rand.felt\bin\Debug\rand.felt.pdb
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\rand.felt\rand.felt\obj\Debug\rand.felt.exe
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\rand.felt\rand.felt\obj\Debug\rand.felt.pdb
