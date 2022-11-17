@@ -1,0 +1,12 @@
+1a: SELECT MIN(standard_cost) AS smallestprice FROM products;
+1b: SELECT MAX(standard_cost) AS biggestprice FROM products;
+1c: SELECT MAX(standard_cost) AS biggestprice FROM products WHERE list_price >= 30;
+1d: SELECT MAX(standard_cost) FROM products WHERE product_code LIKE "CO%";
+
+2a: SELECT COUNT(id) AS emp_number FROM employees WHERE city = "Seattle";
+2b: SELECT COUNT(id) AS salesman FROM employees WHERE job_title = "Sales Representative";
+2c: SELECT COUNT(id) AS A_mans FROM employees WHERE first_name LIKE "A%";
+
+3a: CREATE TABLE x10_products 
+      SELECT COUNT(id) AS quantity, category FROM products 
+      GROUP BY category;
