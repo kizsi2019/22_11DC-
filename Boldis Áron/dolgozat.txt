@@ -1,0 +1,13 @@
+1.
+a: SELECT MIN(standard_cost) FROM products;
+b: SELECT MAX(standard_cost) FROM products;
+c: SELECT max(standard_cost) FROM products WHERE list_price >= 30;
+d: SELECT MAX(standard_cost) FROM products WHERE product_code LIKE "%co%";
+
+2.
+a: SELECT COUNT(id) FROM employees WHERE city = "Seattle";
+b: SELECT COUNT(id) FROM employees WHERE job_title = "Sales Representative";
+c: SELECT COUNT(id) FROM employees WHERE first_name LIKE "%A";
+
+3.
+CREATE TABLE x10_products SELECT COUNT(category) FROM products as category
