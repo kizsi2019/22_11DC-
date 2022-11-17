@@ -1,0 +1,8 @@
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\xml_docm\xml_docm\bin\Debug\xml_docm.exe.config
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\xml_docm\xml_docm\bin\Debug\xml_docm.exe
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\xml_docm\xml_docm\bin\Debug\xml_docm.pdb
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\xml_docm\xml_docm\obj\Debug\xml_docm.csproj.AssemblyReference.cache
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\xml_docm\xml_docm\obj\Debug\xml_docm.csproj.SuggestedBindingRedirects.cache
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\xml_docm\xml_docm\obj\Debug\xml_docm.csproj.CoreCompileInputs.cache
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\xml_docm\xml_docm\obj\Debug\xml_docm.exe
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\xml_docm\xml_docm\obj\Debug\xml_docm.pdb

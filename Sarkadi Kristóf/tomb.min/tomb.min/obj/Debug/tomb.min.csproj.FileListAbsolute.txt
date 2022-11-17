@@ -1,0 +1,8 @@
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\tomb.min\tomb.min\bin\Debug\tomb.min.exe.config
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\tomb.min\tomb.min\bin\Debug\tomb.min.exe
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\tomb.min\tomb.min\bin\Debug\tomb.min.pdb
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\tomb.min\tomb.min\obj\Debug\tomb.min.csproj.AssemblyReference.cache
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\tomb.min\tomb.min\obj\Debug\tomb.min.csproj.SuggestedBindingRedirects.cache
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\tomb.min\tomb.min\obj\Debug\tomb.min.csproj.CoreCompileInputs.cache
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\tomb.min\tomb.min\obj\Debug\tomb.min.exe
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\tomb.min\tomb.min\obj\Debug\tomb.min.pdb
