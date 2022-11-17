@@ -1,0 +1,8 @@
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_insertrange\lista_insertrange\bin\Debug\lista_insertrange.exe.config
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_insertrange\lista_insertrange\bin\Debug\lista_insertrange.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_insertrange\lista_insertrange\bin\Debug\lista_insertrange.pdb
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_insertrange\lista_insertrange\obj\Debug\lista_insertrange.csproj.AssemblyReference.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_insertrange\lista_insertrange\obj\Debug\lista_insertrange.csproj.SuggestedBindingRedirects.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_insertrange\lista_insertrange\obj\Debug\lista_insertrange.csproj.CoreCompileInputs.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_insertrange\lista_insertrange\obj\Debug\lista_insertrange.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_insertrange\lista_insertrange\obj\Debug\lista_insertrange.pdb

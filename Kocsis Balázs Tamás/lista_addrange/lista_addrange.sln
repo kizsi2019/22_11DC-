@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lista_addrange", "lista_addrange\lista_addrange.csproj", "{4DC5D51F-A1E6-4886-A4EB-0CEFA2255802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DC5D51F-A1E6-4886-A4EB-0CEFA2255802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC5D51F-A1E6-4886-A4EB-0CEFA2255802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC5D51F-A1E6-4886-A4EB-0CEFA2255802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC5D51F-A1E6-4886-A4EB-0CEFA2255802}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A7EFBA1-9BF4-48CD-94EF-875B561CEB18}
+	EndGlobalSection
+EndGlobal

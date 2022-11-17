@@ -1,0 +1,8 @@
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_indexof\lista_indexof\bin\Debug\lista_indexof.exe.config
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_indexof\lista_indexof\bin\Debug\lista_indexof.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_indexof\lista_indexof\bin\Debug\lista_indexof.pdb
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_indexof\lista_indexof\obj\Debug\lista_indexof.csproj.AssemblyReference.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_indexof\lista_indexof\obj\Debug\lista_indexof.csproj.SuggestedBindingRedirects.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_indexof\lista_indexof\obj\Debug\lista_indexof.csproj.CoreCompileInputs.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_indexof\lista_indexof\obj\Debug\lista_indexof.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_indexof\lista_indexof\obj\Debug\lista_indexof.pdb
