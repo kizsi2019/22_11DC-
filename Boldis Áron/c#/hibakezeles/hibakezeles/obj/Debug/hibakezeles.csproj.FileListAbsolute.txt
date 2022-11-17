@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\hibakezeles\hibakezeles\bin\Debug\hibakezeles.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\hibakezeles\hibakezeles\bin\Debug\hibakezeles.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\hibakezeles\hibakezeles\bin\Debug\hibakezeles.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\hibakezeles\hibakezeles\obj\Debug\hibakezeles.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\hibakezeles\hibakezeles\obj\Debug\hibakezeles.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\hibakezeles\hibakezeles\obj\Debug\hibakezeles.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\hibakezeles\hibakezeles\obj\Debug\hibakezeles.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\hibakezeles\hibakezeles\obj\Debug\hibakezeles.pdb

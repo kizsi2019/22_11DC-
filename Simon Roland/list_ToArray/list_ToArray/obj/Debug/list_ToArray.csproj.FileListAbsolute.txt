@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\list_ToArray\list_ToArray\bin\Debug\list_ToArray.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\list_ToArray\list_ToArray\bin\Debug\list_ToArray.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\list_ToArray\list_ToArray\bin\Debug\list_ToArray.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\list_ToArray\list_ToArray\obj\Debug\list_ToArray.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\list_ToArray\list_ToArray\obj\Debug\list_ToArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\list_ToArray\list_ToArray\obj\Debug\list_ToArray.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\list_ToArray\list_ToArray\obj\Debug\list_ToArray.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\list_ToArray\list_ToArray\obj\Debug\list_ToArray.pdb

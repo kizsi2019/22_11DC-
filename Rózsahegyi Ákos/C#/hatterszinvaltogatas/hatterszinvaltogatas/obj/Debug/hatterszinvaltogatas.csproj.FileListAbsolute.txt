@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\hatterszinvaltogatas\hatterszinvaltogatas\bin\Debug\hatterszinvaltogatas.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\hatterszinvaltogatas\hatterszinvaltogatas\bin\Debug\hatterszinvaltogatas.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\hatterszinvaltogatas\hatterszinvaltogatas\bin\Debug\hatterszinvaltogatas.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\hatterszinvaltogatas\hatterszinvaltogatas\obj\Debug\hatterszinvaltogatas.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\hatterszinvaltogatas\hatterszinvaltogatas\obj\Debug\hatterszinvaltogatas.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\hatterszinvaltogatas\hatterszinvaltogatas\obj\Debug\hatterszinvaltogatas.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\hatterszinvaltogatas\hatterszinvaltogatas\obj\Debug\hatterszinvaltogatas.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\hatterszinvaltogatas\hatterszinvaltogatas\obj\Debug\hatterszinvaltogatas.pdb

@@ -1,0 +1,23 @@
+1. 
+a: 
+SELECT MIN(standard_cost) AS legkisebb FROM products;
+b:
+SELECT MAX(standard_cost) AS legnagyobb FROM products;
+c:
+SELECT standard_cost AS legnagyobb FROM products WHERE list_price >= 30;
+d:
+SELECT standard_cost AS legnagyobb FROM products WHERE product_code LIKE "%CO%";
+
+2. 
+a:
+SELECT COUNT(city) FROM `employees` WHERE city = 'Seattle';
+b:
+SELECT COUNT(job_title) FROM `employees` WHERE job_title = 'Sales Representative';
+c:
+SELECT COUNT(first_name) FROM `employees` WHERE first_name LIKE "A%";
+
+3.
+
+CREATE TABLE x10_products
+SELECT COUNT(id) FROM products
+ORDER BY category;

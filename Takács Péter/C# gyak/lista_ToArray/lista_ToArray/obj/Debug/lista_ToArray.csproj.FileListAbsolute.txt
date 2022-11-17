@@ -1,0 +1,8 @@
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\lista_ToArray\lista_ToArray\bin\Debug\lista_ToArray.exe.config
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\lista_ToArray\lista_ToArray\bin\Debug\lista_ToArray.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\lista_ToArray\lista_ToArray\bin\Debug\lista_ToArray.pdb
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\lista_ToArray\lista_ToArray\obj\Debug\lista_ToArray.csproj.AssemblyReference.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\lista_ToArray\lista_ToArray\obj\Debug\lista_ToArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\lista_ToArray\lista_ToArray\obj\Debug\lista_ToArray.csproj.CoreCompileInputs.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\lista_ToArray\lista_ToArray\obj\Debug\lista_ToArray.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\lista_ToArray\lista_ToArray\obj\Debug\lista_ToArray.pdb

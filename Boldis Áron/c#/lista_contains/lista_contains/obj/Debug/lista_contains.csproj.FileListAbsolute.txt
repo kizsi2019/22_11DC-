@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_contains\lista_contains\bin\Debug\lista_contains.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_contains\lista_contains\bin\Debug\lista_contains.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_contains\lista_contains\bin\Debug\lista_contains.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_contains\lista_contains\obj\Debug\lista_contains.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_contains\lista_contains\obj\Debug\lista_contains.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_contains\lista_contains\obj\Debug\lista_contains.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_contains\lista_contains\obj\Debug\lista_contains.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_contains\lista_contains\obj\Debug\lista_contains.pdb

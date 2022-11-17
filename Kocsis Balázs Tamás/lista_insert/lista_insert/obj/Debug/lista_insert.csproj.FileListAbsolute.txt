@@ -1,0 +1,8 @@
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_insert\lista_insert\bin\Debug\lista_insert.exe.config
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_insert\lista_insert\bin\Debug\lista_insert.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_insert\lista_insert\bin\Debug\lista_insert.pdb
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_insert\lista_insert\obj\Debug\lista_insert.csproj.AssemblyReference.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_insert\lista_insert\obj\Debug\lista_insert.csproj.SuggestedBindingRedirects.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_insert\lista_insert\obj\Debug\lista_insert.csproj.CoreCompileInputs.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_insert\lista_insert\obj\Debug\lista_insert.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_insert\lista_insert\obj\Debug\lista_insert.pdb

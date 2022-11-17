@@ -1,0 +1,8 @@
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\osszegzes\osszegzes\bin\Debug\osszegzes.exe.config
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\osszegzes\osszegzes\bin\Debug\osszegzes.exe
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\osszegzes\osszegzes\bin\Debug\osszegzes.pdb
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\osszegzes\osszegzes\obj\Debug\osszegzes.csproj.AssemblyReference.cache
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\osszegzes\osszegzes\obj\Debug\osszegzes.csproj.SuggestedBindingRedirects.cache
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\osszegzes\osszegzes\obj\Debug\osszegzes.csproj.CoreCompileInputs.cache
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\osszegzes\osszegzes\obj\Debug\osszegzes.exe
+C:\Users\SarkadiKristofStefan\Documents\Sarkad.Kristf.Stefn_2022.-23._11.D_1.csop\Vis_stud_2022\22_11DC-\osszegzes\osszegzes\obj\Debug\osszegzes.pdb

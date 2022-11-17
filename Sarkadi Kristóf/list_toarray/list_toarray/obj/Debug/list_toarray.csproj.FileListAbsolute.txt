@@ -1,0 +1,8 @@
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\list_toarray\list_toarray\bin\Debug\list_toarray.exe.config
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\list_toarray\list_toarray\bin\Debug\list_toarray.exe
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\list_toarray\list_toarray\bin\Debug\list_toarray.pdb
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\list_toarray\list_toarray\obj\Debug\list_toarray.csproj.AssemblyReference.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\list_toarray\list_toarray\obj\Debug\list_toarray.csproj.SuggestedBindingRedirects.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\list_toarray\list_toarray\obj\Debug\list_toarray.csproj.CoreCompileInputs.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\list_toarray\list_toarray\obj\Debug\list_toarray.exe
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\list_toarray\list_toarray\obj\Debug\list_toarray.pdb

@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_clear\lista_clear\bin\Debug\lista_clear.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_clear\lista_clear\bin\Debug\lista_clear.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_clear\lista_clear\bin\Debug\lista_clear.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_clear\lista_clear\obj\Debug\lista_clear.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_clear\lista_clear\obj\Debug\lista_clear.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_clear\lista_clear\obj\Debug\lista_clear.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_clear\lista_clear\obj\Debug\lista_clear.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_clear\lista_clear\obj\Debug\lista_clear.pdb

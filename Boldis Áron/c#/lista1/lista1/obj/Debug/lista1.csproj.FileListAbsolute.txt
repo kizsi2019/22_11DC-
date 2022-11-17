@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\lista1\lista1\bin\Debug\lista1.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\lista1\lista1\bin\Debug\lista1.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\lista1\lista1\bin\Debug\lista1.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\lista1\lista1\obj\Debug\lista1.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\lista1\lista1\obj\Debug\lista1.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\lista1\lista1\obj\Debug\lista1.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\lista1\lista1\obj\Debug\lista1.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\lista1\lista1\obj\Debug\lista1.pdb

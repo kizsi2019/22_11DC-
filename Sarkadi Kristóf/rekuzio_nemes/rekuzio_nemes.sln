@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rekuzio_nemes", "rekuzio_nemes\rekuzio_nemes.csproj", "{B45606E9-16BD-45CA-BA5F-EEE23EABD1D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B45606E9-16BD-45CA-BA5F-EEE23EABD1D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B45606E9-16BD-45CA-BA5F-EEE23EABD1D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B45606E9-16BD-45CA-BA5F-EEE23EABD1D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B45606E9-16BD-45CA-BA5F-EEE23EABD1D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2DA9476-ECB6-4DF6-97E1-1C8DD6527771}
+	EndGlobalSection
+EndGlobal
