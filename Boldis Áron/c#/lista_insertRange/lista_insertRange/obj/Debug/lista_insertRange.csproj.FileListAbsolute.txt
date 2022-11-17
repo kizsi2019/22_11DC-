@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_insertRange\lista_insertRange\bin\Debug\lista_insertRange.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_insertRange\lista_insertRange\bin\Debug\lista_insertRange.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_insertRange\lista_insertRange\bin\Debug\lista_insertRange.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_insertRange\lista_insertRange\obj\Debug\lista_insertRange.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_insertRange\lista_insertRange\obj\Debug\lista_insertRange.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_insertRange\lista_insertRange\obj\Debug\lista_insertRange.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_insertRange\lista_insertRange\obj\Debug\lista_insertRange.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_insertRange\lista_insertRange\obj\Debug\lista_insertRange.pdb

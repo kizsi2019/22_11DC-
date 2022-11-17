@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_list.toArray\lista_list.toArray\bin\Debug\lista_list.toArray.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_list.toArray\lista_list.toArray\bin\Debug\lista_list.toArray.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_list.toArray\lista_list.toArray\bin\Debug\lista_list.toArray.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_list.toArray\lista_list.toArray\obj\Debug\lista_list.toArray.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_list.toArray\lista_list.toArray\obj\Debug\lista_list.toArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_list.toArray\lista_list.toArray\obj\Debug\lista_list.toArray.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_list.toArray\lista_list.toArray\obj\Debug\lista_list.toArray.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_list.toArray\lista_list.toArray\obj\Debug\lista_list.toArray.pdb
