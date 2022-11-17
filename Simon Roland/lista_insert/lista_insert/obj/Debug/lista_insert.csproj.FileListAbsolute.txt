@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\lista_insert\lista_insert\bin\Debug\lista_insert.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\lista_insert\lista_insert\bin\Debug\lista_insert.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\lista_insert\lista_insert\bin\Debug\lista_insert.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\lista_insert\lista_insert\obj\Debug\lista_insert.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\lista_insert\lista_insert\obj\Debug\lista_insert.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\lista_insert\lista_insert\obj\Debug\lista_insert.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\lista_insert\lista_insert\obj\Debug\lista_insert.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\lista_insert\lista_insert\obj\Debug\lista_insert.pdb

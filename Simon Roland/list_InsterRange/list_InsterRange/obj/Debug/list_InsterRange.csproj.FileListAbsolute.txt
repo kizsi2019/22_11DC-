@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\list_InsterRange\list_InsterRange\bin\Debug\list_InsterRange.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\list_InsterRange\list_InsterRange\bin\Debug\list_InsterRange.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\list_InsterRange\list_InsterRange\bin\Debug\list_InsterRange.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\list_InsterRange\list_InsterRange\obj\Debug\list_InsterRange.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\list_InsterRange\list_InsterRange\obj\Debug\list_InsterRange.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\list_InsterRange\list_InsterRange\obj\Debug\list_InsterRange.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\list_InsterRange\list_InsterRange\obj\Debug\list_InsterRange.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\list_InsterRange\list_InsterRange\obj\Debug\list_InsterRange.pdb
