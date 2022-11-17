@@ -1,0 +1,8 @@
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\lista_insert\lista_insert\bin\Debug\lista_insert.exe.config
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\lista_insert\lista_insert\bin\Debug\lista_insert.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\lista_insert\lista_insert\bin\Debug\lista_insert.pdb
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\lista_insert\lista_insert\obj\Debug\lista_insert.csproj.AssemblyReference.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\lista_insert\lista_insert\obj\Debug\lista_insert.csproj.SuggestedBindingRedirects.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\lista_insert\lista_insert\obj\Debug\lista_insert.csproj.CoreCompileInputs.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\lista_insert\lista_insert\obj\Debug\lista_insert.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\lista_insert\lista_insert\obj\Debug\lista_insert.pdb
