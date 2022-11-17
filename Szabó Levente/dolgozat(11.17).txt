@@ -1,0 +1,15 @@
+1
+A, SELECT standard_cost FROM products;
+a, SELECT MIN(standard_cost) AS legkissebb FROM products;
+b, SELECT MAX(standard_cost) AS legnagyobb FROM products;
+c, SELECT MAX(standard_cost) AS legnagyobb FROM products WHERE list_price > 31;
+d, SELECT MAX(standard_cost) AS legnagyobb FROM products WHERE product_code ='%Co';
+
+2
+A, SELECT id FROM employees;
+a, SELECT id FROM employees WHERE city = 'Seattle';
+b, SELECT id FROM employees WHERE job_title = 'Sales Representative';
+c, SELECT id FROM employees WHERE first_name = '%A';
+
+3
+A, 
