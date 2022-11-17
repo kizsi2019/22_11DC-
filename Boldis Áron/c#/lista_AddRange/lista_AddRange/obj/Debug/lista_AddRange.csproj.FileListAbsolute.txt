@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_AddRange\lista_AddRange\bin\Debug\lista_AddRange.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_AddRange\lista_AddRange\bin\Debug\lista_AddRange.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_AddRange\lista_AddRange\bin\Debug\lista_AddRange.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_AddRange\lista_AddRange\obj\Debug\lista_AddRange.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_AddRange\lista_AddRange\obj\Debug\lista_AddRange.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_AddRange\lista_AddRange\obj\Debug\lista_AddRange.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_AddRange\lista_AddRange\obj\Debug\lista_AddRange.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lista_AddRange\lista_AddRange\obj\Debug\lista_AddRange.pdb
