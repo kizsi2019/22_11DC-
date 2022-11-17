@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\list_IndexOf\list_IndexOf\bin\Debug\list_IndexOf.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\list_IndexOf\list_IndexOf\bin\Debug\list_IndexOf.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\list_IndexOf\list_IndexOf\bin\Debug\list_IndexOf.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\list_IndexOf\list_IndexOf\obj\Debug\list_IndexOf.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\list_IndexOf\list_IndexOf\obj\Debug\list_IndexOf.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\list_IndexOf\list_IndexOf\obj\Debug\list_IndexOf.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\list_IndexOf\list_IndexOf\obj\Debug\list_IndexOf.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\list_IndexOf\list_IndexOf\obj\Debug\list_IndexOf.pdb

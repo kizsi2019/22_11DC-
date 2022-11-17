@@ -1,0 +1,8 @@
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\lista_removeAT\lista_removeAT\bin\Debug\lista_removeAT.exe.config
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\lista_removeAT\lista_removeAT\bin\Debug\lista_removeAT.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\lista_removeAT\lista_removeAT\bin\Debug\lista_removeAT.pdb
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\lista_removeAT\lista_removeAT\obj\Debug\lista_removeAT.csproj.AssemblyReference.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\lista_removeAT\lista_removeAT\obj\Debug\lista_removeAT.csproj.SuggestedBindingRedirects.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\lista_removeAT\lista_removeAT\obj\Debug\lista_removeAT.csproj.CoreCompileInputs.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\lista_removeAT\lista_removeAT\obj\Debug\lista_removeAT.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\lista_removeAT\lista_removeAT\obj\Debug\lista_removeAT.pdb
