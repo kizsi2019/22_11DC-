@@ -1,0 +1,8 @@
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\hibakezeless\hibakezeless\bin\Debug\hibakezeless.exe.config
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\hibakezeless\hibakezeless\bin\Debug\hibakezeless.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\hibakezeless\hibakezeless\bin\Debug\hibakezeless.pdb
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\hibakezeless\hibakezeless\obj\Debug\hibakezeless.csproj.AssemblyReference.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\hibakezeless\hibakezeless\obj\Debug\hibakezeless.csproj.SuggestedBindingRedirects.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\hibakezeless\hibakezeless\obj\Debug\hibakezeless.csproj.CoreCompileInputs.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\hibakezeless\hibakezeless\obj\Debug\hibakezeless.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\hibakezeless\hibakezeless\obj\Debug\hibakezeless.pdb

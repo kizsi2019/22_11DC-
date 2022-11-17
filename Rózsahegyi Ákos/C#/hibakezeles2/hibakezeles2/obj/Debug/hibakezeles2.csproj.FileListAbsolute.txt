@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\hibakezeles2\hibakezeles2\bin\Debug\hibakezeles2.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\hibakezeles2\hibakezeles2\bin\Debug\hibakezeles2.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\hibakezeles2\hibakezeles2\bin\Debug\hibakezeles2.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\hibakezeles2\hibakezeles2\obj\Debug\hibakezeles2.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\hibakezeles2\hibakezeles2\obj\Debug\hibakezeles2.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\hibakezeles2\hibakezeles2\obj\Debug\hibakezeles2.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\hibakezeles2\hibakezeles2\obj\Debug\hibakezeles2.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\hibakezeles2\hibakezeles2\obj\Debug\hibakezeles2.pdb

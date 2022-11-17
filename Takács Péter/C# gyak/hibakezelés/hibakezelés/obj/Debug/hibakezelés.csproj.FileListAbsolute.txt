@@ -1,0 +1,8 @@
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\hibakezelés\hibakezelés\bin\Debug\hibakezelés.exe.config
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\hibakezelés\hibakezelés\bin\Debug\hibakezelés.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\hibakezelés\hibakezelés\bin\Debug\hibakezelés.pdb
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\hibakezelés\hibakezelés\obj\Debug\hibakezelés.csproj.AssemblyReference.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\hibakezelés\hibakezelés\obj\Debug\hibakezelés.csproj.SuggestedBindingRedirects.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\hibakezelés\hibakezelés\obj\Debug\hibakezelés.csproj.CoreCompileInputs.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\hibakezelés\hibakezelés\obj\Debug\hibakezelés.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\hibakezelés\hibakezelés\obj\Debug\hibakezelés.pdb
