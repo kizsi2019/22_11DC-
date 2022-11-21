@@ -12,3 +12,9 @@
 3) a) CREATE TABLE x10_products
 	SELECT COUNT(id) FROM products
     	ORDER BY category;
+
+              ///
+
+	CREATE TABLE x10_products
+	  SELECT COUNT(id) FROM products
+	  GROUP BY category;

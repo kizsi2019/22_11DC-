@@ -1,0 +1,27 @@
+1/ A 
+SELECT 	MIN(standard_cost) From products;
+
+   B
+SELECT 	MAX(standard_cost) From products;
+
+   C
+select MAX(standard_cost) from products
+where list_price > 30;
+   
+   D
+select MAX(standard_cost) from products
+where product_code IN "CO";
+
+2/ A
+SELECT COUNT(*) FROM employees
+WHERE city LIKE "Seattle";
+   
+   B
+SELECT COUNT(*) FROM employees
+WHERE job_title LIKE "Sales Representative";
+
+   C
+SELECT COUNT(*) FROM employees
+WHERE first_name LIKE "A%";
+
+3/
