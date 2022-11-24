@@ -1,0 +1,8 @@
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\referencia masolals\referencia masolals\bin\Debug\referencia masolals.exe.config
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\referencia masolals\referencia masolals\bin\Debug\referencia masolals.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\referencia masolals\referencia masolals\bin\Debug\referencia masolals.pdb
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\referencia masolals\referencia masolals\obj\Debug\referencia masolals.csproj.AssemblyReference.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\referencia masolals\referencia masolals\obj\Debug\referencia masolals.csproj.SuggestedBindingRedirects.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\referencia masolals\referencia masolals\obj\Debug\referencia masolals.csproj.CoreCompileInputs.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\referencia masolals\referencia masolals\obj\Debug\referencia masolals.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\referencia masolals\referencia masolals\obj\Debug\referencia masolals.pdb
