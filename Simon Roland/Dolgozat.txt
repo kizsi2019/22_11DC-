@@ -18,6 +18,6 @@ SELECT COUNT(first_name) FROM `employees` WHERE first_name LIKE "A%";
 
 3.
 
-CREATE TABLE x10_products
-SELECT COUNT(id) FROM products
-ORDER BY category;
+CREATE TABLE x11_products
+SELECT COUNT(id) FROM products as termek_szama
+GROUP BY category;
