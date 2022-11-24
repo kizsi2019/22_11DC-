@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\halmazok_lottozo\halmazok_lottozo\bin\Debug\halmazok_lottozo.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\halmazok_lottozo\halmazok_lottozo\bin\Debug\halmazok_lottozo.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\halmazok_lottozo\halmazok_lottozo\bin\Debug\halmazok_lottozo.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\halmazok_lottozo\halmazok_lottozo\obj\Debug\halmazok_lottozo.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\halmazok_lottozo\halmazok_lottozo\obj\Debug\halmazok_lottozo.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\halmazok_lottozo\halmazok_lottozo\obj\Debug\halmazok_lottozo.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\halmazok_lottozo\halmazok_lottozo\obj\Debug\halmazok_lottozo.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\halmazok_lottozo\halmazok_lottozo\obj\Debug\halmazok_lottozo.pdb

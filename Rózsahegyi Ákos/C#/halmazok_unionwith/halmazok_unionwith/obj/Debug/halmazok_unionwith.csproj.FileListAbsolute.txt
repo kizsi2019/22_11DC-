@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\halmazok_unionwith\halmazok_unionwith\bin\Debug\halmazok_unionwith.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\halmazok_unionwith\halmazok_unionwith\bin\Debug\halmazok_unionwith.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\halmazok_unionwith\halmazok_unionwith\bin\Debug\halmazok_unionwith.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\halmazok_unionwith\halmazok_unionwith\obj\Debug\halmazok_unionwith.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\halmazok_unionwith\halmazok_unionwith\obj\Debug\halmazok_unionwith.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\halmazok_unionwith\halmazok_unionwith\obj\Debug\halmazok_unionwith.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\halmazok_unionwith\halmazok_unionwith\obj\Debug\halmazok_unionwith.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\halmazok_unionwith\halmazok_unionwith\obj\Debug\halmazok_unionwith.pdb
