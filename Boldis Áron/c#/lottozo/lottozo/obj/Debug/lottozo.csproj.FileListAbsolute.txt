@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lottozo\lottozo\bin\Debug\lottozo.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lottozo\lottozo\bin\Debug\lottozo.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lottozo\lottozo\bin\Debug\lottozo.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lottozo\lottozo\obj\Debug\lottozo.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lottozo\lottozo\obj\Debug\lottozo.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lottozo\lottozo\obj\Debug\lottozo.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lottozo\lottozo\obj\Debug\lottozo.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\lottozo\lottozo\obj\Debug\lottozo.pdb

@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\halmaz_symmetricexcepwidth\halmaz_symmetricexcepwidth\bin\Debug\halmaz_symmetricexcepwidth.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\halmaz_symmetricexcepwidth\halmaz_symmetricexcepwidth\bin\Debug\halmaz_symmetricexcepwidth.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\halmaz_symmetricexcepwidth\halmaz_symmetricexcepwidth\bin\Debug\halmaz_symmetricexcepwidth.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\halmaz_symmetricexcepwidth\halmaz_symmetricexcepwidth\obj\Debug\halmaz_symmetricexcepwidth.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\halmaz_symmetricexcepwidth\halmaz_symmetricexcepwidth\obj\Debug\halmaz_symmetricexcepwidth.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\halmaz_symmetricexcepwidth\halmaz_symmetricexcepwidth\obj\Debug\halmaz_symmetricexcepwidth.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\halmaz_symmetricexcepwidth\halmaz_symmetricexcepwidth\obj\Debug\halmaz_symmetricexcepwidth.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\halmaz_symmetricexcepwidth\halmaz_symmetricexcepwidth\obj\Debug\halmaz_symmetricexcepwidth.pdb
