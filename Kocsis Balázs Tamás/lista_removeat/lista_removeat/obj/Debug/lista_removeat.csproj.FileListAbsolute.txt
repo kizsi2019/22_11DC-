@@ -1,0 +1,8 @@
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_removeat\lista_removeat\bin\Debug\lista_removeat.exe.config
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_removeat\lista_removeat\bin\Debug\lista_removeat.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_removeat\lista_removeat\bin\Debug\lista_removeat.pdb
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_removeat\lista_removeat\obj\Debug\lista_removeat.csproj.AssemblyReference.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_removeat\lista_removeat\obj\Debug\lista_removeat.csproj.SuggestedBindingRedirects.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_removeat\lista_removeat\obj\Debug\lista_removeat.csproj.CoreCompileInputs.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_removeat\lista_removeat\obj\Debug\lista_removeat.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\lista_removeat\lista_removeat\obj\Debug\lista_removeat.pdb

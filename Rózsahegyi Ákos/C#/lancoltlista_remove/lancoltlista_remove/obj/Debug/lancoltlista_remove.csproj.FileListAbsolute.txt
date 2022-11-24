@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\lancoltlista_remove\lancoltlista_remove\bin\Debug\lancoltlista_remove.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\lancoltlista_remove\lancoltlista_remove\bin\Debug\lancoltlista_remove.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\lancoltlista_remove\lancoltlista_remove\bin\Debug\lancoltlista_remove.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\lancoltlista_remove\lancoltlista_remove\obj\Debug\lancoltlista_remove.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\lancoltlista_remove\lancoltlista_remove\obj\Debug\lancoltlista_remove.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\lancoltlista_remove\lancoltlista_remove\obj\Debug\lancoltlista_remove.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\lancoltlista_remove\lancoltlista_remove\obj\Debug\lancoltlista_remove.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\lancoltlista_remove\lancoltlista_remove\obj\Debug\lancoltlista_remove.pdb

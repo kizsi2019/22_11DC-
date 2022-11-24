@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\lista1\lista1\bin\Debug\lista1.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\lista1\lista1\bin\Debug\lista1.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\lista1\lista1\bin\Debug\lista1.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\lista1\lista1\obj\Debug\lista1.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\lista1\lista1\obj\Debug\lista1.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\lista1\lista1\obj\Debug\lista1.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\lista1\lista1\obj\Debug\lista1.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\lista1\lista1\obj\Debug\lista1.pdb

@@ -1,0 +1,24 @@
+1/A)
+select MIN(standard_cost)AS legkisebb from products;
+1/B)
+select MAX(standard_cost)AS legnagyobb from products;
+1/C)
+select * FROM products where "list_price" > 30;
+1/D)
+Select 
+
+
+2/A)
+select city from employees WHERE city = 'Seattle';
+2/B)
+select company from employees WHERE company = 'Sales Representative';
+2/C
+SELECT * FROM employees WHERE first_name like 'A';
+
+3/A)
+DROP TABLE if EXISTS x10
+CREATE TABLE x10
+select count (id) from products order by category;
+
+
+
