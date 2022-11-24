@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\szotar_containskey\szotar_containskey\bin\Debug\szotar_containskey.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\szotar_containskey\szotar_containskey\bin\Debug\szotar_containskey.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\szotar_containskey\szotar_containskey\bin\Debug\szotar_containskey.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\szotar_containskey\szotar_containskey\obj\Debug\szotar_containskey.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\szotar_containskey\szotar_containskey\obj\Debug\szotar_containskey.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\szotar_containskey\szotar_containskey\obj\Debug\szotar_containskey.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\szotar_containskey\szotar_containskey\obj\Debug\szotar_containskey.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\szotar_containskey\szotar_containskey\obj\Debug\szotar_containskey.pdb

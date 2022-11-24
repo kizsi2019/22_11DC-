@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\halmaz_unionwith\halmaz_unionwith\bin\Debug\halmaz_unionwith.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\halmaz_unionwith\halmaz_unionwith\bin\Debug\halmaz_unionwith.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\halmaz_unionwith\halmaz_unionwith\bin\Debug\halmaz_unionwith.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\halmaz_unionwith\halmaz_unionwith\obj\Debug\halmaz_unionwith.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\halmaz_unionwith\halmaz_unionwith\obj\Debug\halmaz_unionwith.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\halmaz_unionwith\halmaz_unionwith\obj\Debug\halmaz_unionwith.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\halmaz_unionwith\halmaz_unionwith\obj\Debug\halmaz_unionwith.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\halmaz_unionwith\halmaz_unionwith\obj\Debug\halmaz_unionwith.pdb
