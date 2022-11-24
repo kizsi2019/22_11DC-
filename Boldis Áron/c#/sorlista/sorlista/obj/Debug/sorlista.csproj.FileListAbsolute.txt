@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\sorlista\sorlista\bin\Debug\sorlista.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\sorlista\sorlista\bin\Debug\sorlista.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\sorlista\sorlista\bin\Debug\sorlista.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\sorlista\sorlista\obj\Debug\sorlista.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\sorlista\sorlista\obj\Debug\sorlista.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\sorlista\sorlista\obj\Debug\sorlista.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\sorlista\sorlista\obj\Debug\sorlista.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\sorlista\sorlista\obj\Debug\sorlista.pdb

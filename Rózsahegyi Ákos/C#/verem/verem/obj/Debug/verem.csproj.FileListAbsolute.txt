@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\verem\verem\bin\Debug\verem.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\verem\verem\bin\Debug\verem.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\verem\verem\bin\Debug\verem.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\verem\verem\obj\Debug\verem.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\verem\verem\obj\Debug\verem.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\verem\verem\obj\Debug\verem.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\verem\verem\obj\Debug\verem.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\verem\verem\obj\Debug\verem.pdb

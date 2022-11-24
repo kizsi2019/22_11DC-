@@ -1,0 +1,8 @@
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szotae\szotae\obj\Debug\szotae.csproj.AssemblyReference.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szotae\szotae\obj\Debug\szotae.csproj.SuggestedBindingRedirects.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szotae\szotae\obj\Debug\szotae.csproj.CoreCompileInputs.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szotae\szotae\bin\Debug\szotae.exe.config
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szotae\szotae\bin\Debug\szotae.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szotae\szotae\bin\Debug\szotae.pdb
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szotae\szotae\obj\Debug\szotae.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szotae\szotae\obj\Debug\szotae.pdb

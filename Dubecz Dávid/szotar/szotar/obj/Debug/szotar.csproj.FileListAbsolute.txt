@@ -1,0 +1,8 @@
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\szotar\szotar\bin\Debug\szotar.exe.config
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\szotar\szotar\bin\Debug\szotar.exe
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\szotar\szotar\bin\Debug\szotar.pdb
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\szotar\szotar\obj\Debug\szotar.csproj.AssemblyReference.cache
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\szotar\szotar\obj\Debug\szotar.csproj.SuggestedBindingRedirects.cache
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\szotar\szotar\obj\Debug\szotar.csproj.CoreCompileInputs.cache
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\szotar\szotar\obj\Debug\szotar.exe
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\szotar\szotar\obj\Debug\szotar.pdb
