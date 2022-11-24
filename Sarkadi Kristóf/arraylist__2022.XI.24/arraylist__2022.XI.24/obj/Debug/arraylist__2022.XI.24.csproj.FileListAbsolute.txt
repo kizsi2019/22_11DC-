@@ -1,0 +1,8 @@
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\arraylist__2022.XI.24\arraylist__2022.XI.24\bin\Debug\arraylist__2022.XI.24.exe.config
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\arraylist__2022.XI.24\arraylist__2022.XI.24\bin\Debug\arraylist__2022.XI.24.exe
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\arraylist__2022.XI.24\arraylist__2022.XI.24\bin\Debug\arraylist__2022.XI.24.pdb
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\arraylist__2022.XI.24\arraylist__2022.XI.24\obj\Debug\arraylist__2022.XI.24.csproj.AssemblyReference.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\arraylist__2022.XI.24\arraylist__2022.XI.24\obj\Debug\arraylist__2022.XI.24.csproj.SuggestedBindingRedirects.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\arraylist__2022.XI.24\arraylist__2022.XI.24\obj\Debug\arraylist__2022.XI.24.csproj.CoreCompileInputs.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\arraylist__2022.XI.24\arraylist__2022.XI.24\obj\Debug\arraylist__2022.XI.24.exe
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\arraylist__2022.XI.24\arraylist__2022.XI.24\obj\Debug\arraylist__2022.XI.24.pdb

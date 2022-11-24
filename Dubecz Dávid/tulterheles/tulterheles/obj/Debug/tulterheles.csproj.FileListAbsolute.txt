@@ -1,0 +1,8 @@
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\tulterheles\tulterheles\bin\Debug\tulterheles.exe.config
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\tulterheles\tulterheles\bin\Debug\tulterheles.exe
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\tulterheles\tulterheles\bin\Debug\tulterheles.pdb
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\tulterheles\tulterheles\obj\Debug\tulterheles.csproj.AssemblyReference.cache
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\tulterheles\tulterheles\obj\Debug\tulterheles.csproj.SuggestedBindingRedirects.cache
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\tulterheles\tulterheles\obj\Debug\tulterheles.csproj.CoreCompileInputs.cache
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\tulterheles\tulterheles\obj\Debug\tulterheles.exe
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\tulterheles\tulterheles\obj\Debug\tulterheles.pdb

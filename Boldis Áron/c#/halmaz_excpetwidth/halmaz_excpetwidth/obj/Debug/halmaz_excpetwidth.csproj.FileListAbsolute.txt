@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\halmaz_excpetwidth\halmaz_excpetwidth\bin\Debug\halmaz_excpetwidth.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\halmaz_excpetwidth\halmaz_excpetwidth\bin\Debug\halmaz_excpetwidth.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\halmaz_excpetwidth\halmaz_excpetwidth\bin\Debug\halmaz_excpetwidth.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\halmaz_excpetwidth\halmaz_excpetwidth\obj\Debug\halmaz_excpetwidth.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\halmaz_excpetwidth\halmaz_excpetwidth\obj\Debug\halmaz_excpetwidth.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\halmaz_excpetwidth\halmaz_excpetwidth\obj\Debug\halmaz_excpetwidth.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\halmaz_excpetwidth\halmaz_excpetwidth\obj\Debug\halmaz_excpetwidth.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\halmaz_excpetwidth\halmaz_excpetwidth\obj\Debug\halmaz_excpetwidth.pdb

@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\linkedlist_node\linkedlist_node\bin\Debug\linkedlist_node.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\linkedlist_node\linkedlist_node\bin\Debug\linkedlist_node.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\linkedlist_node\linkedlist_node\bin\Debug\linkedlist_node.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\linkedlist_node\linkedlist_node\obj\Debug\linkedlist_node.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\linkedlist_node\linkedlist_node\obj\Debug\linkedlist_node.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\linkedlist_node\linkedlist_node\obj\Debug\linkedlist_node.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\linkedlist_node\linkedlist_node\obj\Debug\linkedlist_node.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\linkedlist_node\linkedlist_node\obj\Debug\linkedlist_node.pdb

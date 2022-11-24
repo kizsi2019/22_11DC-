@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\láncolt_lista\láncolt_lista\bin\Debug\láncolt_lista.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\láncolt_lista\láncolt_lista\bin\Debug\láncolt_lista.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\láncolt_lista\láncolt_lista\bin\Debug\láncolt_lista.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\láncolt_lista\láncolt_lista\obj\Debug\láncolt_lista.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\láncolt_lista\láncolt_lista\obj\Debug\láncolt_lista.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\láncolt_lista\láncolt_lista\obj\Debug\láncolt_lista.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\láncolt_lista\láncolt_lista\obj\Debug\láncolt_lista.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\láncolt_lista\láncolt_lista\obj\Debug\láncolt_lista.pdb

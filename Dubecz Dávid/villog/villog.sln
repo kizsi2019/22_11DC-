@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "villog", "villog\villog.csproj", "{4BF8DFA0-B75A-44A7-B503-D17999A047BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BF8DFA0-B75A-44A7-B503-D17999A047BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF8DFA0-B75A-44A7-B503-D17999A047BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF8DFA0-B75A-44A7-B503-D17999A047BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF8DFA0-B75A-44A7-B503-D17999A047BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9851692-4BE8-4939-AA58-A6B1B606047D}
+	EndGlobalSection
+EndGlobal

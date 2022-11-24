@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\referencia_masolas\referencia_masolas\bin\Debug\referencia_masolas.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\referencia_masolas\referencia_masolas\bin\Debug\referencia_masolas.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\referencia_masolas\referencia_masolas\bin\Debug\referencia_masolas.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\referencia_masolas\referencia_masolas\obj\Debug\referencia_masolas.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\referencia_masolas\referencia_masolas\obj\Debug\referencia_masolas.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\referencia_masolas\referencia_masolas\obj\Debug\referencia_masolas.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\referencia_masolas\referencia_masolas\obj\Debug\referencia_masolas.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\referencia_masolas\referencia_masolas\obj\Debug\referencia_masolas.pdb
