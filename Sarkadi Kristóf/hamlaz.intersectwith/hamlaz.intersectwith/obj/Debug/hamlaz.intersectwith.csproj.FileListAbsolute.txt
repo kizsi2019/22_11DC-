@@ -1,0 +1,8 @@
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\hamlaz.intersectwith\hamlaz.intersectwith\bin\Debug\hamlaz.intersectwith.exe.config
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\hamlaz.intersectwith\hamlaz.intersectwith\bin\Debug\hamlaz.intersectwith.exe
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\hamlaz.intersectwith\hamlaz.intersectwith\bin\Debug\hamlaz.intersectwith.pdb
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\hamlaz.intersectwith\hamlaz.intersectwith\obj\Debug\hamlaz.intersectwith.csproj.AssemblyReference.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\hamlaz.intersectwith\hamlaz.intersectwith\obj\Debug\hamlaz.intersectwith.csproj.SuggestedBindingRedirects.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\hamlaz.intersectwith\hamlaz.intersectwith\obj\Debug\hamlaz.intersectwith.csproj.CoreCompileInputs.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\hamlaz.intersectwith\hamlaz.intersectwith\obj\Debug\hamlaz.intersectwith.exe
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\hamlaz.intersectwith\hamlaz.intersectwith\obj\Debug\hamlaz.intersectwith.pdb
