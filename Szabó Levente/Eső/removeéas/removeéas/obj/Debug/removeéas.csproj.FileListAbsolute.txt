@@ -1,0 +1,8 @@
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\removeéas\removeéas\bin\Debug\removeéas.exe.config
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\removeéas\removeéas\bin\Debug\removeéas.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\removeéas\removeéas\bin\Debug\removeéas.pdb
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\removeéas\removeéas\obj\Debug\removeéas.csproj.AssemblyReference.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\removeéas\removeéas\obj\Debug\removeéas.csproj.SuggestedBindingRedirects.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\removeéas\removeéas\obj\Debug\removeéas.csproj.CoreCompileInputs.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\removeéas\removeéas\obj\Debug\removeéas.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\removeéas\removeéas\obj\Debug\removeéas.pdb

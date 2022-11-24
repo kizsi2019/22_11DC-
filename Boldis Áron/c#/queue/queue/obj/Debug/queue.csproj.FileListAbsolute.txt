@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\queue\queue\bin\Debug\queue.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\queue\queue\bin\Debug\queue.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\queue\queue\bin\Debug\queue.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\queue\queue\obj\Debug\queue.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\queue\queue\obj\Debug\queue.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\queue\queue\obj\Debug\queue.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\queue\queue\obj\Debug\queue.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\queue\queue\obj\Debug\queue.pdb

@@ -1,0 +1,8 @@
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\verem maki\bin\Debug\verem maki.exe.config
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\verem maki\bin\Debug\verem maki.exe
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\verem maki\bin\Debug\verem maki.pdb
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\verem maki\obj\Debug\verem maki.csproj.AssemblyReference.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\verem maki\obj\Debug\verem maki.csproj.SuggestedBindingRedirects.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\verem maki\obj\Debug\verem maki.csproj.CoreCompileInputs.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\verem maki\obj\Debug\verem maki.exe
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\verem maki\obj\Debug\verem maki.pdb

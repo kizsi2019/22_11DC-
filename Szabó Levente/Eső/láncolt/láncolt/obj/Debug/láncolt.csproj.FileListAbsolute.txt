@@ -1,0 +1,8 @@
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\láncolt\láncolt\bin\Debug\láncolt.exe.config
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\láncolt\láncolt\bin\Debug\láncolt.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\láncolt\láncolt\bin\Debug\láncolt.pdb
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\láncolt\láncolt\obj\Debug\láncolt.csproj.AssemblyReference.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\láncolt\láncolt\obj\Debug\láncolt.csproj.SuggestedBindingRedirects.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\láncolt\láncolt\obj\Debug\láncolt.csproj.CoreCompileInputs.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\láncolt\láncolt\obj\Debug\láncolt.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\láncolt\láncolt\obj\Debug\láncolt.pdb

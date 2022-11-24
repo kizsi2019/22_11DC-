@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\linkedlist_removelast\linkedlist_removelast\bin\Debug\linkedlist_removelast.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\linkedlist_removelast\linkedlist_removelast\bin\Debug\linkedlist_removelast.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\linkedlist_removelast\linkedlist_removelast\bin\Debug\linkedlist_removelast.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\linkedlist_removelast\linkedlist_removelast\obj\Debug\linkedlist_removelast.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\linkedlist_removelast\linkedlist_removelast\obj\Debug\linkedlist_removelast.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\linkedlist_removelast\linkedlist_removelast\obj\Debug\linkedlist_removelast.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\linkedlist_removelast\linkedlist_removelast\obj\Debug\linkedlist_removelast.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\linkedlist_removelast\linkedlist_removelast\obj\Debug\linkedlist_removelast.pdb
