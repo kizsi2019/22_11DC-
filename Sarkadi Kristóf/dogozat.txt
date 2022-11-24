@@ -1,0 +1,31 @@
+1.
+a)
+SELECT standard_cost FROM products
+ORDER BY standard_cost ASC;
+
+b)
+SELECT standard_cost FROM products
+ORDER BY standard_cost DESC;
+
+c)
+SELECT standard_cost FROM products
+ORDER BY list_price < 30 DESC;
+
+d)
+
+
+
+2.
+a)
+SELECT * FROM employees 
+WHERE city = 'Seattle';
+
+b)
+SELECT job_title FROM employees 
+WHERE job_title = 'Sales Representative';
+
+c)
+
+
+
+3.

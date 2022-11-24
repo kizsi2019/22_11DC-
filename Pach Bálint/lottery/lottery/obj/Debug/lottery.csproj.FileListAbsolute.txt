@@ -1,0 +1,8 @@
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\lottery\lottery\bin\Debug\lottery.exe.config
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\lottery\lottery\bin\Debug\lottery.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\lottery\lottery\bin\Debug\lottery.pdb
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\lottery\lottery\obj\Debug\lottery.csproj.AssemblyReference.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\lottery\lottery\obj\Debug\lottery.csproj.SuggestedBindingRedirects.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\lottery\lottery\obj\Debug\lottery.csproj.CoreCompileInputs.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\lottery\lottery\obj\Debug\lottery.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\lottery\lottery\obj\Debug\lottery.pdb
