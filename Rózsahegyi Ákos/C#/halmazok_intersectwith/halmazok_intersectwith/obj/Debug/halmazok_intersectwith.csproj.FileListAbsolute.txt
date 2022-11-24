@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\halmazok_intersectwith\halmazok_intersectwith\bin\Debug\halmazok_intersectwith.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\halmazok_intersectwith\halmazok_intersectwith\bin\Debug\halmazok_intersectwith.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\halmazok_intersectwith\halmazok_intersectwith\bin\Debug\halmazok_intersectwith.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\halmazok_intersectwith\halmazok_intersectwith\obj\Debug\halmazok_intersectwith.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\halmazok_intersectwith\halmazok_intersectwith\obj\Debug\halmazok_intersectwith.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\halmazok_intersectwith\halmazok_intersectwith\obj\Debug\halmazok_intersectwith.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\halmazok_intersectwith\halmazok_intersectwith\obj\Debug\halmazok_intersectwith.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\halmazok_intersectwith\halmazok_intersectwith\obj\Debug\halmazok_intersectwith.pdb

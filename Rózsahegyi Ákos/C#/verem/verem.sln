@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "verem", "verem\verem.csproj", "{B8CB6664-1B66-428D-A8C1-AD1953415DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8CB6664-1B66-428D-A8C1-AD1953415DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8CB6664-1B66-428D-A8C1-AD1953415DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8CB6664-1B66-428D-A8C1-AD1953415DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8CB6664-1B66-428D-A8C1-AD1953415DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F0E7F57-0D8E-441B-8BAA-4D2F6AA9453A}
+	EndGlobalSection
+EndGlobal
