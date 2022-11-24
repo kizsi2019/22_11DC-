@@ -1,0 +1,8 @@
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\makiverem,monke_joke\makiverem,monke_joke\bin\Debug\makiverem,monke_joke.exe.config
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\makiverem,monke_joke\makiverem,monke_joke\bin\Debug\makiverem,monke_joke.exe
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\makiverem,monke_joke\makiverem,monke_joke\bin\Debug\makiverem,monke_joke.pdb
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\makiverem,monke_joke\makiverem,monke_joke\obj\Debug\makiverem,monke_joke.csproj.AssemblyReference.cache
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\makiverem,monke_joke\makiverem,monke_joke\obj\Debug\makiverem,monke_joke.csproj.SuggestedBindingRedirects.cache
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\makiverem,monke_joke\makiverem,monke_joke\obj\Debug\makiverem,monke_joke.csproj.CoreCompileInputs.cache
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\makiverem,monke_joke\makiverem,monke_joke\obj\Debug\makiverem,monke_joke.exe
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\makiverem,monke_joke\makiverem,monke_joke\obj\Debug\makiverem,monke_joke.pdb
