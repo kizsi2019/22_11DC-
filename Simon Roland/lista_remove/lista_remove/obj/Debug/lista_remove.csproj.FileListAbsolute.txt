@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\lista_remove\lista_remove\bin\Debug\lista_remove.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\lista_remove\lista_remove\bin\Debug\lista_remove.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\lista_remove\lista_remove\bin\Debug\lista_remove.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\lista_remove\lista_remove\obj\Debug\lista_remove.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\lista_remove\lista_remove\obj\Debug\lista_remove.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\lista_remove\lista_remove\obj\Debug\lista_remove.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\lista_remove\lista_remove\obj\Debug\lista_remove.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\lista_remove\lista_remove\obj\Debug\lista_remove.pdb

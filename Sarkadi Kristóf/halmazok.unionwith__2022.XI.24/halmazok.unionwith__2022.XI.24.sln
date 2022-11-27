@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "halmazok.unionwith__2022.XI.24", "halmazok.unionwith__2022.XI.24\halmazok.unionwith__2022.XI.24.csproj", "{F158916F-F54F-4703-9EA1-D0CA4EA111B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F158916F-F54F-4703-9EA1-D0CA4EA111B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F158916F-F54F-4703-9EA1-D0CA4EA111B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F158916F-F54F-4703-9EA1-D0CA4EA111B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F158916F-F54F-4703-9EA1-D0CA4EA111B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD003135-5A81-48E1-BF64-3704C9776DC4}
+	EndGlobalSection
+EndGlobal

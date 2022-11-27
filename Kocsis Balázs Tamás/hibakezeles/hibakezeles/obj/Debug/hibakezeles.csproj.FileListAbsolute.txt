@@ -1,0 +1,8 @@
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\hibakezeles\hibakezeles\bin\Debug\hibakezeles.exe.config
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\hibakezeles\hibakezeles\bin\Debug\hibakezeles.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\hibakezeles\hibakezeles\bin\Debug\hibakezeles.pdb
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\hibakezeles\hibakezeles\obj\Debug\hibakezeles.csproj.AssemblyReference.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\hibakezeles\hibakezeles\obj\Debug\hibakezeles.csproj.SuggestedBindingRedirects.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\hibakezeles\hibakezeles\obj\Debug\hibakezeles.csproj.CoreCompileInputs.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\hibakezeles\hibakezeles\obj\Debug\hibakezeles.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\hibakezeles\hibakezeles\obj\Debug\hibakezeles.pdb

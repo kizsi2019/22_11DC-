@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\HashSet\HashSet\bin\Debug\HashSet.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\HashSet\HashSet\bin\Debug\HashSet.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\HashSet\HashSet\bin\Debug\HashSet.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\HashSet\HashSet\obj\Debug\HashSet.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\HashSet\HashSet\obj\Debug\HashSet.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\HashSet\HashSet\obj\Debug\HashSet.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\HashSet\HashSet\obj\Debug\HashSet.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\HashSet\HashSet\obj\Debug\HashSet.pdb

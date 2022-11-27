@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\linked_remove\linked_remove\bin\Debug\linked_remove.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\linked_remove\linked_remove\bin\Debug\linked_remove.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\linked_remove\linked_remove\bin\Debug\linked_remove.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\linked_remove\linked_remove\obj\Debug\linked_remove.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\linked_remove\linked_remove\obj\Debug\linked_remove.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\linked_remove\linked_remove\obj\Debug\linked_remove.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\linked_remove\linked_remove\obj\Debug\linked_remove.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\linked_remove\linked_remove\obj\Debug\linked_remove.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "faktoralish", "faktoralish\faktoralish.csproj", "{96482443-4190-4875-BC4D-F4CD6DF697BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96482443-4190-4875-BC4D-F4CD6DF697BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96482443-4190-4875-BC4D-F4CD6DF697BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96482443-4190-4875-BC4D-F4CD6DF697BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96482443-4190-4875-BC4D-F4CD6DF697BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8B6D25E-94FF-49DD-B544-4FA1B64992C1}
+	EndGlobalSection
+EndGlobal

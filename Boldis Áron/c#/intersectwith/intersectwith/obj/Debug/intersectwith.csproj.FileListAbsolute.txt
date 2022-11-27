@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\intersectwith\intersectwith\bin\Debug\intersectwith.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\intersectwith\intersectwith\bin\Debug\intersectwith.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\intersectwith\intersectwith\bin\Debug\intersectwith.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\intersectwith\intersectwith\obj\Debug\intersectwith.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\intersectwith\intersectwith\obj\Debug\intersectwith.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\intersectwith\intersectwith\obj\Debug\intersectwith.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\intersectwith\intersectwith\obj\Debug\intersectwith.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\intersectwith\intersectwith\obj\Debug\intersectwith.pdb

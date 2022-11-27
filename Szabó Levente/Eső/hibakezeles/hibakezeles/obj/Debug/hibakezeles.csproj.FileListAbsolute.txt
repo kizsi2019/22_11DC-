@@ -1,0 +1,8 @@
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\hibakezeles\hibakezeles\bin\Debug\hibakezeles.exe.config
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\hibakezeles\hibakezeles\bin\Debug\hibakezeles.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\hibakezeles\hibakezeles\bin\Debug\hibakezeles.pdb
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\hibakezeles\hibakezeles\obj\Debug\hibakezeles.csproj.AssemblyReference.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\hibakezeles\hibakezeles\obj\Debug\hibakezeles.csproj.SuggestedBindingRedirects.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\hibakezeles\hibakezeles\obj\Debug\hibakezeles.csproj.CoreCompileInputs.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\hibakezeles\hibakezeles\obj\Debug\hibakezeles.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\hibakezeles\hibakezeles\obj\Debug\hibakezeles.pdb

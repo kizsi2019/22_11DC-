@@ -1,0 +1,8 @@
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\list_contain__2022.XI.17\list_contain__2022.XI.17\bin\Debug\list_contain__2022.XI.17.exe.config
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\list_contain__2022.XI.17\list_contain__2022.XI.17\bin\Debug\list_contain__2022.XI.17.exe
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\list_contain__2022.XI.17\list_contain__2022.XI.17\bin\Debug\list_contain__2022.XI.17.pdb
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\list_contain__2022.XI.17\list_contain__2022.XI.17\obj\Debug\list_contain__2022.XI.17.csproj.AssemblyReference.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\list_contain__2022.XI.17\list_contain__2022.XI.17\obj\Debug\list_contain__2022.XI.17.csproj.SuggestedBindingRedirects.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\list_contain__2022.XI.17\list_contain__2022.XI.17\obj\Debug\list_contain__2022.XI.17.csproj.CoreCompileInputs.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\list_contain__2022.XI.17\list_contain__2022.XI.17\obj\Debug\list_contain__2022.XI.17.exe
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\list_contain__2022.XI.17\list_contain__2022.XI.17\obj\Debug\list_contain__2022.XI.17.pdb

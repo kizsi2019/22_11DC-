@@ -1,0 +1,8 @@
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\hatterszinek\hatterszinek\bin\Debug\hatterszinek.exe.config
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\hatterszinek\hatterszinek\bin\Debug\hatterszinek.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\hatterszinek\hatterszinek\bin\Debug\hatterszinek.pdb
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\hatterszinek\hatterszinek\obj\Debug\hatterszinek.csproj.AssemblyReference.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\hatterszinek\hatterszinek\obj\Debug\hatterszinek.csproj.SuggestedBindingRedirects.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\hatterszinek\hatterszinek\obj\Debug\hatterszinek.csproj.CoreCompileInputs.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\hatterszinek\hatterszinek\obj\Debug\hatterszinek.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\hatterszinek\hatterszinek\obj\Debug\hatterszinek.pdb
