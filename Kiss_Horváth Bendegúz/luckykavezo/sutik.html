@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lucky - Sütemények</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top">
+        <a class="navbar-brand logo" href="index.html">Lucky
+            <img src="./img/clover.svg" alt="">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav">
+            <a class="nav-link active" href="index.html">Főoldal <span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="kavefajtak.html">Kávéfajták</a>
+            <a class="nav-link" href="sutik.html">Sütemények</a>
+            <a class="nav-link" href="blog.html">Blog</a>
+          </div>
+          <div class="navbar-nav ml-auto">
+
+          </div>
+        </div>
+      </nav>
+    <div class="banner">
+
+    </div>
+    <main class="container">
+        <div class="row">
+            <div class="col-12">
+                <h1>Lucky - Sütemények </h1>
+            </div>
+        </div>
+
+        <div class="row row-cols-1 row-cols-md-3">
+            <div class="col mb-4">
+                <a href="#tiramisu" data-bs-toggle="modal" data-bs-target="#tiramisuModal"></a>
+                    <div class="card">
+                        <img src="img/sunflower.svg" id="napiajanlat" alt="" title="Napi ajánlat">
+                        <img src="img/sutemenyek/tiramisu_k.png" class="card-img-top" alt="Tiramisu">
+                        <div class="card-body">
+                            <h5 class="card-title">Tiramisu</h5>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col mb-4">
+                <a href="#kavesbrownie">
+                    <div class="card">
+                        <img src="img/sutemenyek/kavesbrownie_k.png" class="card-img-top" alt="Kávés brownie">
+                        <div class="card-body">
+                            <h5 class="card-title">Kávés brownie</h5>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col mb-4">
+                <a href="#kavessuti">
+                    <div class="card">
+
+                        <img src="img/sutemenyek/kavessuti_k.png" class="card-img-top" alt="Kávéssüti">
+                        <div class="card-body">
+                            <h5 class="card-title">Kávás süti</h5>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col mb-4">
+                <a href="#kavescroissant">
+                    <div class="card">
+                        <img src="img/sutemenyek/kavescroissant_k.png" class="card-img-top" alt="Kávés Croissant">
+                        <div class="card-body">
+                            <h5 class="card-title">Kávés croissant</h5>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col mb-4">
+                <a href="#kavesmuffin">
+                    <div class="card">
+                        <img src="img/sutemenyek/kavesmuffin_k.png" class="card-img-top" alt="Kávés Muffin">
+                        <div class="card-body">
+                            <h5 class="card-title">Kávés muffin</h5>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </main>    
+
+
+  
+  
+    <div class="modal fade" id="cappuccinoModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-xl">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Tiramisu</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-sm-4">
+                                <img src="pics/tiramisu_k" alt="Tiramisu" class="img-fluid">
+                            </div>
+                            <div class="col-sm-8"> 
+                                <h2>Cappuccino</h2>
+                                <p>Angolról fordítva-A cappuccino egy eszpresszó alapú kávéital, amely Ausztriából
+                                    származik, majd Olaszországban népszerűvé vált, és gőzölt tejhabbal készítik. Az
+                                    ital variációi közé tartozik a tej helyett tejszín használata, nem tejalapú
+                                    tejpótló, valamint fahéjjal vagy csokoládéporral történő ízesítés.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-success" data-dismiss="modal">Bezárás</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+    <footer class="container">
+        <div class="row">
+
+                <h2>Kapcsolat</h2>
+                <ul>
+                    <li><img src="./img/letter.svg" alt="">Lucky Kávézó</li>
+                    <li><img src="./img/email.svg" alt="">lucky@kavezo.hu</li>
+                    <li><img src="./img/telephone.svg" alt="">+36-1-555-55-55</li>
+                </ul>
+            </div>
+            <div class="col-sm-6 col-lg-4">
+                
+            </div>
+        </div>
+    </footer>
+</div>
+    
+  </body>
+
+</html>
