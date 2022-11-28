@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\streamwriter2\streamwriter2\bin\Debug\streamwriter2.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\streamwriter2\streamwriter2\bin\Debug\streamwriter2.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\streamwriter2\streamwriter2\bin\Debug\streamwriter2.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\streamwriter2\streamwriter2\obj\Debug\streamwriter2.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\streamwriter2\streamwriter2\obj\Debug\streamwriter2.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\streamwriter2\streamwriter2\obj\Debug\streamwriter2.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\streamwriter2\streamwriter2\obj\Debug\streamwriter2.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\streamwriter2\streamwriter2\obj\Debug\streamwriter2.pdb
