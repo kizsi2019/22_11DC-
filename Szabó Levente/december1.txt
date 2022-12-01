@@ -1,0 +1,32 @@
+3.
+Select film.cim
+From film
+Where year(film.bemutato) - film.ev = 10
+AND film.nyert
+
+4.
+Select keszito.nev
+Count(file.id()
+As darab, Max(film.ev) - Min(film.ev
+As eltelt_ev
+Where film.id = kapcsolat.filmid
+
+5.
+SELECT Distinct keszito.nev
+From keszito, kapcsolat
+Where keszto.id = kapcsolat.filmid
+And kapcsolat.filmid IN (
+	Select kapcsolat.filmid
+	From keszito, kapcsolat
+	Where keszto.id = kapcsolat.filmid
+	And keszito.nev = "Clint Eastwood"
+	)
+	And keszito.nev <> "Clint Eastwood"
+
+6. Select keszito.nev
+From keszito
+Where keszito.id NOT IN (
+	Select kapcsolat, film
+	Where kapcsoalt.filmid = film.id
+	And film.bemutati IS NOT NULL)
+	And keszito.producer
