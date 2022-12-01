@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\megszamlalas_pelda\megszamlalas_pelda\bin\Debug\megszamlalas_pelda.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\megszamlalas_pelda\megszamlalas_pelda\bin\Debug\megszamlalas_pelda.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\megszamlalas_pelda\megszamlalas_pelda\bin\Debug\megszamlalas_pelda.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\megszamlalas_pelda\megszamlalas_pelda\obj\Debug\megszamlalas_pelda.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\megszamlalas_pelda\megszamlalas_pelda\obj\Debug\megszamlalas_pelda.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\megszamlalas_pelda\megszamlalas_pelda\obj\Debug\megszamlalas_pelda.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\megszamlalas_pelda\megszamlalas_pelda\obj\Debug\megszamlalas_pelda.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\megszamlalas_pelda\megszamlalas_pelda\obj\Debug\megszamlalas_pelda.pdb
