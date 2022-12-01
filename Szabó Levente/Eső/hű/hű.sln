@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hű", "hű\hű.csproj", "{68D4CF43-23B0-4378-8043-EF2686327158}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68D4CF43-23B0-4378-8043-EF2686327158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D4CF43-23B0-4378-8043-EF2686327158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D4CF43-23B0-4378-8043-EF2686327158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D4CF43-23B0-4378-8043-EF2686327158}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3952EED0-9E59-42BF-BE19-DAB3675C7C1C}
+	EndGlobalSection
+EndGlobal
