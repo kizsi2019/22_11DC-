@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+hand&display=swap');
+
+
+body:not(#home), .modal-content{
+    background-color: #fbefdb;
+}
+
+.modal-header, .modal-footer{
+    background-color: rgb(209, 190, 154);
+}
+
+#home{
+    height: 100vh;
+    background-image: url(../img/homebg.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+
+#home .intro{   
+    color: white; 
+    height: 100vh;       
+}
+
+#home .intro .col-md-8{
+    background-color: rgba(0,0,0,0.4);    
+}
+
+
+
+nav{
+    background-color:  #1f5b25;
+}
+
+.logo img{
+    width: 40px;
+}
+
+
+
+.banner{
+    background-image: url(../img/banner.jpg);
+    height: 400px;
+    background-position: center center;    
+    background-size: cover;
+}
+
+
+h1{
+    font-family: 'Fredericka the Great', cursive;
+    text-align: center;
+}
+
+h1:not(#home h1){    
+    color: #1f5b25;    
+}
+
+
+
+.kave {
+    color: #1f5b25;
+    border: 1px solid #1f5b25;
+    margin-bottom: 1rem;
+    border-radius: 4px;
+    background-color: #fff;
+}
+
+
+
+.card:hover {
+    box-shadow: 0px 0px 5px #1f5b25;
+}
+
+h5{
+    text-align: center;
+    font-variant: small-caps;
+    color: #1f5c25;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+
+
+.footer{
+    background-color: #1f5b25;
+    color: white
+}
+
+footer li{
+    list-style-type: none;
+}
+
+footer li>img{
+    width: 15px;
+    margin-right: 10px;
+}
+
+#napiajanlat{
+    position: absolute;
+    width: 40px;
+    right: 40px;
+    top: 20px;
+}
+
+.blog-img {
+    border: 1px solid #1F5C25;
+    border-radius: 4px;
+}
+
+.szerzo {
+    text-align: right;
+}
+
+.box {
+    border: 1px solid #1F5C25;
+}
+
+.box h2 {
+    font-size: 1.5rem;
+    background-color: #1f5b25;
+    color: #fff;
+    padding: 0.5rem;
+}

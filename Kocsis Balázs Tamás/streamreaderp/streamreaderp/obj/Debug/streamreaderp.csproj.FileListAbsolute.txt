@@ -1,0 +1,8 @@
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\streamreaderp\streamreaderp\obj\Debug\streamreaderp.csproj.AssemblyReference.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\streamreaderp\streamreaderp\obj\Debug\streamreaderp.csproj.SuggestedBindingRedirects.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\streamreaderp\streamreaderp\obj\Debug\streamreaderp.csproj.CoreCompileInputs.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\streamreaderp\streamreaderp\bin\Debug\streamreaderp.exe.config
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\streamreaderp\streamreaderp\bin\Debug\streamreaderp.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\streamreaderp\streamreaderp\bin\Debug\streamreaderp.pdb
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\streamreaderp\streamreaderp\obj\Debug\streamreaderp.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\streamreaderp\streamreaderp\obj\Debug\streamreaderp.pdb
