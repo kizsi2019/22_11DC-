@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\maxkivalasztas\maxkivalasztas\bin\Debug\maxkivalasztas.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\maxkivalasztas\maxkivalasztas\bin\Debug\maxkivalasztas.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\maxkivalasztas\maxkivalasztas\bin\Debug\maxkivalasztas.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\maxkivalasztas\maxkivalasztas\obj\Debug\maxkivalasztas.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\maxkivalasztas\maxkivalasztas\obj\Debug\maxkivalasztas.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\maxkivalasztas\maxkivalasztas\obj\Debug\maxkivalasztas.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\maxkivalasztas\maxkivalasztas\obj\Debug\maxkivalasztas.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\maxkivalasztas\maxkivalasztas\obj\Debug\maxkivalasztas.pdb
