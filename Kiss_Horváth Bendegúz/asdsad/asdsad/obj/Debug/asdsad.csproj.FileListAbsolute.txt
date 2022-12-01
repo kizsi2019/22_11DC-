@@ -1,0 +1,6 @@
+C:\Users\BendegúzKiss-Horváth\source\repos\asdsad\asdsad\obj\Debug\asdsad.csproj.AssemblyReference.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\asdsad\asdsad\obj\Debug\asdsad.csproj.SuggestedBindingRedirects.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\asdsad\asdsad\obj\Debug\Virus_Destructive.virus_last_again.resources
+C:\Users\BendegúzKiss-Horváth\source\repos\asdsad\asdsad\obj\Debug\asdsad.Properties.Resources.resources
+C:\Users\BendegúzKiss-Horváth\source\repos\asdsad\asdsad\obj\Debug\asdsad.csproj.GenerateResource.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\asdsad\asdsad\obj\Debug\asdsad.csproj.CoreCompileInputs.cache
