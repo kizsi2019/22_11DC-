@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\eldontes_pelda\eldontes_pelda\bin\Debug\eldontes_pelda.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\eldontes_pelda\eldontes_pelda\bin\Debug\eldontes_pelda.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\eldontes_pelda\eldontes_pelda\bin\Debug\eldontes_pelda.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\eldontes_pelda\eldontes_pelda\obj\Debug\eldontes_pelda.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\eldontes_pelda\eldontes_pelda\obj\Debug\eldontes_pelda.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\eldontes_pelda\eldontes_pelda\obj\Debug\eldontes_pelda.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\eldontes_pelda\eldontes_pelda\obj\Debug\eldontes_pelda.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\eldontes_pelda\eldontes_pelda\obj\Debug\eldontes_pelda.pdb
