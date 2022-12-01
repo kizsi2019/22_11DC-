@@ -1,0 +1,8 @@
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\osszegzesproba\osszegzesproba\bin\Debug\osszegzesproba.exe.config
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\osszegzesproba\osszegzesproba\bin\Debug\osszegzesproba.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\osszegzesproba\osszegzesproba\bin\Debug\osszegzesproba.pdb
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\osszegzesproba\osszegzesproba\obj\Debug\osszegzesproba.csproj.AssemblyReference.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\osszegzesproba\osszegzesproba\obj\Debug\osszegzesproba.csproj.SuggestedBindingRedirects.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\osszegzesproba\osszegzesproba\obj\Debug\osszegzesproba.csproj.CoreCompileInputs.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\osszegzesproba\osszegzesproba\obj\Debug\osszegzesproba.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\osszegzesproba\osszegzesproba\obj\Debug\osszegzesproba.pdb

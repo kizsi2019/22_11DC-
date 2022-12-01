@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\eldontes\eldontes\bin\Debug\eldontes.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\eldontes\eldontes\bin\Debug\eldontes.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\eldontes\eldontes\bin\Debug\eldontes.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\eldontes\eldontes\obj\Debug\eldontes.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\eldontes\eldontes\obj\Debug\eldontes.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\eldontes\eldontes\obj\Debug\eldontes.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\eldontes\eldontes\obj\Debug\eldontes.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\eldontes\eldontes\obj\Debug\eldontes.pdb
