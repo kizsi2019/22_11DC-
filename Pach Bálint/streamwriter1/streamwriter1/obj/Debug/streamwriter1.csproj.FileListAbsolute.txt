@@ -1,0 +1,8 @@
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\streamwriter1\streamwriter1\bin\Debug\streamwriter1.exe.config
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\streamwriter1\streamwriter1\bin\Debug\streamwriter1.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\streamwriter1\streamwriter1\bin\Debug\streamwriter1.pdb
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\streamwriter1\streamwriter1\obj\Debug\streamwriter1.csproj.AssemblyReference.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\streamwriter1\streamwriter1\obj\Debug\streamwriter1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\streamwriter1\streamwriter1\obj\Debug\streamwriter1.csproj.CoreCompileInputs.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\streamwriter1\streamwriter1\obj\Debug\streamwriter1.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\streamwriter1\streamwriter1\obj\Debug\streamwriter1.pdb

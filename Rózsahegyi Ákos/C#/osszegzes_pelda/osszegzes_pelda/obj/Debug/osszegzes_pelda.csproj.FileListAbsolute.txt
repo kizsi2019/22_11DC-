@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\osszegzes_pelda\osszegzes_pelda\bin\Debug\osszegzes_pelda.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\osszegzes_pelda\osszegzes_pelda\bin\Debug\osszegzes_pelda.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\osszegzes_pelda\osszegzes_pelda\bin\Debug\osszegzes_pelda.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\osszegzes_pelda\osszegzes_pelda\obj\Debug\osszegzes_pelda.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\osszegzes_pelda\osszegzes_pelda\obj\Debug\osszegzes_pelda.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\osszegzes_pelda\osszegzes_pelda\obj\Debug\osszegzes_pelda.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\osszegzes_pelda\osszegzes_pelda\obj\Debug\osszegzes_pelda.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\osszegzes_pelda\osszegzes_pelda\obj\Debug\osszegzes_pelda.pdb
