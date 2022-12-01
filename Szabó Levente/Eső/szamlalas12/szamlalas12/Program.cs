@@ -4,21 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace eldontes
+namespace szamlalas12
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             int[] Tömb = new int[] { 32, 12, 10, 9, 45, 90, 13, 8, 1, 42 };
-            int i = 0;
-            while (i < Tömb.Length && Tömb[i] != 32)
+            int db = 0;
+            for(int i = 0; i < Tömb.Length; i++)
             {
-                i++;
+                if (Tömb[i] <= 10) db++;
             }
-            if (i < Tömb.Length)
-                Console.WriteLine("Van");
-            else Console.WriteLine("Nincs");
+            Console.WriteLine("'Feltétel' fetételnek megfelelő elem száma: {0}db", db);
             Console.ReadKey();
         }
     }

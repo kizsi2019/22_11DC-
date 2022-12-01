@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace eldontes
+namespace diont
 {
     internal class Program
     {
@@ -17,9 +17,9 @@ namespace eldontes
                 i++;
             }
             if (i < Tömb.Length)
-                Console.WriteLine("Van");
+            Console.WriteLine("Van");
             else Console.WriteLine("Nincs");
-            Console.ReadKey();
+
         }
     }
 }
