@@ -1,0 +1,8 @@
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\maximum_kivalasztas\maximum_kivalasztas\bin\Debug\maximum_kivalasztas.exe.config
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\maximum_kivalasztas\maximum_kivalasztas\bin\Debug\maximum_kivalasztas.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\maximum_kivalasztas\maximum_kivalasztas\bin\Debug\maximum_kivalasztas.pdb
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\maximum_kivalasztas\maximum_kivalasztas\obj\Debug\maximum_kivalasztas.csproj.AssemblyReference.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\maximum_kivalasztas\maximum_kivalasztas\obj\Debug\maximum_kivalasztas.csproj.SuggestedBindingRedirects.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\maximum_kivalasztas\maximum_kivalasztas\obj\Debug\maximum_kivalasztas.csproj.CoreCompileInputs.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\maximum_kivalasztas\maximum_kivalasztas\obj\Debug\maximum_kivalasztas.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\maximum_kivalasztas\maximum_kivalasztas\obj\Debug\maximum_kivalasztas.pdb
