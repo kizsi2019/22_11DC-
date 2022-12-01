@@ -1,0 +1,3 @@
+C:\Users\BendegúzKiss-Horváth\source\repos\megszamlalas\megszamlalas\obj\Debug\megszamlalas.csproj.AssemblyReference.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\megszamlalas\megszamlalas\obj\Debug\megszamlalas.csproj.SuggestedBindingRedirects.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\megszamlalas\megszamlalas\obj\Debug\megszamlalas.csproj.CoreCompileInputs.cache

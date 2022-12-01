@@ -1,0 +1,8 @@
+C:\Users\BendegúzKiss-Horváth\source\repos\xml_dokumentalas\xml_dokumentalas\obj\Debug\xml_dokumentalas.csproj.AssemblyReference.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\xml_dokumentalas\xml_dokumentalas\obj\Debug\xml_dokumentalas.csproj.SuggestedBindingRedirects.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\xml_dokumentalas\xml_dokumentalas\obj\Debug\xml_dokumentalas.csproj.CoreCompileInputs.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\xml_dokumentalas\xml_dokumentalas\bin\Debug\xml_dokumentalas.exe.config
+C:\Users\BendegúzKiss-Horváth\source\repos\xml_dokumentalas\xml_dokumentalas\bin\Debug\xml_dokumentalas.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\xml_dokumentalas\xml_dokumentalas\bin\Debug\xml_dokumentalas.pdb
+C:\Users\BendegúzKiss-Horváth\source\repos\xml_dokumentalas\xml_dokumentalas\obj\Debug\xml_dokumentalas.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\xml_dokumentalas\xml_dokumentalas\obj\Debug\xml_dokumentalas.pdb

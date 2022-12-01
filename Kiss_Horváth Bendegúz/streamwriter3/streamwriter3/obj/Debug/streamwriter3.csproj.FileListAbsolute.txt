@@ -1,0 +1,8 @@
+C:\Users\BendegúzKiss-Horváth\source\repos\streamwriter3\streamwriter3\bin\Debug\streamwriter3.exe.config
+C:\Users\BendegúzKiss-Horváth\source\repos\streamwriter3\streamwriter3\bin\Debug\streamwriter3.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\streamwriter3\streamwriter3\bin\Debug\streamwriter3.pdb
+C:\Users\BendegúzKiss-Horváth\source\repos\streamwriter3\streamwriter3\obj\Debug\streamwriter3.csproj.AssemblyReference.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\streamwriter3\streamwriter3\obj\Debug\streamwriter3.csproj.SuggestedBindingRedirects.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\streamwriter3\streamwriter3\obj\Debug\streamwriter3.csproj.CoreCompileInputs.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\streamwriter3\streamwriter3\obj\Debug\streamwriter3.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\streamwriter3\streamwriter3\obj\Debug\streamwriter3.pdb
