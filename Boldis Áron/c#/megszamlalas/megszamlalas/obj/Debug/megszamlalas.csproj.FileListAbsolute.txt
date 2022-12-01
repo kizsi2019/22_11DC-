@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\megszamlalas\megszamlalas\bin\Debug\megszamlalas.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\megszamlalas\megszamlalas\bin\Debug\megszamlalas.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\megszamlalas\megszamlalas\bin\Debug\megszamlalas.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\megszamlalas\megszamlalas\obj\Debug\megszamlalas.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\megszamlalas\megszamlalas\obj\Debug\megszamlalas.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\megszamlalas\megszamlalas\obj\Debug\megszamlalas.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\megszamlalas\megszamlalas\obj\Debug\megszamlalas.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\megszamlalas\megszamlalas\obj\Debug\megszamlalas.pdb

@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\eldontes_pelda\eldontes_pelda\bin\Debug\eldontes_pelda.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\eldontes_pelda\eldontes_pelda\bin\Debug\eldontes_pelda.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\eldontes_pelda\eldontes_pelda\bin\Debug\eldontes_pelda.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\eldontes_pelda\eldontes_pelda\obj\Debug\eldontes_pelda.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\eldontes_pelda\eldontes_pelda\obj\Debug\eldontes_pelda.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\eldontes_pelda\eldontes_pelda\obj\Debug\eldontes_pelda.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\eldontes_pelda\eldontes_pelda\obj\Debug\eldontes_pelda.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\eldontes_pelda\eldontes_pelda\obj\Debug\eldontes_pelda.pdb

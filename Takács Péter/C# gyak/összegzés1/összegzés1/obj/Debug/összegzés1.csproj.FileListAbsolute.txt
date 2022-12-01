@@ -1,0 +1,8 @@
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\összegzés1\összegzés1\obj\Debug\összegzés1.csproj.AssemblyReference.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\összegzés1\összegzés1\obj\Debug\összegzés1.csproj.SuggestedBindingRedirects.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\összegzés1\összegzés1\obj\Debug\összegzés1.csproj.CoreCompileInputs.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\összegzés1\összegzés1\bin\Debug\összegzés1.exe.config
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\összegzés1\összegzés1\bin\Debug\összegzés1.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\összegzés1\összegzés1\bin\Debug\összegzés1.pdb
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\összegzés1\összegzés1\obj\Debug\összegzés1.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\összegzés1\összegzés1\obj\Debug\összegzés1.pdb
