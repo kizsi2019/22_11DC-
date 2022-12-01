@@ -1,0 +1,8 @@
+C:\Users\BendegúzKiss-Horváth\source\repos\lottoyo\lottoyo\bin\Debug\lottoyo.exe.config
+C:\Users\BendegúzKiss-Horváth\source\repos\lottoyo\lottoyo\bin\Debug\lottoyo.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\lottoyo\lottoyo\bin\Debug\lottoyo.pdb
+C:\Users\BendegúzKiss-Horváth\source\repos\lottoyo\lottoyo\obj\Debug\lottoyo.csproj.AssemblyReference.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\lottoyo\lottoyo\obj\Debug\lottoyo.csproj.SuggestedBindingRedirects.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\lottoyo\lottoyo\obj\Debug\lottoyo.csproj.CoreCompileInputs.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\lottoyo\lottoyo\obj\Debug\lottoyo.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\lottoyo\lottoyo\obj\Debug\lottoyo.pdb
