@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\osszegzes_tetele\osszegzes_tetele\bin\Debug\osszegzes_tetele.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\osszegzes_tetele\osszegzes_tetele\bin\Debug\osszegzes_tetele.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\osszegzes_tetele\osszegzes_tetele\bin\Debug\osszegzes_tetele.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\osszegzes_tetele\osszegzes_tetele\obj\Debug\osszegzes_tetele.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\osszegzes_tetele\osszegzes_tetele\obj\Debug\osszegzes_tetele.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\osszegzes_tetele\osszegzes_tetele\obj\Debug\osszegzes_tetele.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\osszegzes_tetele\osszegzes_tetele\obj\Debug\osszegzes_tetele.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\osszegzes_tetele\osszegzes_tetele\obj\Debug\osszegzes_tetele.pdb

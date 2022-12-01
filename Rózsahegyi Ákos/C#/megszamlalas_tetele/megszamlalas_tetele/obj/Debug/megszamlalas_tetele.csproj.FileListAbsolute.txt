@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\megszamlalas_tetele\megszamlalas_tetele\bin\Debug\megszamlalas_tetele.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\megszamlalas_tetele\megszamlalas_tetele\bin\Debug\megszamlalas_tetele.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\megszamlalas_tetele\megszamlalas_tetele\bin\Debug\megszamlalas_tetele.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\megszamlalas_tetele\megszamlalas_tetele\obj\Debug\megszamlalas_tetele.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\megszamlalas_tetele\megszamlalas_tetele\obj\Debug\megszamlalas_tetele.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\megszamlalas_tetele\megszamlalas_tetele\obj\Debug\megszamlalas_tetele.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\megszamlalas_tetele\megszamlalas_tetele\obj\Debug\megszamlalas_tetele.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\megszamlalas_tetele\megszamlalas_tetele\obj\Debug\megszamlalas_tetele.pdb
