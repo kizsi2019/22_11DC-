@@ -1,0 +1,8 @@
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\streamwriter4\streamwriter4\bin\Debug\streamwriter4.exe.config
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\streamwriter4\streamwriter4\bin\Debug\streamwriter4.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\streamwriter4\streamwriter4\bin\Debug\streamwriter4.pdb
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\streamwriter4\streamwriter4\obj\Debug\streamwriter4.csproj.AssemblyReference.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\streamwriter4\streamwriter4\obj\Debug\streamwriter4.csproj.SuggestedBindingRedirects.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\streamwriter4\streamwriter4\obj\Debug\streamwriter4.csproj.CoreCompileInputs.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\streamwriter4\streamwriter4\obj\Debug\streamwriter4.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\streamwriter4\streamwriter4\obj\Debug\streamwriter4.pdb
