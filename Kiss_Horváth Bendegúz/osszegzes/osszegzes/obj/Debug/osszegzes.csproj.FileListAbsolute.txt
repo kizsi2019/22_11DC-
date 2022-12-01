@@ -1,0 +1,8 @@
+C:\Users\BendegúzKiss-Horváth\source\repos\osszegzes\osszegzes\bin\Debug\osszegzes.exe.config
+C:\Users\BendegúzKiss-Horváth\source\repos\osszegzes\osszegzes\bin\Debug\osszegzes.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\osszegzes\osszegzes\bin\Debug\osszegzes.pdb
+C:\Users\BendegúzKiss-Horváth\source\repos\osszegzes\osszegzes\obj\Debug\osszegzes.csproj.AssemblyReference.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\osszegzes\osszegzes\obj\Debug\osszegzes.csproj.SuggestedBindingRedirects.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\osszegzes\osszegzes\obj\Debug\osszegzes.csproj.CoreCompileInputs.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\osszegzes\osszegzes\obj\Debug\osszegzes.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\osszegzes\osszegzes\obj\Debug\osszegzes.pdb
