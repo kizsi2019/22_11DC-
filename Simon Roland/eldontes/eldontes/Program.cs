@@ -10,7 +10,7 @@ namespace eldontes
     {
         static void Main(string[] args)
         {
-            int[] Tömb = new int[] { 321, 12, 10, 9, 45, 90, 13, 8, 1, 42 };
+            int[] Tömb = new int[] { 32, 12, 10, 9, 45, 90, 13, 8, 1, 42 };
             int i = 0;
             while (i < Tömb.Length && Tömb[i] != 32)
             {

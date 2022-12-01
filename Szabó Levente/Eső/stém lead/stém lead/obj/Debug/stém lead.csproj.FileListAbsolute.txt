@@ -1,0 +1,8 @@
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\stém lead\stém lead\bin\Debug\stém lead.exe.config
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\stém lead\stém lead\bin\Debug\stém lead.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\stém lead\stém lead\bin\Debug\stém lead.pdb
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\stém lead\stém lead\obj\Debug\stém lead.csproj.AssemblyReference.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\stém lead\stém lead\obj\Debug\stém lead.csproj.SuggestedBindingRedirects.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\stém lead\stém lead\obj\Debug\stém lead.csproj.CoreCompileInputs.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\stém lead\stém lead\obj\Debug\stém lead.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\stém lead\stém lead\obj\Debug\stém lead.pdb
