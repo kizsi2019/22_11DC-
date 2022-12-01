@@ -1,0 +1,8 @@
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\eldontesproba\eldontesproba\bin\Debug\eldontesproba.exe.config
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\eldontesproba\eldontesproba\bin\Debug\eldontesproba.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\eldontesproba\eldontesproba\bin\Debug\eldontesproba.pdb
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\eldontesproba\eldontesproba\obj\Debug\eldontesproba.csproj.AssemblyReference.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\eldontesproba\eldontesproba\obj\Debug\eldontesproba.csproj.SuggestedBindingRedirects.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\eldontesproba\eldontesproba\obj\Debug\eldontesproba.csproj.CoreCompileInputs.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\eldontesproba\eldontesproba\obj\Debug\eldontesproba.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\eldontesproba\eldontesproba\obj\Debug\eldontesproba.pdb
