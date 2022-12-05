@@ -1,0 +1,8 @@
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\maximum_kivalasztas_pelda\maximum_kivalasztas_pelda\bin\Debug\maximum_kivalasztas_pelda.exe.config
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\maximum_kivalasztas_pelda\maximum_kivalasztas_pelda\bin\Debug\maximum_kivalasztas_pelda.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\maximum_kivalasztas_pelda\maximum_kivalasztas_pelda\bin\Debug\maximum_kivalasztas_pelda.pdb
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\maximum_kivalasztas_pelda\maximum_kivalasztas_pelda\obj\Debug\maximum_kivalasztas_pelda.csproj.AssemblyReference.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\maximum_kivalasztas_pelda\maximum_kivalasztas_pelda\obj\Debug\maximum_kivalasztas_pelda.csproj.SuggestedBindingRedirects.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\maximum_kivalasztas_pelda\maximum_kivalasztas_pelda\obj\Debug\maximum_kivalasztas_pelda.csproj.CoreCompileInputs.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\maximum_kivalasztas_pelda\maximum_kivalasztas_pelda\obj\Debug\maximum_kivalasztas_pelda.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\maximum_kivalasztas_pelda\maximum_kivalasztas_pelda\obj\Debug\maximum_kivalasztas_pelda.pdb
