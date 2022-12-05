@@ -1,0 +1,8 @@
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\maxkivalasztaspl\maxkivalasztaspl\bin\Debug\maxkivalasztaspl.exe.config
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\maxkivalasztaspl\maxkivalasztaspl\bin\Debug\maxkivalasztaspl.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\maxkivalasztaspl\maxkivalasztaspl\bin\Debug\maxkivalasztaspl.pdb
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\maxkivalasztaspl\maxkivalasztaspl\obj\Debug\maxkivalasztaspl.csproj.AssemblyReference.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\maxkivalasztaspl\maxkivalasztaspl\obj\Debug\maxkivalasztaspl.csproj.SuggestedBindingRedirects.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\maxkivalasztaspl\maxkivalasztaspl\obj\Debug\maxkivalasztaspl.csproj.CoreCompileInputs.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\maxkivalasztaspl\maxkivalasztaspl\obj\Debug\maxkivalasztaspl.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\maxkivalasztaspl\maxkivalasztaspl\obj\Debug\maxkivalasztaspl.pdb

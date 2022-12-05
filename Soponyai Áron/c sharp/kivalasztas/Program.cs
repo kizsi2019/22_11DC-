@@ -10,8 +10,14 @@ namespace kivalasztas
     {
         static void Main(string[] args)
         {
-            int[] tömb = new int[] { 41, 234, 45, 5, 6, 4, 2, 56, 23, 12, 65, 23, }
-
+            int[] Tömb = new int[] { 32, 12, 10, 9, 45, 90, 13, 8, 1, 42 };
+            int i = 0;
+            while (i < Tömb.Length && Tömb[i] != 90)
+            {
+                i++;
+            }
+            Console.WriteLine("A 'Feltétel' feltételnek megfelelő elem sorszáma {0}", i);
+            Console.ReadKey();
         }
     }
 }
