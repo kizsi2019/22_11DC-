@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\minmaxkiv_pelda\minmaxkiv_pelda\bin\Debug\minmaxkiv_pelda.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\minmaxkiv_pelda\minmaxkiv_pelda\bin\Debug\minmaxkiv_pelda.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\minmaxkiv_pelda\minmaxkiv_pelda\bin\Debug\minmaxkiv_pelda.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\minmaxkiv_pelda\minmaxkiv_pelda\obj\Debug\minmaxkiv_pelda.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\minmaxkiv_pelda\minmaxkiv_pelda\obj\Debug\minmaxkiv_pelda.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\minmaxkiv_pelda\minmaxkiv_pelda\obj\Debug\minmaxkiv_pelda.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\minmaxkiv_pelda\minmaxkiv_pelda\obj\Debug\minmaxkiv_pelda.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\minmaxkiv_pelda\minmaxkiv_pelda\obj\Debug\minmaxkiv_pelda.pdb
