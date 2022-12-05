@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("min_kival__2022.XII.01")]
+[assembly: AssemblyTitle("kivalasztas_2022.XII.05")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("min_kival__2022.XII.01")]
+[assembly: AssemblyProduct("kivalasztas_2022.XII.05")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("1952632a-342d-49ba-a19c-289c7748d488")]
+[assembly: Guid("19d7e3a4-ff7d-44f7-9a0d-ac37d6cecc21")]
 
 // Version information for an assembly consists of the following four values:
 //

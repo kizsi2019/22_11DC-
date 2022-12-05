@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1952632A-342D-49BA-A19C-289C7748D488}</ProjectGuid>
+    <ProjectGuid>{6B8DA74C-92CB-42EF-8C5C-CAC28B76E3FD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>min_kival__2022.XII._01</RootNamespace>
-    <AssemblyName>min_kival__2022.XII.01</AssemblyName>
+    <RootNamespace>kivalasztas_pel__2022.XII._05</RootNamespace>
+    <AssemblyName>kivalasztas_pel__2022.XII.05</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
