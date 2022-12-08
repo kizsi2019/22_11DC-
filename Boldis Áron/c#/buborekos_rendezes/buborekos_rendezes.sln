@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "buborekos_rendezes", "buborekos_rendezes\buborekos_rendezes.csproj", "{AEF4A38D-3405-4F49-9590-28C196668D57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEF4A38D-3405-4F49-9590-28C196668D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF4A38D-3405-4F49-9590-28C196668D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF4A38D-3405-4F49-9590-28C196668D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF4A38D-3405-4F49-9590-28C196668D57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3E03FF9-0C73-4D24-8105-BB0C6652DE39}
+	EndGlobalSection
+EndGlobal
