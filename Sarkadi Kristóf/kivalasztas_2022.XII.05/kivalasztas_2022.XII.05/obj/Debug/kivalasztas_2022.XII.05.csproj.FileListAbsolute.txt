@@ -1,0 +1,8 @@
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\kivalasztas_2022.XII.05\kivalasztas_2022.XII.05\bin\Debug\kivalasztas_2022.XII.05.exe.config
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\kivalasztas_2022.XII.05\kivalasztas_2022.XII.05\bin\Debug\kivalasztas_2022.XII.05.exe
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\kivalasztas_2022.XII.05\kivalasztas_2022.XII.05\bin\Debug\kivalasztas_2022.XII.05.pdb
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\kivalasztas_2022.XII.05\kivalasztas_2022.XII.05\obj\Debug\kivalasztas_2022.XII.05.csproj.AssemblyReference.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\kivalasztas_2022.XII.05\kivalasztas_2022.XII.05\obj\Debug\kivalasztas_2022.XII.05.csproj.SuggestedBindingRedirects.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\kivalasztas_2022.XII.05\kivalasztas_2022.XII.05\obj\Debug\kivalasztas_2022.XII.05.csproj.CoreCompileInputs.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\kivalasztas_2022.XII.05\kivalasztas_2022.XII.05\obj\Debug\kivalasztas_2022.XII.05.exe
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\kivalasztas_2022.XII.05\kivalasztas_2022.XII.05\obj\Debug\kivalasztas_2022.XII.05.pdb
