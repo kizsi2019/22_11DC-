@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\futoverseny\futoverseny\bin\Debug\futoverseny.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\futoverseny\futoverseny\bin\Debug\futoverseny.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\futoverseny\futoverseny\bin\Debug\futoverseny.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\futoverseny\futoverseny\obj\Debug\futoverseny.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\futoverseny\futoverseny\obj\Debug\futoverseny.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\futoverseny\futoverseny\obj\Debug\futoverseny.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\futoverseny\futoverseny\obj\Debug\futoverseny.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\futoverseny\futoverseny\obj\Debug\futoverseny.pdb

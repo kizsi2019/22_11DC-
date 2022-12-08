@@ -1,0 +1,8 @@
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\k1vál4sztás\k1vál4sztás\bin\Debug\k1vál4sztás.exe.config
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\k1vál4sztás\k1vál4sztás\bin\Debug\k1vál4sztás.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\k1vál4sztás\k1vál4sztás\bin\Debug\k1vál4sztás.pdb
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\k1vál4sztás\k1vál4sztás\obj\Debug\k1vál4sztás.csproj.AssemblyReference.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\k1vál4sztás\k1vál4sztás\obj\Debug\k1vál4sztás.csproj.SuggestedBindingRedirects.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\k1vál4sztás\k1vál4sztás\obj\Debug\k1vál4sztás.csproj.CoreCompileInputs.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\k1vál4sztás\k1vál4sztás\obj\Debug\k1vál4sztás.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\k1vál4sztás\k1vál4sztás\obj\Debug\k1vál4sztás.pdb

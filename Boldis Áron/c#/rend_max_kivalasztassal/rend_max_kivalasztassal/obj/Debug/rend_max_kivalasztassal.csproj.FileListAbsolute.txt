@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\rend_max_kivalasztassal\rend_max_kivalasztassal\bin\Debug\rend_max_kivalasztassal.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\rend_max_kivalasztassal\rend_max_kivalasztassal\bin\Debug\rend_max_kivalasztassal.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\rend_max_kivalasztassal\rend_max_kivalasztassal\bin\Debug\rend_max_kivalasztassal.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\rend_max_kivalasztassal\rend_max_kivalasztassal\obj\Debug\rend_max_kivalasztassal.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\rend_max_kivalasztassal\rend_max_kivalasztassal\obj\Debug\rend_max_kivalasztassal.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\rend_max_kivalasztassal\rend_max_kivalasztassal\obj\Debug\rend_max_kivalasztassal.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\rend_max_kivalasztassal\rend_max_kivalasztassal\obj\Debug\rend_max_kivalasztassal.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\rend_max_kivalasztassal\rend_max_kivalasztassal\obj\Debug\rend_max_kivalasztassal.pdb

@@ -1,0 +1,8 @@
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\juliuscézártext\juliuscézártext\bin\Debug\juliuscézártext.exe.config
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\juliuscézártext\juliuscézártext\bin\Debug\juliuscézártext.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\juliuscézártext\juliuscézártext\bin\Debug\juliuscézártext.pdb
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\juliuscézártext\juliuscézártext\obj\Debug\juliuscézártext.csproj.AssemblyReference.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\juliuscézártext\juliuscézártext\obj\Debug\juliuscézártext.csproj.SuggestedBindingRedirects.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\juliuscézártext\juliuscézártext\obj\Debug\juliuscézártext.csproj.CoreCompileInputs.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\juliuscézártext\juliuscézártext\obj\Debug\juliuscézártext.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\juliuscézártext\juliuscézártext\obj\Debug\juliuscézártext.pdb

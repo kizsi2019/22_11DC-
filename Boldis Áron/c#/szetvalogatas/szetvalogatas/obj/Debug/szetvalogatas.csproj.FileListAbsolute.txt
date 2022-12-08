@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\szetvalogatas\szetvalogatas\bin\Debug\szetvalogatas.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\szetvalogatas\szetvalogatas\bin\Debug\szetvalogatas.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\szetvalogatas\szetvalogatas\bin\Debug\szetvalogatas.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\szetvalogatas\szetvalogatas\obj\Debug\szetvalogatas.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\szetvalogatas\szetvalogatas\obj\Debug\szetvalogatas.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\szetvalogatas\szetvalogatas\obj\Debug\szetvalogatas.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\szetvalogatas\szetvalogatas\obj\Debug\szetvalogatas.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\szetvalogatas\szetvalogatas\obj\Debug\szetvalogatas.pdb

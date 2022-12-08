@@ -1,0 +1,8 @@
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szétválasztás példa\szétválasztás példa\bin\Debug\szétválasztás példa.exe.config
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szétválasztás példa\szétválasztás példa\bin\Debug\szétválasztás példa.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szétválasztás példa\szétválasztás példa\bin\Debug\szétválasztás példa.pdb
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szétválasztás példa\szétválasztás példa\obj\Debug\szétválasztás példa.csproj.AssemblyReference.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szétválasztás példa\szétválasztás példa\obj\Debug\szétválasztás példa.csproj.SuggestedBindingRedirects.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szétválasztás példa\szétválasztás példa\obj\Debug\szétválasztás példa.csproj.CoreCompileInputs.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szétválasztás példa\szétválasztás példa\obj\Debug\szétválasztás példa.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szétválasztás példa\szétválasztás példa\obj\Debug\szétválasztás példa.pdb

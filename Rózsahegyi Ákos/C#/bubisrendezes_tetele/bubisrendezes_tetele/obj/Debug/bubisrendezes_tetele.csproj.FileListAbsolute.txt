@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\bubisrendezes_tetele\bubisrendezes_tetele\bin\Debug\bubisrendezes_tetele.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\bubisrendezes_tetele\bubisrendezes_tetele\bin\Debug\bubisrendezes_tetele.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\bubisrendezes_tetele\bubisrendezes_tetele\bin\Debug\bubisrendezes_tetele.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\bubisrendezes_tetele\bubisrendezes_tetele\obj\Debug\bubisrendezes_tetele.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\bubisrendezes_tetele\bubisrendezes_tetele\obj\Debug\bubisrendezes_tetele.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\bubisrendezes_tetele\bubisrendezes_tetele\obj\Debug\bubisrendezes_tetele.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\bubisrendezes_tetele\bubisrendezes_tetele\obj\Debug\bubisrendezes_tetele.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\bubisrendezes_tetele\bubisrendezes_tetele\obj\Debug\bubisrendezes_tetele.pdb
