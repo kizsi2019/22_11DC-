@@ -1,0 +1,8 @@
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\kivalasztás_órai_munka\kivalasztás_órai_munka\bin\Debug\kivalasztás_órai_munka.exe.config
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\kivalasztás_órai_munka\kivalasztás_órai_munka\bin\Debug\kivalasztás_órai_munka.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\kivalasztás_órai_munka\kivalasztás_órai_munka\bin\Debug\kivalasztás_órai_munka.pdb
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\kivalasztás_órai_munka\kivalasztás_órai_munka\obj\Debug\kivalasztás_órai_munka.csproj.AssemblyReference.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\kivalasztás_órai_munka\kivalasztás_órai_munka\obj\Debug\kivalasztás_órai_munka.csproj.SuggestedBindingRedirects.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\kivalasztás_órai_munka\kivalasztás_órai_munka\obj\Debug\kivalasztás_órai_munka.csproj.CoreCompileInputs.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\kivalasztás_órai_munka\kivalasztás_órai_munka\obj\Debug\kivalasztás_órai_munka.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\kivalasztás_órai_munka\kivalasztás_órai_munka\obj\Debug\kivalasztás_órai_munka.pdb

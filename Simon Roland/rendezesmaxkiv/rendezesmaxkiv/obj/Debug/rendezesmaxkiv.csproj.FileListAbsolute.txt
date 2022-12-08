@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\rendezesmaxkiv\rendezesmaxkiv\bin\Debug\rendezesmaxkiv.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\rendezesmaxkiv\rendezesmaxkiv\bin\Debug\rendezesmaxkiv.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\rendezesmaxkiv\rendezesmaxkiv\bin\Debug\rendezesmaxkiv.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\rendezesmaxkiv\rendezesmaxkiv\obj\Debug\rendezesmaxkiv.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\rendezesmaxkiv\rendezesmaxkiv\obj\Debug\rendezesmaxkiv.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\rendezesmaxkiv\rendezesmaxkiv\obj\Debug\rendezesmaxkiv.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\rendezesmaxkiv\rendezesmaxkiv\obj\Debug\rendezesmaxkiv.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\rendezesmaxkiv\rendezesmaxkiv\obj\Debug\rendezesmaxkiv.pdb

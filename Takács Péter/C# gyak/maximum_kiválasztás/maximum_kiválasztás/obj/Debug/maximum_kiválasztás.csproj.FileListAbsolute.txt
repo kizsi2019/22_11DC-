@@ -1,0 +1,8 @@
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\maximum_kiválasztás\maximum_kiválasztás\obj\Debug\maximum_kiválasztás.csproj.AssemblyReference.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\maximum_kiválasztás\maximum_kiválasztás\obj\Debug\maximum_kiválasztás.csproj.SuggestedBindingRedirects.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\maximum_kiválasztás\maximum_kiválasztás\obj\Debug\maximum_kiválasztás.csproj.CoreCompileInputs.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\maximum_kiválasztás\maximum_kiválasztás\bin\Debug\maximum_kiválasztás.exe.config
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\maximum_kiválasztás\maximum_kiválasztás\bin\Debug\maximum_kiválasztás.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\maximum_kiválasztás\maximum_kiválasztás\bin\Debug\maximum_kiválasztás.pdb
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\maximum_kiválasztás\maximum_kiválasztás\obj\Debug\maximum_kiválasztás.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\maximum_kiválasztás\maximum_kiválasztás\obj\Debug\maximum_kiválasztás.pdb
