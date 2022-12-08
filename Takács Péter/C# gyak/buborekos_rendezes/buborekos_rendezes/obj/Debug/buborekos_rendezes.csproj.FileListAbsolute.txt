@@ -1,0 +1,8 @@
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\buborekos_rendezes\buborekos_rendezes\bin\Debug\buborekos_rendezes.exe.config
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\buborekos_rendezes\buborekos_rendezes\bin\Debug\buborekos_rendezes.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\buborekos_rendezes\buborekos_rendezes\bin\Debug\buborekos_rendezes.pdb
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\buborekos_rendezes\buborekos_rendezes\obj\Debug\buborekos_rendezes.csproj.AssemblyReference.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\buborekos_rendezes\buborekos_rendezes\obj\Debug\buborekos_rendezes.csproj.SuggestedBindingRedirects.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\buborekos_rendezes\buborekos_rendezes\obj\Debug\buborekos_rendezes.csproj.CoreCompileInputs.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\buborekos_rendezes\buborekos_rendezes\obj\Debug\buborekos_rendezes.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\buborekos_rendezes\buborekos_rendezes\obj\Debug\buborekos_rendezes.pdb
