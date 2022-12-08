@@ -1,0 +1,8 @@
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szétválaszt 2\szétválaszt 2\bin\Debug\szétválaszt 2.exe.config
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szétválaszt 2\szétválaszt 2\bin\Debug\szétválaszt 2.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szétválaszt 2\szétválaszt 2\bin\Debug\szétválaszt 2.pdb
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szétválaszt 2\szétválaszt 2\obj\Debug\szétválaszt 2.csproj.AssemblyReference.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szétválaszt 2\szétválaszt 2\obj\Debug\szétválaszt 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szétválaszt 2\szétválaszt 2\obj\Debug\szétválaszt 2.csproj.CoreCompileInputs.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szétválaszt 2\szétválaszt 2\obj\Debug\szétválaszt 2.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\szétválaszt 2\szétválaszt 2\obj\Debug\szétválaszt 2.pdb
