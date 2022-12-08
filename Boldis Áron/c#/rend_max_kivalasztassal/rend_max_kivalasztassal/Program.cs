@@ -18,7 +18,7 @@ namespace rend_max_kivalasztassal
             }
             Console.WriteLine("Rendezés előtt: ");
             foreach (int item in randT)
-            {
+            { 
                 Console.Write(item + ", ");
             }
             for (int i = randT.Length - 1; i > 0; i--)

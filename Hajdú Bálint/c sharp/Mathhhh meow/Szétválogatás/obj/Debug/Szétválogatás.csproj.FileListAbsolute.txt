@@ -1,0 +1,8 @@
+C:\Users\BalintHajdu\Desktop\Szétválogatás\bin\Debug\Szétválogatás.exe.config
+C:\Users\BalintHajdu\Desktop\Szétválogatás\bin\Debug\Szétválogatás.exe
+C:\Users\BalintHajdu\Desktop\Szétválogatás\bin\Debug\Szétválogatás.pdb
+C:\Users\BalintHajdu\Desktop\Szétválogatás\obj\Debug\Szétválogatás.csproj.AssemblyReference.cache
+C:\Users\BalintHajdu\Desktop\Szétválogatás\obj\Debug\Szétválogatás.csproj.SuggestedBindingRedirects.cache
+C:\Users\BalintHajdu\Desktop\Szétválogatás\obj\Debug\Szétválogatás.csproj.CoreCompileInputs.cache
+C:\Users\BalintHajdu\Desktop\Szétválogatás\obj\Debug\Szétválogatás.exe
+C:\Users\BalintHajdu\Desktop\Szétválogatás\obj\Debug\Szétválogatás.pdb
