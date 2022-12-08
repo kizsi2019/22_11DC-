@@ -1,0 +1,8 @@
+C:\Users\SoponyaiAron\Desktop\git\órai munka\tömb\bin\Debug\tömb.exe.config
+C:\Users\SoponyaiAron\Desktop\git\órai munka\tömb\bin\Debug\tömb.exe
+C:\Users\SoponyaiAron\Desktop\git\órai munka\tömb\bin\Debug\tömb.pdb
+C:\Users\SoponyaiAron\Desktop\git\órai munka\tömb\obj\Debug\tömb.csproj.AssemblyReference.cache
+C:\Users\SoponyaiAron\Desktop\git\órai munka\tömb\obj\Debug\tömb.csproj.SuggestedBindingRedirects.cache
+C:\Users\SoponyaiAron\Desktop\git\órai munka\tömb\obj\Debug\tömb.csproj.CoreCompileInputs.cache
+C:\Users\SoponyaiAron\Desktop\git\órai munka\tömb\obj\Debug\tömb.exe
+C:\Users\SoponyaiAron\Desktop\git\órai munka\tömb\obj\Debug\tömb.pdb

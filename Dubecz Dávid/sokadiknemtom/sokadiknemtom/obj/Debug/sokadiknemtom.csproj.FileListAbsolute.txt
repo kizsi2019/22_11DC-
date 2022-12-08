@@ -1,0 +1,8 @@
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\sokadiknemtom\sokadiknemtom\bin\Debug\sokadiknemtom.exe.config
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\sokadiknemtom\sokadiknemtom\bin\Debug\sokadiknemtom.exe
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\sokadiknemtom\sokadiknemtom\bin\Debug\sokadiknemtom.pdb
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\sokadiknemtom\sokadiknemtom\obj\Debug\sokadiknemtom.csproj.AssemblyReference.cache
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\sokadiknemtom\sokadiknemtom\obj\Debug\sokadiknemtom.csproj.SuggestedBindingRedirects.cache
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\sokadiknemtom\sokadiknemtom\obj\Debug\sokadiknemtom.csproj.CoreCompileInputs.cache
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\sokadiknemtom\sokadiknemtom\obj\Debug\sokadiknemtom.exe
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\sokadiknemtom\sokadiknemtom\obj\Debug\sokadiknemtom.pdb
