@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\szetvhelyben_tetele\szetvhelyben_tetele\bin\Debug\szetvhelyben_tetele.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\szetvhelyben_tetele\szetvhelyben_tetele\bin\Debug\szetvhelyben_tetele.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\szetvhelyben_tetele\szetvhelyben_tetele\bin\Debug\szetvhelyben_tetele.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\szetvhelyben_tetele\szetvhelyben_tetele\obj\Debug\szetvhelyben_tetele.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\szetvhelyben_tetele\szetvhelyben_tetele\obj\Debug\szetvhelyben_tetele.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\szetvhelyben_tetele\szetvhelyben_tetele\obj\Debug\szetvhelyben_tetele.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\szetvhelyben_tetele\szetvhelyben_tetele\obj\Debug\szetvhelyben_tetele.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\szetvhelyben_tetele\szetvhelyben_tetele\obj\Debug\szetvhelyben_tetele.pdb
