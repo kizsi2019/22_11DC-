@@ -1,0 +1,8 @@
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\rendezesmaxkiv\rendezesmaxkiv\bin\Debug\rendezesmaxkiv.exe.config
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\rendezesmaxkiv\rendezesmaxkiv\bin\Debug\rendezesmaxkiv.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\rendezesmaxkiv\rendezesmaxkiv\bin\Debug\rendezesmaxkiv.pdb
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\rendezesmaxkiv\rendezesmaxkiv\obj\Debug\rendezesmaxkiv.csproj.AssemblyReference.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\rendezesmaxkiv\rendezesmaxkiv\obj\Debug\rendezesmaxkiv.csproj.SuggestedBindingRedirects.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\rendezesmaxkiv\rendezesmaxkiv\obj\Debug\rendezesmaxkiv.csproj.CoreCompileInputs.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\rendezesmaxkiv\rendezesmaxkiv\obj\Debug\rendezesmaxkiv.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\rendezesmaxkiv\rendezesmaxkiv\obj\Debug\rendezesmaxkiv.pdb
