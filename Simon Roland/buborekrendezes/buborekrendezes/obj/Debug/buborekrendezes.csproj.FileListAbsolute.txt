@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\buborekrendezes\buborekrendezes\bin\Debug\buborekrendezes.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\buborekrendezes\buborekrendezes\bin\Debug\buborekrendezes.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\buborekrendezes\buborekrendezes\bin\Debug\buborekrendezes.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\buborekrendezes\buborekrendezes\obj\Debug\buborekrendezes.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\buborekrendezes\buborekrendezes\obj\Debug\buborekrendezes.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\buborekrendezes\buborekrendezes\obj\Debug\buborekrendezes.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\buborekrendezes\buborekrendezes\obj\Debug\buborekrendezes.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\buborekrendezes\buborekrendezes\obj\Debug\buborekrendezes.pdb
