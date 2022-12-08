@@ -1,0 +1,8 @@
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\matrix_feltotles_velentelnszamokkatl\obj\Debug\matrix_feltotles_velentelnszamokkatl.csproj.AssemblyReference.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\matrix_feltotles_velentelnszamokkatl\obj\Debug\matrix_feltotles_velentelnszamokkatl.csproj.SuggestedBindingRedirects.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\matrix_feltotles_velentelnszamokkatl\obj\Debug\matrix_feltotles_velentelnszamokkatl.csproj.CoreCompileInputs.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\matrix_feltotles_velentelnszamokkatl\bin\Debug\matrix_feltotles_velentelnszamokkatl.exe.config
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\matrix_feltotles_velentelnszamokkatl\bin\Debug\matrix_feltotles_velentelnszamokkatl.exe
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\matrix_feltotles_velentelnszamokkatl\bin\Debug\matrix_feltotles_velentelnszamokkatl.pdb
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\matrix_feltotles_velentelnszamokkatl\obj\Debug\matrix_feltotles_velentelnszamokkatl.exe
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\matrix_feltotles_velentelnszamokkatl\obj\Debug\matrix_feltotles_velentelnszamokkatl.pdb

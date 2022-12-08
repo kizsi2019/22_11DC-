@@ -1,0 +1,3 @@
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.SuggestedBindingRedirects.cache
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
