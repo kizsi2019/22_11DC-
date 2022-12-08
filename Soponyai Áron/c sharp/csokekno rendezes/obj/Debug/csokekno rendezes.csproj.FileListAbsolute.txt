@@ -1,0 +1,8 @@
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\csokekno rendezes\bin\Debug\csokekno rendezes.exe.config
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\csokekno rendezes\bin\Debug\csokekno rendezes.exe
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\csokekno rendezes\bin\Debug\csokekno rendezes.pdb
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\csokekno rendezes\obj\Debug\csokekno rendezes.csproj.AssemblyReference.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\csokekno rendezes\obj\Debug\csokekno rendezes.csproj.SuggestedBindingRedirects.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\csokekno rendezes\obj\Debug\csokekno rendezes.csproj.CoreCompileInputs.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\csokekno rendezes\obj\Debug\csokekno rendezes.exe
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\csokekno rendezes\obj\Debug\csokekno rendezes.pdb
