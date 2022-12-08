@@ -1,0 +1,8 @@
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\Rendezes_max_kival__2022.XII.08\Rendezes_max_kival__2022.XII.08\obj\Debug\Rendezes_max_kival__2022.XII.08.csproj.AssemblyReference.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\Rendezes_max_kival__2022.XII.08\Rendezes_max_kival__2022.XII.08\obj\Debug\Rendezes_max_kival__2022.XII.08.csproj.SuggestedBindingRedirects.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\Rendezes_max_kival__2022.XII.08\Rendezes_max_kival__2022.XII.08\obj\Debug\Rendezes_max_kival__2022.XII.08.csproj.CoreCompileInputs.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\Rendezes_max_kival__2022.XII.08\Rendezes_max_kival__2022.XII.08\bin\Debug\Rendezes_max_kival__2022.XII.08.exe.config
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\Rendezes_max_kival__2022.XII.08\Rendezes_max_kival__2022.XII.08\bin\Debug\Rendezes_max_kival__2022.XII.08.exe
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\Rendezes_max_kival__2022.XII.08\Rendezes_max_kival__2022.XII.08\bin\Debug\Rendezes_max_kival__2022.XII.08.pdb
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\Rendezes_max_kival__2022.XII.08\Rendezes_max_kival__2022.XII.08\obj\Debug\Rendezes_max_kival__2022.XII.08.exe
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\Rendezes_max_kival__2022.XII.08\Rendezes_max_kival__2022.XII.08\obj\Debug\Rendezes_max_kival__2022.XII.08.pdb
