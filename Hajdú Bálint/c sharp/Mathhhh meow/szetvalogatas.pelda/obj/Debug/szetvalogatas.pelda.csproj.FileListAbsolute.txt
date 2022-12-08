@@ -1,0 +1,8 @@
+C:\Users\BalintHajdu\Desktop\szetvalogatas.pelda\bin\Debug\szetvalogatas.pelda.exe.config
+C:\Users\BalintHajdu\Desktop\szetvalogatas.pelda\bin\Debug\szetvalogatas.pelda.exe
+C:\Users\BalintHajdu\Desktop\szetvalogatas.pelda\bin\Debug\szetvalogatas.pelda.pdb
+C:\Users\BalintHajdu\Desktop\szetvalogatas.pelda\obj\Debug\szetvalogatas.pelda.csproj.AssemblyReference.cache
+C:\Users\BalintHajdu\Desktop\szetvalogatas.pelda\obj\Debug\szetvalogatas.pelda.csproj.SuggestedBindingRedirects.cache
+C:\Users\BalintHajdu\Desktop\szetvalogatas.pelda\obj\Debug\szetvalogatas.pelda.csproj.CoreCompileInputs.cache
+C:\Users\BalintHajdu\Desktop\szetvalogatas.pelda\obj\Debug\szetvalogatas.pelda.exe
+C:\Users\BalintHajdu\Desktop\szetvalogatas.pelda\obj\Debug\szetvalogatas.pelda.pdb
