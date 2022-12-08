@@ -1,0 +1,8 @@
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\rendezes_maximum_kivalasztasa_pelda\rendezes_maximum_kivalasztasa_pelda\bin\Debug\rendezes_maximum_kivalasztasa_pelda.exe.config
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\rendezes_maximum_kivalasztasa_pelda\rendezes_maximum_kivalasztasa_pelda\bin\Debug\rendezes_maximum_kivalasztasa_pelda.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\rendezes_maximum_kivalasztasa_pelda\rendezes_maximum_kivalasztasa_pelda\bin\Debug\rendezes_maximum_kivalasztasa_pelda.pdb
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\rendezes_maximum_kivalasztasa_pelda\rendezes_maximum_kivalasztasa_pelda\obj\Debug\rendezes_maximum_kivalasztasa_pelda.csproj.AssemblyReference.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\rendezes_maximum_kivalasztasa_pelda\rendezes_maximum_kivalasztasa_pelda\obj\Debug\rendezes_maximum_kivalasztasa_pelda.csproj.SuggestedBindingRedirects.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\rendezes_maximum_kivalasztasa_pelda\rendezes_maximum_kivalasztasa_pelda\obj\Debug\rendezes_maximum_kivalasztasa_pelda.csproj.CoreCompileInputs.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\rendezes_maximum_kivalasztasa_pelda\rendezes_maximum_kivalasztasa_pelda\obj\Debug\rendezes_maximum_kivalasztasa_pelda.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\rendezes_maximum_kivalasztasa_pelda\rendezes_maximum_kivalasztasa_pelda\obj\Debug\rendezes_maximum_kivalasztasa_pelda.pdb
