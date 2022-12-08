@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace rend_max_kivalasztassal
+namespace maximumi_kliatsa
 {
     internal class Program
     {
@@ -18,7 +18,7 @@ namespace rend_max_kivalasztassal
             }
             Console.WriteLine("Rendezés előtt: ");
             foreach (int item in randT)
-            { 
+            {
                 Console.Write(item + ", ");
             }
             for (int i = randT.Length - 1; i > 0; i--)
@@ -37,6 +37,7 @@ namespace rend_max_kivalasztassal
             foreach (int item in randT)
             {
                 Console.Write(item + ", ");
+
             }
             Console.ReadKey();
         }

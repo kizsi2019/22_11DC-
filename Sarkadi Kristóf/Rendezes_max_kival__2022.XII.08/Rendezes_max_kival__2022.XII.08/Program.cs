@@ -4,13 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace rend_max_kivalasztassal
+namespace Rendezes_max_kival__2022.XII._08
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             int[] randT = new int[100];
+            //Randomolás
             Random r = new Random();
             for (int i = 0; i < randT.Length; i++)
             {
@@ -18,27 +19,27 @@ namespace rend_max_kivalasztassal
             }
             Console.WriteLine("Rendezés előtt: ");
             foreach (int item in randT)
-            { 
-                Console.Write(item + ", ");
+            {
+                Console.WriteLine(item + ", ");
             }
-            for (int i = randT.Length - 1; i > 0; i--)
+            //Maximum kiválasztásos rendezés
+            for (int i = 0; i < randT.Length; i--)
             {
                 int m = 0;
-                for (int j = 0; j <= i; j++)
+                for (int j = 0; j < randT.Length; j++)
                 {
-                    if (randT[j] > randT[m])
-                        m = j;
+                    if (randT[i] > randT[j]) m = j;
                 }
                 int csere = randT[i];
-                randT[i] = randT[m];
+                randT[i] = randT[m]; 
                 randT[m] = csere;
-            }
+            } 
+            //kiíratás
             Console.WriteLine("\nRendezés után: ");
-            foreach (int item in randT)
+            foreach(int item in randT)
             {
                 Console.Write(item + ", ");
             }
-            Console.ReadKey();
         }
     }
 }

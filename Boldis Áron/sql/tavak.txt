@@ -1,0 +1,5 @@
+2.
+SELECT nev, terulet FROM alloviz WHERE tipus LIKE "%morotva%";
+3.
+??
+4.

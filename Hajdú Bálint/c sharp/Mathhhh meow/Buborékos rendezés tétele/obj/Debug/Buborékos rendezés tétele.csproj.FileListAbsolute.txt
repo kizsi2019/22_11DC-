@@ -1,0 +1,8 @@
+C:\Users\BalintHajdu\Desktop\Buborékos rendezés tétele\bin\Debug\Buborékos rendezés tétele.exe.config
+C:\Users\BalintHajdu\Desktop\Buborékos rendezés tétele\bin\Debug\Buborékos rendezés tétele.exe
+C:\Users\BalintHajdu\Desktop\Buborékos rendezés tétele\bin\Debug\Buborékos rendezés tétele.pdb
+C:\Users\BalintHajdu\Desktop\Buborékos rendezés tétele\obj\Debug\Buborékos rendezés tétele.csproj.AssemblyReference.cache
+C:\Users\BalintHajdu\Desktop\Buborékos rendezés tétele\obj\Debug\Buborékos rendezés tétele.csproj.SuggestedBindingRedirects.cache
+C:\Users\BalintHajdu\Desktop\Buborékos rendezés tétele\obj\Debug\Buborékos rendezés tétele.csproj.CoreCompileInputs.cache
+C:\Users\BalintHajdu\Desktop\Buborékos rendezés tétele\obj\Debug\Buborékos rendezés tétele.exe
+C:\Users\BalintHajdu\Desktop\Buborékos rendezés tétele\obj\Debug\Buborékos rendezés tétele.pdb
