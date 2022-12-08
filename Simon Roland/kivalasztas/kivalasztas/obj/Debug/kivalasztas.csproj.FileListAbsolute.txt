@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\kivalasztas\kivalasztas\obj\Debug\kivalasztas.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\kivalasztas\kivalasztas\obj\Debug\kivalasztas.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\kivalasztas\kivalasztas\obj\Debug\kivalasztas.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\kivalasztas\kivalasztas\bin\Debug\kivalasztas.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\kivalasztas\kivalasztas\bin\Debug\kivalasztas.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\kivalasztas\kivalasztas\bin\Debug\kivalasztas.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\kivalasztas\kivalasztas\obj\Debug\kivalasztas.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\kivalasztas\kivalasztas\obj\Debug\kivalasztas.pdb

@@ -1,0 +1,8 @@
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\Eldöntéspélda\bin\Debug\Eldöntéspélda.exe.config
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\Eldöntéspélda\bin\Debug\Eldöntéspélda.exe
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\Eldöntéspélda\bin\Debug\Eldöntéspélda.pdb
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\Eldöntéspélda\obj\Debug\Eldöntéspélda.csproj.AssemblyReference.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\Eldöntéspélda\obj\Debug\Eldöntéspélda.csproj.SuggestedBindingRedirects.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\Eldöntéspélda\obj\Debug\Eldöntéspélda.csproj.CoreCompileInputs.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\Eldöntéspélda\obj\Debug\Eldöntéspélda.exe
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\Eldöntéspélda\obj\Debug\Eldöntéspélda.pdb

@@ -1,0 +1,8 @@
+C:\Users\BendegúzKiss-Horváth\source\repos\enum\enum\bin\Debug\@enum.exe.config
+C:\Users\BendegúzKiss-Horváth\source\repos\enum\enum\bin\Debug\@enum.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\enum\enum\bin\Debug\@enum.pdb
+C:\Users\BendegúzKiss-Horváth\source\repos\enum\enum\obj\Debug\enum.csproj.AssemblyReference.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\enum\enum\obj\Debug\enum.csproj.SuggestedBindingRedirects.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\enum\enum\obj\Debug\enum.csproj.CoreCompileInputs.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\enum\enum\obj\Debug\@enum.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\enum\enum\obj\Debug\@enum.pdb

@@ -1,0 +1,8 @@
+C:\Users\BalintHajdu\Desktop\streamwriter1\bin\Debug\streamwriter1.exe.config
+C:\Users\BalintHajdu\Desktop\streamwriter1\bin\Debug\streamwriter1.exe
+C:\Users\BalintHajdu\Desktop\streamwriter1\bin\Debug\streamwriter1.pdb
+C:\Users\BalintHajdu\Desktop\streamwriter1\obj\Debug\streamwriter1.csproj.AssemblyReference.cache
+C:\Users\BalintHajdu\Desktop\streamwriter1\obj\Debug\streamwriter1.csproj.SuggestedBindingRedirects.cache
+C:\Users\BalintHajdu\Desktop\streamwriter1\obj\Debug\streamwriter1.csproj.CoreCompileInputs.cache
+C:\Users\BalintHajdu\Desktop\streamwriter1\obj\Debug\streamwriter1.exe
+C:\Users\BalintHajdu\Desktop\streamwriter1\obj\Debug\streamwriter1.pdb

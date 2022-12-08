@@ -1,0 +1,8 @@
+C:\Users\BalintHajdu\Desktop\StreamWriterr\bin\Debug\StreamWriterr.exe.config
+C:\Users\BalintHajdu\Desktop\StreamWriterr\bin\Debug\StreamWriterr.exe
+C:\Users\BalintHajdu\Desktop\StreamWriterr\bin\Debug\StreamWriterr.pdb
+C:\Users\BalintHajdu\Desktop\StreamWriterr\obj\Debug\StreamWriterr.csproj.AssemblyReference.cache
+C:\Users\BalintHajdu\Desktop\StreamWriterr\obj\Debug\StreamWriterr.csproj.SuggestedBindingRedirects.cache
+C:\Users\BalintHajdu\Desktop\StreamWriterr\obj\Debug\StreamWriterr.csproj.CoreCompileInputs.cache
+C:\Users\BalintHajdu\Desktop\StreamWriterr\obj\Debug\StreamWriterr.exe
+C:\Users\BalintHajdu\Desktop\StreamWriterr\obj\Debug\StreamWriterr.pdb

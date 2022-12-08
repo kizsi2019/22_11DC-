@@ -1,0 +1,8 @@
+C:\Users\BendegúzKiss-Horváth\source\repos\tulterheles\tulterheles\bin\Debug\tulterheles.exe.config
+C:\Users\BendegúzKiss-Horváth\source\repos\tulterheles\tulterheles\bin\Debug\tulterheles.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\tulterheles\tulterheles\bin\Debug\tulterheles.pdb
+C:\Users\BendegúzKiss-Horváth\source\repos\tulterheles\tulterheles\obj\Debug\tulterheles.csproj.AssemblyReference.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\tulterheles\tulterheles\obj\Debug\tulterheles.csproj.SuggestedBindingRedirects.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\tulterheles\tulterheles\obj\Debug\tulterheles.csproj.CoreCompileInputs.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\tulterheles\tulterheles\obj\Debug\tulterheles.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\tulterheles\tulterheles\obj\Debug\tulterheles.pdb
