@@ -1,0 +1,17 @@
+2.)
+SELECT tomeg, ar, nev
+FROM keverek
+WHERE tomeg <> 20
+
+3.)
+SELECT keverek.nev, 
+keverek.tomeg, keverek.ar
+FROM keverek
+WHERE keverek.tomeg != 20
+GROUP BY keverek.tomeg DESC;
+
+4.)
+SELECT keverek.nev, 
+MAX(keverek.ar)/1000 AS 
+kilogrammonkenti_ar
+FROM keverek
