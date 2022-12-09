@@ -1,0 +1,5 @@
+SELECT nev, ar, tomeg from keverek where tomeg < 20;
+
+SELECT nev, tomeg/ar from keverek ORDER BY `tomeg/ar` DESC LIMIT 1;
+
+select COUNT(osszetevo.nev) from osszetevo where osszetevo.nev LIKE "Bazsalikom";
