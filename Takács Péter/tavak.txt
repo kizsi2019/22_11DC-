@@ -1,0 +1,44 @@
+2/
+SELECT nev, terulet
+FROM alloviz
+WHERE tipus LIKE "morotvato"
+ORDER BY terulet DESC;
+
+3/
+SELECT SUM(terulet)/93036
+AS vízfelület_aránya
+FROM alloviz;
+
+4/
+SELECT nev,tipus, terulet
+FROM alloviz
+WHERE terulet BETWEEN 3 AND 10 AND vizgyujto >= 10*terulet;
+
+5/
+SELECT nev, COUNT(gpsid) AS Darab
+FROM alloviz,helykapcs
+WHERE id = allovizid
+GROUP BY id, nev 
+HAVING COUNT(gpsid)>=3;
+
+6/
+SELECT nev
+FROM alloviz
+WHERE id IN (SELECT TOP 1h1.allovizid 
+FROM telepulesgps AS g2, helykapcs AS h2 
+WHERE g1.id = h1.gpsid AND g2.id = h1.gpsid AND h1.allovizid = h2.allovizid 
+ORDER BY g1.hosszusag-g2.hosszusag DESC);
+
+7/
+SELECT alloviz.nev, terulet, telepulesgps.nev 
+FROM alloviz, helykapcs, telepulesgps 
+WHERE alloviz.id=allovizid And telepulesgps.id=gpsid And 
+ allovizid in ( SELECT allovizid 
+ FROM helykapcs 
+ GROUP BY allovizid 
+ HAVING Count(gpsid)=1) 
+ And 
+ gpsid in ( SELECT gpsid 
+ FROM helykapcs 
+ GROUP BY gpsid 
+ HAVING Count(allovizid)=1); 
