@@ -1,0 +1,12 @@
+1. feladat
+Importálás kész
+
+2. feladat
+SELECT keverek.nev, keverek.tomeg, keverek.ar
+FROM keverek
+WHERE keverek.tomeg != 20
+GROUP BY keverek.tomeg DESC;
+
+3. feladat
+SELECT keverek.nev, MAX(keverek.ar)/1000 AS kilogrammonkenti_ar
+FROM keverek
