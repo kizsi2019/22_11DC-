@@ -1,0 +1,20 @@
+2) SELECT alloviz.nev, alloviz.terulet FROM alloviz WHERE tipus LIKE '%morotva%' ORDER BY terulet DESC;
+
+3)SELECT SUM(terulet)/93036 AS vízfelület_aránya FROM alloviz;
+
+4)SELECT alloviz.nev, alloviz.tipus, alloviz.terulet
+FROM alloviz
+WHERE terulet BETWEEN 3 AND 10
+AND vizgyujto >= 10 * terulet;
+
+5)SELECT alloviz.nev, Count(gpsid) AS db
+FROM alloviz, helykapcs
+WHERE id = allovizid
+GROUP BY id, nev
+HAVING Count(gpsid)>=3;
+
+6)SELECT TOP 1 alloviz.nev
+FROM telepulesgps, helykapcs, alloviz
+WHERE alloviz.id=allovizid And telepulesgps.id=gpsid
+GROUP BY allovizid, alloviz.nev
+ORDER BY min(hosszusag)-max(hosszusag);
