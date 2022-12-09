@@ -16,7 +16,7 @@ WHERE id = allovizid
 GROUP BY id, nev 
 HAVING Count(gpsid)>=3;
 6
-SELECT TOP 1 alloviz.nev 
+SELECT alloviz.nev 
 FROM telepulesgps, helykapcs, alloviz 
 WHERE alloviz.id=allovizid And telepulesgps.id=gpsid 
 GROUP BY allovizid, alloviz.nev 
