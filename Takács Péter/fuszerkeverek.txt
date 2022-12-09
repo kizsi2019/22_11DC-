@@ -5,7 +5,7 @@ WHERE keverek.tomeg != 20
 ORDER BY keverek.tomeg DESC;
 
 3/
-SELECT MAX(keverek.ar), keverek.tomeg
+SELECT keverek.nev, COUNT(keverek.ar/ keverek.tomeg*1000) AS kilogram
 FROM keverek;
 
 4/
