@@ -9,3 +9,5 @@ SELECT (keverek.tomeg)/1000 AS "KG", keverek.nev
 FROM keverek;
 
 4
+SELECT COUNT(osszetevo.nev) AS "Tevő, tevő összetevő" FROM osszetevo 
+WHERE osszetevo.nev LIKE "%bazsalikom%";
