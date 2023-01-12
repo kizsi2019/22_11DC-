@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\buborekos rendezes\buborekos rendezes\bin\Debug\buborekos rendezes.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\buborekos rendezes\buborekos rendezes\bin\Debug\buborekos rendezes.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\buborekos rendezes\buborekos rendezes\bin\Debug\buborekos rendezes.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\buborekos rendezes\buborekos rendezes\obj\Debug\buborekos rendezes.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\buborekos rendezes\buborekos rendezes\obj\Debug\buborekos rendezes.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\buborekos rendezes\buborekos rendezes\obj\Debug\buborekos rendezes.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\buborekos rendezes\buborekos rendezes\obj\Debug\buborekos rendezes.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\buborekos rendezes\buborekos rendezes\obj\Debug\buborekos rendezes.pdb
