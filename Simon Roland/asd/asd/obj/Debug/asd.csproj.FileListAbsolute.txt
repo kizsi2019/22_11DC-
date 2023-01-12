@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\asd\asd\bin\Debug\asd.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\asd\asd\bin\Debug\asd.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\asd\asd\bin\Debug\asd.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\asd\asd\obj\Debug\asd.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\asd\asd\obj\Debug\asd.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\asd\asd\obj\Debug\asd.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\asd\asd\obj\Debug\asd.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\asd\asd\obj\Debug\asd.pdb
