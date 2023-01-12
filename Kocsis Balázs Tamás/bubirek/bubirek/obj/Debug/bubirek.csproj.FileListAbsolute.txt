@@ -1,0 +1,8 @@
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\bubirek\bubirek\bin\Debug\bubirek.exe.config
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\bubirek\bubirek\bin\Debug\bubirek.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\bubirek\bubirek\bin\Debug\bubirek.pdb
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\bubirek\bubirek\obj\Debug\bubirek.csproj.AssemblyReference.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\bubirek\bubirek\obj\Debug\bubirek.csproj.SuggestedBindingRedirects.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\bubirek\bubirek\obj\Debug\bubirek.csproj.CoreCompileInputs.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\bubirek\bubirek\obj\Debug\bubirek.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\bubirek\bubirek\obj\Debug\bubirek.pdb

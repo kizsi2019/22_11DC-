@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tetel3", "tetel3\tetel3.csproj", "{59C3227C-E96E-47EA-AC79-9B08EBD17A2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59C3227C-E96E-47EA-AC79-9B08EBD17A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C3227C-E96E-47EA-AC79-9B08EBD17A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C3227C-E96E-47EA-AC79-9B08EBD17A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C3227C-E96E-47EA-AC79-9B08EBD17A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3F138DF-4088-4973-9A93-5D7D05ECE0EB}
+	EndGlobalSection
+EndGlobal
