@@ -1,0 +1,8 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\bubisrendezes_pelda\bubisrendezes_pelda\bin\Debug\bubisrendezes_pelda.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\bubisrendezes_pelda\bubisrendezes_pelda\bin\Debug\bubisrendezes_pelda.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\bubisrendezes_pelda\bubisrendezes_pelda\bin\Debug\bubisrendezes_pelda.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\bubisrendezes_pelda\bubisrendezes_pelda\obj\Debug\bubisrendezes_pelda.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\bubisrendezes_pelda\bubisrendezes_pelda\obj\Debug\bubisrendezes_pelda.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\bubisrendezes_pelda\bubisrendezes_pelda\obj\Debug\bubisrendezes_pelda.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\bubisrendezes_pelda\bubisrendezes_pelda\obj\Debug\bubisrendezes_pelda.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\bubisrendezes_pelda\bubisrendezes_pelda\obj\Debug\bubisrendezes_pelda.pdb
