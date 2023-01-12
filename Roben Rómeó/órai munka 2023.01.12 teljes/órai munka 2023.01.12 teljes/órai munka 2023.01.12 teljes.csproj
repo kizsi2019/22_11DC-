@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{41077077-DCBD-4ACB-9363-7462579B449B}</ProjectGuid>
+    <ProjectGuid>{64393DF4-3BAF-4EF8-A142-C78FAA599773}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>órai_munka_2023._01._12</RootNamespace>
-    <AssemblyName>órai munka 2023.01.12</AssemblyName>
+    <RootNamespace>órai_munka_2023._01._12_teljes</RootNamespace>
+    <AssemblyName>órai munka 2023.01.12 teljes</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
