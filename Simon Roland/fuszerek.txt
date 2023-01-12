@@ -1,14 +1,14 @@
-2/
+2.
 SELECT keverek.nev, keverek.tomeg, keverek.ar
 FROM keverek
 WHERE keverek.tomeg != 20
-ORDER BY keverek.tomeg DESC;
-
-3/
-SELECT keverek.nev, COUNT(keverek.ar/ keverek.tomeg*1000) AS kilogram
+ORDER BY keverek.tomeg DESC
+3.
+SELECT keverek.nev, (keverek.ar / keverek.tomeg * 1000) AS kilogramm
 FROM keverek;
 
-4/
-SELECT COUNT(osszetevo.nev) 
+
+4.
+SELECT COUNT(osszetevo.nev)
 FROM osszetevo
 WHERE osszetevo.nev LIKE "bazsalikom";

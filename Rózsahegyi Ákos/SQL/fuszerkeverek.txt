@@ -10,3 +10,9 @@ GROUP BY keverek.tomeg DESC;
 3. feladat
 SELECT keverek.nev, MAX(keverek.ar)/1000 AS kilogrammonkenti_ar
 FROM keverek
+
+4. feladat
+SELECT COUNT(keverek.id) AS fuszerkeverekek
+FROM keverek, kapcsolat, osszetevo
+WHERE keverek.id = kapcsolat.keverekid AND kapcsolat.osszetevoid = osszetevo.id
+AND osszetevo.nev = "bazsalikom"

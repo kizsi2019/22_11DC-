@@ -1,0 +1,15 @@
+2
+SELECT keverek.tomeg, keverek.ar
+FROM keverek
+WHERE tomeg <> 20
+GROUP BY (keverek.tomeg) DESC;
+
+3
+SELECT (keverek.tomeg)/1000 AS "KG", keverek.nev
+FROM keverek;
+
+4
+SELECT COUNT(keverek.id) AS keverek
+FROM keverek, kapcsolat, osszetevo
+WHERE keverek.id = kapcsolat.keverekid AND kapcsolat.osszetevoid = osszetevo.id
+AND osszetevo.nev = "bazsalikom";
