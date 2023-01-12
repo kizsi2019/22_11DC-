@@ -16,19 +16,22 @@ namespace tetel4
             {
                 randT[i] = r.Next(0, 101);
             }
-            int szam = 0;
             foreach (int item in randT)
             {
                 Console.Write(item + ", ");
-                break;
             }
+            int osz3_i = 0;
             for (int i = 0; i < randT.Length; i++)
             {
-
-                if (randT[i] % 3 == 0) szam++;
+                if (randT[i] % 3 == 0)
+                {
+                    randT[osz3_i] = randT[i];
+                    osz3_i++;
+                    Console.WriteLine("3-mal osztható számok indexe {0}", osz3_i);
+                }
+                
+                Console.ReadKey();
             }
-            Console.WriteLine("A generált tömbben {0}db 3-mal osztható szám van, indexe {1}, értéke{2}", szam);
-            Console.ReadKey();
         }
     }
 }
