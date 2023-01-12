@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\maximumkivalasztaspelda5\maximumkivalasztaspelda5\bin\Debug\maximumkivalasztaspelda5.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\maximumkivalasztaspelda5\maximumkivalasztaspelda5\bin\Debug\maximumkivalasztaspelda5.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\maximumkivalasztaspelda5\maximumkivalasztaspelda5\bin\Debug\maximumkivalasztaspelda5.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\maximumkivalasztaspelda5\maximumkivalasztaspelda5\obj\Debug\maximumkivalasztaspelda5.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\maximumkivalasztaspelda5\maximumkivalasztaspelda5\obj\Debug\maximumkivalasztaspelda5.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\maximumkivalasztaspelda5\maximumkivalasztaspelda5\obj\Debug\maximumkivalasztaspelda5.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\maximumkivalasztaspelda5\maximumkivalasztaspelda5\obj\Debug\maximumkivalasztaspelda5.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\maximumkivalasztaspelda5\maximumkivalasztaspelda5\obj\Debug\maximumkivalasztaspelda5.pdb

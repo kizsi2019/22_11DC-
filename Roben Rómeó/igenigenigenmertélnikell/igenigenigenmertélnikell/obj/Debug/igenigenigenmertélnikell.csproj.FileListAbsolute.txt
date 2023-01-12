@@ -1,0 +1,8 @@
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\igenigenigenmertélnikell\igenigenigenmertélnikell\obj\Debug\igenigenigenmertélnikell.csproj.AssemblyReference.cache
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\igenigenigenmertélnikell\igenigenigenmertélnikell\obj\Debug\igenigenigenmertélnikell.csproj.SuggestedBindingRedirects.cache
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\igenigenigenmertélnikell\igenigenigenmertélnikell\obj\Debug\igenigenigenmertélnikell.csproj.CoreCompileInputs.cache
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\igenigenigenmertélnikell\igenigenigenmertélnikell\bin\Debug\igenigenigenmertélnikell.exe.config
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\igenigenigenmertélnikell\igenigenigenmertélnikell\bin\Debug\igenigenigenmertélnikell.exe
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\igenigenigenmertélnikell\igenigenigenmertélnikell\bin\Debug\igenigenigenmertélnikell.pdb
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\igenigenigenmertélnikell\igenigenigenmertélnikell\obj\Debug\igenigenigenmertélnikell.exe
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\igenigenigenmertélnikell\igenigenigenmertélnikell\obj\Debug\igenigenigenmertélnikell.pdb

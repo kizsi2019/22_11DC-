@@ -1,0 +1,8 @@
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\verseny\bin\Debug\verseny.exe.config
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\verseny\bin\Debug\verseny.exe
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\verseny\bin\Debug\verseny.pdb
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\verseny\obj\Debug\verseny.csproj.AssemblyReference.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\verseny\obj\Debug\verseny.csproj.SuggestedBindingRedirects.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\verseny\obj\Debug\verseny.csproj.CoreCompileInputs.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\verseny\obj\Debug\verseny.exe
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\verseny\obj\Debug\verseny.pdb

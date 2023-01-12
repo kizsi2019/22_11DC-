@@ -1,0 +1,8 @@
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\szetvalogatas_helyben\szetvalogatas_helyben\bin\Debug\szetvalogatas_helyben.exe.config
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\szetvalogatas_helyben\szetvalogatas_helyben\bin\Debug\szetvalogatas_helyben.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\szetvalogatas_helyben\szetvalogatas_helyben\bin\Debug\szetvalogatas_helyben.pdb
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\szetvalogatas_helyben\szetvalogatas_helyben\obj\Debug\szetvalogatas_helyben.csproj.AssemblyReference.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\szetvalogatas_helyben\szetvalogatas_helyben\obj\Debug\szetvalogatas_helyben.csproj.SuggestedBindingRedirects.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\szetvalogatas_helyben\szetvalogatas_helyben\obj\Debug\szetvalogatas_helyben.csproj.CoreCompileInputs.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\szetvalogatas_helyben\szetvalogatas_helyben\obj\Debug\szetvalogatas_helyben.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\szetvalogatas_helyben\szetvalogatas_helyben\obj\Debug\szetvalogatas_helyben.pdb

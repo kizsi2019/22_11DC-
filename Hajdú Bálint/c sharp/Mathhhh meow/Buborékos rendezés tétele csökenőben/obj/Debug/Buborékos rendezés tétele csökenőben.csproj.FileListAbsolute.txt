@@ -1,0 +1,3 @@
+C:\Users\BalintHajdu\Desktop\Buborékos rendezés tétele csökenőben\obj\Debug\Buborékos rendezés tétele csökenőben.csproj.AssemblyReference.cache
+C:\Users\BalintHajdu\Desktop\Buborékos rendezés tétele csökenőben\obj\Debug\Buborékos rendezés tétele csökenőben.csproj.SuggestedBindingRedirects.cache
+C:\Users\BalintHajdu\Desktop\Buborékos rendezés tétele csökenőben\obj\Debug\Buborékos rendezés tétele csökenőben.csproj.CoreCompileInputs.cache

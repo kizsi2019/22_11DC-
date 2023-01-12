@@ -1,0 +1,8 @@
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\szétválogatás\bin\Debug\szétválogatás.exe.config
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\szétválogatás\bin\Debug\szétválogatás.exe
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\szétválogatás\bin\Debug\szétválogatás.pdb
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\szétválogatás\obj\Debug\szétválogatás.csproj.AssemblyReference.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\szétválogatás\obj\Debug\szétválogatás.csproj.SuggestedBindingRedirects.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\szétválogatás\obj\Debug\szétválogatás.csproj.CoreCompileInputs.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\szétválogatás\obj\Debug\szétválogatás.exe
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\szétválogatás\obj\Debug\szétválogatás.pdb

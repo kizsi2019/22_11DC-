@@ -1,0 +1,7 @@
+SELECT nev, terulet from alloviz WHERE tipus = "%morotva%" ORDER by terulet asc;
+
+select sum(terulet)/93036 AS Vizterület FROM alloviz;
+
+SELECT nev, tipus,terulet FROM alloviz WHERE terulet BETWEEN 3 and 10 and vizgyujto >= 10 * terulet;
+
+SELECT nev, Count(gpsid) AS Darab FROM alloviz, helykapcs WHERE id = allovizid GROUP BY id, nev HAVING Count(gpsid)>=3;

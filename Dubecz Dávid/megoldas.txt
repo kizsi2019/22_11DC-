@@ -1,0 +1,30 @@
+2. 
+SELECT alloviz.nev, alloviz.terulet
+FROM alloviz
+WHERE alloviz.tipus LIKE %morotva%
+ORDER BY alloviz.terulet DESC;
+
+3. 
+SELECT SUM
+(alloviz.terulet)/93036 AS viz_aranya
+FROM alloviz;
+
+4. 
+SELECT alloviz.nev, alloviz.tipus, alloviz.terulet
+FROM alloviz
+WHERE alloviz.terulet BETWEEN 3 AND 10 AND alloviz.vizgyujto >= 10 * alloviz.terulet;
+
+5.
+SELECT alloviz.nev, COUNT(helykapcs.gpsid) AS telepulesek
+FROM alloviz, helykapcs
+WHERE alloviz.id = helykapcs.allovizid
+GROUP BY alloviz.nev, alloviz.id
+HAVING COUNT(helykapcs.gpsid) >= 3;
+
+
+6
+SELECT alloviz.nev
+FROM alloviz, helykapcs, telepulesgps
+WHERE alloviz.id = helykapcs.allovizid AND telepulesgps.id = helykapcs.gpsid
+GROUP BY alloviz.nev, helykapcs.allovizid
+ORDER BY MAX(telepulesgps.hosszusag) - MIN(telepulesgps.hosszusag) DESC;
