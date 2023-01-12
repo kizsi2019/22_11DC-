@@ -34,7 +34,7 @@ namespace tetelek_feladat
             {
                 k++;
             }
-            if (k < Tomb.Length) Console.WriteLine("Van 20-nál kisebb szám");
+            if (k < Tomb.Length) Console.WriteLine("\nVan 20-nál kisebb szám");
             else Console.WriteLine("Nincs 20-nál kisebb szám");
 
             for (int l = 0; l < Tomb.Length; l++)
@@ -51,7 +51,7 @@ namespace tetelek_feladat
             Console.WriteLine("A legnagyobb szám: {0}", Tomb[legnagyobb_index]);
             Console.WriteLine("A legkisebb szám: {0}", Tomb[legkisebb_index]);
 
-            while (s < Tomb.Length && Tomb[s] % 3 == 0)
+            while (s < Tomb.Length && Tomb[s] % 3 != 0)
             {
                 s++;
             }
