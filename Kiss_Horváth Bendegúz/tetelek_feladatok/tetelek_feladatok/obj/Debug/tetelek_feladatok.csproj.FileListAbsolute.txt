@@ -1,0 +1,8 @@
+C:\Users\BendegúzKiss-Horváth\source\repos\tetelek_feladatok\tetelek_feladatok\obj\Debug\tetelek_feladatok.csproj.AssemblyReference.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\tetelek_feladatok\tetelek_feladatok\obj\Debug\tetelek_feladatok.csproj.SuggestedBindingRedirects.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\tetelek_feladatok\tetelek_feladatok\obj\Debug\tetelek_feladatok.csproj.CoreCompileInputs.cache
+C:\Users\BendegúzKiss-Horváth\source\repos\tetelek_feladatok\tetelek_feladatok\bin\Debug\tetelek_feladatok.exe.config
+C:\Users\BendegúzKiss-Horváth\source\repos\tetelek_feladatok\tetelek_feladatok\bin\Debug\tetelek_feladatok.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\tetelek_feladatok\tetelek_feladatok\bin\Debug\tetelek_feladatok.pdb
+C:\Users\BendegúzKiss-Horváth\source\repos\tetelek_feladatok\tetelek_feladatok\obj\Debug\tetelek_feladatok.exe
+C:\Users\BendegúzKiss-Horváth\source\repos\tetelek_feladatok\tetelek_feladatok\obj\Debug\tetelek_feladatok.pdb
