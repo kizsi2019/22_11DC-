@@ -1,9 +1,7 @@
 2.
 SELECT keverek.nev, keverek.tomeg, keverek.ar 
-FROM keverek WHERE keverek.tomeg <> 20;
+FROM keverek WHERE keverek.tomeg <> 20
+ORDER BY keverek.tomeg DESC;
 3.
 SELECT MAX(keverek.tomeg), keverek.nev FROM keverek;
 4.
-SELECT COUNT(osszetevo.nev) 
-FROM osszetevo 
-WHERE osszetevo.nev LIKE "%bazsalikom%";

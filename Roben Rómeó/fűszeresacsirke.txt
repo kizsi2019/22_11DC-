@@ -1,0 +1,6 @@
+2
+SELECT nev,tomeg,ar FROM `keverek` WHERE tomeg < 20 ORDER BY tomeg DESC;
+3
+
+4
+SELECT osszetevo.nev FROM osszetevo WHERE osszetevo.nev LIKE "bazsalikom%";
