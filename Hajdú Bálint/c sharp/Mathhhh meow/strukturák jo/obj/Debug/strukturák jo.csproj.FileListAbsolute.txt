@@ -1,0 +1,8 @@
+C:\Users\BalintHajdu\Desktop\strukturák jo\bin\Debug\strukturák jo.exe.config
+C:\Users\BalintHajdu\Desktop\strukturák jo\bin\Debug\strukturák jo.exe
+C:\Users\BalintHajdu\Desktop\strukturák jo\bin\Debug\strukturák jo.pdb
+C:\Users\BalintHajdu\Desktop\strukturák jo\obj\Debug\strukturák jo.csproj.AssemblyReference.cache
+C:\Users\BalintHajdu\Desktop\strukturák jo\obj\Debug\strukturák jo.csproj.SuggestedBindingRedirects.cache
+C:\Users\BalintHajdu\Desktop\strukturák jo\obj\Debug\strukturák jo.csproj.CoreCompileInputs.cache
+C:\Users\BalintHajdu\Desktop\strukturák jo\obj\Debug\strukturák jo.exe
+C:\Users\BalintHajdu\Desktop\strukturák jo\obj\Debug\strukturák jo.pdb
