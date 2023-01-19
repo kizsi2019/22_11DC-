@@ -1,0 +1,8 @@
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\bub_rend_2023.I.12\bub_rend_2023.I.12\bin\Debug\bub_rend_2023.I.12.exe.config
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\bub_rend_2023.I.12\bub_rend_2023.I.12\bin\Debug\bub_rend_2023.I.12.exe
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\bub_rend_2023.I.12\bub_rend_2023.I.12\bin\Debug\bub_rend_2023.I.12.pdb
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\bub_rend_2023.I.12\bub_rend_2023.I.12\obj\Debug\bub_rend_2023.I.12.csproj.AssemblyReference.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\bub_rend_2023.I.12\bub_rend_2023.I.12\obj\Debug\bub_rend_2023.I.12.csproj.SuggestedBindingRedirects.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\bub_rend_2023.I.12\bub_rend_2023.I.12\obj\Debug\bub_rend_2023.I.12.csproj.CoreCompileInputs.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\bub_rend_2023.I.12\bub_rend_2023.I.12\obj\Debug\bub_rend_2023.I.12.exe
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\bub_rend_2023.I.12\bub_rend_2023.I.12\obj\Debug\bub_rend_2023.I.12.pdb

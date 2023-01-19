@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\buborekos\buborekos\bin\Debug\buborekos.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\buborekos\buborekos\bin\Debug\buborekos.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\buborekos\buborekos\bin\Debug\buborekos.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\buborekos\buborekos\obj\Debug\buborekos.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\buborekos\buborekos\obj\Debug\buborekos.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\buborekos\buborekos\obj\Debug\buborekos.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\buborekos\buborekos\obj\Debug\buborekos.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\buborekos\buborekos\obj\Debug\buborekos.pdb

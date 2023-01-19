@@ -1,8 +1,0 @@
-C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\órai munka 2023.01.12\órai munka 2023.01.12\bin\Debug\órai munka 2023.01.12.exe.config
-C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\órai munka 2023.01.12\órai munka 2023.01.12\bin\Debug\órai munka 2023.01.12.exe
-C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\órai munka 2023.01.12\órai munka 2023.01.12\bin\Debug\órai munka 2023.01.12.pdb
-C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\órai munka 2023.01.12\órai munka 2023.01.12\obj\Debug\órai munka 2023.01.12.csproj.AssemblyReference.cache
-C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\órai munka 2023.01.12\órai munka 2023.01.12\obj\Debug\órai munka 2023.01.12.csproj.SuggestedBindingRedirects.cache
-C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\órai munka 2023.01.12\órai munka 2023.01.12\obj\Debug\órai munka 2023.01.12.csproj.CoreCompileInputs.cache
-C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\órai munka 2023.01.12\órai munka 2023.01.12\obj\Debug\órai munka 2023.01.12.exe
-C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\órai munka 2023.01.12\órai munka 2023.01.12\obj\Debug\órai munka 2023.01.12.pdb
