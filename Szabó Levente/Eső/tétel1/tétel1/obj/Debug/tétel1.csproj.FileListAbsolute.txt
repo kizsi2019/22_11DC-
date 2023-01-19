@@ -6,3 +6,11 @@ C:\Users\SzaboLeventeTamas\Desktop\Eső 2\git\22_11DC-\Szabó Levente\Eső\téte
 C:\Users\SzaboLeventeTamas\Desktop\Eső 2\git\22_11DC-\Szabó Levente\Eső\tétel1\tétel1\obj\Debug\tétel1.csproj.CoreCompileInputs.cache
 C:\Users\SzaboLeventeTamas\Desktop\Eső 2\git\22_11DC-\Szabó Levente\Eső\tétel1\tétel1\obj\Debug\tétel1.exe
 C:\Users\SzaboLeventeTamas\Desktop\Eső 2\git\22_11DC-\Szabó Levente\Eső\tétel1\tétel1\obj\Debug\tétel1.pdb
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\tétel1\tétel1\bin\Debug\tétel1.exe.config
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\tétel1\tétel1\bin\Debug\tétel1.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\tétel1\tétel1\bin\Debug\tétel1.pdb
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\tétel1\tétel1\obj\Debug\tétel1.csproj.AssemblyReference.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\tétel1\tétel1\obj\Debug\tétel1.csproj.SuggestedBindingRedirects.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\tétel1\tétel1\obj\Debug\tétel1.csproj.CoreCompileInputs.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\tétel1\tétel1\obj\Debug\tétel1.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső\githab\22_11DC-\Szabó Levente\Eső\tétel1\tétel1\obj\Debug\tétel1.pdb

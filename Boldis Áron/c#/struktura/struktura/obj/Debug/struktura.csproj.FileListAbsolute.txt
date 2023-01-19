@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\struktura\struktura\bin\Debug\struktura.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\struktura\struktura\bin\Debug\struktura.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\struktura\struktura\bin\Debug\struktura.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\struktura\struktura\obj\Debug\struktura.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\struktura\struktura\obj\Debug\struktura.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\struktura\struktura\obj\Debug\struktura.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\struktura\struktura\obj\Debug\struktura.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\struktura\struktura\obj\Debug\struktura.pdb
