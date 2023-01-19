@@ -6,3 +6,11 @@ C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\Visual Studi
 C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\Visual Studio 2022-23\22_11DC-\Sarkadi Kristóf\random\random\obj\Debug\random.csproj.CoreCompileInputs.cache
 C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\Visual Studio 2022-23\22_11DC-\Sarkadi Kristóf\random\random\obj\Debug\random.exe
 C:\Users\SarkadiKristofStefan\Documents\Sar.Kri.STe._2022.-23._11.D\Visual Studio 2022-23\22_11DC-\Sarkadi Kristóf\random\random\obj\Debug\random.pdb
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\random\random\bin\Debug\random.exe.config
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\random\random\bin\Debug\random.exe
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\random\random\bin\Debug\random.pdb
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\random\random\obj\Debug\random.csproj.AssemblyReference.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\random\random\obj\Debug\random.csproj.SuggestedBindingRedirects.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\random\random\obj\Debug\random.csproj.CoreCompileInputs.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\random\random\obj\Debug\random.exe
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\random\random\obj\Debug\random.pdb
