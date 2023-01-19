@@ -1,0 +1,8 @@
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\abszolut_ertek\abszolut_ertek\bin\Debug\abszolut_ertek.exe.config
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\abszolut_ertek\abszolut_ertek\bin\Debug\abszolut_ertek.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\abszolut_ertek\abszolut_ertek\bin\Debug\abszolut_ertek.pdb
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\abszolut_ertek\abszolut_ertek\obj\Debug\abszolut_ertek.csproj.AssemblyReference.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\abszolut_ertek\abszolut_ertek\obj\Debug\abszolut_ertek.csproj.SuggestedBindingRedirects.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\abszolut_ertek\abszolut_ertek\obj\Debug\abszolut_ertek.csproj.CoreCompileInputs.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\abszolut_ertek\abszolut_ertek\obj\Debug\abszolut_ertek.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\abszolut_ertek\abszolut_ertek\obj\Debug\abszolut_ertek.pdb

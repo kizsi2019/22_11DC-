@@ -89,7 +89,10 @@ namespace órai_munka_2023._01._12_teljes
             for (int i = 0; i < tmb.Length; i++)
             {
                 if (tmb[i] % 2 != 0)
-                    tmbOdds[i] = tmb[i];
+                {
+                    int v = tmb[i];
+                    tmbOdds[i] = v;
+                }
             }
             Console.WriteLine("Páratlan számok: ");
             foreach (var i in tmbOdds)
