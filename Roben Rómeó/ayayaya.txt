@@ -1,0 +1,13 @@
+1
+INSERT INTO vetites (azon, mozinev, fkod)
+  VALUES (356,'muvesz',2);
+2
+UPDATE filmek
+  SET hossz = 110
+  WHERE fkod = 3;
+3
+DELETE FROM filmek WHERE filmcim='Film';
+12
+SELECT * FROM filmek WHERE hossz BETWEEN 90 AND 120;
+4
+SELECT 'filmcím','hossz','mufaj' FROM `filmek`;
