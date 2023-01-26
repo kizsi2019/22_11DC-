@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\kuty\kuty\bin\Debug\kuty.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\kuty\kuty\bin\Debug\kuty.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\kuty\kuty\bin\Debug\kuty.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\kuty\kuty\obj\Debug\kuty.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\kuty\kuty\obj\Debug\kuty.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\kuty\kuty\obj\Debug\kuty.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\kuty\kuty\obj\Debug\kuty.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\kuty\kuty\obj\Debug\kuty.pdb
