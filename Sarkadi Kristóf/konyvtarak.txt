@@ -1,0 +1,28 @@
+10.)
+UPDATE megyek SET megyek.megyeNev="Budapest"
+WHERE megyek.megyeNev="BP"
+
+11.)
+SELECT konyvtarak.konyvtarNev, konyvtarak.itsz
+FROM konyvtarak
+WHERE konyvtarak.konyvtarakNev LIKE "%szakkönyvtár%"
+
+12.)
+SELECT konyvtarak.konyvtarNev, konyvtarak.irsz, konyvtarak.cim
+FROM konyvtarak
+WHERE konyvtarak.irsz LIKE "%1"
+ORDER BY 2 ASC
+
+13.)
+SELECT telepulesek.telepNev, COUNT(konyvtarak.id) AS "konyvtarDarab"
+FROM telepulesek, konyvtarak
+WHERE telepulesek.irsz = konyvtarak.irsz
+GROUP BY 1
+HAVING konyvtarDarab >= 7
+
+14.)
+SELECT megyek.megyeNev, COUNT(telepulesek.irsz) AS "telepulesDarab"
+FROM megyek INNER JOIN telepulesek ON telepulesek.megyeId = megyek.id
+WHERE telepulesek.irsz NOT LIKE "1%"
+GROUP BY 1
+ORDER BY 2 DESC;
