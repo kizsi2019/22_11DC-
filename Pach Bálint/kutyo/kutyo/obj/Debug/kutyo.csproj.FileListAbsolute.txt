@@ -1,0 +1,8 @@
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\kutyo\kutyo\bin\Debug\kutyo.exe.config
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\kutyo\kutyo\bin\Debug\kutyo.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\kutyo\kutyo\bin\Debug\kutyo.pdb
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\kutyo\kutyo\obj\Debug\kutyo.csproj.AssemblyReference.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\kutyo\kutyo\obj\Debug\kutyo.csproj.SuggestedBindingRedirects.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\kutyo\kutyo\obj\Debug\kutyo.csproj.CoreCompileInputs.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\kutyo\kutyo\obj\Debug\kutyo.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\kutyo\kutyo\obj\Debug\kutyo.pdb
