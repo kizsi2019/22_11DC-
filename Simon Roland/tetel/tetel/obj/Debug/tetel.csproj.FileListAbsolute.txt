@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tetel\tetel\obj\Debug\tetel.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tetel\tetel\obj\Debug\tetel.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tetel\tetel\obj\Debug\tetel.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tetel\tetel\bin\Debug\tetel.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tetel\tetel\bin\Debug\tetel.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tetel\tetel\bin\Debug\tetel.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tetel\tetel\obj\Debug\tetel.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tetel\tetel\obj\Debug\tetel.pdb

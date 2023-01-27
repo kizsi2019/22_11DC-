@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\haromoperanduso\haromoperanduso\bin\Debug\haromoperanduso.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\haromoperanduso\haromoperanduso\bin\Debug\haromoperanduso.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\haromoperanduso\haromoperanduso\bin\Debug\haromoperanduso.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\haromoperanduso\haromoperanduso\obj\Debug\haromoperanduso.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\haromoperanduso\haromoperanduso\obj\Debug\haromoperanduso.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\haromoperanduso\haromoperanduso\obj\Debug\haromoperanduso.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\haromoperanduso\haromoperanduso\obj\Debug\haromoperanduso.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\haromoperanduso\haromoperanduso\obj\Debug\haromoperanduso.pdb
