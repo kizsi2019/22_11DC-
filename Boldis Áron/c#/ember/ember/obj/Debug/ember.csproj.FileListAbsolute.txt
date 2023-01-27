@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\ember\ember\bin\Debug\ember.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\ember\ember\bin\Debug\ember.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\ember\ember\bin\Debug\ember.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\ember\ember\obj\Debug\ember.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\ember\ember\obj\Debug\ember.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\ember\ember\obj\Debug\ember.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\ember\ember\obj\Debug\ember.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\ember\ember\obj\Debug\ember.pdb

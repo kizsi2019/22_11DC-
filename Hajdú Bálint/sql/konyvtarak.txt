@@ -1,0 +1,36 @@
+1) 
+CREATE DATABASE konyvtarak
+ DEFAULT CHRACTER SET utf8
+ COLLATE utf8_hungarian_ci;
+2)
+UPDATE
+ megyek
+ SET
+ megyeNev="Budapest"
+ WHERE
+ megyeNev="BP"; 
+3)
+SELECT
+ konyvtarNev,
+ irsz
+ FROM
+ konyvtarak
+ WHERE
+ konyvtarNev  "%Szakkönyvtár%"; 
+4)
+ SELECT konyvtarNev, irsz, cím FROM konyvtarak WHERE
+irsz nem tudom
+5)
+ SELECT
+ telepNev,
+ COUNT(id) AS konyvtarDarab
+ FROM
+ konyvtarak INNER JOIN telepulesek
+ ON konyvtarak.irsz=telepulesek.irsz
+ GROUP BY
+ telepNev
+ HAVING
+ konyvtarDarab >=7; 
+
+
+ 

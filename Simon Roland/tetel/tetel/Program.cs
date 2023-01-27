@@ -36,11 +36,11 @@ namespace tetel
             int min = 0;
             for (int i = 0; i < randT.Length; i++)
             {
-                if (randT[i] > randT[max]) max = i;
-                if (randT[i] < randT[min]) max = i;
+                if (randT[i] < randT[max]) max = i;
+                if (randT[i] > randT[min]) max = i;
             }
             Console.WriteLine("A legnagyobb szám indexe {0}, értéke {1}", max, randT[max]);
-            Console.WriteLine("A legnagyobb szám indexe {0}, értéke {1}", min, randT[min]);
+            Console.WriteLine("A legkisebb szám indexe {0}, értéke {1}", min, randT[min]);
             int[] oszhato3szamokT = new int[100];
             int osz3_i = 0;
             for (int i = 0; i < randT.Length; i++)
