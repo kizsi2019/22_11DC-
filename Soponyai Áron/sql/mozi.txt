@@ -1,0 +1,21 @@
+1.
+INSERT INTO vetites(azon, mozinev,fkod)
+VALUES(356,'Művész',2)
+2.
+UPDATE filmek
+SET hossz = 110
+WHERE filcim='Álmodozók'
+3.
+DELETE FROM filmek
+WHERE filmcim='Film';
+4.
+SELECT filmcim, mufaj,hossz FROM filmek;
+
+6.
+SELECT filmcim, hossz FROM filmek 
+WHERE mufaj='dokumentum'
+ORDER BY hossz DESC;
+7.
+SELECT filmcim, mufaj,hossz FROM filmek
+WHERE szarmazas='Amerikai';
+

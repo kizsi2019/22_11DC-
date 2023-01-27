@@ -1,0 +1,8 @@
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\bitek\bitek\bin\Debug\bitek.exe.config
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\bitek\bitek\bin\Debug\bitek.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\bitek\bitek\bin\Debug\bitek.pdb
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\bitek\bitek\obj\Debug\bitek.csproj.AssemblyReference.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\bitek\bitek\obj\Debug\bitek.csproj.SuggestedBindingRedirects.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\bitek\bitek\obj\Debug\bitek.csproj.CoreCompileInputs.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\bitek\bitek\obj\Debug\bitek.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\bitek\bitek\obj\Debug\bitek.pdb

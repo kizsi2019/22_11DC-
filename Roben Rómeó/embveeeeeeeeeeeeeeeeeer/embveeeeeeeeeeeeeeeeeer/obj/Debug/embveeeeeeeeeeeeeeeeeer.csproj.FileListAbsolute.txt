@@ -1,0 +1,8 @@
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\embveeeeeeeeeeeeeeeeeer\embveeeeeeeeeeeeeeeeeer\obj\Debug\embveeeeeeeeeeeeeeeeeer.csproj.AssemblyReference.cache
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\embveeeeeeeeeeeeeeeeeer\embveeeeeeeeeeeeeeeeeer\obj\Debug\embveeeeeeeeeeeeeeeeeer.csproj.SuggestedBindingRedirects.cache
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\embveeeeeeeeeeeeeeeeeer\embveeeeeeeeeeeeeeeeeer\obj\Debug\embveeeeeeeeeeeeeeeeeer.csproj.CoreCompileInputs.cache
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\embveeeeeeeeeeeeeeeeeer\embveeeeeeeeeeeeeeeeeer\bin\Debug\embveeeeeeeeeeeeeeeeeer.exe.config
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\embveeeeeeeeeeeeeeeeeer\embveeeeeeeeeeeeeeeeeer\bin\Debug\embveeeeeeeeeeeeeeeeeer.exe
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\embveeeeeeeeeeeeeeeeeer\embveeeeeeeeeeeeeeeeeer\bin\Debug\embveeeeeeeeeeeeeeeeeer.pdb
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\embveeeeeeeeeeeeeeeeeer\embveeeeeeeeeeeeeeeeeer\obj\Debug\embveeeeeeeeeeeeeeeeeer.exe
+C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\embveeeeeeeeeeeeeeeeeer\embveeeeeeeeeeeeeeeeeer\obj\Debug\embveeeeeeeeeeeeeeeeeer.pdb

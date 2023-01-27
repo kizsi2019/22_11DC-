@@ -10,6 +10,7 @@ namespace tétel1
     {
         static void Main(string[] args)
         {
+            Random random = new Random();
             int[]tomb = new int[20];
             int[]három = new int[tomb.Length];
             int q = 0;
@@ -21,7 +22,7 @@ namespace tétel1
             
             for (int i = 0; i < tomb.Length; i++)
             {
-                tomb[i] = tomb.Next(0, 101);
+                tomb[i] = random.Next(0, 101);
             }
             
             foreach (int item in tomb)
@@ -46,7 +47,7 @@ namespace tétel1
             
             for (int l = 0; l < tomb.Length; l++)
             {
-                if (tomb[l] % 3 == 0)
+                if (tomb[l] % 2 == 0)
                 {
                     db++;
                 }
