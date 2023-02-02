@@ -19,5 +19,12 @@ namespace iskola
             osztaly = adatok[1];
             nev = adatok[2];
         }
+        public string azonosito()
+        {
+            char evutolso = ev.ToString()[3];
+            string veznev = nev.Substring(0, 3);
+            string kernev = nev.Split(' ')[1].Substring(0, 3);
+            return (evutolso + osztaly + veznev + kernev).ToLower();
+        }
     }
 }

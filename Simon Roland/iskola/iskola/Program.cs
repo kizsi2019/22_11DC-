@@ -20,6 +20,40 @@ namespace iskola
             sr.Close();
 
             Console.WriteLine("3. feladat : Az iskolába {0} tanuló jár", tanulok.Count);
+            
+            Console.WriteLine("4. feladat: ");
+
+            int maxnevhossz = int.MinValue;
+            int szokozszam = 0;
+            for (int i = 0; i < tanulok.Count; i++)
+            {
+                szokozszam = tanulok[i].Nev.Split(' ').Length - 1;
+                if (tanulok[i].Nev.Length - szokozszam > maxnevhossz)
+                {
+                    maxnevhossz = tanulok[i].Nev.Length - szokozszam;
+                }
+            }
+            Console.WriteLine("Maximalis karakterek szama: " + maxnevhossz);
+            for (int i = 0; i < tanulok.Count; i++)
+            {
+                if (tanulok[i].Nev.Length - szokozszam == maxnevhossz)
+                {
+                    Console.WriteLine(tanulok[i].Nev);
+                }
+            }
+            Console.WriteLine("6. feladat: ");
+            Console.WriteLine("Kérek egyazonosítót! ");
+            string az = Console.ReadLine();
+            int j = 0;
+            bool megvan = false;
+            while (megvan == false && j < tanulok.Count)
+            {
+                if (tanulok[j].azonosito() == az)
+                {
+                    megvan = true;
+                    Console.WriteLine(tanulok[j].Ev + " " + tanulok[j].Osztaly + " " + tanulok[j].Nev);
+                }
+            }
             Console.ReadKey();
         }
     }
