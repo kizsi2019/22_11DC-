@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using System.Threading.Tasks; 
 
 namespace iskola
 {
@@ -20,5 +20,13 @@ namespace iskola
             Osztaly = adatok[1];
             Nev = adatok[2];
         }
+        public string azonosító()
+        {
+            char evUtolso = Ev.ToString()[3];
+            string vezNev = Nev.Substring(0, 3);
+            string kerNev = Nev.Split(' ')[1].Substring(0, 3);
+            return (evUtolso + Osztaly + vezNev +kerNev).ToLower();
+        }
+
     }
 }
