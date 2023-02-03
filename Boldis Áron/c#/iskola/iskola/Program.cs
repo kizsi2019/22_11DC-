@@ -13,15 +13,16 @@ namespace iskola
 
         static void Main(string[] args)
         {
-            List<iskolaClass> tanulok = new List<iskolaClass>();
+            List<OsztalyIskola> tanulok = new List<OsztalyIskola>();
             StreamReader sr = new StreamReader("nevek.txt");
             while (!sr.EndOfStream)
             {
-                tanulok.Add(new iskolaClass(sr.ReadLine()));
+                tanulok.Add(new OsztalyIskola(sr.ReadLine()));
             }
             sr.Close();
 
             Console.WriteLine("3. feladat: Az iskolába {0} tanuló jár", tanulok.Count);
+            Console.ReadKey();
         }
     }
 }
