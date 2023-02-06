@@ -1,0 +1,8 @@
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\git8\22_11DC-\Dubecz Dávid\C#\iskolav4\iskolav4\bin\Debug\iskolav4.exe.config
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\git8\22_11DC-\Dubecz Dávid\C#\iskolav4\iskolav4\bin\Debug\iskolav4.exe
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\git8\22_11DC-\Dubecz Dávid\C#\iskolav4\iskolav4\bin\Debug\iskolav4.pdb
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\git8\22_11DC-\Dubecz Dávid\C#\iskolav4\iskolav4\obj\Debug\iskolav4.csproj.AssemblyReference.cache
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\git8\22_11DC-\Dubecz Dávid\C#\iskolav4\iskolav4\obj\Debug\iskolav4.csproj.SuggestedBindingRedirects.cache
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\git8\22_11DC-\Dubecz Dávid\C#\iskolav4\iskolav4\obj\Debug\iskolav4.csproj.CoreCompileInputs.cache
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\git8\22_11DC-\Dubecz Dávid\C#\iskolav4\iskolav4\obj\Debug\iskolav4.exe
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\git8\22_11DC-\Dubecz Dávid\C#\iskolav4\iskolav4\obj\Debug\iskolav4.pdb
