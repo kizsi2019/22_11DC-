@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace iskola2
+namespace bdc_IskolaKonzolos
 {
-    internal class IskolaClass
+    class IskolaClass
     {
+        //adattagok
         private int ev;
         private string osztaly;
         private string nev;
@@ -24,5 +25,13 @@ namespace iskola2
         public int Ev { get => ev; set => ev = value; }
         public string Osztaly { get => osztaly; set => osztaly = value; }
         public string Nev { get => nev; set => nev = value; }
+
+        public string azonosito()
+        {
+            char evUtolso = ev.ToString()[3];
+            string vezNev = nev.Substring(0, 3);
+            string kerNev = nev.Split(' ')[1].Substring(0, 3);
+            return (evUtolso + osztaly + vezNev + kerNev).ToLower();
+        }
     }
 }

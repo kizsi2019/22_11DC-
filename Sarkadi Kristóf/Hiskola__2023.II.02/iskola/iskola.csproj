@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D94F20C8-47A5-4B86-9CB9-7604764196FC}</ProjectGuid>
+    <ProjectGuid>{44C592EC-879A-436F-A1A5-FE8DB1821401}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>hiskola</RootNamespace>
-    <AssemblyName>hiskola</AssemblyName>
+    <RootNamespace>iskola</RootNamespace>
+    <AssemblyName>iskola</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IskolaClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
