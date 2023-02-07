@@ -4,28 +4,34 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace iskola1
+namespace bdc_IskolaKonzolos
 {
-    internal class Iskola
+    class IskolaClass
     {
-        public int Ev { get; set; }
-        public string Osztaly { get; set; }
-        public string Nev { get; set; }
+      
+        private int ev;
+        private string osztaly;
+        private string nev;
 
-        public Iskola (string sor)
+       
+        public IskolaClass(string sor)
         {
-            string[] adatok = sor.Split(';');
-            Ev = int.Parse(adatok[0]);
-            Osztaly = adatok[1];
-            Nev = adatok[2];   
+            string[] d = sor.Split(';');
+            ev = Convert.ToInt32(d[0]);
+            osztaly = d[1];
+            nev = d[2]; 
         }
+
+        public int Ev { get => ev; set => ev = value; }
+        public string Osztaly { get => osztaly; set => osztaly = value; }
+        public string Nev { get => nev; set => nev = value; }
+
         public string azonosito()
         {
-            char evUtolso = Ev.ToString()[3];
-            string vezNev = Nev.Substring(0, 3);
-            string kerNev = Nev.Split(' ')[1].Substring(0, 3);
-            return (evUtolso + Osztaly + vezNev + kerNev).ToLower(); 
+            char evUtolso = ev.ToString()[3];
+            string vezNev = nev.Substring(0, 3);
+            string kerNev = nev.Split(' ')[1].Substring(0, 3);
+            return (evUtolso + osztaly + vezNev + kerNev).ToLower();
         }
-
     }
 }

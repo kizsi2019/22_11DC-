@@ -40,10 +40,39 @@ namespace iskola
                     Console.WriteLine(tanulok[i].nev);
                 }
             }
+            
             Console.WriteLine("5.feladat: ");
             Console.WriteLine("Első: " + tanulok[0].nev + "; " + tanulok[0].azonosito());
             Console.WriteLine("Utolsó: " + tanulok[tanulok.Count - 1].nev + "; " +tanulok.Count);
             Console.WriteLine("Kérek egy azonosított");
+            
+            Console.WriteLine("6. feladat: ");
+            Console.WriteLine("Kérek egy azonósítot! ");
+            string az = Console.ReadLine();
+            int j = 0;
+            bool megvan = false;
+            while (megvan == false && j < tanulok.Count)
+            {
+                if (tanulok[j].azonosito() == az)
+                {
+                    megvan = true;
+                    Console.WriteLine(tanulok[j].ev + " " + tanulok[j].osztaly + " " + tanulok[j].nev);
+                }
+                j++;
+            }
+            if (megvan == false)
+            {
+                Console.WriteLine("Nincs ilyen tanuló!");
+            }
+
+            Console.WriteLine("7.feladat: ");
+            Random r = new Random();
+            int tanuluSorszam = r.Next(0, tanulok.Count);
+            JelszoGenerator jelszo6en = new JelszoGenerator(r);
+            Console.WriteLine(tanulok[tanuluSorszam].nev);
+            Console.WriteLine(jelszo6en.jelszo(8));
+
+
             Console.ReadKey();
         }
            
