@@ -47,7 +47,19 @@ namespace sudokuCLI
             while (feladvanyok[kiv].Meret == meret);
             Console.WriteLine("A kisorsolt feladvány kezdő állapota: " + feladvanyok[kiv].Kezdo );
 
-
+            Console.WriteLine("6. feladat");
+            int nemNulla = 0
+            int hossz = feladvanyok[kiv].Kezdo.Length;
+            for (int i = 0; i <hossz; i++)
+            {
+                if (feladvanyok[kiv].Kezdo[i] != '0')
+                {
+                    nemNulla++;
+                }
+            }
+            double kitoltottseg = (double)nemNulla / hossz * 100;
+            Console.WriteLine("A kiválasztott feladvány kitöltöttsége: " +  kitoltottseg + "%");
+            Console.WriteLine("7. feladat");
         Console.ReadKey();
         }
     }
