@@ -1,0 +1,8 @@
+C:\Users\SzaboLeventeTamas\Desktop\Eső 2\git\22_11DC-\Szabó Levente\Eső\sudoku\sudoku\bin\Debug\sudoku.exe.config
+C:\Users\SzaboLeventeTamas\Desktop\Eső 2\git\22_11DC-\Szabó Levente\Eső\sudoku\sudoku\bin\Debug\sudoku.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső 2\git\22_11DC-\Szabó Levente\Eső\sudoku\sudoku\bin\Debug\sudoku.pdb
+C:\Users\SzaboLeventeTamas\Desktop\Eső 2\git\22_11DC-\Szabó Levente\Eső\sudoku\sudoku\obj\Debug\sudoku.csproj.AssemblyReference.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső 2\git\22_11DC-\Szabó Levente\Eső\sudoku\sudoku\obj\Debug\sudoku.csproj.SuggestedBindingRedirects.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső 2\git\22_11DC-\Szabó Levente\Eső\sudoku\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső 2\git\22_11DC-\Szabó Levente\Eső\sudoku\sudoku\obj\Debug\sudoku.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső 2\git\22_11DC-\Szabó Levente\Eső\sudoku\sudoku\obj\Debug\sudoku.pdb
