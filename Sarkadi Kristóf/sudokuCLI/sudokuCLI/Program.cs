@@ -46,6 +46,34 @@ namespace sudokuCLI
             }
             while (feladvanyok[kivalasztottindex].Meret != meret);
 
+            Console.WriteLine("6. feladat: ");
+            int nemNullaDb = 0;
+            int hossz = feladvanyok[kivalasztottindex].Kezdo.Length;
+            for (int i = 0; i < hossz; i++)
+            {
+                if (feladvanyok[kivalasztottindex].Kezdo[i] != '0')
+                {
+                    nemNullaDb++;
+                }
+            }
+            double kitoltotseg = (double)nemNullaDb / hossz * 100;
+            Console.WriteLine("A kiválasztott feladvány kitöltöttsége: ");
+
+            Console.WriteLine("7. feladat: ");
+            feladvanyok[kivalasztottindex].Kirajzol();
+
+            Console.WriteLine("8. feladat: ");
+            StreamWriter sw = new StreamWriter("sudoku" + meret + ".txt");
+            for (int i = 0; i < feladvanyok.Count; i++)
+            {
+                if (feladvanyok[i].Meret == meret)
+                {
+                    sw.WriteLine(feladvanyok[i].Kezdo);
+                }
+            }
+            sw.Close();
+            Console.WriteLine("A kiválasztott méretű feladvány kiírva a fájlban!");
+
             Console.ReadKey();
         }
     }
