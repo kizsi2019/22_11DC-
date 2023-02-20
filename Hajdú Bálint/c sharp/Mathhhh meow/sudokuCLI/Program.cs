@@ -1,78 +1,70 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
-using System.Runtime.CompilerServices;
 
 namespace sudokuCLI
 {
-    class Feladvany
+    class Program
     {
-
-        public string Kezdo { get; set; }
-        public int Meret { get; private set; }  
-        
-        public Feladvany(string sor)
+        static void Main(string[] args)
         {
-            Kezdo = sor;
-            Meret = Convert.ToInt32(Math.Sqrt(sor.Length));
-        }
-        static void Kirajzol()
-        {
-
-        }
-    }
-    
-    class program
-    {
-        static void Main(string[]args)
-        {
-            List<Feladvany>feladvanyok = new List<Feladvany>();
-            string file = "feladvanyok.txt";
-            StreamReader sr = new StreamReader(file);
-            Feladvany fel;
-            string sor;
-            while(sr.EndOfStream==false)
+            List<Feladvany> feladvanyok = new List<Feladvany>();
+            StreamReader sr = new StreamReader("feladvanyok.txt");
+            while (!sr.EndOfStream)
             {
-                sor = sr.ReadLine();
-                fel = new Feladvany(sor);
-                feladvanyok.Add(fel);
-
-
-
+                feladvanyok.Add(new Feladvany(sr.ReadLine()));
             }
             sr.Close();
+            Console.WriteLine("3. feladat: Beolvasva {0} feladvány", feladvanyok.Count);
 
-            Console.WriteLine("3.Feladat:Beolvasva{0}Feladvány!",feladvanyok.Count);
-            
-            int meret = 0;
+            int meret;
             do
             {
-                Console.WriteLine("4. Feladat:Kérem a feladvány méretét[4..9]");
-                meret = int.Parse(Console.ReadLine());
-            } while (meret > 9 || meret < 4);
+                Console.Write("4. feladat: Kérem a feladvány méretét [4..9]: ");
+            }
+            while (!int.TryParse(Console.ReadLine(), out meret) || meret < 4 || meret > 9);
 
-            int meretdb=0;
-            foreach (var item in feladvanyok)
+
+            List<Feladvany> nElemuFeladvanyok = new List<Feladvany>();
+            foreach (var f in feladvanyok)
             {
-                if(item.Meret==meret)
-                    meretdb++;
+                if (f.Meret == meret)
+                {
+                    nElemuFeladvanyok.Add(f);
+                }
             }
 
-            Random rnd = new Random();
-            int veletlen;
+            Console.WriteLine("{0}x{0} méretű feladványból {1} darab van tárolva", meret, nElemuFeladvanyok.Count);
 
-            do
+           
+            Random rand = new Random();
+            int index = rand.Next(nElemuFeladvanyok.Count);
+            var kivalasztottFeladvany = nElemuFeladvanyok[index];
+
+            Console.WriteLine("5. feladat: A kiválaszott feladvány: ");
+            Console.WriteLine(kivalasztottFeladvany.Kezdo);
+
+            double db = 0;
+            foreach (char szamjegy in kivalasztottFeladvany.Kezdo)
             {
-                veletlen = rnd.Next(0,feladvanyok.Count);
-            }while (feladvanyok[veletlen].Meret!=meret);
-            Console.WriteLine( "5. Feladat:A kiválaszott feladvány :\n{0}", feladvanyok[veletlen].Kezdo);
-            
-            
-            Console.ReadLine();
+                if (szamjegy != '0')
+                {
+                    db++;
+                }
+            }
+            Console.WriteLine("6. feladat: A feladvány kitöltöttsége: {0:f0}%)", 100 * db / kivalasztottFeladvany.Kezdo.Length);
 
+            Console.WriteLine("7. feladat: A feladvány kirajzolva:");
+            kivalasztottFeladvany.Kirajzol();
+
+            string fajlNev = string.Format("sudoku{0}.txt", meret);
+            StreamWriter sw = new StreamWriter(fajlNev);
+            foreach (var f in nElemuFeladvanyok)
+            {
+                sw.WriteLine(f.Kezdo);
+            }
+            sw.Close();
+            Console.WriteLine("8. feladat: {0} állomány {1} darab feladvánnyal létrehozva", fajlNev, nElemuFeladvanyok.Count);
         }
     }
 }
