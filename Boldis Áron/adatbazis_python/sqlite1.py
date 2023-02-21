@@ -1,7 +1,8 @@
+
 # forrás: https://docs.python.org/3/library/sqlite3.html
 import sqlite3
 
-# A Connection típusú objektum létrehozza a kapcsolatot az adatbázissal,
+# A Connection típusú objektum létrehozza a kapcsolatot az adatbázissal, 
 # ha nem létezik az adatbázis, létrehozza azt
 con = sqlite3.connect("tutorial.db")
 
@@ -40,4 +41,5 @@ for row in cur.execute("SELECT year, title FROM movie ORDER BY year"):
 
 # Zárja a kapcsolatot
 con.close()
-
+    
+  
