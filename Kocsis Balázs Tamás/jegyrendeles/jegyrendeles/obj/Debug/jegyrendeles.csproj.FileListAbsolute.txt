@@ -1,0 +1,11 @@
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\jegyrendeles\jegyrendeles\bin\Debug\jegyrendeles.exe.config
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\jegyrendeles\jegyrendeles\bin\Debug\jegyrendeles.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\jegyrendeles\jegyrendeles\bin\Debug\jegyrendeles.pdb
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\jegyrendeles\jegyrendeles\obj\Debug\jegyrendeles.csproj.AssemblyReference.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\jegyrendeles\jegyrendeles\obj\Debug\jegyrendeles.csproj.SuggestedBindingRedirects.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\jegyrendeles\jegyrendeles\obj\Debug\jegyrendeles.Form1.resources
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\jegyrendeles\jegyrendeles\obj\Debug\jegyrendeles.Properties.Resources.resources
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\jegyrendeles\jegyrendeles\obj\Debug\jegyrendeles.csproj.GenerateResource.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\jegyrendeles\jegyrendeles\obj\Debug\jegyrendeles.csproj.CoreCompileInputs.cache
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\jegyrendeles\jegyrendeles\obj\Debug\jegyrendeles.exe
+C:\Users\KocsisBalazsTamas\Desktop\Github\22_11DC-\Kocsis Balázs Tamás\jegyrendeles\jegyrendeles\obj\Debug\jegyrendeles.pdb
