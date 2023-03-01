@@ -1,0 +1,8 @@
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\sudokiCLI\sudokiCLI\bin\Debug\sudokiCLI.exe.config
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\sudokiCLI\sudokiCLI\bin\Debug\sudokiCLI.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\sudokiCLI\sudokiCLI\bin\Debug\sudokiCLI.pdb
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\sudokiCLI\sudokiCLI\obj\Debug\sudokiCLI.csproj.AssemblyReference.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\sudokiCLI\sudokiCLI\obj\Debug\sudokiCLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\sudokiCLI\sudokiCLI\obj\Debug\sudokiCLI.csproj.CoreCompileInputs.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\sudokiCLI\sudokiCLI\obj\Debug\sudokiCLI.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\sudokiCLI\sudokiCLI\obj\Debug\sudokiCLI.pdb
