@@ -1,0 +1,11 @@
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\jegyrendelés\bin\Debug\jegyrendelés.exe.config
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\jegyrendelés\bin\Debug\jegyrendelés.exe
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\jegyrendelés\bin\Debug\jegyrendelés.pdb
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\jegyrendelés\obj\Debug\jegyrendelés.csproj.AssemblyReference.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\jegyrendelés\obj\Debug\jegyrendelés.csproj.SuggestedBindingRedirects.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\jegyrendelés\obj\Debug\jegyrendelés.Jegyrendelés.resources
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\jegyrendelés\obj\Debug\jegyrendelés.Properties.Resources.resources
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\jegyrendelés\obj\Debug\jegyrendelés.csproj.GenerateResource.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\jegyrendelés\obj\Debug\jegyrendelés.csproj.CoreCompileInputs.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\jegyrendelés\obj\Debug\jegyrendelés.exe
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\jegyrendelés\obj\Debug\jegyrendelés.pdb
