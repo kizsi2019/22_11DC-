@@ -1,0 +1,22 @@
+﻿<Window x:Class="sudokuGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:sudokuGUI"
+        mc:Ignorable="d"
+        Title="Sudoku-ellenőrző" Height="210" Width="540">
+    <Grid>
+        <Label Content="Új feladvány mérete" HorizontalAlignment="Left" Height="62" Margin="10,10,0,0" VerticalAlignment="Top" Width="176" FontSize="18"/>
+        <Button Name="btnPlusz" Content="+" HorizontalAlignment="Left" Height="53" Margin="200,10,0,0" VerticalAlignment="Top" Width="58" Click="Button_Click" FontSize="24"/>
+        <Button Name="btnMinusz" Content="-" HorizontalAlignment="Left" Height="53" Margin="349,10,0,0" VerticalAlignment="Top" Width="58" Click="Button_Click" FontSize="36"/>
+        <TextBox TextWrapping="Wrap" Text="4" Margin="305,22,446,361" FontSize="36"/>
+        <Label Content="Kezdőállapot" HorizontalAlignment="Left" Height="62" Margin="10,77,0,0" VerticalAlignment="Top" Width="143" FontSize="18"/>
+        <TextBox Name="txtKezdoAllapot" HorizontalAlignment="Left" Height="31" Margin="131,77,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="362" TextChanged="txtKezdoAllapot_TextChanged"/>
+        <Button Content="Ellenőrzés" HorizontalAlignment="Left" Height="53" Margin="576,316,0,0" VerticalAlignment="Top" Width="136" Click="Button_Click" FontSize="24"/>
+        <Label Name="lblHossz" Content="Hossz = 0" HorizontalAlignment="Left" Height="62" Margin="10,150,0,0" VerticalAlignment="Top" Width="143" FontSize="18"/>
+        <TextBox Name="txtMeret" HorizontalAlignment="Left" Margin="278,10,0,0" TextWrapping="Wrap" Text="4" VerticalAlignment="Top" Width="54" Height="53" TextAlignment="Center" TextChanged="TextBox_TextChanged" FontSize="24" HorizontalContentAlignment="Center" IsReadOnly="True"/>
+        <Button Name="btnEllenorzes" Content="Button" HorizontalAlignment="Left" Height="53" Margin="411,131,0,0" VerticalAlignment="Top" Width="82" RenderTransformOrigin="0.512,0.51"/>
+
+    </Grid>
+</Window>
