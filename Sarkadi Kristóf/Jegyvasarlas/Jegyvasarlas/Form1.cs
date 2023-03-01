@@ -34,6 +34,22 @@ namespace Jegyvasarlas
 
                 MessageBox.Show("Egy számot kérek!");
             }
+
+            double fizetendo = km * 35;
+            if (cbOsztály.SelectedIndex == 0)
+            {
+                fizetendo *= 1.5;
+            }
+            if (radioButton2.Checked == true)
+            {
+                fizetendo *= 0.5;
+            }
+            if (radioButton3.Checked == true)
+            {
+                fizetendo *= 0.1;
+            }
+
+            tbFizetendő.Text = fizetendo.ToString();
         }
     }
 }
