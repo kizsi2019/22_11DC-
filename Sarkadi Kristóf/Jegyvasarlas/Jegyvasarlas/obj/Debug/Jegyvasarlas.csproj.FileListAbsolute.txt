@@ -1,0 +1,11 @@
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\Jegyvasarlas\Jegyvasarlas\bin\Debug\Jegyvasarlas.exe.config
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\Jegyvasarlas\Jegyvasarlas\bin\Debug\Jegyvasarlas.exe
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\Jegyvasarlas\Jegyvasarlas\bin\Debug\Jegyvasarlas.pdb
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\Jegyvasarlas\Jegyvasarlas\obj\Debug\Jegyvasarlas.csproj.AssemblyReference.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\Jegyvasarlas\Jegyvasarlas\obj\Debug\Jegyvasarlas.csproj.SuggestedBindingRedirects.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\Jegyvasarlas\Jegyvasarlas\obj\Debug\Jegyvasarlas.Form1.resources
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\Jegyvasarlas\Jegyvasarlas\obj\Debug\Jegyvasarlas.Properties.Resources.resources
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\Jegyvasarlas\Jegyvasarlas\obj\Debug\Jegyvasarlas.csproj.GenerateResource.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\Jegyvasarlas\Jegyvasarlas\obj\Debug\Jegyvasarlas.csproj.CoreCompileInputs.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\Jegyvasarlas\Jegyvasarlas\obj\Debug\Jegyvasarlas.exe
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\Jegyvasarlas\Jegyvasarlas\obj\Debug\Jegyvasarlas.pdb
