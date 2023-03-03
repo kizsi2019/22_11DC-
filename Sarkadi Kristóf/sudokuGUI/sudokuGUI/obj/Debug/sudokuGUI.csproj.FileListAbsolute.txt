@@ -1,0 +1,16 @@
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\sudokuGUI\sudokuGUI\bin\Debug\sudokuGUI.exe.config
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\sudokuGUI\sudokuGUI\bin\Debug\sudokuGUI.exe
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\sudokuGUI\sudokuGUI\bin\Debug\sudokuGUI.pdb
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\sudokuGUI\sudokuGUI\obj\Debug\sudokuGUI.csproj.AssemblyReference.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\sudokuGUI\sudokuGUI\obj\Debug\sudokuGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\sudokuGUI\sudokuGUI\obj\Debug\MainWindow.g.cs
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\sudokuGUI\sudokuGUI\obj\Debug\App.g.cs
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\sudokuGUI\sudokuGUI\obj\Debug\sudokuGUI_MarkupCompile.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\sudokuGUI\sudokuGUI\obj\Debug\sudokuGUI_MarkupCompile.lref
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\sudokuGUI\sudokuGUI\obj\Debug\MainWindow.baml
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\sudokuGUI\sudokuGUI\obj\Debug\sudokuGUI.g.resources
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\sudokuGUI\sudokuGUI\obj\Debug\sudokuGUI.Properties.Resources.resources
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\sudokuGUI\sudokuGUI\obj\Debug\sudokuGUI.csproj.GenerateResource.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\sudokuGUI\sudokuGUI\obj\Debug\sudokuGUI.csproj.CoreCompileInputs.cache
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\sudokuGUI\sudokuGUI\obj\Debug\sudokuGUI.exe
+C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\sudokuGUI\sudokuGUI\obj\Debug\sudokuGUI.pdb

@@ -4,7 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+<<<<<<< HEAD
     <ProjectGuid>{09325B27-B8B5-4671-BF66-382F77CF2A30}</ProjectGuid>
+=======
+    <ProjectGuid>{77B61687-9A5A-4518-846D-1705BBE9D555}</ProjectGuid>
+>>>>>>> 8240886c948afcf4f06496dc6ba001a3f479200d
     <OutputType>Exe</OutputType>
     <RootNamespace>iskola</RootNamespace>
     <AssemblyName>iskola</AssemblyName>
@@ -44,6 +48,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+<<<<<<< HEAD
+=======
+    <Compile Include="iskola.cs" />
+    <Compile Include="IskolaClass.cs" />
+    <Compile Include="JelszoGeneralo.cs" />
+>>>>>>> 8240886c948afcf4f06496dc6ba001a3f479200d
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sudokuGUI", "sudokuGUI\sudokuGUI.csproj", "{83A3839A-7BFD-43ED-9602-77ED4DCE9629}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83A3839A-7BFD-43ED-9602-77ED4DCE9629}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A3839A-7BFD-43ED-9602-77ED4DCE9629}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A3839A-7BFD-43ED-9602-77ED4DCE9629}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A3839A-7BFD-43ED-9602-77ED4DCE9629}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45569E96-5FA7-4198-AFF9-F52B759F5D6A}
+	EndGlobalSection
+EndGlobal

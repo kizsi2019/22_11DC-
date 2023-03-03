@@ -1,0 +1,11 @@
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\jegyrendeles\jegyrendeles\bin\Debug\jegyrendeles.exe.config
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\jegyrendeles\jegyrendeles\bin\Debug\jegyrendeles.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\jegyrendeles\jegyrendeles\bin\Debug\jegyrendeles.pdb
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\jegyrendeles\jegyrendeles\obj\Debug\jegyrendeles.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\jegyrendeles\jegyrendeles\obj\Debug\jegyrendeles.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\jegyrendeles\jegyrendeles\obj\Debug\jegyrendeles.Jegyrendelés.resources
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\jegyrendeles\jegyrendeles\obj\Debug\jegyrendeles.Properties.Resources.resources
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\jegyrendeles\jegyrendeles\obj\Debug\jegyrendeles.csproj.GenerateResource.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\jegyrendeles\jegyrendeles\obj\Debug\jegyrendeles.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\jegyrendeles\jegyrendeles\obj\Debug\jegyrendeles.exe
+C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\jegyrendeles\jegyrendeles\obj\Debug\jegyrendeles.pdb

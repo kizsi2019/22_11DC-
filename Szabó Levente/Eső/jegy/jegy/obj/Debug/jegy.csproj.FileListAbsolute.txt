@@ -1,0 +1,11 @@
+C:\Users\SzaboLeventeTamas\Desktop\Eső 2\git\22_11DC-\Szabó Levente\Eső\jegy\jegy\bin\Debug\jegy.exe.config
+C:\Users\SzaboLeventeTamas\Desktop\Eső 2\git\22_11DC-\Szabó Levente\Eső\jegy\jegy\bin\Debug\jegy.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső 2\git\22_11DC-\Szabó Levente\Eső\jegy\jegy\bin\Debug\jegy.pdb
+C:\Users\SzaboLeventeTamas\Desktop\Eső 2\git\22_11DC-\Szabó Levente\Eső\jegy\jegy\obj\Debug\jegy.csproj.AssemblyReference.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső 2\git\22_11DC-\Szabó Levente\Eső\jegy\jegy\obj\Debug\jegy.csproj.SuggestedBindingRedirects.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső 2\git\22_11DC-\Szabó Levente\Eső\jegy\jegy\obj\Debug\jegy.Form1.resources
+C:\Users\SzaboLeventeTamas\Desktop\Eső 2\git\22_11DC-\Szabó Levente\Eső\jegy\jegy\obj\Debug\jegy.Properties.Resources.resources
+C:\Users\SzaboLeventeTamas\Desktop\Eső 2\git\22_11DC-\Szabó Levente\Eső\jegy\jegy\obj\Debug\jegy.csproj.GenerateResource.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső 2\git\22_11DC-\Szabó Levente\Eső\jegy\jegy\obj\Debug\jegy.csproj.CoreCompileInputs.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső 2\git\22_11DC-\Szabó Levente\Eső\jegy\jegy\obj\Debug\jegy.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső 2\git\22_11DC-\Szabó Levente\Eső\jegy\jegy\obj\Debug\jegy.pdb
