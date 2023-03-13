@@ -8,5 +8,19 @@ namespace iskola
 {
     internal class Class1
     {
+<<<<<<< HEAD
+        public string Ev { get; set; }
+        public string Osztaly { get; set; }
+        public string Nev { get; set; }
+        
+        public Tanulo(string sor)
+        {
+            string[] adatok = sor.Split(';');
+            Ev = int.Parse(adatok[0]);
+            Osztaly = adatok[1];
+            Nev = adatok[2];
+        }
+=======
+>>>>>>> 8240886c948afcf4f06496dc6ba001a3f479200d
     }
 }
