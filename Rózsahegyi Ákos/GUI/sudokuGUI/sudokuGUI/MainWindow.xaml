@@ -13,7 +13,7 @@
         <TextBox Name="txtMeret" Height="38" Margin="250,22,250,0" TextWrapping="Wrap" Text="4" VerticalAlignment="Top" TextAlignment="Center" FontSize="16" HorizontalContentAlignment="Center" IsReadOnly="True"/>
         <Label Content="Kezdőállapot:" HorizontalAlignment="Left" Height="35" Margin="24,65,0,0" VerticalAlignment="Top" Width="120" FontSize="16"/>
         <Label Name="lblHossz" Content="Hossz: 0" HorizontalAlignment="Left" Height="30" Margin="24,132,0,0" VerticalAlignment="Top" Width="80" FontSize="16"/>
-        <Button Name="btnEllenorzes" Content="Ellenőrzés" HorizontalAlignment="Left" Height="30" Margin="364,132,0,0" VerticalAlignment="Top" Width="120" FontSize="18"/>
+        <Button Name="btnEllenorzes" Content="Ellenőrzés" HorizontalAlignment="Left" Height="30" Margin="364,132,0,0" VerticalAlignment="Top" Width="120" FontSize="18" Click="btnEllenorzes_Click"/>
         <TextBox Name="txtKezdoAllapot" HorizontalAlignment="Left" Height="30" Margin="24,97,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="460" TextAlignment="Center" FontSize="18" TextChanged="txtKezdoAllapot_TextChanged"/>
 
     </Grid>
