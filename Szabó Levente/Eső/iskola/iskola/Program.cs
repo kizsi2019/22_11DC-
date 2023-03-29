@@ -1,14 +1,33 @@
 ﻿using System;
 using System.Collections.Generic;
+<<<<<<< HEAD
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+=======
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+>>>>>>> 8240886c948afcf4f06496dc6ba001a3f479200d
 
 namespace iskola
 {
     internal class Program
     {
+<<<<<<< HEAD
+        static void Main(string[] args)
+        {
+            List<Tanulo> tanulok list = new List<Tanulo>();
+            StreamReader sr = new StreamReader("nevek.txt");
+            while (!sr.EndOfStream)
+            {
+                tanulok.Add(new Tanulo(sr.ReadLine()));
+            }
+            sr.Close();
+            Console.WriteLine("3. feladat: {0} tanuló jár ide", tanulok.Count);
+=======
        
         static void Main(string[] args)
         {
@@ -60,6 +79,7 @@ namespace iskola
             Random r = new Random();
             int tanuloSorszam = rNext(0, tanulok.Count);
             Console.ReadKey();
+>>>>>>> 8240886c948afcf4f06496dc6ba001a3f479200d
         }
     }
 }

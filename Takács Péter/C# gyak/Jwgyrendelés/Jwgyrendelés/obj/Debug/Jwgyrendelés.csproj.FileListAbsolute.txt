@@ -1,0 +1,11 @@
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\Jwgyrendelés\Jwgyrendelés\bin\Debug\Jwgyrendelés.exe.config
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\Jwgyrendelés\Jwgyrendelés\bin\Debug\Jwgyrendelés.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\Jwgyrendelés\Jwgyrendelés\bin\Debug\Jwgyrendelés.pdb
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\Jwgyrendelés\Jwgyrendelés\obj\Debug\Jwgyrendelés.csproj.AssemblyReference.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\Jwgyrendelés\Jwgyrendelés\obj\Debug\Jwgyrendelés.csproj.SuggestedBindingRedirects.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\Jwgyrendelés\Jwgyrendelés\obj\Debug\Jwgyrendelés.Form1.resources
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\Jwgyrendelés\Jwgyrendelés\obj\Debug\Jwgyrendelés.Properties.Resources.resources
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\Jwgyrendelés\Jwgyrendelés\obj\Debug\Jwgyrendelés.csproj.GenerateResource.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\Jwgyrendelés\Jwgyrendelés\obj\Debug\Jwgyrendelés.csproj.CoreCompileInputs.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\Jwgyrendelés\Jwgyrendelés\obj\Debug\Jwgyrendelés.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\Jwgyrendelés\Jwgyrendelés\obj\Debug\Jwgyrendelés.pdb
