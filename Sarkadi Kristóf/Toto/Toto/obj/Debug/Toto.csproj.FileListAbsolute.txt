@@ -1,0 +1,8 @@
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Toto\Toto\bin\Debug\Toto.exe.config
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Toto\Toto\bin\Debug\Toto.exe
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Toto\Toto\bin\Debug\Toto.pdb
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Toto\Toto\obj\Debug\Toto.csproj.AssemblyReference.cache
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Toto\Toto\obj\Debug\Toto.csproj.SuggestedBindingRedirects.cache
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Toto\Toto\obj\Debug\Toto.csproj.CoreCompileInputs.cache
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Toto\Toto\obj\Debug\Toto.exe
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Toto\Toto\obj\Debug\Toto.pdb
