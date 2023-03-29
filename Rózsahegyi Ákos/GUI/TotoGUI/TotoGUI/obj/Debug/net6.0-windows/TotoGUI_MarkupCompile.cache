@@ -1,5 +1,5 @@
 ﻿TotoGUI
-1.0.0.0
+
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\TotoGUI\TotoGUI\App.xaml
 11407045341
 
-5-24353808
+3-1233169557
 194-200944676
 MainWindow.xaml;
 
-True
+False
 

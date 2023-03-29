@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace TotoGUI
+namespace totoGUI
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -38,12 +38,11 @@ namespace TotoGUI
                 cbxHossz.IsChecked = false;
                 cbxHossz.Content = $"Nem megfelelő a karakterek száma ({hossz})";
             }
-
             List<char> invalids = new List<char>();
             string text = txbInput.Text;
             for (int i = 0; i < text.Length; i++)
             {
-                if (text[i] != '1' && text[i] != '2' && text[i] != 'X' && text[i] != 'x')
+                if (text[i] != "1" && text[i] != "2" && text[i] != "X" && text[i] != "X")
                 {
                     invalids.Add(text[i]);
                 }
@@ -51,8 +50,8 @@ namespace TotoGUI
             if (invalids.Count != 0)
             {
                 cbxKarakter.IsChecked = true;
-                string output = "Helytelen karakterek az eredményekben(";
-                for (int i = 0; i < invalids.Count; i++)
+                string output = "Helytelen karakter az erdményben(";
+                for (int i = 0; i < invalids.Count - 1; i++)
                 {
                     output += invalids[i] + ";";
                 }
@@ -62,9 +61,8 @@ namespace TotoGUI
             else
             {
                 cbxKarakter.IsChecked = false;
-                cbxKarakter.Content = "Helytelen karakterek az eredményekben()";
+                cbxKarakter.Content = "Helytelen karakter ay eredményekben()";
             }
-
             if (cbxHossz.IsChecked == true || cbxKarakter.IsChecked == true)
             {
                 btnMentes.IsEnabled = false;
@@ -73,6 +71,6 @@ namespace TotoGUI
             {
                 btnMentes.IsEnabled = true;
             }
-        }
+        }   
     }
 }

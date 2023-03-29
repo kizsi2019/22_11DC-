@@ -1,0 +1,16 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\totoGUI\totoGUI\bin\Debug\totoGUI.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\totoGUI\totoGUI\bin\Debug\totoGUI.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\totoGUI\totoGUI\bin\Debug\totoGUI.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\totoGUI\totoGUI\obj\Debug\totoGUI.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\totoGUI\totoGUI\obj\Debug\totoGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\totoGUI\totoGUI\obj\Debug\MainWindow.g.cs
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\totoGUI\totoGUI\obj\Debug\App.g.cs
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\totoGUI\totoGUI\obj\Debug\totoGUI_MarkupCompile.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\totoGUI\totoGUI\obj\Debug\totoGUI_MarkupCompile.lref
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\totoGUI\totoGUI\obj\Debug\MainWindow.baml
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\totoGUI\totoGUI\obj\Debug\totoGUI.g.resources
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\totoGUI\totoGUI\obj\Debug\totoGUI.Properties.Resources.resources
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\totoGUI\totoGUI\obj\Debug\totoGUI.csproj.GenerateResource.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\totoGUI\totoGUI\obj\Debug\totoGUI.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\totoGUI\totoGUI\obj\Debug\totoGUI.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\totoGUI\totoGUI\obj\Debug\totoGUI.pdb
