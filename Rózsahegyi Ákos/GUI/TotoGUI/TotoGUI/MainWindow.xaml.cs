@@ -24,5 +24,55 @@ namespace TotoGUI
         {
             InitializeComponent();
         }
+
+        private void txbInput_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            int hossz = txbInput.Text.Length;
+            if (hossz != 14)
+            {
+                cbxHossz.IsChecked = true;
+                cbxHossz.Content = $"Nem megfelelő a karakterek száma ({hossz})";
+            }
+            else
+            {
+                cbxHossz.IsChecked = false;
+                cbxHossz.Content = $"Nem megfelelő a karakterek száma ({hossz})";
+            }
+
+            List<char> invalids = new List<char>();
+            string text = txbInput.Text;
+            for (int i = 0; i < text.Length; i++)
+            {
+                if (text[i] != '1' && text[i] != '2' && text[i] != 'X' && text[i] != 'x')
+                {
+                    invalids.Add(text[i]);
+                }
+            }
+            if (invalids.Count != 0)
+            {
+                cbxKarakter.IsChecked = true;
+                string output = "Helytelen karakterek az eredményekben(";
+                for (int i = 0; i < invalids.Count; i++)
+                {
+                    output += invalids[i] + ";";
+                }
+                output += invalids[invalids.Count - 1] + ")";
+                cbxKarakter.Content = output;
+            }
+            else
+            {
+                cbxKarakter.IsChecked = false;
+                cbxKarakter.Content = "Helytelen karakterek az eredményekben()";
+            }
+
+            if (cbxHossz.IsChecked == true || cbxKarakter.IsChecked == true)
+            {
+                btnMentes.IsEnabled = false;
+            }
+            else
+            {
+                btnMentes.IsEnabled = true;
+            }
+        }
     }
 }
