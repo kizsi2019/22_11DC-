@@ -1,0 +1,5 @@
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Toto_gui\Toto_gui\obj\Debug\net6.0-windows\Toto_gui.csproj.AssemblyReference.cache
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Toto_gui\Toto_gui\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Toto_gui\Toto_gui\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Toto_gui\Toto_gui\obj\Debug\net6.0-windows\Toto_gui_MarkupCompile.cache
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Toto_gui\Toto_gui\obj\Debug\net6.0-windows\Toto_gui_MarkupCompile.lref

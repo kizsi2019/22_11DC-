@@ -8,10 +8,9 @@
         Title="Toto eredmény ellenörző" Height="350" Width="400">
     <Grid>
         <Label Content="Kéram a forduló eredményeit [1, 2, X]:" HorizontalAlignment="Left" Height="27" Margin="43,46,0,0" VerticalAlignment="Top" Width="312"/>
-        <TextBox HorizontalAlignment="Left" Height="28" Margin="43,87,0,0" TextWrapping="Wrap" Text="12X12X12X12X12" VerticalAlignment="Top" Width="312"/>
-        <CheckBox Content="Nem megfelelő a karakterek száma (14)" HorizontalAlignment="Left" Height="22" Margin="43,136,0,0" VerticalAlignment="Top" Width="236" RenderTransformOrigin="0.226,0.665"/>
-        <CheckBox Content="Helytelen karakter az eredményekban ()" HorizontalAlignment="Left" Height="20" Margin="43,172,0,0" VerticalAlignment="Top" Width="236"/>
-        <Button Content="Eredmények mentése" HorizontalAlignment="Left" Height="30" Margin="43,217,0,0" VerticalAlignment="Top" Width="156"/>
-
+        <CheckBox x:Name="cbxHossz" Content="Nem megfelelő a karakterek száma (14)" HorizontalAlignment="Left" Height="22" Margin="43,136,0,0" VerticalAlignment="Top" Width="236" RenderTransformOrigin="0.226,0.665" IsEnabled="False"/>
+        <CheckBox x:Name="cbxKarakter" Content="Helytelen karakter az eredményekban ()" HorizontalAlignment="Left" Height="20" Margin="43,172,0,0" VerticalAlignment="Top" Width="236" IsEnabled="False"/>
+        <Button x:Name="btnMentes" Content="Eredmények mentése" HorizontalAlignment="Left" Height="30" Margin="43,217,0,0" VerticalAlignment="Top" Width="156"/>
+        <TextBox x:Name="txbInput" HorizontalAlignment="Left" Height="28" Margin="43,87,0,0" TextWrapping="Wrap" Text="12X12X12X12X12" VerticalAlignment="Top" Width="312" FontSize="15" TextChanged="txbInput_TextChanged"/>
     </Grid>
 </Window>
