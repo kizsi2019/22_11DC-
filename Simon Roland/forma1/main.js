@@ -32,11 +32,21 @@ function showCircuit() {
 
 function calculate() {
     var track = document.getElementById(circuit).value;
-    var laptime = document.getElementById(laptime).value;
+    var laptime = Number(document.getElementById(laptime).value);
     if (track && laptime){
       switch (track){
-        case HUN:
-          average.innerHTML = (4.381 / (laptime/3600)).toString + "km/h";
+         case MON:
+          document.getElementById('averagespeed').value = (3.337 / (laptime/3600)).toString() + "km/h";
+          break;
+          case HUN:
+          document.getElementById('averagespeed').value = (4.381 / (laptime/3600)).toString() + "km/h";
+          break;
+          case ITA:
+          document.getElementById('averagespeed').value = (5.793 / (laptime/3600)).toString() + "km/h";
+          break;
+         
+          case BEL:
+          document.getElementById('averagespeed').value = (7.004 / (laptime/3600)).toString() + "km/h";
           break;
       }
     }
