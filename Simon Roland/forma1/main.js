@@ -31,5 +31,14 @@ function showCircuit() {
 //---------------------------------------------------------
 
 function calculate() {
+    var track = document.getElementById(circuit).value;
+    var laptime = document.getElementById(laptime).value;
+    if (track && laptime){
+      switch (track){
+        case HUN:
+          average.innerHTML = (4.381 / (laptime/3600)).toString + "km/h";
+          break;
+      }
+    }
     
   }
