@@ -83,4 +83,10 @@ h3 {
 
 footer a, footer a:visited {
     color: white;
+    text-decoration: underline;
 }
+
+.felkover{
+    font-weight: bold;
+}
+
