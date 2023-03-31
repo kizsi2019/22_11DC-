@@ -31,5 +31,16 @@ function showCircuit() {
 //---------------------------------------------------------
 
 function calculate() {
-    
+  var track = document.getElementById("circuit").value;
+  var laptime = Number(document.getElementById("laptime").value) / 3600;
+  if (track === "HUN")
+    document.getElementById("averagespeed").value = (4.381 / laptime).toString() + "km/h";
+  else if (track === "MON")
+    document.getElementById("averagespeed").value = (3.337 / laptime).toString() + "km/h";
+  else if (track === "BEL")
+    document.getElementById("averagespeed").value = (7.004 / laptime).toString() + "km/h";
+  else if (track === "ITA")
+    document.getElementById("averagespeed").value = (5.793 / laptime).toString() + "km/h";
+  else
+    document.getElementById("averagespeed").value = "";
   }
