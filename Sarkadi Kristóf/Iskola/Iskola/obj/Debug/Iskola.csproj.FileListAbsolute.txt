@@ -1,3 +1,11 @@
 C:\Users\SarkadiKristofStefan\Desktop\S.K.S\22_11DC-\Sarkadi Kristóf\Iskola\Iskola\obj\Debug\Iskola.csproj.AssemblyReference.cache
 C:\Users\SarkadiKristofStefan\Desktop\S.K.S\22_11DC-\Sarkadi Kristóf\Iskola\Iskola\obj\Debug\Iskola.csproj.SuggestedBindingRedirects.cache
 C:\Users\SarkadiKristofStefan\Desktop\S.K.S\22_11DC-\Sarkadi Kristóf\Iskola\Iskola\obj\Debug\Iskola.csproj.CoreCompileInputs.cache
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Iskola\Iskola\obj\Debug\Iskola.csproj.AssemblyReference.cache
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Iskola\Iskola\obj\Debug\Iskola.csproj.SuggestedBindingRedirects.cache
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Iskola\Iskola\obj\Debug\Iskola.csproj.CoreCompileInputs.cache
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Iskola\Iskola\bin\Debug\Iskola.exe.config
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Iskola\Iskola\bin\Debug\Iskola.exe
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Iskola\Iskola\bin\Debug\Iskola.pdb
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Iskola\Iskola\obj\Debug\Iskola.exe
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Iskola\Iskola\obj\Debug\Iskola.pdb
