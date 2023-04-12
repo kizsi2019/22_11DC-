@@ -27,5 +27,19 @@ namespace Iskola2
                 return Nev.Replace(" ", "").Length;
             }
         }
+
+        public string Azonosito
+        {
+            get
+            {
+                string azon = (Ev % 1000).ToString();
+                azon += Osztaly;
+                string[] nevek = Nev.ToLower().Split(' ');
+                azon += nevek[0].Substring(0, 3);
+                azon += nevek[1].Substring(0, 3);
+
+                return azon;
+            }
+        }
     }
 }
