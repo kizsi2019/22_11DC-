@@ -4,31 +4,28 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Iskola2
+namespace Iskola
 {
-    internal class Iskola
+    internal class Tanulo1
     {
-        public int Ev { get; set; }
-        public string Osztaly { get; set; }
-        public string Nev { get; set; }
-
-        public Iskola(string sor)
-        {
+       public int Ev { get; set; }
+       public string Osztaly { get; set; }
+       public string Nev { get; set; }
+       public Tanulo1(string sor)
+       {
             string[] adatok = sor.Split(';');
             Ev = int.Parse(adatok[0]);
             Osztaly = adatok[1];
             Nev = adatok[2];
-        }
-
-        public int NevHossza
-        {
-            get
-            {
-                return Nev.Replace(" ", "").Length;
-            }
-        }
-
-        public string Azonosito
+       }
+       public int NevHossza
+       {
+           get
+           {
+               return Nev.Replace(" ", "").Length;
+           }
+       }
+       public string Azonosito
         {
             get
             {
