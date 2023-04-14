@@ -27,6 +27,12 @@ namespace iskola
             string kerNev = Nev.Split(' ')[1].Substring(0, 3);
             return (evUtolso + Osztaly + vezNev +kerNev).ToLower();
         }
-
+        public int NevHossza
+        {
+            get
+            {
+                return Nev.Replace(" ", "").Length;
+            }
+        }
     }
 }

@@ -1,0 +1,8 @@
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\iskola1\iskola1\bin\Debug\iskola1.exe.config
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\iskola1\iskola1\bin\Debug\iskola1.exe
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\iskola1\iskola1\bin\Debug\iskola1.pdb
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\iskola1\iskola1\obj\Debug\iskola1.csproj.AssemblyReference.cache
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\iskola1\iskola1\obj\Debug\iskola1.csproj.SuggestedBindingRedirects.cache
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\iskola1\iskola1\obj\Debug\iskola1.csproj.CoreCompileInputs.cache
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\iskola1\iskola1\obj\Debug\iskola1.exe
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\iskola1\iskola1\obj\Debug\iskola1.pdb
