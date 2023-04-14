@@ -22,10 +22,19 @@ namespace Iskola1._0
         {
             get
             {
-                return Nev.Replace("","").Length;
+                return Nev.Replace(" ","").Length;
             }
         }
-
-
+        public string Azonosito
+        {
+            get
+            {
+                string azon = (Ev % 1000).ToString();
+                azon += Osztaly;
+                string[] nevek = Nev.ToLower().Split(' ');
+                azon
+                return azon;
+            }
+        }
     }
 }
