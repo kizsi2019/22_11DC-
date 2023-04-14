@@ -1,7 +1,7 @@
 /* Fejléc stílusa */
 
 header {
-    background-image: url("/images/bg1.jpg");
+    background-image: url("../images/bg1.jpg");
     background-size: cover;
     background-position: center;
     height: 300px;
@@ -9,11 +9,13 @@ header {
 
 h2 {
     color: #007bff;
-    border-left: 3px;
+    border-left: 3px #007bff;
+    border-top: #ffff;
+    border-bottom: #ffff;
+    border-right: #ffff;
     border-style: dotted;
-    border-color: #007bff;
     font-variant-caps: small-caps;
-    margin: 5px, 15px, 5px, 15px;
+    margin: 5px 15px 5px 15px;
 }
 
 /* Menüpontok stílusa */
@@ -33,7 +35,6 @@ h2 {
 .nav-item {
     font-size: 25px;
 }
-
 
 /* Aktív menüpont stílusa */
 
@@ -65,4 +66,39 @@ h1 {
     color: #ffff;
     font-style: italic;
     background-color: rgb(68, 192, 226, 0.25);
+}
+
+.alpesi {
+    padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    max-width: 80%;
+}
+
+.nordikus {
+    padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    max-width: 80%;
+}
+
+.img-thumbnail {
+    border-radius: 10px;
+}
+
+.card-body {
+    text-align: justify;
+    font-size: 20px;
+}
+
+.sportok {
+    list-style-image: url("../images/man-skiing.png");
+    font-weight: bold;
+}
+
+.cimek {
+    text-transform: uppercase;
+    font-weight: bold;
 }
