@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\22_11DC-\Boldis Áron\c#\iskola3\iskola3\obj\Debug\iskola3.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\22_11DC-\Boldis Áron\c#\iskola3\iskola3\obj\Debug\iskola3.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\22_11DC-\Boldis Áron\c#\iskola3\iskola3\obj\Debug\iskola3.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\22_11DC-\Boldis Áron\c#\iskola3\iskola3\bin\Debug\iskola3.exe.config
+C:\Users\BoldisAron\Desktop\22_11DC-\Boldis Áron\c#\iskola3\iskola3\bin\Debug\iskola3.exe
+C:\Users\BoldisAron\Desktop\22_11DC-\Boldis Áron\c#\iskola3\iskola3\bin\Debug\iskola3.pdb
+C:\Users\BoldisAron\Desktop\22_11DC-\Boldis Áron\c#\iskola3\iskola3\obj\Debug\iskola3.exe
+C:\Users\BoldisAron\Desktop\22_11DC-\Boldis Áron\c#\iskola3\iskola3\obj\Debug\iskola3.pdb
