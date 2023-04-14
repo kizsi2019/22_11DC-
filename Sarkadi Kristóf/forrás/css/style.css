@@ -1,7 +1,7 @@
 /* Fejléc stílusa */
 
 header {
-    background-image: url("...");
+    background-image: url("images/bg1.jpg");
     background-size: cover;
     background-position: center;
     height: 300px;
@@ -27,6 +27,7 @@ header {
 
 .nav-item.active .nav-link {
     color: white;
+    font-size: 25px;
 }
 
 
@@ -52,5 +53,25 @@ h1 {
     background-color: rgba(255, 255, 255, 0.75);
     font-family: Arial;
     color: #ffff;
-    font-style: bold;
+    font-family: bold;
+}
+
+h2 {
+    color: #007bff;
+    border-left: 3px #007bff;
+    border-top: #ffffff;
+    border-right: #ffffff;
+    border-bottom: #ffffff;
+}
+
+.sieles {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    max-width: 0.8%;
+}
+
+.nordikus {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    max-width: 0.8%;
 }
