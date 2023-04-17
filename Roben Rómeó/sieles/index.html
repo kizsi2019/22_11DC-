@@ -1,29 +1,27 @@
 <!DOCTYPE html>
-<html>
+<html lang="hu">
 
 <head>
-    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Téli sportok</title>
     <!-- Bootstrap stíluslap hivatkozás -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
     <!-- Saját stíluslap hivatkozás -->
-    <link rel="stylesheet" href="style.css">
-</head>
+    <meta charset="utf8">
+    <title>Téli Sportok</title>
 
+</head>
 <body>
     <!-- Fejléc -->
     <header class="container text-center text-white p-5">
         <h1>Téli sportok</h1>
-        <p>A téli sportok olyan sportágak és sporttevékenységek összefoglaló nevei, amelyeket télen vagy mesterségesen
-            létrehozott téli körülmények között lehet űzni.</p>
+        <p>A téli sportok olyan sportágak és sporttevékenységek összefoglaló nevei, amelyeket télen vagy mesterségesen létrehozott téli körülmények között lehet űzni.</p>
     </header>
 
     <!-- Menü -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
         <div class="container">
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
@@ -34,8 +32,8 @@
                     <!-- További menüpontok -->
                     <li class="nav-item"><a class="nav-link" href="sieles.html">Síelés</a></li>
                     <!-- Új menüpont -->
-                    <li class="nav-item"><a href="https://hu.wikipedia.org/wiki/T%C3%A9li_sport"> <button type="button"
-                                class="btn btn-link">További információ</button> </a></li>
+                    <li class="nav-item"><a class="nav-link" href="https://hu.wikipedia.org/wiki/T%C3%A9li_sport" target="_blank">További információk</a></li>
+
                 </ul>
             </div>
         </div>
@@ -51,19 +49,20 @@
             <h2>A téli sportok története</h2>
 
             <!-- Szöveg -->
-            A téli sportok története nagyon régre nyúlik vissza. A legrégebbi bizonyíték a síelésre egy 8000 éves síléc,
-            amelyet Svédországban találtak. A korcsolyázásra utaló első írásos emlék az ókori görögök idejéből
-            származik, akik csontdarabokat kötöttek a lábukra
-            a jégen való csúszkáláshoz. A szánkózás és a szánhúzás már az ókorban is elterjedt volt Európa és Ázsia
-            egyes területein. A jégkorongozást először az 1700-as években említették Kanadában, mint egy angol katonák
-            által játszott játékot. A modern
-            téli sportok kialakulása a 19. században kezdődött meg, amikor több európai országban megalakultak az első
-            síklubok és síversenyeket rendeztek. Az első téli olimpiát 1924-ben tartották Franciaországban, ahol 16
-            ország vett részt 6 sportágban:
+            A téli sportok története nagyon régre nyúlik vissza. A legrégebbi bizonyíték a síelésre egy 8000 éves síléc, amelyet Svédországban találtak. A korcsolyázásra utaló első írásos emlék az ókori görögök idejéből származik, akik csontdarabokat kötöttek a lábukra
+            a jégen való csúszkáláshoz. A szánkózás és a szánhúzás már az ókorban is elterjedt volt Európa és Ázsia egyes területein. A jégkorongozást először az 1700-as években említették Kanadában, mint egy angol katonák által játszott játékot. A modern
+            téli sportok kialakulása a 19. században kezdődött meg, amikor több európai országban megalakultak az első síklubok és síversenyeket rendeztek. Az első téli olimpiát 1924-ben tartották Franciaországban, ahol 16 ország vett részt 6 sportágban:
             Alpesi sí Műkorcsolya Gyorskorcsolya Jégkorong Síelés Műugrás
 
         </section>
-
+        <ul>
+            <tr>
+            <li>Alpesi sí</li>
+            <li>Műkorcsolya</li>
+            <li>Gyorskorcsolya</li>
+            <li>Jégkorong Síelés</li>
+            <li>Műugrás</li>
+        </ul>
         <!-- Képgaléria -->
         <section id="kepgaleria">
 
@@ -73,16 +72,16 @@
             <!-- Képek -->
             <div class="row">
                 <div class="col-sm-6 col-md-4 col-lg-3 p-2">
-                    <img class="img-thumbnail" src="images/sielo.jpg" alt="Síelő">
+                    <img src="images/sielo.jpg" alt="Síelő" class="image-thumbnail img-fluid">
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-3 p-2">
-                    <img class="img-thumbnail" src="images/korcsolyazo.jpg" alt="Korcsolyázó">
+                    <img src="images/korcsolyazo.jpg" alt="Korcsolyázó" class="image-thumbnail img-fluid">
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-3 p-2">
-                    <img class="img-thumbnail" src="images/jegkorongozo.jpg" alt="Jégkorongozó">
+                    <img src="images/jegkorongozo.jpg" alt="Jégkorongozó" class="image-thumbnail img-fluid">
                 </div>
                 <div class="col-sm-6 col-md-4 col-lg-3 p-2">
-                    <img class="img-thumbnail" src="images/snowboardozo.jpg" alt="Snowboardozó">
+                    <img src="images/snowboardozo.jpg" alt="Snowboardozó" class="image-thumbnail img-fluid">
                 </div>
             </div>
 
@@ -92,6 +91,7 @@
 
     <!-- Lábléc -->
     <footer class="container text-center bg-dark text-white p-3">
+
         <!-- Szöveg -->
         &copy; 2022 Téli sportok
 

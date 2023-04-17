@@ -14,3 +14,11 @@ C:\Users\SimonRoland\Desktop\11d\22_11DC-\Simon Roland\iskola\iskola\obj\Debug\i
 C:\Users\SimonRoland\Desktop\11d\22_11DC-\Simon Roland\iskola\iskola\obj\Debug\iskola.csproj.CoreCompileInputs.cache
 C:\Users\SimonRoland\Desktop\11d\22_11DC-\Simon Roland\iskola\iskola\obj\Debug\iskola.exe
 C:\Users\SimonRoland\Desktop\11d\22_11DC-\Simon Roland\iskola\iskola\obj\Debug\iskola.pdb
+C:\Users\RobenRomeo\Desktop\githubu\22_11DC-\Roben Rómeó\iskola\iskola\bin\Debug\iskola.exe.config
+C:\Users\RobenRomeo\Desktop\githubu\22_11DC-\Roben Rómeó\iskola\iskola\bin\Debug\iskola.exe
+C:\Users\RobenRomeo\Desktop\githubu\22_11DC-\Roben Rómeó\iskola\iskola\bin\Debug\iskola.pdb
+C:\Users\RobenRomeo\Desktop\githubu\22_11DC-\Roben Rómeó\iskola\iskola\obj\Debug\iskola.csproj.AssemblyReference.cache
+C:\Users\RobenRomeo\Desktop\githubu\22_11DC-\Roben Rómeó\iskola\iskola\obj\Debug\iskola.csproj.SuggestedBindingRedirects.cache
+C:\Users\RobenRomeo\Desktop\githubu\22_11DC-\Roben Rómeó\iskola\iskola\obj\Debug\iskola.csproj.CoreCompileInputs.cache
+C:\Users\RobenRomeo\Desktop\githubu\22_11DC-\Roben Rómeó\iskola\iskola\obj\Debug\iskola.exe
+C:\Users\RobenRomeo\Desktop\githubu\22_11DC-\Roben Rómeó\iskola\iskola\obj\Debug\iskola.pdb

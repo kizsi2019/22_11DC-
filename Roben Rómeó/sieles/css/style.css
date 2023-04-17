@@ -1,7 +1,7 @@
 /* Fejléc stílusa */
 
 header {
-    background-image: url("images/bg1.jpg");
+    background-image: url("../images/bg1.jpg");
     background-size: cover;
     background-position: center;
     height: 300px;
@@ -27,7 +27,6 @@ header {
 
 .nav-item.active .nav-link {
     color: white;
-    font-size: 25px;
 }
 
 
@@ -50,28 +49,45 @@ main {
 }
 
 h1 {
-    background-color: rgba(255, 255, 255, 0.75);
-    font-family: Arial;
-    color: #ffff;
-    font-family: bold;
+    background-color: rgba(68, 192, 226, 0.750);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-style: italic;
 }
 
-h2 {
+.nav-item{
+    font-size: 25px;
+}
+h2{
     color: #007bff;
-    border-left: 3px #007bff;
-    border-top: #ffffff;
-    border-right: #ffffff;
-    border-bottom: #ffffff;
+    border-left: #007bff 3px dotted;
+    font-variant: small-caps;
+    margin-top: 5px;
+    margin-inline: 15px;
 }
-
-.sieles {
+#nordikus{
     padding-top: 20px;
     padding-bottom: 20px;
-    max-width: 0.8%;
+    padding-inline: 0;
+    max-width: 80%;
 }
-
-.nordikus {
+#alpesi{
     padding-top: 20px;
     padding-bottom: 20px;
-    max-width: 0.8%;
+    padding-inline: 0;
+    max-width: 80%;
+}
+#kepgaleria img{
+    border-radius: 10px;
+}
+
+.card-body p{
+    text-align: justify;
+    font-size: 20px;
+}
+ul{
+    list-style: url(../images/man-skiing.png);
+}
+tr :first-child{
+    text-transform: uppercase;
 }

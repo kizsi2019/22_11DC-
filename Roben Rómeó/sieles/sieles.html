@@ -1,15 +1,16 @@
 <!DOCTYPE html>
-<html>
+<html lang="hu">
 
 <head>
-    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sielés</title>
+
     <!-- Bootstrap stíluslap hivatkozás -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-
+    <link rel="stylesheet" href="css/style.css">
     <!-- Saját stíluslap hivatkozás -->
-    <link rel="stylesheet" href="style.css">
+    <meta charset="utf8">
+    <title>Sielés</title>
+
 
 </head>
 
@@ -49,8 +50,8 @@
                     <li class="nav-item active"><a class="nav-link" href="#">Síelés</a></li>
 
                     <!-- Új menüpont -->
-                    <li class="nav-item"><a href="https://hu.wikipedia.org/wiki/T%C3%A9li_sport"><button type="button"
-                                class="btn btn-link">További információ</button></a></li>
+                    <li class="nav-item"><a class="nav-link" href="https://hu.wikipedia.org/wiki/T%C3%A9li_sport"
+                            target="_blank">További információk</a></li>
 
                 </ul>
             </div>
@@ -60,8 +61,10 @@
     <!-- Tartalom -->
     <div class="container text-center">
         <div class="row">
-            <div class="col-md-4 card" id="alpesi">
-                <img src="images/alpesisi.jpg" class="card-img-top" alt="Alpesi síelés">
+            <div class="col-md-6 card col-lg-4" id="alpesi">
+
+
+                <img src="images/alpesisi.jpg" class="card-img-top img-fluid" alt="Alpesi síelés">
                 <div class="card-body">
                     <h2>Alpesi sielés</h2>
                     <p>Az alpesi síelés a legnépszerűbb és legismertebb forma a síelésen belül. Ebben a formában a
@@ -71,7 +74,7 @@
                         például: merev bakancsok, rövid és széles sílécek, kötések és botok.</p>
                 </div>
             </div>
-            <div class="col-md-4 card" id="nordikus">
+            <div class="col-md-6 card col-lg-4 img-fluid" id="nordikus">
                 <img src="images/nordikusi.jpg " class="card-img-top" alt="Nordikus síelés">
                 <div class="card-body">
                     <h2>Nordikus sielés</h2>
@@ -83,77 +86,75 @@
                         stílus, amelyben a lábak párhuzamosan mozognak
                         egymással; és a szabad stílus vagy skating, amelyben a lábak oldalirányban mozognak.</p>
                 </div>
+
             </div>
-            <div class="col-md-4 card" id="freestyle">
+            <div class="col-md-6 card col-lg-4 img-fluid" id="freestyle">
                 <img src="images/freestyle.jpg" class="card-img-top" alt="Freestyle síelés">
                 <div class="card-body">
-                    <h2>Freestyle síelés</h2>
+                    <h2>Freestyle sielés</h2>
                     <p>A mai freestyle sízés két vonalon fejlődött. Az egyik vonal (old school) a korábban kialakult
                         klasszikus, alpesi sízésből kifejlődött paralel sí, buckasízés és a síakrobatika. A másik,
-                        fiatalabb vonal (new school) megszületésénél már a freestyle snowboardosok bábáskodtak. Ide
-                        a különböző ugrások, figurák, trükkök, korláton csúszások (slide), félcső és big air
-                        versenyek tartoznak. A freestyle sízés ezen ágának, mint napjaink legfrissebb, legnépszerűbb
-                        sportjának hangulata, légköre - beleértve a hozzá kapcsolódó életstílust is - erős
-                        snowboard-befolyás nyomán alakult ki, amit persze nem is tagadnak a sport "hard core"
-                        követői.</p>
+                        fiatalabb vonal (new school) megszületésénél már a freestyle snowboardosok bábáskodtak. Ide a
+                        különböző ugrások, figurák, trükkök, korláton csúszások (slide), félcső és big air versenyek
+                        tartoznak. A freestyle sízés ezen ágának, mint napjaink legfrissebb, legnépszerűbb sportjának
+                        hangulata, légköre - beleértve a hozzá kapcsolódó életstílust is - erős snowboard-befolyás
+                        nyomán alakult ki, amit persze nem is tagadnak a sport "hard core" követői.</p>
                 </div>
+
             </div>
-        </div>
-    </div>
-
-    <table class="table-primary">
-        <tr>
-            <td>A 2022-es téli olimpiai eredmények</td>
-        </tr>
-
-        <tr>
-            <td>Sportág</td>
-            <td>Aranyérem</td>
-            <td>Ezüstérem</td>
-            <td>Bronzérem</td>
-        </tr>
-        <tr>
-            <td>Alpesi sízés</td>
-            <td><a
-                    href="https://www.eurosport.com/alpineskiing/alpine-skiing-hirscher-survives-scare-in-giant-slalom-to-winagain_sto6465483/story.shtm">Marcel
-                    Hirscher (AUT)</a></td>
-            <td>Alexis Pinturault (FRA)</td>
-            <td>Victor Muffat-Jeandet (FRA)</td>
-        </tr>
-        <tr>
-            <td>Freestyle sízés</td>
-            <td>Cassie Sharpe (CAN)</td>
-            <td>Marie Martinod (FRA)</td>
-            <td>Brita Sigourney (USA)</td>
-        </tr>
-        <tr>
-            <td>Snowboard</td>
-            <td>Shaun White (USA)</td>
-            <td>Ayumu Hirano (JPN)</td>
-            <td>Scotty James (AUS)</td>
-        </tr>
-        <tr>
-            <td>Jégkorong</td>
-            <td>Oroszország</td>
-            <td>Germany</td>
-            <td>Kanada</td>
-        </tr>
-    </table>
 
 
-    </main>
+            <table class="table-primary table table-striped">
+                <tr>
+                    <th colspan="8">A 2022-es téli olimpiai eredmények</th>
+                </tr>
 
-    <!-- Lábléc -->
-    <footer class="container text-center bg-dark text-white p-3">
+                <tr>
+                    <th>Sportág</th>
+                    <th>Aranyérem</th>
+                    <th>Ezüstérem</th>
+                    <th>Bronzérem</th>
+                </tr>
+                <tr>
+                    <th>Alpesi sízés</th>
+                    <th><a href="https://www.eurosport.com/alpineskiing/alpine-skiing-hirscher-survives-scare-in-giant-slalom-to-winagain_sto6465483/story.shtml">Marcel Hirscher (AUT)</a></th>
+                    <th>Alexis Pinturault (FRA)</th>
+                    <th>Victor Muffat-Jeandet (FRA)</th>
+                </tr>
+                <tr>
+                    <th>Freestyle sízés</th>
+                    <th>Cassie Sharpe (CAN)</th>
+                    <th>Marie Martinod (FRA)</th>
+                    <th>Brita Sigourney (USA)</th>
+                </tr>
+                <tr>
+                    <th>Snowboard</th>
+                    <th>Shaun White (USA)</th>
+                    <th>Ayumu Hirano (JPN)</th>
+                    <th>Scotty James (AUS)</th>
+                </tr>
+                <tr>
+                    <th>Jégkorong</th>
+                    <th>Oroszország</th>
+                    <th>Germany</th>
+                    <th>Kanada</th>
+                </tr>
+            </table>
 
-        <!-- Szöveg -->
-        &copy; 2022 Téli sportok
 
-    </footer>
+            </main>
 
-    <!-- Bootstrap szkript hivatkozás -->
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script src="https:// stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+            <!-- Lábléc -->
+            <footer class="container text-center bg-dark text-white p-3">
+
+                <!-- Szöveg -->
+                &copy; 2022 Téli sportok
+
+            </footer>
+
+            <!-- Bootstrap szkript hivatkozás -->
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script src="https:// stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
 </body>
 
