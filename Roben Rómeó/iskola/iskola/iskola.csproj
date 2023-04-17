@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{11A37303-E944-45E1-9451-C557A020DCC7}</ProjectGuid>
+    <ProjectGuid>{A565B294-EC7C-4258-9937-41BC515B03A7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Iskola1._0</RootNamespace>
-    <AssemblyName>Iskola1.0</AssemblyName>
+    <RootNamespace>iskola</RootNamespace>
+    <AssemblyName>iskola</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CJelszóGeneráló.cs" />
+    <Compile Include="iskola.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Tanulo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
