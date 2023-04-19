@@ -35,7 +35,29 @@ namespace Iskola
                     Console.WriteLine("\t{0}", item.Nev);
                 }
             }
-            
+            Console.WriteLine("5.feladat: Azonosító");
+            Console.WriteLine("\tElso {0} - {1}", tanulok[0].Nev, tanulok[0].Azonosito);
+            Console.WriteLine("\tUtolso {0} - {1}", tanulok[tanulok.Count -1].Nev, tanulok[tanulok.Count - 1].Azonosito);
+            Console.WriteLine("Kérek egy azonosítót! {pl.: 4dvavkri}: ");
+            int j = 0;
+            string azon = Console.ReadLine();
+            while(j<tanulok.Count && tanulok[j].Azonosito != azon)
+            {
+                j++;
+            }
+            if(j < tanulok.Count)
+            {
+                Console.WriteLine("\t {0} {1} {2}", tanulok[j].Ev, tanulok[j].Osztaly, tanulok[j].Nev);
+            }
+            else
+            {
+                Console.WriteLine("\tNincs ilyentanuló!");
+            }
+            Random rand = new Random();
+            JelszoGeneralo jelszoGeneralo = new JelszoGeneralo(rand);
+            int index = rand.Next(tanulok.Count);
+            Console.WriteLine("7.feladat: Jelszó generálása");
+            Console.WriteLine("\t {0} - {1}", tanulok[index].Nev, jelszoGeneralo.Jelszó(0));
 
             Console.ReadKey();
         }
