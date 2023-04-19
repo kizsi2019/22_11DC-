@@ -1,0 +1,16 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\IskolaGUI\IskolaGUI\bin\Debug\IskolaGUI.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\IskolaGUI\IskolaGUI\bin\Debug\IskolaGUI.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\IskolaGUI\IskolaGUI\bin\Debug\IskolaGUI.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\IskolaGUI\IskolaGUI\obj\Debug\MainWindow.g.cs
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\IskolaGUI\IskolaGUI\obj\Debug\App.g.cs
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI_MarkupCompile.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI_MarkupCompile.lref
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\IskolaGUI\IskolaGUI\obj\Debug\MainWindow.baml
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI.g.resources
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI.Properties.Resources.resources
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI.csproj.GenerateResource.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\IskolaGUI\IskolaGUI\obj\Debug\IskolaGUI.pdb
