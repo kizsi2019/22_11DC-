@@ -1,0 +1,16 @@
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\iskolaGUI2\iskolaGUI2\bin\Debug\iskolaGUI2.exe.config
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\iskolaGUI2\iskolaGUI2\bin\Debug\iskolaGUI2.exe
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\iskolaGUI2\iskolaGUI2\bin\Debug\iskolaGUI2.pdb
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\iskolaGUI2\iskolaGUI2\obj\Debug\iskolaGUI2.csproj.AssemblyReference.cache
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\iskolaGUI2\iskolaGUI2\obj\Debug\iskolaGUI2.csproj.SuggestedBindingRedirects.cache
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\iskolaGUI2\iskolaGUI2\obj\Debug\MainWindow.g.cs
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\iskolaGUI2\iskolaGUI2\obj\Debug\App.g.cs
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\iskolaGUI2\iskolaGUI2\obj\Debug\iskolaGUI2_MarkupCompile.cache
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\iskolaGUI2\iskolaGUI2\obj\Debug\iskolaGUI2_MarkupCompile.lref
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\iskolaGUI2\iskolaGUI2\obj\Debug\MainWindow.baml
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\iskolaGUI2\iskolaGUI2\obj\Debug\iskolaGUI2.g.resources
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\iskolaGUI2\iskolaGUI2\obj\Debug\iskolaGUI2.Properties.Resources.resources
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\iskolaGUI2\iskolaGUI2\obj\Debug\iskolaGUI2.csproj.GenerateResource.cache
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\iskolaGUI2\iskolaGUI2\obj\Debug\iskolaGUI2.csproj.CoreCompileInputs.cache
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\iskolaGUI2\iskolaGUI2\obj\Debug\iskolaGUI2.exe
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\iskolaGUI2\iskolaGUI2\obj\Debug\iskolaGUI2.pdb
