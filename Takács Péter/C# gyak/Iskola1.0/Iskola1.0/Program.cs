@@ -36,6 +36,23 @@ namespace Iskola1._0
                     Console.WriteLine("\t{0}", item.Nev);
                 }
             }
+
+            Console.WriteLine("5. feladat: Azonosítók");
+            Console.WriteLine("\tElső { 0} - { 1}", tanulok[0].Nev, tanulok[0].Azonosito);
+            Console.WriteLine("\tUtolso { 0} - { 1}", tanulok[tanulok.Count-1].Nev, tanulok[tanulok.Count - 1].Azonosito);
+            Console.WriteLine("Kérek egy azonosítót! [pl.:4dvavkri]: ");
+            int j = 0;
+            string azon = Console.ReadLine();
+            while(j< tanulok.Count && tanulok[j].Azonosito != azon)
+            {
+                j++;
+            }
+            if (j < tanulok.Count)
+            {
+                Console.WriteLine("\t {0} {1} {2}",)
+            }
+
+
             Console.ReadKey();
         }
     }
