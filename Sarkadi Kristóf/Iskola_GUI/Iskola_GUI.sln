@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iskola_GUI", "Iskola_GUI\Iskola_GUI.csproj", "{4F2BDD0B-1CF3-44AA-BFF6-9C7E726169C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F2BDD0B-1CF3-44AA-BFF6-9C7E726169C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2BDD0B-1CF3-44AA-BFF6-9C7E726169C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F2BDD0B-1CF3-44AA-BFF6-9C7E726169C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F2BDD0B-1CF3-44AA-BFF6-9C7E726169C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E215211-5085-4D4D-AF58-D126BB66AE40}
+	EndGlobalSection
+EndGlobal
