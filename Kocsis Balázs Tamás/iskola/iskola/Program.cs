@@ -25,7 +25,7 @@ namespace iskola
 
             Console.WriteLine("4. feladat: ");
 
-            int maxNevhossz = int.MinValue;
+            int maxNevhossz = int.MinValue; ;
             int szokozszam = 0;
             for (int i= 0; i < tanulok.Count; i++)
             {
@@ -49,10 +49,33 @@ namespace iskola
             Console.WriteLine("Utolsó: " + tanulok[tanulok.Count - 1].Nev + ": " + tanulok[tanulok.Count - 1].azonosító());
 
             Console.WriteLine("6. feladat: ");
+            Console.WriteLine("Kérek egyazonosítót! ");
+            string az = Console.ReadLine();
+            int j = 0;
+            bool megvan = false;
+            while (megvan == false && j < tanulok.Count)
+            {
+                if (tanulok[j].azonosító() == az)
+                {
+                    megvan = true;
+                    Console.WriteLine(tanulok[j].Ev + " " + tanulok[j].Osztaly + " " + tanulok[j].Nev);
+                }
+                j++;
+            }
+            if (megvan == false)
+            {
+                Console.WriteLine("Nincs ilyen tanuló! ");
+            }
 
-            Console.WriteLine("kérek egy azonosítót! ");
+            Console.WriteLine("7. feladat: ");
+            Random r = new Random();
+            int tanuloSorszam = r.Next(0, tanulok.Count);
+            JelszóGeneráló jelszoGen = new JelszóGeneráló(r);
+            Console.WriteLine(tanulok[tanuloSorszam].Nev);
+            Console.WriteLine(jelszoGen.Jelszó(8));
 
-            
+
+
             Console.ReadKey();  
         }
     }

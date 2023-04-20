@@ -1,0 +1,8 @@
+C:\Users\SzaboLeventeTamas\Desktop\Eső 5\githab\22_11DC-\Szabó Levente\Eső\iiiskola\iiiskola\bin\Debug\iiiskola.exe.config
+C:\Users\SzaboLeventeTamas\Desktop\Eső 5\githab\22_11DC-\Szabó Levente\Eső\iiiskola\iiiskola\bin\Debug\iiiskola.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső 5\githab\22_11DC-\Szabó Levente\Eső\iiiskola\iiiskola\bin\Debug\iiiskola.pdb
+C:\Users\SzaboLeventeTamas\Desktop\Eső 5\githab\22_11DC-\Szabó Levente\Eső\iiiskola\iiiskola\obj\Debug\iiiskola.csproj.AssemblyReference.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső 5\githab\22_11DC-\Szabó Levente\Eső\iiiskola\iiiskola\obj\Debug\iiiskola.csproj.SuggestedBindingRedirects.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső 5\githab\22_11DC-\Szabó Levente\Eső\iiiskola\iiiskola\obj\Debug\iiiskola.csproj.CoreCompileInputs.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső 5\githab\22_11DC-\Szabó Levente\Eső\iiiskola\iiiskola\obj\Debug\iiiskola.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső 5\githab\22_11DC-\Szabó Levente\Eső\iiiskola\iiiskola\obj\Debug\iiiskola.pdb
