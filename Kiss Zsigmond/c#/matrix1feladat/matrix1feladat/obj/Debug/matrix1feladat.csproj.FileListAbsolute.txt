@@ -1,0 +1,8 @@
+C:\Users\KissZsigmond\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\matrix1feladat\matrix1feladat\bin\Debug\matrix1feladat.exe.config
+C:\Users\KissZsigmond\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\matrix1feladat\matrix1feladat\bin\Debug\matrix1feladat.exe
+C:\Users\KissZsigmond\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\matrix1feladat\matrix1feladat\bin\Debug\matrix1feladat.pdb
+C:\Users\KissZsigmond\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\matrix1feladat\matrix1feladat\obj\Debug\matrix1feladat.csproj.AssemblyReference.cache
+C:\Users\KissZsigmond\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\matrix1feladat\matrix1feladat\obj\Debug\matrix1feladat.csproj.SuggestedBindingRedirects.cache
+C:\Users\KissZsigmond\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\matrix1feladat\matrix1feladat\obj\Debug\matrix1feladat.csproj.CoreCompileInputs.cache
+C:\Users\KissZsigmond\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\matrix1feladat\matrix1feladat\obj\Debug\matrix1feladat.exe
+C:\Users\KissZsigmond\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\matrix1feladat\matrix1feladat\obj\Debug\matrix1feladat.pdb

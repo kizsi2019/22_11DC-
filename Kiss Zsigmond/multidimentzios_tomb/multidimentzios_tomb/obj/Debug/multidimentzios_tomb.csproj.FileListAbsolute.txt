@@ -1,0 +1,7 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\multidimentzios_tomb\multidimentzios_tomb\bin\Debug\multidimentzios_tomb.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\multidimentzios_tomb\multidimentzios_tomb\bin\Debug\multidimentzios_tomb.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\multidimentzios_tomb\multidimentzios_tomb\bin\Debug\multidimentzios_tomb.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\multidimentzios_tomb\multidimentzios_tomb\obj\Debug\multidimentzios_tomb.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\multidimentzios_tomb\multidimentzios_tomb\obj\Debug\multidimentzios_tomb.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\multidimentzios_tomb\multidimentzios_tomb\obj\Debug\multidimentzios_tomb.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\multidimentzios_tomb\multidimentzios_tomb\obj\Debug\multidimentzios_tomb.pdb

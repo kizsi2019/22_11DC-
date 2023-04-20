@@ -1,0 +1,6 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\Ell_bekeres\Ell_bekeres\bin\Debug\Ell_bekeres.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\Ell_bekeres\Ell_bekeres\bin\Debug\Ell_bekeres.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\Ell_bekeres\Ell_bekeres\bin\Debug\Ell_bekeres.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\Ell_bekeres\Ell_bekeres\obj\Debug\Ell_bekeres.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\Ell_bekeres\Ell_bekeres\obj\Debug\Ell_bekeres.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\Ell_bekeres\Ell_bekeres\obj\Debug\Ell_bekeres.pdb

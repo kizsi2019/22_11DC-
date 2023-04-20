@@ -85,34 +85,35 @@ namespace órai_munka_2023._01._12_teljes
                     oddsCounter++;
                 }
             }
-            int[] tmbOdds = new int[oddsCounter];
-            for (int i = 0; i < tmb.Length; i++)
-            {
-                if (tmb[i] % 2 != 0)
-                    tmbOdds[i] = tmb[i];
-            }
-            Console.WriteLine("Páratlan számok: ");
-            foreach (var i in tmbOdds)
-            {
-                Console.Write($"{tmbOdds}, ");
-            }
+            //int[] tmbOdds = new int[oddsCounter];
+            //for (int i = 0; i < tmb.Length; i++)
+            //{
+                //if (tmb[i] % 2 != 0)
+                    //tmbOdds[i] = tmb[i];
+            //}
+            //Console.WriteLine("Páratlan számok: ");
+            //foreach (var i in tmbOdds)
+            //{
+                //Console.Write($"{tmbOdds}, ");
+            //}
 
-            for (int i = tmb.Length - 1; i >= 0; i++)
-            {
-                for (int j = 0; j < i; j++)
-                {
-                    if (tmb[j] > tmb[j + 1])
-                    {
-                        int tmp = tmb[j];
-                        tmb[j] = tmb[j + 1];
-                        tmb[j + 1] = tmp;
-                    }
-                }
-            }
+            //for (int i = tmb.Length - 1; i >= 0; i++)
+            //{
+                //for (int j = 0; j < i; j++)
+                //{
+                    //if (tmb[j] > tmb[j + 1])
+                    //{
+                        //int tmp = tmb[j];
+                        //tmb[j] = tmb[j + 1];
+                        //tmb[j + 1] = tmp;
+                    //}
+                //}
+            //}
             for (int i = 0; i < tmb.Length; i++)
             {
                 Console.WriteLine($"{tmb.Length}, ");
             }
+            Console.ReadKey();
         }
     }
 }

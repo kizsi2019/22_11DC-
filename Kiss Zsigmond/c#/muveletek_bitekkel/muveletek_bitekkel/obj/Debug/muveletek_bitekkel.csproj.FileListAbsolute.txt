@@ -1,0 +1,7 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\muveletek_bitekkel\muveletek_bitekkel\bin\Debug\muveletek_bitekkel.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\muveletek_bitekkel\muveletek_bitekkel\bin\Debug\muveletek_bitekkel.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\muveletek_bitekkel\muveletek_bitekkel\bin\Debug\muveletek_bitekkel.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\muveletek_bitekkel\muveletek_bitekkel\obj\Debug\muveletek_bitekkel.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\muveletek_bitekkel\muveletek_bitekkel\obj\Debug\muveletek_bitekkel.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\muveletek_bitekkel\muveletek_bitekkel\obj\Debug\muveletek_bitekkel.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\muveletek_bitekkel\muveletek_bitekkel\obj\Debug\muveletek_bitekkel.pdb
