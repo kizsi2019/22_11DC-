@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb8eb178-e8d0-4799-bf02-5f8897c31c09" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../iskola/.vs/iskola/FileContentIndex/490cef2d-45d5-4507-945b-181257e42623.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iskola/.vs/iskola/FileContentIndex/ab33460d-8e79-4120-91da-dbf2ece34c12.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iskola/.vs/iskola/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../iskola/.vs/iskola/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iskola/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/../iskola/.vs/slnx.sqlite" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2OgGdmRQ6L5ObhPm381mIWudPiC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/RobenRomeo/Desktop/githubu/22_11DC-/Roben Rómeó/api"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb8eb178-e8d0-4799-bf02-5f8897c31c09" name="Changes" comment="" />
+      <created>1681974900997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681974900997</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
