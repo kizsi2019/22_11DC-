@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Filmstúdió</title>
+    <link rel="stylesheet" href="studio.css">
+    <script src="studio.js"></script>
+  </head>
+  <body>
+    <h1>Üdvözlünk a filmstúdióban!</h1>
+    <form>
+      <label for="studio-name">Milyen néven indítanál egy filmstúdiót?</label>
+      <input type="text" id="studio-name" name="studio-name" required>
+      <br>
+      <label for="fav-color">Mi a kedvenc színed?</label>
+      <input type="color" id="fav-color" name="fav-color">
+      <br>
+      <label for="movie-rating">Hogyan értékelnéd a John Wick 2-t (1-5-ig)?</label>
+      <input type="range" id="movie-rating" name="movie-rating" min="1" max="5" step="1" value="3" required>
+      <br>
+      <button type="submit">Küldés</button>
+    </form>
+    <div class="progress-wrapper">
+      <label for="movie-rating-progress">Film értékelési folyamat:</label>
+      <br>
+      <progress id="movie-rating-progress" value="0" max="4"></progress>
+    </div>
+    
+  </body>
+</html>
