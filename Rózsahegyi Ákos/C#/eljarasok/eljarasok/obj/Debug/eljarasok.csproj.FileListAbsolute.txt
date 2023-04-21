@@ -1,8 +1,0 @@
-C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\eljarasok\eljarasok\bin\Debug\eljarasok.exe.config
-C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\eljarasok\eljarasok\bin\Debug\eljarasok.exe
-C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\eljarasok\eljarasok\bin\Debug\eljarasok.pdb
-C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\eljarasok\eljarasok\obj\Debug\eljarasok.csproj.AssemblyReference.cache
-C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\eljarasok\eljarasok\obj\Debug\eljarasok.csproj.SuggestedBindingRedirects.cache
-C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\eljarasok\eljarasok\obj\Debug\eljarasok.csproj.CoreCompileInputs.cache
-C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\eljarasok\eljarasok\obj\Debug\eljarasok.exe
-C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\eljarasok\eljarasok\obj\Debug\eljarasok.pdb

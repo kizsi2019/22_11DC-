@@ -32,7 +32,8 @@ namespace Iskola1._0
                 string azon = (Ev % 1000).ToString();
                 azon += Osztaly;
                 string[] nevek = Nev.ToLower().Split(' ');
-                azon
+                azon += nevek[0].Substring(0, 3);
+                azon += nevek[1].Substring(0, 3);
                 return azon;
             }
         }

@@ -1,0 +1,8 @@
+C:\Users\DubeczDavidRaymundo\source\repos\Iskolaaprtizenketto\Iskolaaprtizenketto\bin\Debug\Iskolaaprtizenketto.exe.config
+C:\Users\DubeczDavidRaymundo\source\repos\Iskolaaprtizenketto\Iskolaaprtizenketto\bin\Debug\Iskolaaprtizenketto.exe
+C:\Users\DubeczDavidRaymundo\source\repos\Iskolaaprtizenketto\Iskolaaprtizenketto\bin\Debug\Iskolaaprtizenketto.pdb
+C:\Users\DubeczDavidRaymundo\source\repos\Iskolaaprtizenketto\Iskolaaprtizenketto\obj\Debug\Iskolaaprtizenketto.csproj.AssemblyReference.cache
+C:\Users\DubeczDavidRaymundo\source\repos\Iskolaaprtizenketto\Iskolaaprtizenketto\obj\Debug\Iskolaaprtizenketto.csproj.SuggestedBindingRedirects.cache
+C:\Users\DubeczDavidRaymundo\source\repos\Iskolaaprtizenketto\Iskolaaprtizenketto\obj\Debug\Iskolaaprtizenketto.csproj.CoreCompileInputs.cache
+C:\Users\DubeczDavidRaymundo\source\repos\Iskolaaprtizenketto\Iskolaaprtizenketto\obj\Debug\Iskolaaprtizenketto.exe
+C:\Users\DubeczDavidRaymundo\source\repos\Iskolaaprtizenketto\Iskolaaprtizenketto\obj\Debug\Iskolaaprtizenketto.pdb
