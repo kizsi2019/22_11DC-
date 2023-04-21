@@ -1,0 +1,27 @@
+h1 {
+    text-decoration: underline;
+  }
+  
+  form {
+    border: 1px solid black;
+    padding: 10px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  body {
+    color: black;
+    background-image: url("cica.jpg");
+    background-size: cover;
+  }
+  
+  .progress-wrapper {
+    margin-top: 20px;
+  }
+  
+  progress {
+    width: 300px;
+  }
+  
