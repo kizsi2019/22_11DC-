@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Filmstúdió indítása</title>
+    <style>
+        body {
+            background-color: #f2f2f2;
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        form {
+            max-width: 500px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            background-color: #fff;
+        }
+
+        input[type=text], select {
+            display: block;
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+            margin-bottom: 20px;
+            font-size: 16px;
+        }
+
+        input[type=submit] {
+            background-color: #4CAF50;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        input[type=submit]:hover {
+            background-color: #45a049;
+        }
+
+        .progress-bar {
+            background-color: #ddd;
+            height: 20px;
+            border-radius: 4px;
+            overflow: hidden;
+        }
+
+        .progress-bar-fill {
+            background-color: #4CAF50;
+            height: 100%;
+            width: 0%;
+        }
+
+        .border {
+            border: 1px solid #ccc;
+            padding: 20px;
+            margin-top: 20px;
+            font-size: 24px;
+        }
+
+        .text-center {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Filmstúdió indítása</h1>
+
+    <form id="filmstudiok">
+
+        <label for="nev">Mi lenne a filmstúdió neve?</label>
+
+        <input type="text" id="nev" name="nev" required>
+
+       
+
+        <label for="szin">Milyen szín tetszik?</label>
+
+        <select id="szin" name="szin" required>
+
+            <option value="red">red</option>
+
+            <option value="green">green</option>
+
+            <option value="blue">blue</option>
+
+        </select>
+
+       
+
+        <label for="ertekelo">Hogyan értékeli a legújabb filmünket?</label>
+
+        <select id="ertekelo" name="ertekelo" required>
+
+            <option value="">-- Kérem válasszon --</option>
+
+            <option value="1">1</option>
+
+            <option value="2">2</option>
+
+            <option value="3">3</option>
+
+            <option value="4">4</option>
+
+            <option value="5">5</option>
+
+        </select>
+
+       
+
+        <input type="submit" value="Küldés" onclick="megjelenit()">
+
+    </form>
+
+   
+
+    <div id="filmstudio_nev" class="border"></div>
+
+   
+
+    <div id="hatter"></div>
+
+
+
+
+<div class="progress-bar">
+
+    <div id="progress-bar-fill" class="progress-bar-fill"></div>
+
+</div>
+
+
+
+
+<script>
+
+    function megjelenit() {
+
+        // filmstúdió név beolvasása és megjelenítése
+
+        var nev = document.getElementById("nev").value;
+
+        document.getElementById("filmstudio_nev").innerHTML = "<p class='text-center'>A filmstúdió neve: <strong style='text-decoration: underline;'>" + nev + "</strong></p>";
+
+       
+
+        // hátter szín beolvasása és beállítása
+
+        var szin = document.getElementById("szin").value;
+
+        document.getElementById("hatter").style.backgroundColor = szin;
+
+       
+
+        // értékelés beolvasása és progress bar beállítása
+
+        var ertekelo = parseInt(document.getElementById("ertekelo").value);
+
+        var progress = document.getElementById("progress-bar-fill");
+
+        progress.style.width = (ertekelo * 20) + "%";
+
+        progress.style.backgroundColor = "#4CAF50";
+
+    }
+
+</script>
+
+</body>
+
+</html>
