@@ -1,0 +1,8 @@
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\githubfinalv2\22_11DC-\Dubecz Dávid\C#\karacsonyiv2\karacsonyiv2\bin\Debug\karacsonyiv2.exe.config
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\githubfinalv2\22_11DC-\Dubecz Dávid\C#\karacsonyiv2\karacsonyiv2\bin\Debug\karacsonyiv2.exe
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\githubfinalv2\22_11DC-\Dubecz Dávid\C#\karacsonyiv2\karacsonyiv2\bin\Debug\karacsonyiv2.pdb
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\githubfinalv2\22_11DC-\Dubecz Dávid\C#\karacsonyiv2\karacsonyiv2\obj\Debug\karacsonyiv2.csproj.AssemblyReference.cache
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\githubfinalv2\22_11DC-\Dubecz Dávid\C#\karacsonyiv2\karacsonyiv2\obj\Debug\karacsonyiv2.csproj.SuggestedBindingRedirects.cache
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\githubfinalv2\22_11DC-\Dubecz Dávid\C#\karacsonyiv2\karacsonyiv2\obj\Debug\karacsonyiv2.csproj.CoreCompileInputs.cache
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\githubfinalv2\22_11DC-\Dubecz Dávid\C#\karacsonyiv2\karacsonyiv2\obj\Debug\karacsonyiv2.exe
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\githubfinalv2\22_11DC-\Dubecz Dávid\C#\karacsonyiv2\karacsonyiv2\obj\Debug\karacsonyiv2.pdb

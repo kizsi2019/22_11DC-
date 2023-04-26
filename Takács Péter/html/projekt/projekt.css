@@ -1,0 +1,32 @@
+/* Az oldal hátterének színe */
+	body {
+		background-color: white;
+	}
+
+	/* Az oldal fejlécének és láblécének színe */
+	header, footer {
+		background-color: #333;
+		color: white;
+		padding: 10px;
+	}
+
+	/* Az oldal tartalmának színe */
+	main {
+		background-color: #f5f5f5;
+		padding: 20px;
+	}
+
+	/* A gomb színe */
+	button {
+		background-color: #4CAF50;
+		color: white;
+		padding: 10px 20px;
+		border: none;
+		cursor: pointer;
+	}
+
+	/* A progress bar színe */
+	.progress-bar {
+		height: 20px;
+		background-color: white;
+    }
