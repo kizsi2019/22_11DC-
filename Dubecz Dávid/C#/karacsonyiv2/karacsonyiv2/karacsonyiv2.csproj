@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{97A73275-9D30-44D4-8B12-A25FF83555E0}</ProjectGuid>
+    <ProjectGuid>{4EF3433D-8513-4324-AFDB-BD37688C6239}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>karacsonyCLI</RootNamespace>
-    <AssemblyName>karacsonyCLI</AssemblyName>
+    <RootNamespace>karacsonyiv2</RootNamespace>
+    <AssemblyName>karacsonyiv2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

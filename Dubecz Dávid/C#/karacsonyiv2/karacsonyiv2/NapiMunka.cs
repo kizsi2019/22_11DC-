@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace karacsonyCLI
+namespace karacsonyiv2
 {
     internal class NapiMunka
     {

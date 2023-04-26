@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "karacsonyCLI", "karacsonyCLI\karacsonyCLI.csproj", "{97A73275-9D30-44D4-8B12-A25FF83555E0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "karacsonyiv2", "karacsonyiv2\karacsonyiv2.csproj", "{4EF3433D-8513-4324-AFDB-BD37688C6239}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{97A73275-9D30-44D4-8B12-A25FF83555E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{97A73275-9D30-44D4-8B12-A25FF83555E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{97A73275-9D30-44D4-8B12-A25FF83555E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{97A73275-9D30-44D4-8B12-A25FF83555E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EF3433D-8513-4324-AFDB-BD37688C6239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF3433D-8513-4324-AFDB-BD37688C6239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF3433D-8513-4324-AFDB-BD37688C6239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF3433D-8513-4324-AFDB-BD37688C6239}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FCA79B44-2C07-475E-A3D2-B8A77DF89C2F}
+		SolutionGuid = {43E4B20D-CB13-4E60-A1E3-95F57F5B5DE0}
 	EndGlobalSection
 EndGlobal

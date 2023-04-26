@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("karacsonyCLI")]
+[assembly: AssemblyTitle("karacsonyiv2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("karacsonyCLI")]
+[assembly: AssemblyProduct("karacsonyiv2")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("97a73275-9d30-44d4-8b12-a25ff83555e0")]
+[assembly: Guid("4ef3433d-8513-4324-afdb-bd37688c6239")]
 
 // Version information for an assembly consists of the following four values:
 //
