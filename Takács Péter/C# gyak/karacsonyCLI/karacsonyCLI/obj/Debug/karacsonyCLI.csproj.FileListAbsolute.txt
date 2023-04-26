@@ -1,0 +1,8 @@
+C:\Users\TakacsPeter\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Takács Péter\C# gyak\karacsonyCLI\karacsonyCLI\bin\Debug\karacsonyCLI.exe.config
+C:\Users\TakacsPeter\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Takács Péter\C# gyak\karacsonyCLI\karacsonyCLI\bin\Debug\karacsonyCLI.exe
+C:\Users\TakacsPeter\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Takács Péter\C# gyak\karacsonyCLI\karacsonyCLI\bin\Debug\karacsonyCLI.pdb
+C:\Users\TakacsPeter\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Takács Péter\C# gyak\karacsonyCLI\karacsonyCLI\obj\Debug\karacsonyCLI.csproj.AssemblyReference.cache
+C:\Users\TakacsPeter\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Takács Péter\C# gyak\karacsonyCLI\karacsonyCLI\obj\Debug\karacsonyCLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\TakacsPeter\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Takács Péter\C# gyak\karacsonyCLI\karacsonyCLI\obj\Debug\karacsonyCLI.csproj.CoreCompileInputs.cache
+C:\Users\TakacsPeter\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Takács Péter\C# gyak\karacsonyCLI\karacsonyCLI\obj\Debug\karacsonyCLI.exe
+C:\Users\TakacsPeter\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Takács Péter\C# gyak\karacsonyCLI\karacsonyCLI\obj\Debug\karacsonyCLI.pdb
