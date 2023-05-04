@@ -1,5 +1,8 @@
 import requests
+from pprint import pprint
 
-resp = requests.get("https://catfact.ninja/fact")
-fact = resp.json()["fact"]
-print(fact)
+resp = requests.get("https://catfact.ninja/facts")
+cat_datas = resp.json()
+
+for info in cat_datas["data"]:
+    print(info["fact"])
