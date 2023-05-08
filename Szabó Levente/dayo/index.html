@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Forms</title>
+</head>
+<body>
+    <p class="ahoy">How is your film studio called?</p>
+    <form action="index.html">
+        <p>Film studio name:<input class="input" type="text" name="studio"></p>
+        <p>Studio Name:
+            
+        </p>
+        <input type="button" onclick="myFunction()" value="Submit">
+        <input type="button" onclick="myFunction()" value="Reset">
+    </form>
+    <p class="ahoy">What's your favourite color?</p>
+    <form class="color" action="index.html">
+        <p>Color: <input type="text" name="colour"><br></p>
+        <p>Color</p>
+        <input type="button" onclick="myFunction()" value="Submit">
+        <input type="button" onclick="myFunction()" value="Reset">
+    </form>
+    <script>
+        function myFunction(){
+            document.getElementById("color").submit();
+            function myFunction()
+                document.getElementById("color").reset();
+}
+    </script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

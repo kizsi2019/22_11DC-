@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Film</title>
+<style>
+    #studio-name {
+      font-size: 24px;
+      text-decoration: underline;
+      border: 1px solid black;
+      padding: 10px;
+    }
+  </style>
+  </head>
+
+<body>
+    <h1>Enter your Film Studio Name</h1>
+    <form>
+      <label for="studio-name-input">Studio Name:</label>
+      <input type="text" id="studio-name-input">
+      <button type="button" onclick="displayStudioName()">Submit</button>
+    </form>
+    <div id="studio-name"></div>
+    <script>
+      function displayStudioName() {
+        const name = document.getElementById("studio-name-input").value;
+        const studioNameElement = document.getElementById("studio-name");
+        studioNameElement.textContent = name;
+        studioNameElement.style.display = "block";
+      }
+    </script>
+    <script>
+        let color = prompt("What is your favourite color! ")
+    </script>
+
+    
+</body>
+</html>
