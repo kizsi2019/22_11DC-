@@ -26,8 +26,8 @@ namespace karacsonyGUI
 
         private void btnHozzaad_Click(object sender, RoutedEventArgs e)
         {
-            kesz = Convert.ToInt32(keszTB.Text);
-            eladott = Convert.ToInt32(arulTB.Text);
+            kesz = Convert.ToInt32(kimenet1.Text);
+            eladott = Convert.ToInt32(kimenet2.Text);
             if (kesz < 0 || eladott < 0)
             {
                 hiba.Content = "Negatív számot nem adhat meg!";
@@ -38,15 +38,15 @@ namespace karacsonyGUI
             }
             else
             {
-                nap = Convert.ToInt32(napok.SelectedItem.ToString());
+                nap = Convert.ToInt32(napokCB.SelectedItem.ToString());
                 ossz += kesz - eladott;
                 kimenet.Text += nap + ".nap: \t+" + kesz + " \t-" + eladott + " \t= \t" + ossz + "\n";
                 for (int i = 1; i <= nap; i++)
                 {
-                    napok.Items.Remove(i);
+                    napokCB.Items.Remove(i);
                 }
-                keszTB.Text = "0";
-                arulTB.Text = "0";
+                kimenet1.Text = "0";
+                kimenet2.Text = "0";
                 hiba.Content = "";
             }
         }
@@ -54,12 +54,12 @@ namespace karacsonyGUI
         public MainWindow()
         {
             InitializeComponent();
-            if (napok.Items.Count < 40)
+            if (napokCB.Items.Count < 40)
             {
-                napok.Items.Clear();
+                napokCB.Items.Clear();
                 for (int i = 1; i <= 40; i++)
                 {
-                    napok.Items.Add(i);
+                    napokCB.Items.Add(i);
                 }
             }
         }
