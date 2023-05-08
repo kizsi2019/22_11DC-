@@ -1,0 +1,6 @@
+C:\Users\SzaboLeventeTamas\Desktop\Eső 5\githab\22_11DC-\Szabó Levente\Eső\számoló\számoló\obj\Debug\számoló.csproj.AssemblyReference.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső 5\githab\22_11DC-\Szabó Levente\Eső\számoló\számoló\obj\Debug\számoló.csproj.SuggestedBindingRedirects.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső 5\githab\22_11DC-\Szabó Levente\Eső\számoló\számoló\obj\Debug\MainWindow.g.cs
+C:\Users\SzaboLeventeTamas\Desktop\Eső 5\githab\22_11DC-\Szabó Levente\Eső\számoló\számoló\obj\Debug\App.g.cs
+C:\Users\SzaboLeventeTamas\Desktop\Eső 5\githab\22_11DC-\Szabó Levente\Eső\számoló\számoló\obj\Debug\számoló_MarkupCompile.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső 5\githab\22_11DC-\Szabó Levente\Eső\számoló\számoló\obj\Debug\számoló_MarkupCompile.lref
