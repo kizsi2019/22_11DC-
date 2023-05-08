@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Filmstúdió</title>
+	
+	<style>
+		body {
+			font-family: sans-serif;
+			margin: 0;
+			padding: 0;
+		}
+
+		.container {
+			max-width: 800px;
+			margin: 0 auto;
+			padding: 20px;
+		}
+
+		h1 {
+			text-align: center;
+			margin-bottom: 30px;
+		}
+
+		label {
+			display: block;
+			margin-bottom: 10px;
+			font-weight: bold;
+		}
+
+		input[type=text], select {
+			padding: 10px;
+			border-radius: 5px;
+			border: none;
+			background-color: #f2f2f2;
+			margin-bottom: 20px;
+			width: 100%;
+			box-sizing: border-box;
+			font-size: 16px;
+			color: #444;
+			-webkit-appearance: none;
+			-moz-appearance: none;
+			appearance: none;
+		}
+
+		textarea {
+			padding: 10px;
+			border-radius: 5px;
+			border: none;
+			background-color: #f2f2f2;
+			margin-bottom: 20px;
+			width: 100%;
+			height: 150px;
+			box-sizing: border-box;
+			font-size: 16px;
+			color: #444;
+			-webkit-appearance: none;
+			-moz-appearance: none;
+			appearance: none;
+		}
+
+		button {
+			background-color: #4CAF50;
+			color: white;
+			padding: 10px;
+			border: none;
+			border-radius: 5px;
+			font-size: 16px;
+			cursor: pointer;
+		}
+
+		button:hover {
+			background-color: #3e8e41;
+		}
+
+		#name {
+			background-color: #fff;
+			border: 2px solid #4CAF50;
+			padding: 20px;
+			text-align: center;
+			font-size: 24px;
+			margin-bottom: 30px;
+			border-radius: 5px;
+		}
+
+		.rating {
+			margin-bottom: 20px;
+			display: none;
+		}
+
+		#rating1:checked ~ .rating1,
+		#rating2:checked ~ .rating2,
+		#rating3:checked ~ .rating3,
+		#rating4:checked ~ .rating4,
+		#rating5:checked ~ .rating5 {
+			display: block;
+		}
+
+		.progress-bar {
+			height: 20px;
+			background-color: #f2f2f2;
+			border-radius: 5px;
+			overflow: hidden;
+			margin-bottom: 10px;
+		}
+
+		.progress {
+			height: 100%;
+			background-color: #4CAF50;
+			border-radius: 5px;
+			width: 0;
+			transition: width 0.5s ease-in-out;
+		}
+	</style>
+</head>
+<body>
+    <div id="progressbar"></div>
+	<div class="container">
+		<p>Kérem, adja meg a filmstúdió nevét:</p>
+		<input type="text" id="nameInput">
+		<button onclick="showName()">Beküldés</button>
+		<div id="name"></div>
+
+		<p>Kérem, adja meg a kedvenc színét(angolul):</p>
+		<input type="text" id="colorInput">
+		<button onclick="changeColor()">Beküldés</button>
+
+		<p>Kérem, értékelje az inception filmet az alábbi skálán:</p>
+		<p>Válasszon értéket:</p>
+		<select id="select" onchange="showProgressBar(this.value)">
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+			<option value="4">4</option>
+			<option value="5">5</option>
+		</select>
+	</div>
+
+	<script>
+		function showName() {
+			var name = document.getElementById("nameInput").value;
+			var nameBlock = document.getElementById("name");
+			nameBlock.innerHTML = name;
+			nameBlock.style.display = "block";
+		}
+
+		function changeColor() {
+			var color = document.getElementById("colorInput").value;
+			document.body.style.backgroundColor = color;
+			document.getElementsByTagName("header")[0].style.backgroundColor = color;
+			document.getElementsByTagName("footer")[0].style.backgroundColor = color;
+			document.getElementsByTagName("button")[0].style.backgroundColor = color;
+			document.getElementsByClassName("progress-bar")[0].style.backgroundColor = color;
+		}
+
+		function showProgressBar(value) {
+			var bars = document.getElementsByClassName("progress-bar");
+			for (var i = 0; i < bars.length; i++) {
+				bars[i].style.display = "none";
+			}
+			var bar = document.getElementById("bar" + value);
+			bar.style.display = "block";
+			bar.style.width = value * 20 + "%";
+		}
+        function changeBackground() {
+			var color = document.getElementById("color").value;
+			document.body.style.backgroundColor = color;
+		}
+
+		function showRating(rating) {
+			var progressBar = document.getElementById("progress-bar");
+			var progress = document.getElementById("progress");
+			progress.style.width = rating * 20 + "%";
+		}
+	</script>
+    
+</body>
+</html>
+

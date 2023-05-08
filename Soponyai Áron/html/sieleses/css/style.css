@@ -1,0 +1,99 @@
+/* Fejléc stílusa */
+
+header {
+    background-image: url("../images/bg1.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+}
+
+
+/* Menüpontok stílusa */
+
+.nav-item{
+    font-size: 25px;
+}
+
+.nav-link {
+    font-weight: bold;
+}
+
+.nav {
+    background-color: #007bff;
+}
+
+.navbar {
+    color: white;
+}
+
+
+/* Aktív menüpont stílusa */
+
+.nav-item.active .nav-link {
+    color: white;
+}
+
+
+/* Alpesi síelés címének stílusa */
+
+#alpesi h2 {
+    color: red;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    max-width: 80%;
+}
+
+/* Nordikus síelés címének stílusa */
+
+#nordikus h2 {
+    color: #007bff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    max-width: 80%;
+}
+
+#freestyle h2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    max-width: 80%;
+}
+
+main {
+    background-color: rgba(255, 255, 255, 0.75);
+    font-size: 20px;
+}
+
+h1 {
+    background-color: rgba(68, 192, 226, 0.750);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color:#ffff;
+}
+
+h2{
+    border: 3px;
+    border-color: #007bff;
+    font-variant: small-caps;
+    margin-left: 5;
+    margin-right: 5;
+    margin-top: 15;
+    margin-bottom: 15;
+}
+
+.card-body{
+    resize: 20px;
+    text-align: justify;
+}
+
+#kepgaleria img{
+    border-radius: 10px;
+}
+
+#kekszi{
+    list-style-image: url(../images/man-skiing.png);
+    font-weight: bold;
+}
+
+tr:first-child{
+    text-transform: uppercase;
+}

@@ -1,0 +1,8 @@
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Karácsonyi díszek\Karácsonyi díszek\bin\Debug\Karácsonyi díszek.exe.config
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Karácsonyi díszek\Karácsonyi díszek\bin\Debug\Karácsonyi díszek.exe
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Karácsonyi díszek\Karácsonyi díszek\bin\Debug\Karácsonyi díszek.pdb
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Karácsonyi díszek\Karácsonyi díszek\obj\Debug\Karácsonyi díszek.csproj.AssemblyReference.cache
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Karácsonyi díszek\Karácsonyi díszek\obj\Debug\Karácsonyi díszek.csproj.SuggestedBindingRedirects.cache
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Karácsonyi díszek\Karácsonyi díszek\obj\Debug\Karácsonyi díszek.csproj.CoreCompileInputs.cache
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Karácsonyi díszek\Karácsonyi díszek\obj\Debug\Karácsonyi díszek.exe
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\Karácsonyi díszek\Karácsonyi díszek\obj\Debug\Karácsonyi díszek.pdb

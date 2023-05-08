@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Filmstúdió</title>
+	<style>
+		.studio-name {
+			border: 2px solid black;
+			padding: 10px;
+			font-size: 24px;
+			font-weight: bold;
+			margin-bottom: 20px;
+		}
+		#progress-bars {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: space-between;
+		}
+		.progress-bar {
+			width: 200px;
+			height: 20px;
+			background-color: lightgray;
+			margin-bottom: 10px;
+			position: relative;
+		}
+		.progress-bar-fill {
+			position: absolute;
+			top: 0;
+			left: 0;
+			height: 100%;
+			background-color: blue;
+		}
+	</style>
+</head>
+<body>
+	<label for="studio-name">Hogyan neveznéd el a filmstúdiódat?</label>
+	<input type="text" id="studio-name-input">
+	<button onclick="showStudioName()">Mutat</button>
+	<div id="studio-name" class="studio-name" style="display:none;"></div>
+
+	<label for="favorite-color">Mi a kedvenc színed?</label>
+	<input type="text" id="favorite-color-input">
+	<button onclick="changeBackgroundColor()">Változtat</button>
+
+	<label for="movie-rating">Milyen osztályzatot adnál a Titanic filmnek?</label>
+	<select id="movie-rating-input">
+		<option value="1">1</option>
+		<option value="2">2</option>
+		<option value="3">3</option>
+		<option value="4">4</option>
+		<option value="5">5</option>
+	</select>
+	<button onclick="showProgressBar()">Mutat</button>
+	<div id="progress-bars" style="display:none;">
+		<div class="progress-bar" id="progress-bar-1">
+			<div class="progress-bar-fill"></div>
+		</div>
+		<div class="progress-bar" id="progress-bar-2">
+			<div class="progress-bar-fill"></div>
+		</div>
+		<div class="progress-bar" id="progress-bar-3">
+			<div class="progress-bar-fill"></div>
+		</div>
+		<div class="progress-bar" id="progress-bar-4">
+			<div class="progress-bar-fill"></div>
+		</div>
+		<div class="progress-bar" id="progress-bar-5">
+			<div class="progress-bar-fill"></div>
+		</div>
+	</div>
+</body>
+<script src="js/filmes.js"></script>
+</html>
