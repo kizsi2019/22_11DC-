@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS feladat</title>
+</head>
+<body>
+    <style>
+        #myProgress {
+          width: 100%;
+          background-color: #ddd;
+        }
+        
+        #myBar {
+          width: 1%;
+          height: 30px;
+          background-color: #04AA6D;
+        }
+    </style>
+    <div id="myProgress">
+        <div id="myBar"></div>
+    </div>
+    <script>
+        let film = prompt("Film neve:")
+        let skala = prompt("Skála (1-5 között):")
+        
+        if (skala == 1) {
+            let elem = document.getElementById("myBar");
+            let width = 10;
+            let id = setInterval(frame, 10);
+            function frame() {
+                if (width >= 20) {
+                    clearInterval(id);
+                    i = 0;
+                } else {
+                    width++;
+                    elem.style.width = width + "%";
+                }
+            }
+        }
+
+        if (skala == 2) {
+            let elem = document.getElementById("myBar");
+            let width = 10;
+            let id = setInterval(frame, 10);
+            function frame() {
+                if (width >= 40) {
+                    clearInterval(id);
+                    i = 0;
+                } else {
+                    width++;
+                    elem.style.width = width + "%";
+                }
+            }
+        }
+
+        if (skala == 3) {
+            let elem = document.getElementById("myBar");
+            let width = 10;
+            let id = setInterval(frame, 10);
+            function frame() {
+                if (width >= 60) {
+                    clearInterval(id);
+                    i = 0;
+                } else {
+                    width++;
+                    elem.style.width = width + "%";
+                }
+            }
+        }
+
+        if (skala == 4) {
+            let elem = document.getElementById("myBar");
+            let width = 10;
+            let id = setInterval(frame, 10);
+            function frame() {
+                if (width >= 80) {
+                    clearInterval(id);
+                    i = 0;
+                } else {
+                    width++;
+                    elem.style.width = width + "%";
+                }
+            }
+        }
+
+        if (skala == 5) {
+            let elem = document.getElementById("myBar");
+            let width = 10;
+            let id = setInterval(frame, 10);
+            function frame() {
+                if (width >= 100) {
+                    clearInterval(id);
+                    i = 0;
+                } else {
+                    width++;
+                    elem.style.width = width + "%";
+                }
+            }
+        }
+    </script>
+</body>
+</html>

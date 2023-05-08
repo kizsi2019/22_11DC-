@@ -1,0 +1,16 @@
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\karacsonyGUI\karacsonyGUI\bin\Debug\karacsonyGUI.exe.config
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\karacsonyGUI\karacsonyGUI\bin\Debug\karacsonyGUI.exe
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\karacsonyGUI\karacsonyGUI\bin\Debug\karacsonyGUI.pdb
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.csproj.AssemblyReference.cache
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\karacsonyGUI\karacsonyGUI\obj\Debug\MainWindow.g.cs
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\karacsonyGUI\karacsonyGUI\obj\Debug\App.g.cs
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI_MarkupCompile.cache
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI_MarkupCompile.lref
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\karacsonyGUI\karacsonyGUI\obj\Debug\MainWindow.baml
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.g.resources
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.Properties.Resources.resources
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.csproj.GenerateResource.cache
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.csproj.CoreCompileInputs.cache
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.exe
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\karacsonyGUI\karacsonyGUI\obj\Debug\karacsonyGUI.pdb

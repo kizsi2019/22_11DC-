@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script>
+        alert('Üdvözöljük')
+    </script>
+    <title>JS_projectwork</title>
+    <script src="srcipt1.js"></script>
+</head>
+
+<body>
+    <h1 id="bekeres">Studio név</h1>
+    <p class="bekeres">
+        <script>
+            let nev = prompt("Milyen néven indítanál film studíót?");
+            document.write(nev);
+        </script>
+    </p>
+    <p class="bg_color">
+        <script>
+            let color = document.getElementById('color');
+            color.style.backgroundColor = "bg_color";
+        </script>
+    </p>
+    <style>
+        .bekeres {
+            border-style: solid;
+            border-radius: 5px;
+            border-right: fixed;
+        }
+        .bg_color {
+            background-color: currentColor;
+        }
+    </style>
+</body>
+
+</html>
