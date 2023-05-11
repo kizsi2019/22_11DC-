@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1FF3CEB4-D0B6-4B4D-B9EA-5E635F750DA5}</ProjectGuid>
+    <ProjectGuid>{039D0877-9A24-4963-8F8A-B763228A98F3}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>KarácsonyGUI</RootNamespace>
-    <AssemblyName>KarácsonyGUI</AssemblyName>
+    <RootNamespace>karacsonyGUI</RootNamespace>
+    <AssemblyName>karacsonyGUI</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>

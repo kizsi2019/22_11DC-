@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace KarácsonyGUI.Properties
+namespace karacsonyGUI.Properties
 {
 
 
