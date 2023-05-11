@@ -1,0 +1,34 @@
+﻿<Window x:Class="számoló.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:számoló"
+        mc:Ignorable="d"
+        Title="Számológép" Height="500" Width="300">
+    <Grid>
+        <Button Content="Button" HorizontalAlignment="Left" Height="50
+                " Margin="10,412,0,0" VerticalAlignment="Top" Width="53"/>
+        <Button Content="0" HorizontalAlignment="Left" Height="50" Margin="84,412,0,0" VerticalAlignment="Top" Width="53" FontSize="20"/>
+        <Button Content="," HorizontalAlignment="Left" Height="50" Margin="158,412,0,0" VerticalAlignment="Top" Width="54" FontSize="22"/>
+        <Button Content="=" HorizontalAlignment="Left" Height="50" Margin="236,412,0,0" VerticalAlignment="Top" Width="53" FontSize="22"/>
+        <Button Content="1" HorizontalAlignment="Left" Height="50" Margin="10,352,0,0" VerticalAlignment="Top" Width="53" Click="Button_Click" FontSize="22"/>
+        <Button Content="+/-" HorizontalAlignment="Left" Height="50" Margin="10,412,0,0" VerticalAlignment="Top" Width="53" FontSize="22"/>
+        <Button Content="2" HorizontalAlignment="Left" Height="50" Margin="84,352,0,0" VerticalAlignment="Top" Width="53" FontSize="22"/>
+        <Button Content="3" HorizontalAlignment="Left" Height="50" Margin="158,352,0,0" VerticalAlignment="Top" Width="54" FontSize="22"/>
+        <Button Content="+" HorizontalAlignment="Left" Height="50" Margin="236,352,0,0" VerticalAlignment="Top" Width="53"/>
+        <Button Content="4" HorizontalAlignment="Left" Height="50" Margin="10,287,0,0" VerticalAlignment="Top" Width="53" FontSize="22"/>
+        <Button Content="5" HorizontalAlignment="Left" Height="50" Margin="84,287,0,0" VerticalAlignment="Top" Width="53" FontSize="22"/>
+        <Button Content="6" HorizontalAlignment="Left" Height="50" Margin="158,287,0,0" VerticalAlignment="Top" Width="54" FontSize="22"/>
+        <Button Content="-" HorizontalAlignment="Left" Height="50" Margin="236,287,0,0" VerticalAlignment="Top" Width="53"/>
+        <Button Content="7" HorizontalAlignment="Left" Height="50" Margin="10,0,0,0" VerticalAlignment="Center" Width="53" FontSize="22"/>
+        <Button Content="8" HorizontalAlignment="Left" Height="50" Margin="84,0,0,0" VerticalAlignment="Center" Width="53" FontSize="22"/>
+        <Button Content="9" HorizontalAlignment="Left" Height="50" Margin="158,0,0,0" VerticalAlignment="Center" Width="54" FontSize="22"/>
+        <Button Content="*" HorizontalAlignment="Left" Height="50" Margin="236,0,0,0" VerticalAlignment="Center" Width="53"/>
+        <Button Content="÷" HorizontalAlignment="Left" Height="50" Margin="236,149,0,0" VerticalAlignment="Top" Width="53" FontSize="22"/>
+        <Button Content="C" HorizontalAlignment="Left" Height="50" Margin="158,149,0,0" VerticalAlignment="Top" Width="54" FontSize="22"/>
+        <Button Content="CE" HorizontalAlignment="Left" Height="50" Margin="84,149,0,0" VerticalAlignment="Top" Width="53" FontSize="22"/>
+        <Button Content="Del" HorizontalAlignment="Left" Height="50" Margin="10,149,0,0" VerticalAlignment="Top" Width="53" FontSize="22"/>
+        <TextBox HorizontalAlignment="Center" Height="79" Margin="0,43,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="279" Text="               0" FontSize="58"/>
+    </Grid>
+</Window>

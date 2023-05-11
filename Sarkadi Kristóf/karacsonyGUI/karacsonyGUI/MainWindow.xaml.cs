@@ -23,12 +23,20 @@ namespace karacsonyGUI
         public MainWindow()
         {
             InitializeComponent();
+            if (napok.Items.Count < 40)
+            {
+                napok.Items.Clear()
+                for (int i = 1; i <= 40; i++)
+                {
+                    napok.Items.Add(i);
+                }
+            }
         }
         public static int nap = 0, kesz = 0, eladott = 0, ossz = 0;
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            kesz = Convert.ToInt32(keszTB);
-            eladott = Convert.ToInt32(elaTB);
+            kesz = Convert.ToInt32(keszTB.Text);
+            eladott = Convert.ToInt32(elaTB.Text);
             if (kesz < 0 || eladott > 0)
             {
                 hiba.Content = "Negatív számot nem adhat meg!";
@@ -39,7 +47,16 @@ namespace karacsonyGUI
             }
             else
             {
-                nap = Convert.ToInt32(napok);
+                nap = Convert.ToInt32(napok.SelectedItem.ToString());
+                ossz += kesz - eladott;
+                kimenet.Text += nap + ".nap \t+" + kesz + "\t-" + eladott + "\t= \t" + ossz + "\n";
+                for (int i = 1; i <= nap; i++)
+                {
+                    napok.Items.Remove(i);
+                }
+                keszTB.Text = "0";
+                elaTB.Text = "0";
+                hiba.Content = "";
             }
         }
     }
