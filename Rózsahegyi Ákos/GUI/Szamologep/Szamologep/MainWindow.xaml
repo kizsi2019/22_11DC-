@@ -1,0 +1,37 @@
+﻿<Window x:Class="Szamologep.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Szamologep"
+        mc:Ignorable="d"
+        Title="Számológép" Height="530" Width="320">
+    <Grid>
+        <TextBox Name="TBox" HorizontalAlignment="Center" Height="58" Margin="0,54,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="300" FontSize="36" TextAlignment="Right" TextChanged="TextBox_TextChanged" FontWeight="Bold"/>
+        <Button Name="BtnC" Content="C" HorizontalAlignment="Left" Height="50" Margin="165,152,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White"/>
+        <Button Name="BtnBack" Content="" HorizontalAlignment="Left" Height="50" Margin="240,152,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3">
+            <Button.Background>
+                <ImageBrush ImageSource="/back.png"/>
+            </Button.Background>
+        </Button>
+        <Button Name="BtnDivide" Content="÷" HorizontalAlignment="Left" Height="50" Margin="240,207,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White"/>
+        <Button Name="BtnX" Content="X" HorizontalAlignment="Left" Height="50" Margin="240,262,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White"/>
+        <Button Name="BtnMinus" Content="-" HorizontalAlignment="Left" Height="50" Margin="240,317,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White"/>
+        <Button Name="BtnPlus" Content="+" HorizontalAlignment="Left" Height="50" Margin="240,372,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White"/>
+        <Button Name="Btn9" Content="9" HorizontalAlignment="Left" Height="50" Margin="165,262,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White"/>
+        <Button Name="Btn8" Content="8" HorizontalAlignment="Left" Height="50" Margin="90,262,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White"/>
+        <Button Name="Btn7" Content="7" HorizontalAlignment="Left" Height="50" Margin="15,262,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White"/>
+        <Button Name="Btn6" Content="6" HorizontalAlignment="Left" Height="50" Margin="165,317,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White"/>
+        <Button Name="Btn5" Content="5" HorizontalAlignment="Left" Height="50" Margin="90,317,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White"/>
+        <Button Name="Btn4" Content="4" HorizontalAlignment="Left" Height="50" Margin="15,317,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White"/>
+        <Button Name="Btn3" Content="3" HorizontalAlignment="Left" Height="50" Margin="165,372,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White"/>
+        <Button Name="Btn2" Content="2" HorizontalAlignment="Left" Height="50" Margin="90,372,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White"/>
+        <Button Name="Btn1" Content="1" HorizontalAlignment="Left" Height="50" Margin="15,372,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White"/>
+        <Button Name="Btn0" Content="0" HorizontalAlignment="Left" Height="50" Margin="90,427,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White"/>
+        <Button Name="BtnSlash" Content="," HorizontalAlignment="Left" Height="50" Margin="165,427,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White"/>
+        <Button Name="BtnEqual" Content="=" HorizontalAlignment="Left" Height="50" Margin="240,427,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="#FF00BF1D" Foreground="White"/>
+        <Button Name="BtnPm" Content="+/-" HorizontalAlignment="Left" Height="50" Margin="15,427,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White"/>
+        <Button Name="BtnPercent" Content="%" HorizontalAlignment="Left" Height="50" Margin="165,207,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White"/>
+
+    </Grid>
+</Window>

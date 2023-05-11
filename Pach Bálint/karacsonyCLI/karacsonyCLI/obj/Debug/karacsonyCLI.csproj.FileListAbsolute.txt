@@ -1,0 +1,8 @@
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\karacsonyCLI\karacsonyCLI\bin\Debug\karacsonyCLI.exe.config
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\karacsonyCLI\karacsonyCLI\bin\Debug\karacsonyCLI.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\karacsonyCLI\karacsonyCLI\bin\Debug\karacsonyCLI.pdb
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\karacsonyCLI\karacsonyCLI\obj\Debug\karacsonyCLI.csproj.AssemblyReference.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\karacsonyCLI\karacsonyCLI\obj\Debug\karacsonyCLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\karacsonyCLI\karacsonyCLI\obj\Debug\karacsonyCLI.csproj.CoreCompileInputs.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\karacsonyCLI\karacsonyCLI\obj\Debug\karacsonyCLI.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\karacsonyCLI\karacsonyCLI\obj\Debug\karacsonyCLI.pdb

@@ -1,0 +1,33 @@
+﻿<Window x:Class="szamolo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:szamolo"
+        mc:Ignorable="d"
+        Title="Számológép" Height="454" Width="326">
+    <Grid HorizontalAlignment="Center" Width="318">
+        <Button Content="1" HorizontalAlignment="Left" Margin="10,339,0,0" VerticalAlignment="Top" Height="37" Width="69" Click="Button_Click"/>
+        <Button Content="2" HorizontalAlignment="Left" Margin="84,339,0,0" VerticalAlignment="Top" Height="37" Width="69" Click="Button_Click"/>
+        <Button Content="3" HorizontalAlignment="Left" Margin="158,339,0,0" VerticalAlignment="Top" Height="37" Width="69" Click="Button_Click"/>
+        <Button Name="osszead" Content="+" HorizontalAlignment="Left" Margin="239,339,0,0" VerticalAlignment="Top" Height="37" Width="69" Click="operatorButton_Click" />
+        <Button Content="4" HorizontalAlignment="Left" Margin="10,297,0,0" VerticalAlignment="Top" Height="37" Width="69" Click="Button_Click"/>
+        <Button Content="5" HorizontalAlignment="Left" Margin="84,297,0,0" VerticalAlignment="Top" Height="37" Width="69" Click="Button_Click"/>
+        <Button Content="6" HorizontalAlignment="Left" Margin="158,297,0,0" VerticalAlignment="Top" Height="37" Width="69" Click="Button_Click"/>
+        <Button Content="-" HorizontalAlignment="Left" Margin="239,297,0,0" VerticalAlignment="Top" Height="37" Width="69" Click="operatorButton_Click" />
+        <Button Content="+/-" HorizontalAlignment="Left" Margin="10,383,0,0" VerticalAlignment="Top" Height="37" Width="69" Click="Button_Click"/>
+        <Button Content="0" HorizontalAlignment="Left" Margin="84,383,0,0" VerticalAlignment="Top" Height="37" Width="69" Click="Button_Click"/>
+        <Button Name="pont" Content="." HorizontalAlignment="Left" Margin="158,383,0,0" VerticalAlignment="Top" Height="37" Width="69"/>
+        <Button Name="egyenlo" Content="=" HorizontalAlignment="Left" Margin="239,383,0,0" VerticalAlignment="Top" Height="37" Width="69" Click="egyenlo_Click" />
+        <Button Content="7" HorizontalAlignment="Left" Margin="10,255,0,0" VerticalAlignment="Top" Height="37" Width="69" Click="Button_Click"/>
+        <Button Content="8" HorizontalAlignment="Left" Margin="84,255,0,0" VerticalAlignment="Top" Height="37" Width="69" Click="Button_Click"/>
+        <Button Content="9" HorizontalAlignment="Left" Margin="158,255,0,0" VerticalAlignment="Top" Height="37" Width="69" Click="Button_Click"/>
+        <Button Name="szorzas" Content="*" HorizontalAlignment="Left" Margin="239,255,0,0" VerticalAlignment="Top" Height="37" Width="69" Click="operatorButton_Click" />
+        <Button Name="szazalek" Content="%" HorizontalAlignment="Left" Margin="10,213,0,0" VerticalAlignment="Top" Height="37" Width="69" Click="szazalekxd"/>
+        <Button Name="osztas" Content="/" HorizontalAlignment="Left" Margin="84,213,0,0" VerticalAlignment="Top" Height="37" Width="69" Click="operatorButton_Click" />
+        <Button Name="torles" Content="C" HorizontalAlignment="Left" Margin="158,213,0,0" VerticalAlignment="Top" Height="37" Width="69" Click="torles_Click" />
+        <Button Name="vissza" Content="Back" HorizontalAlignment="Left" Margin="239,213,0,0" VerticalAlignment="Top" Height="37" Width="69" Click="vissza_Click"/>
+        <TextBlock Name="resultBox" HorizontalAlignment="Center" Margin="0,34,0,0" TextWrapping="Wrap" Text="0" TextAlignment="Right"  VerticalAlignment="Top" Width="318" Height="95" FontSize="48"/>
+
+    </Grid>
+</Window>

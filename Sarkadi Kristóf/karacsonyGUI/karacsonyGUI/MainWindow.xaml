@@ -12,12 +12,12 @@
             <Label Content="Label"/>
         </ComboBox>
         <Label Content="Elkészített:" HorizontalAlignment="Left" Height="25" Margin="242,28,0,0" VerticalAlignment="Top" Width="74"/>
+        <TextBox HorizontalAlignment="Center" Height="22" Margin="0,29,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="104" Name="keszTB"/>
         <Label Content="Eladott:" HorizontalAlignment="Left" Height="25" Margin="430,28,0,0" VerticalAlignment="Top" Width="98"/>
-        <TextBox HorizontalAlignment="Center" Height="22" Margin="0,29,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="104" Name="keszTB"/>
-        <TextBox HorizontalAlignment="Left" Height="25" Margin="488,28,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="114" Name="elaTB"/>
+        <TextBox HorizontalAlignment="Left" Height="25" Margin="488,28,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="114" Name="elaTB"/>
         <Button Content="Hozzáad" HorizontalAlignment="Left" Height="24" Margin="622,29,0,0" VerticalAlignment="Top" Width="86" Name="hozbtn" Click="Button_Click"/>
         <Label Content="" HorizontalAlignment="Left" Height="23" Margin="374,75,0,0" VerticalAlignment="Top" Width="290" Name="hiba"/>
-        <Label Content="" HorizontalAlignment="Center" Height="172" VerticalAlignment="Center" Width="666" />
+        <Label Content="" HorizontalAlignment="Center" Height="172" VerticalAlignment="Center" Width="666" Name="kimenet"/>
 
     </Grid>
 </Window>
