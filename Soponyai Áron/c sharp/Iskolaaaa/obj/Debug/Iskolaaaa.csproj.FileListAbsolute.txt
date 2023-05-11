@@ -1,0 +1,8 @@
+C:\Users\SoponyaiAron\Desktop\c sharp\Iskolaaaa\bin\Debug\Iskolaaaa.exe.config
+C:\Users\SoponyaiAron\Desktop\c sharp\Iskolaaaa\bin\Debug\Iskolaaaa.exe
+C:\Users\SoponyaiAron\Desktop\c sharp\Iskolaaaa\bin\Debug\Iskolaaaa.pdb
+C:\Users\SoponyaiAron\Desktop\c sharp\Iskolaaaa\obj\Debug\Iskolaaaa.csproj.AssemblyReference.cache
+C:\Users\SoponyaiAron\Desktop\c sharp\Iskolaaaa\obj\Debug\Iskolaaaa.csproj.SuggestedBindingRedirects.cache
+C:\Users\SoponyaiAron\Desktop\c sharp\Iskolaaaa\obj\Debug\Iskolaaaa.csproj.CoreCompileInputs.cache
+C:\Users\SoponyaiAron\Desktop\c sharp\Iskolaaaa\obj\Debug\Iskolaaaa.exe
+C:\Users\SoponyaiAron\Desktop\c sharp\Iskolaaaa\obj\Debug\Iskolaaaa.pdb
