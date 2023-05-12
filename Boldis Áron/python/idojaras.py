@@ -16,8 +16,7 @@ def get_coordinates(city):
 
 
 def get_weather(lat, lon):
-    weather_payload = {'lat': lat, 'lon': lon, 
-    'appid': API_KEY, 'units': 'metric', 'lang': 'hu'}
+    weather_payload = {'lat': lat, 'lon': lon,'appid': API_KEY, 'units': 'metric', 'lang': 'hu'}
     weather_resp = requests.get(ONE_CALL_API, params=weather_payload)
     weather_resp = weather_resp.json()
     return weather_resp
