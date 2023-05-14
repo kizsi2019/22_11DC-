@@ -85,6 +85,7 @@ namespace órai_munka_2023._01._12_teljes
                     oddsCounter++;
                 }
             }
+<<<<<<< HEAD
             //int[] tmbOdds = new int[oddsCounter];
             //for (int i = 0; i < tmb.Length; i++)
             //{
@@ -96,6 +97,22 @@ namespace órai_munka_2023._01._12_teljes
             //{
                 //Console.Write($"{tmbOdds}, ");
             //}
+=======
+            int[] tmbOdds = new int[oddsCounter];
+            for (int i = 0; i < tmb.Length; i++)
+            {
+                if (tmb[i] % 2 != 0)
+                {
+                    int v = tmb[i];
+                    tmbOdds[i] = v;
+                }
+            }
+            Console.WriteLine("Páratlan számok: ");
+            foreach (var i in tmbOdds)
+            {
+                Console.Write($"{tmbOdds}, ");
+            }
+>>>>>>> 968ef55bffde62e73932b37242a9e84bcc44df4d
 
             //for (int i = tmb.Length - 1; i >= 0; i++)
             //{

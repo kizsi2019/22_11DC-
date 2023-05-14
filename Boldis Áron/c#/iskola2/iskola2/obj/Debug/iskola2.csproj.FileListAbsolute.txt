@@ -1,0 +1,8 @@
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\iskola2\iskola2\bin\Debug\iskola2.exe.config
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\iskola2\iskola2\bin\Debug\iskola2.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\iskola2\iskola2\bin\Debug\iskola2.pdb
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\iskola2\iskola2\obj\Debug\iskola2.csproj.AssemblyReference.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\iskola2\iskola2\obj\Debug\iskola2.csproj.SuggestedBindingRedirects.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\iskola2\iskola2\obj\Debug\iskola2.csproj.CoreCompileInputs.cache
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\iskola2\iskola2\obj\Debug\iskola2.exe
+C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\iskola2\iskola2\obj\Debug\iskola2.pdb

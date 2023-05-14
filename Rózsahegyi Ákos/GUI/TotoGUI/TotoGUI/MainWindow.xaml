@@ -1,0 +1,16 @@
+﻿<Window x:Class="TotoGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TotoGUI"
+        mc:Ignorable="d"
+        Title="Totó eredmény ellenőrző" Height="450" Width="800">
+    <Grid Margin="0,0,230,88">
+        <Label Content="Kérem a forduló eredményeit [1, 2, X]:" HorizontalAlignment="Left" Height="42" Margin="10,50,0,0" VerticalAlignment="Top" Width="320" FontSize="18"/>
+        <Button Name="btnMentes" Content="Eredmények mentése" HorizontalAlignment="Left" Height="30" Margin="10,289,0,0" VerticalAlignment="Top" Width="250" FontSize="20"/>
+        <TextBox Name="txbInput" HorizontalAlignment="Left" Height="34" Margin="10,92,0,0" TextWrapping="Wrap" Text="12X12X12X12X12" VerticalAlignment="Top" Width="430" FontSize="18" TextChanged="txbInput_TextChanged"/>
+        <CheckBox Name="cbxHossz" Content="Nem megfelelő a karakterek száma (14)" HorizontalAlignment="Left" Height="25" Margin="10,178,0,0" VerticalAlignment="Top" Width="380" FontSize="20" IsEnabled="False"/>
+        <CheckBox Name="cbxKarakter" Content="Helytelen karakter az eredményekben ()" HorizontalAlignment="Left" Height="25" Margin="10,217,0,0" VerticalAlignment="Top" Width="380" FontSize="20" IsEnabled="False"/>
+    </Grid>
+</Window>

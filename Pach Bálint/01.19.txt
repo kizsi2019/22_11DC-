@@ -1,0 +1,15 @@
+1)
+CREATE DATABASE formula1 DEFAULT charset = utf-8 COLLATE utf8_hungarian*ci;
+2)
+?
+3)
+UPDATE nagydijak SET korokszama = 70 WHERE id = 12;
+4)
+SELECT vezeteknev, csapatnev, rajtszam, 2019 - year(szuletesidatum) AS eletkor FROM pilotak;
+5)
+SELECT eletkor, rajtszam FROM pilotak;
+
+6)
+
+
+

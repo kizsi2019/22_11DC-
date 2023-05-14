@@ -1,0 +1,10 @@
+C:\Users\BalintHajdu\Desktop\susu\susu\obj\Debug\susu.csproj.AssemblyReference.cache
+C:\Users\BalintHajdu\Desktop\susu\susu\obj\Debug\susu.csproj.SuggestedBindingRedirects.cache
+C:\Users\BalintHajdu\Desktop\susu\susu\obj\Debug\susu.csproj.CoreCompileInputs.cache
+C:\Users\BalintHajdu\Desktop\susu\susu\bin\Debug\susu.exe.config
+C:\Users\BalintHajdu\Desktop\susu\susu\bin\Debug\susu.exe
+C:\Users\BalintHajdu\Desktop\susu\susu\bin\Debug\susu.pdb
+C:\Users\BalintHajdu\Desktop\susu\susu\obj\Debug\susu.exe
+C:\Users\BalintHajdu\Desktop\susu\susu\obj\Debug\susu.pdb
+C:\Users\BalintHajdu\Desktop\susu\susu\obj\Debug\susu.Form1.resources
+C:\Users\BalintHajdu\Desktop\susu\susu\obj\Debug\susu.csproj.GenerateResource.cache

@@ -1,0 +1,8 @@
+C:\Users\BalintHajdu\Desktop\iskola\bin\Debug\iskola.exe.config
+C:\Users\BalintHajdu\Desktop\iskola\bin\Debug\iskola.exe
+C:\Users\BalintHajdu\Desktop\iskola\bin\Debug\iskola.pdb
+C:\Users\BalintHajdu\Desktop\iskola\obj\Debug\iskola.csproj.AssemblyReference.cache
+C:\Users\BalintHajdu\Desktop\iskola\obj\Debug\iskola.csproj.SuggestedBindingRedirects.cache
+C:\Users\BalintHajdu\Desktop\iskola\obj\Debug\iskola.csproj.CoreCompileInputs.cache
+C:\Users\BalintHajdu\Desktop\iskola\obj\Debug\iskola.exe
+C:\Users\BalintHajdu\Desktop\iskola\obj\Debug\iskola.pdb

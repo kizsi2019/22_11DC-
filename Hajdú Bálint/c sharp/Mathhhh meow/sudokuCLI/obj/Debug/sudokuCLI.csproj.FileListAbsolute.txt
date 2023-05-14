@@ -1,0 +1,8 @@
+C:\Users\BalintHajdu\Desktop\sudokuCLI\bin\Debug\sudokuCLI.exe.config
+C:\Users\BalintHajdu\Desktop\sudokuCLI\bin\Debug\sudokuCLI.exe
+C:\Users\BalintHajdu\Desktop\sudokuCLI\bin\Debug\sudokuCLI.pdb
+C:\Users\BalintHajdu\Desktop\sudokuCLI\obj\Debug\sudokuCLI.csproj.AssemblyReference.cache
+C:\Users\BalintHajdu\Desktop\sudokuCLI\obj\Debug\sudokuCLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\BalintHajdu\Desktop\sudokuCLI\obj\Debug\sudokuCLI.csproj.CoreCompileInputs.cache
+C:\Users\BalintHajdu\Desktop\sudokuCLI\obj\Debug\sudokuCLI.exe
+C:\Users\BalintHajdu\Desktop\sudokuCLI\obj\Debug\sudokuCLI.pdb

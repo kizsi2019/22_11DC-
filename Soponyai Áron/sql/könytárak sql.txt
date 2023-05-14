@@ -1,0 +1,11 @@
+1 CREATE DATABASE konyvtarak default CHARACTER SET utf8 COLLATE utf8_hungarian_ci;
+
+2 UPDATE megyek set megyeNev = "Budapest" where megyeNev = "BP"
+
+3 SELECT konyvtarNev, irsz FROM `konyvtarak`WHERE konyvtarNev like "%Szakkönyvtár";
+
+4 select konyvtarNev, irsz, cim from konyvtarak where irsz like "1%" order by irsz ASC;
+
+5. SELECT telepNev, COUNT(id) AS "konyvtarDarab" FROM telepulesek, konyvtarak WHERE telepulesek.irsz = konyvtarak.irsz GROUP BY 1 HAVING konyvtarDarab >= 7;
+
+6. SELECT megyeNev, COUNT(irsz) AS "telepulesDarab" FROM megyek INNER JOIN telepulesek ON megyeId = id WHERE irsz NOT LIKE "1%" GROUP BY 1 ORDER BY 2 DESC;

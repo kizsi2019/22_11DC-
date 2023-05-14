@@ -48,28 +48,7 @@ namespace tetel1
             Console.WriteLine("A legnagyobb elem indexe {0}, értéke {1}", max, randT[max]);
             Console.WriteLine("A legkisebb elem indexe {0}, értéke {1}", min, randT[min]);
 
-            int osz3_i = 0;
-            for (int i = 0; i < randT.Length; i++)
-            {
-                if (randT[i] % 3 == 0)
-                {
-                    randT[osz3_i] = randT[i];
-                    osz3_i++;
-                    Console.WriteLine("3-mal osztható számok indexe {0}", osz3_i);
-                }
-
-                int[] lan = 0;
-                int[] paratlan = new int[randT.Length];
-                for (int i = 0; i < randT.Length; i++)
-                {
-                    if (randT[i] % 2 == 1)
-                    {
-                        paratlan[lan] = randT[i]; i++
-                    }
-                    for (int i = 0; i < randT.Length; i++)
-                    {
-                        Console.WriteLine(randT[i] + ",");
-                    }
+           
 
                     
 

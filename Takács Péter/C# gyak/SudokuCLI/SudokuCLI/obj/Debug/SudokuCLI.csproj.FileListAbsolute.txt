@@ -1,0 +1,8 @@
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\SudokuCLI\SudokuCLI\bin\Debug\SudokuCLI.exe.config
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\SudokuCLI\SudokuCLI\bin\Debug\SudokuCLI.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\SudokuCLI\SudokuCLI\bin\Debug\SudokuCLI.pdb
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.csproj.AssemblyReference.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.csproj.CoreCompileInputs.cache
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.exe
+C:\Users\TakacsPeter\Desktop\github\22_11DC-\Takács Péter\C# gyak\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.pdb
