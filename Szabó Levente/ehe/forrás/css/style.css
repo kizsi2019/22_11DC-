@@ -1,58 +1,54 @@
-/* Fejléc stílusa */
-*{
-    box-sizing: border-box;
-}
 header {
-    background-image: url("...");
-    background-size: cover;
+    background-image: url("../images/bg1.jpg");
     background-position: center;
+    height: 300px;
 }
-/* Menüpontok stílusa */
-
-.nav-link {
+.nav-item .nav-link{
+    font-size: 25px;
     font-weight: bold;
 }
-.nav {
+.nav{
     background-color: #007bff;
 }
-.navbar {
-    color: black;
-}
-.navbar-item{
-    font-size: 25px;
-}
-/* Aktív menüpont stílusa */
-
-.nav-item.active .nav-link {
+.nav-item.active .nav-link .navbar {
     color: white;
 }
-/* Alpesi síelés címének stílusa */
-
-#alpesi h2 {
-    color: red;
-}
-/* Nordikus síelés címének stílusa */
-
-#nordikus h2 {
-    color: green;
+.card-body{
+    text-align: justify;
 }
 main {
     background-color: rgba(255, 255, 255, 0.75);
     font-size: 20px;
 }
-h1 {
-    background-color: rgb(68, 192, 226);
-    color: rgba(255, 255, 255, 0.75);
+h2{
+    border: 3px;
+    border-color: #007bff;
+    font-variant: small-caps;
+    margin-left: 5;
+    margin-right: 5;
+    margin-top: 15;
+    margin-bottom: 15;
+}
+#alpesi h2 {
+    color: red;
+}
+#nordikus h2 {
+    color: green;
+}
+#freestyle h2{
+    color: #007bff;
+}
+.a{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    max-width: 80%;
+}
+.ehe {
+    background-color: rgba(68, 192, 226, 0.750);
     font-family: Arial;
     font-style: italic;
+    color:#ffff;
 }
-.ehe{
-    background-image: url("images/bg1.jpg");
-}
-h2{
-    color:#007bff;
-    font-variant: small-caps;
-}
-#kepgalleria{
-    border-radius: 10px;
+.dayo{
+    list-style-image: url("../images/man-skiing.png");
 }

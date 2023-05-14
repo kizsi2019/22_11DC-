@@ -1,0 +1,8 @@
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\iskola\iskola\bin\Debug\iskola.exe.config
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\iskola\iskola\bin\Debug\iskola.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\iskola\iskola\bin\Debug\iskola.pdb
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\iskola\iskola\obj\Debug\iskola.csproj.AssemblyReference.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\iskola\iskola\obj\Debug\iskola.csproj.SuggestedBindingRedirects.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\iskola\iskola\obj\Debug\iskola.csproj.CoreCompileInputs.cache
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\iskola\iskola\obj\Debug\iskola.exe
+C:\Users\PachBalint\Desktop\Pach Balint\22_11DC-\Pach Bálint\iskola\iskola\obj\Debug\iskola.pdb
