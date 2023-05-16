@@ -1,0 +1,6 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\halmaz_intesectwidth\halmaz_intesectwidth\bin\Debug\halmaz_intesectwidth.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\halmaz_intesectwidth\halmaz_intesectwidth\bin\Debug\halmaz_intesectwidth.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\halmaz_intesectwidth\halmaz_intesectwidth\bin\Debug\halmaz_intesectwidth.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\halmaz_intesectwidth\halmaz_intesectwidth\obj\Debug\halmaz_intesectwidth.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\halmaz_intesectwidth\halmaz_intesectwidth\obj\Debug\halmaz_intesectwidth.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\halmaz_intesectwidth\halmaz_intesectwidth\obj\Debug\halmaz_intesectwidth.pdb

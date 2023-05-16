@@ -1,0 +1,6 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\enum_getvalues_getnames\enum_getvalues_getnames\bin\Debug\enum_getvalues_getnames.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\enum_getvalues_getnames\enum_getvalues_getnames\bin\Debug\enum_getvalues_getnames.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\enum_getvalues_getnames\enum_getvalues_getnames\bin\Debug\enum_getvalues_getnames.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\enum_getvalues_getnames\enum_getvalues_getnames\obj\Debug\enum_getvalues_getnames.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\enum_getvalues_getnames\enum_getvalues_getnames\obj\Debug\enum_getvalues_getnames.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\enum_getvalues_getnames\enum_getvalues_getnames\obj\Debug\enum_getvalues_getnames.pdb

@@ -1,0 +1,37 @@
+﻿<Window x:Class="calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:calculator"
+        mc:Ignorable="d"
+        Title="Számológép" Width="284.8" Height="370.4" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="233*"/>
+            <ColumnDefinition Width="50*"/>
+        </Grid.ColumnDefinitions>
+        <Label Name="kijelzoLbl" Content="0" HorizontalAlignment="Left" Height="55" Margin="24,31,0,0" VerticalAlignment="Top" Width="231" FontSize="24" Background="#FF140000" Foreground="#FFFDFBFB" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="2"/>
+        <Button Name="szazalekBtn" Content="%" HorizontalAlignment="Left" Height="39" Margin="24,103,0,0" VerticalAlignment="Top" Width="54" Click="szazalekBtn_Click"/>
+        <Button Name="CBtn" Content="C" HorizontalAlignment="Left" Height="39" Margin="83,103,0,0" VerticalAlignment="Top" Width="54" Click="CBtn_Click"/>
+        <Button Name="BackBtn" Content="Back" HorizontalAlignment="Left" Height="39" Margin="142,103,0,0" VerticalAlignment="Top" Width="54" RenderTransformOrigin="2.519,0.465" Click="BackBtn_Click"/>
+        <Button Name="osztasBtn" Content="/" HorizontalAlignment="Left" Height="39" Margin="201,103,0,0" VerticalAlignment="Top" Width="54" RenderTransformOrigin="4.01,0.52" Grid.ColumnSpan="2" Click="osztasBtn_Click"/>
+        <Button Name="hetBtn" Content="7" HorizontalAlignment="Left" Height="39" Margin="24,147,0,0" VerticalAlignment="Top" Width="54" Click="hetBtn_Click"/>
+        <Button Name="nyolcBtn" Content="8" HorizontalAlignment="Left" Height="39" Margin="83,147,0,0" VerticalAlignment="Top" Width="54" Click="nyolcBtn_Click"/>
+        <Button Name="kilencBtn" Content="9" HorizontalAlignment="Left" Height="39" Margin="142,147,0,0" VerticalAlignment="Top" Width="54" RenderTransformOrigin="2.519,0.465" Click="kilencBtn_Click"/>
+        <Button Name="szorzasBtn" Content="*" HorizontalAlignment="Left" Height="39" Margin="201,147,0,0" VerticalAlignment="Top" Width="54" RenderTransformOrigin="4.01,0.52" Grid.ColumnSpan="2" Click="szorzasBtn_Click"/>
+        <Button Name="negyBtn" Content="4" HorizontalAlignment="Left" Height="39" Margin="24,191,0,0" VerticalAlignment="Top" Width="54" Click="negyBtn_Click"/>
+        <Button Name="otBtn" Content="5" HorizontalAlignment="Left" Height="39" Margin="83,191,0,0" VerticalAlignment="Top" Width="54" Click="otBtn_Click"/>
+        <Button Name="hatBtn" Content="6" HorizontalAlignment="Left" Height="39" Margin="142,191,0,0" VerticalAlignment="Top" Width="54" RenderTransformOrigin="2.519,0.465" Click="hatBtn_Click"/>
+        <Button Name="kivonasBtn" Content="-" HorizontalAlignment="Left" Height="39" Margin="201,191,0,0" VerticalAlignment="Top" Width="54" RenderTransformOrigin="4.01,0.52" Grid.ColumnSpan="2" Click="kivonasBtn_Click"/>
+        <Button Name="egyBtn" Content="1" HorizontalAlignment="Left" Height="39" Margin="24,235,0,0" VerticalAlignment="Top" Width="54" Click="egyBtn_Click"/>
+        <Button Name="kettoBtn" Content="2" HorizontalAlignment="Left" Height="39" Margin="83,235,0,0" VerticalAlignment="Top" Width="54" Click="kettoBtn_Click"/>
+        <Button Name="haromBtn" Content="3" HorizontalAlignment="Left" Height="39" Margin="142,235,0,0" VerticalAlignment="Top" Width="54" RenderTransformOrigin="2.519,0.465" Click="haromBtn_Click"/>
+        <Button Name="pluszBtn" Content="+" HorizontalAlignment="Left" Height="39" Margin="201,235,0,0" VerticalAlignment="Top" Width="54" RenderTransformOrigin="4.01,0.52" Grid.ColumnSpan="2" Click="pluszBtn_Click"/>
+        <Button Name="elojelBtn" Content="+/-" HorizontalAlignment="Left" Height="39" Margin="24,279,0,0" VerticalAlignment="Top" Width="54" Click="elojelBtn_Click"/>
+        <Button Name="nullaBtn" Content="0" HorizontalAlignment="Left" Height="39" Margin="83,279,0,0" VerticalAlignment="Top" Width="54" Click="nullaBtn_Click"/>
+        <Button Name="tizedesBtn" Content="," Height="39" Margin="142,279,33.6,0" VerticalAlignment="Top" RenderTransformOrigin="2.519,0.465" Click="tizedesBtn_Click"/>
+        <Button Name="egyenloBtn" Content="=" HorizontalAlignment="Left" Height="39" Margin="201,279,0,0" VerticalAlignment="Top" Width="54" RenderTransformOrigin="4.01,0.52" Background="#FF4F83EB" Grid.ColumnSpan="2" Click="egyenloBtn_Click"/>
+
+    </Grid>
+</Window>

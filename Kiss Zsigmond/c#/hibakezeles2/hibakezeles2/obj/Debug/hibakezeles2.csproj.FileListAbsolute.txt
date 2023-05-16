@@ -1,0 +1,7 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\hibakezeles2\hibakezeles2\bin\Debug\hibakezeles2.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\hibakezeles2\hibakezeles2\bin\Debug\hibakezeles2.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\hibakezeles2\hibakezeles2\bin\Debug\hibakezeles2.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\hibakezeles2\hibakezeles2\obj\Debug\hibakezeles2.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\hibakezeles2\hibakezeles2\obj\Debug\hibakezeles2.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\hibakezeles2\hibakezeles2\obj\Debug\hibakezeles2.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\hibakezeles2\hibakezeles2\obj\Debug\hibakezeles2.pdb

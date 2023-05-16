@@ -1,0 +1,9 @@
+Tételek feladat:
+Randomoljunk 20 db egészszámot 0 és 100 között, amiket tároljunk el egy tömbben!
+Írassuk ki a tömböt!
+Állapítsuk meg, hogy a generált tömbben van-e 20-nél kisebb szám! 
+Állapítsuk meg hány darab páros szám van benne !
+Állapítsuk meg melyik a legnagyobb illetve a legkisebb szám!
+Mondjuk meg, hogy a megadott számok között van-e 3-mal osztható szám, és ha igen, hányadik!
+Válogassuk ki a páratlan számokat a tömbből és tároljuk egy "paratlan" nevű tömben (írassuk is ki ezt a tömböt)!
+Rendezzük nagyság szerint buborékos rendezéssel a tömbünket, és írassuk is ki!

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1074f2b9-95d7-476b-bb61-4663e54f9993" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Kiss Zsigmond/adatbázis/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kiss Zsigmond/adatbázis/.idea/adatbázis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kiss Zsigmond/adatbázis/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kiss Zsigmond/adatbázis/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kiss Zsigmond/adatbázis/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kiss Zsigmond/adatbázis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kiss Zsigmond/c#/adatbázis-python/adat1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kiss Zsigmond/c#/adatbázis-python/adatbázis2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kiss Zsigmond/c#/adatbázis-python/adatbázis3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kiss Zsigmond/c#/adatbázis-python/salalchemy1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boldis Áron/c#/tételek_feladat/feladat/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Boldis Áron/c#/tételek_feladat/feladat/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boldis Áron/c#/tételek_feladat/feladat/obj/Debug/feladat.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Boldis Áron/c#/tételek_feladat/feladat/obj/Debug/feladat.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boldis Áron/c#/tételek_feladat/feladat/obj/Debug/feladat.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Boldis Áron/c#/tételek_feladat/feladat/obj/Debug/feladat.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kiss Zsigmond/tombok/.vs/tombok/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/Kiss Zsigmond/tombok/.vs/tombok/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kiss_Horváth Bendegúz/tetelek_feladatok/tetelek_feladatok/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Kiss_Horváth Bendegúz/tetelek_feladatok/tetelek_feladatok/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kiss_Horváth Bendegúz/tetelek_feladatok/tetelek_feladatok/obj/Debug/tetelek_feladatok.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Kiss_Horváth Bendegúz/tetelek_feladatok/tetelek_feladatok/obj/Debug/tetelek_feladatok.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kiss_Horváth Bendegúz/tetelek_feladatok/tetelek_feladatok/obj/Debug/tetelek_feladatok.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Kiss_Horváth Bendegúz/tetelek_feladatok/tetelek_feladatok/obj/Debug/tetelek_feladatok.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kocsis Balázs Tamás/tetel5/tetel5/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kocsis Balázs Tamás/tetel5/tetel5/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kocsis Balázs Tamás/tetel5/tetel5/bin/Debug/tetel5.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Kocsis Balázs Tamás/tetel5/tetel5/bin/Debug/tetel5.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kocsis Balázs Tamás/tetel5/tetel5/bin/Debug/tetel5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Kocsis Balázs Tamás/tetel5/tetel5/bin/Debug/tetel5.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kocsis Balázs Tamás/tetel5/tetel5/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Kocsis Balázs Tamás/tetel5/tetel5/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kocsis Balázs Tamás/tetel5/tetel5/obj/Debug/tetel5.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Kocsis Balázs Tamás/tetel5/tetel5/obj/Debug/tetel5.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kocsis Balázs Tamás/tetel5/tetel5/obj/Debug/tetel5.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Kocsis Balázs Tamás/tetel5/tetel5/obj/Debug/tetel5.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kocsis Balázs Tamás/tetel5/tetel5/obj/Debug/tetel5.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Kocsis Balázs Tamás/tetel5/tetel5/obj/Debug/tetel5.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kocsis Balázs Tamás/tetel5/tetel5/obj/Debug/tetel5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Kocsis Balázs Tamás/tetel5/tetel5/obj/Debug/tetel5.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Roben Rómeó/órai munka 2023.01.12 teljes/órai munka 2023.01.12 teljes/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Roben Rómeó/órai munka 2023.01.12 teljes/órai munka 2023.01.12 teljes/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Roben Rómeó/órai munka 2023.01.12 teljes/órai munka 2023.01.12 teljes/bin/Debug/órai munka 2023.01.12 teljes.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Roben Rómeó/órai munka 2023.01.12 teljes/órai munka 2023.01.12 teljes/bin/Debug/órai munka 2023.01.12 teljes.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Roben Rómeó/órai munka 2023.01.12 teljes/órai munka 2023.01.12 teljes/bin/Debug/órai munka 2023.01.12 teljes.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Roben Rómeó/órai munka 2023.01.12 teljes/órai munka 2023.01.12 teljes/bin/Debug/órai munka 2023.01.12 teljes.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Roben Rómeó/órai munka 2023.01.12 teljes/órai munka 2023.01.12 teljes/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Roben Rómeó/órai munka 2023.01.12 teljes/órai munka 2023.01.12 teljes/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Roben Rómeó/órai munka 2023.01.12 teljes/órai munka 2023.01.12 teljes/obj/Debug/órai munka 2023.01.12 teljes.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Roben Rómeó/órai munka 2023.01.12 teljes/órai munka 2023.01.12 teljes/obj/Debug/órai munka 2023.01.12 teljes.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Roben Rómeó/órai munka 2023.01.12 teljes/órai munka 2023.01.12 teljes/obj/Debug/órai munka 2023.01.12 teljes.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Roben Rómeó/órai munka 2023.01.12 teljes/órai munka 2023.01.12 teljes/obj/Debug/órai munka 2023.01.12 teljes.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Roben Rómeó/órai munka 2023.01.12 teljes/órai munka 2023.01.12 teljes/obj/Debug/órai munka 2023.01.12 teljes.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Roben Rómeó/órai munka 2023.01.12 teljes/órai munka 2023.01.12 teljes/obj/Debug/órai munka 2023.01.12 teljes.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Roben Rómeó/órai munka 2023.01.12 teljes/órai munka 2023.01.12 teljes/obj/Debug/órai munka 2023.01.12 teljes.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Roben Rómeó/órai munka 2023.01.12 teljes/órai munka 2023.01.12 teljes/obj/Debug/órai munka 2023.01.12 teljes.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rózsahegyi Ákos/C#/tetelek_feladat/tetelek_feladat/bin/Debug/tetelek_feladat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Rózsahegyi Ákos/C#/tetelek_feladat/tetelek_feladat/bin/Debug/tetelek_feladat.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rózsahegyi Ákos/C#/tetelek_feladat/tetelek_feladat/bin/Debug/tetelek_feladat.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Rózsahegyi Ákos/C#/tetelek_feladat/tetelek_feladat/bin/Debug/tetelek_feladat.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rózsahegyi Ákos/C#/tetelek_feladat/tetelek_feladat/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Rózsahegyi Ákos/C#/tetelek_feladat/tetelek_feladat/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rózsahegyi Ákos/C#/tetelek_feladat/tetelek_feladat/obj/Debug/tetelek_feladat.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Rózsahegyi Ákos/C#/tetelek_feladat/tetelek_feladat/obj/Debug/tetelek_feladat.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rózsahegyi Ákos/C#/tetelek_feladat/tetelek_feladat/obj/Debug/tetelek_feladat.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Rózsahegyi Ákos/C#/tetelek_feladat/tetelek_feladat/obj/Debug/tetelek_feladat.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rózsahegyi Ákos/C#/tetelek_feladat/tetelek_feladat/obj/Debug/tetelek_feladat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Rózsahegyi Ákos/C#/tetelek_feladat/tetelek_feladat/obj/Debug/tetelek_feladat.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rózsahegyi Ákos/C#/tetelek_feladat/tetelek_feladat/obj/Debug/tetelek_feladat.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Rózsahegyi Ákos/C#/tetelek_feladat/tetelek_feladat/obj/Debug/tetelek_feladat.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sarkadi Kristóf/kor_kerulet_terulet/kor_kerulet_terulet/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Sarkadi Kristóf/kor_kerulet_terulet/kor_kerulet_terulet/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sarkadi Kristóf/kor_kerulet_terulet/kor_kerulet_terulet/obj/Debug/kor_kerulet_terulet.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Sarkadi Kristóf/kor_kerulet_terulet/kor_kerulet_terulet/obj/Debug/kor_kerulet_terulet.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sarkadi Kristóf/kor_kerulet_terulet/kor_kerulet_terulet/obj/Debug/kor_kerulet_terulet.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sarkadi Kristóf/kor_kerulet_terulet/kor_kerulet_terulet/obj/Debug/kor_kerulet_terulet.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sarkadi Kristóf/tetel_feladat__2023.I.12/tetel_feladat__2023.I.12/bin/Debug/tetel_feladat__2023.I.12.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Sarkadi Kristóf/tetel_feladat__2023.I.12/tetel_feladat__2023.I.12/bin/Debug/tetel_feladat__2023.I.12.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sarkadi Kristóf/tetel_feladat__2023.I.12/tetel_feladat__2023.I.12/bin/Debug/tetel_feladat__2023.I.12.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Sarkadi Kristóf/tetel_feladat__2023.I.12/tetel_feladat__2023.I.12/bin/Debug/tetel_feladat__2023.I.12.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sarkadi Kristóf/tetel_feladat__2023.I.12/tetel_feladat__2023.I.12/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Sarkadi Kristóf/tetel_feladat__2023.I.12/tetel_feladat__2023.I.12/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sarkadi Kristóf/tetel_feladat__2023.I.12/tetel_feladat__2023.I.12/obj/Debug/tetel_feladat__2023.I.12.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Sarkadi Kristóf/tetel_feladat__2023.I.12/tetel_feladat__2023.I.12/obj/Debug/tetel_feladat__2023.I.12.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sarkadi Kristóf/tetel_feladat__2023.I.12/tetel_feladat__2023.I.12/obj/Debug/tetel_feladat__2023.I.12.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sarkadi Kristóf/tetel_feladat__2023.I.12/tetel_feladat__2023.I.12/obj/Debug/tetel_feladat__2023.I.12.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sarkadi Kristóf/tetel_feladat__2023.I.12/tetel_feladat__2023.I.12/obj/Debug/tetel_feladat__2023.I.12.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Sarkadi Kristóf/tetel_feladat__2023.I.12/tetel_feladat__2023.I.12/obj/Debug/tetel_feladat__2023.I.12.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sarkadi Kristóf/tetel_feladat__2023.I.12/tetel_feladat__2023.I.12/obj/Debug/tetel_feladat__2023.I.12.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Sarkadi Kristóf/tetel_feladat__2023.I.12/tetel_feladat__2023.I.12/obj/Debug/tetel_feladat__2023.I.12.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simon Roland/tetel/tetel/bin/Debug/tetel.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Simon Roland/tetel/tetel/bin/Debug/tetel.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simon Roland/tetel/tetel/bin/Debug/tetel.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Simon Roland/tetel/tetel/bin/Debug/tetel.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simon Roland/tetel/tetel/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Simon Roland/tetel/tetel/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simon Roland/tetel/tetel/obj/Debug/tetel.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Simon Roland/tetel/tetel/obj/Debug/tetel.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simon Roland/tetel/tetel/obj/Debug/tetel.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Simon Roland/tetel/tetel/obj/Debug/tetel.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simon Roland/tetel/tetel/obj/Debug/tetel.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Simon Roland/tetel/tetel/obj/Debug/tetel.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simon Roland/tetel/tetel/obj/Debug/tetel.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Simon Roland/tetel/tetel/obj/Debug/tetel.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Takács Péter/C# gyak/TÉTEL/Tétel-Dolgozat.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Takács Péter/C# gyak/TÉTEL/Tétel-Dolgozat.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LHNZeefD4CgR6WHWylVgpUAEya" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MI Tello/22_11DC-" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1074f2b9-95d7-476b-bb61-4663e54f9993" name="Changes" comment="" />
+      <created>1675524104763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675524104763</updated>
+    </task>
+    <servers />
+  </component>
+</project>

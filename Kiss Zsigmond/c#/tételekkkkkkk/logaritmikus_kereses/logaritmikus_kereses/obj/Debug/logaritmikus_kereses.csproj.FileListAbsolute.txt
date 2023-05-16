@@ -1,0 +1,7 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\logaritmikus_kereses\logaritmikus_kereses\bin\Debug\logaritmikus_kereses.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\logaritmikus_kereses\logaritmikus_kereses\bin\Debug\logaritmikus_kereses.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\logaritmikus_kereses\logaritmikus_kereses\bin\Debug\logaritmikus_kereses.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\logaritmikus_kereses\logaritmikus_kereses\obj\Debug\logaritmikus_kereses.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\logaritmikus_kereses\logaritmikus_kereses\obj\Debug\logaritmikus_kereses.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\logaritmikus_kereses\logaritmikus_kereses\obj\Debug\logaritmikus_kereses.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\logaritmikus_kereses\logaritmikus_kereses\obj\Debug\logaritmikus_kereses.csproj.AssemblyReference.cache

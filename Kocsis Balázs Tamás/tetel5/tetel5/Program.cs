@@ -10,8 +10,8 @@ namespace tetel5
     {
         static void Main(string[] args)
         {
-            int[] paratlan(int[] randT, out int páratlanindex) 
-            {
+            
+            
                 int[] randT = new int[20];
                 Random r = new Random();
                 for (int i = 0; i < randT.Length; i++)
@@ -23,7 +23,7 @@ namespace tetel5
                     Console.Write(item + ", ");
                 }
                 int[] páratlanok = new int[randT.Length];
-                páratlanindex = 0;
+                int páratlanindex = 0;
                 for (int i = 0; i < randT.Length; i++)
                 {
                     if (randT[i] % 2 != 0) 
@@ -32,8 +32,8 @@ namespace tetel5
                         páratlanindex++;
                     }
                 }
-                return páratlanok;
-            }
+                
+            
             Console.ReadKey();
         }
     }

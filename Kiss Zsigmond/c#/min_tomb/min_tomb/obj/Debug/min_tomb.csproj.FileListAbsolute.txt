@@ -1,0 +1,7 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\min_tomb\min_tomb\bin\Debug\min_tomb.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\min_tomb\min_tomb\bin\Debug\min_tomb.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\min_tomb\min_tomb\bin\Debug\min_tomb.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\min_tomb\min_tomb\obj\Debug\min_tomb.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\min_tomb\min_tomb\obj\Debug\min_tomb.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\min_tomb\min_tomb\obj\Debug\min_tomb.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\min_tomb\min_tomb\obj\Debug\min_tomb.csproj.AssemblyReference.cache

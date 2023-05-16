@@ -1,0 +1,7 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tulterheles\tulterheles\bin\Debug\tulterheles.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tulterheles\tulterheles\bin\Debug\tulterheles.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tulterheles\tulterheles\bin\Debug\tulterheles.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tulterheles\tulterheles\obj\Debug\tulterheles.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tulterheles\tulterheles\obj\Debug\tulterheles.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tulterheles\tulterheles\obj\Debug\tulterheles.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tulterheles\tulterheles\obj\Debug\tulterheles.csproj.AssemblyReference.cache

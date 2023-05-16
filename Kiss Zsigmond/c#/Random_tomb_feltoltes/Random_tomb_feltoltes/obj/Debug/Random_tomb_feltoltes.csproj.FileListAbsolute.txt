@@ -1,0 +1,6 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\Random_tomb_feltoltes\Random_tomb_feltoltes\bin\Debug\Random_tomb_feltoltes.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\Random_tomb_feltoltes\Random_tomb_feltoltes\bin\Debug\Random_tomb_feltoltes.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\Random_tomb_feltoltes\Random_tomb_feltoltes\bin\Debug\Random_tomb_feltoltes.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\Random_tomb_feltoltes\Random_tomb_feltoltes\obj\Debug\Random_tomb_feltoltes.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\Random_tomb_feltoltes\Random_tomb_feltoltes\obj\Debug\Random_tomb_feltoltes.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\Random_tomb_feltoltes\Random_tomb_feltoltes\obj\Debug\Random_tomb_feltoltes.pdb
