@@ -12,8 +12,7 @@ def get_coordinates(city):
     return geo_resp["lat"], geo_resp["lon"]
 
 def get_weather(lat, lon):
-    weather_payload = {"lat": lat, "lon": lon,
-        "appid": API_KEY, "units": "metric", "lang": "hu"}
+    weather_payload = {"lat": lat, "lon": lon, "appid": API_KEY, "units": "metric", "lang": "hu"}
     weather_resp = requests.get(ONE_CALL_API, params=weather_payload)
     weather_resp = weather_resp.json()
     return weather_resp
@@ -23,9 +22,9 @@ def main():
     weather = get_weather(coordinates[0], coordinates[1])
     pprint(weather)
     for i in range(8):
-        if weather["daily"][i]["temp"]["min"] < 10:
-            print(f"A {i}. napon 10 fok alá csökken a hőmérséklet")
+        if weather["daily"][i]["weather"]["enyhe eső"]:
+            print(f"A {i}. napon van enyhe eső")
         else:
-            print(f"A {i}. napon nem csökken 10 fok alá a hőmérséklet")
+            print(f"A {i}. napon nincs enyhe eső")
 
 main()
