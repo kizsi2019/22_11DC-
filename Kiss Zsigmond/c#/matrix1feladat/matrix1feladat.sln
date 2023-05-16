@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matrix1feladat", "matrix1feladat\matrix1feladat.csproj", "{A08FD145-7F7F-40B1-960B-CE0F4E08A4CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A08FD145-7F7F-40B1-960B-CE0F4E08A4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08FD145-7F7F-40B1-960B-CE0F4E08A4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08FD145-7F7F-40B1-960B-CE0F4E08A4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08FD145-7F7F-40B1-960B-CE0F4E08A4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CC57114-96AD-443C-B852-4F4919B09A67}
+	EndGlobalSection
+EndGlobal

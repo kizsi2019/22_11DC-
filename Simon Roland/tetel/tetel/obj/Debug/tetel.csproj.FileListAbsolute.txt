@@ -6,3 +6,10 @@ C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tetel\tetel\bin\Debug\
 C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tetel\tetel\bin\Debug\tetel.pdb
 C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tetel\tetel\obj\Debug\tetel.exe
 C:\Users\SimonRoland\Desktop\Github\22_11DC-\Simon Roland\tetel\tetel\obj\Debug\tetel.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Simon Roland\tetel\tetel\bin\Debug\tetel.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Simon Roland\tetel\tetel\bin\Debug\tetel.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Simon Roland\tetel\tetel\bin\Debug\tetel.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Simon Roland\tetel\tetel\obj\Debug\tetel.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Simon Roland\tetel\tetel\obj\Debug\tetel.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Simon Roland\tetel\tetel\obj\Debug\tetel.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Simon Roland\tetel\tetel\obj\Debug\tetel.pdb

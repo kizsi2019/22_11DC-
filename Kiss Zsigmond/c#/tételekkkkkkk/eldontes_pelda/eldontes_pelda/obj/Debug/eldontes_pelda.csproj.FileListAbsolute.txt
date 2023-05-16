@@ -1,0 +1,7 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\eldontes_pelda\eldontes_pelda\bin\Debug\eldontes_pelda.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\eldontes_pelda\eldontes_pelda\bin\Debug\eldontes_pelda.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\eldontes_pelda\eldontes_pelda\bin\Debug\eldontes_pelda.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\eldontes_pelda\eldontes_pelda\obj\Debug\eldontes_pelda.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\eldontes_pelda\eldontes_pelda\obj\Debug\eldontes_pelda.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\eldontes_pelda\eldontes_pelda\obj\Debug\eldontes_pelda.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\eldontes_pelda\eldontes_pelda\obj\Debug\eldontes_pelda.pdb

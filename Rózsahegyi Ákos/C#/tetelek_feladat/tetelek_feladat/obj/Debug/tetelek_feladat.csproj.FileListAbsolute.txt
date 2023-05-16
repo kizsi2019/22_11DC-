@@ -6,3 +6,10 @@ C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\tetelek_fel
 C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\tetelek_feladat\tetelek_feladat\obj\Debug\tetelek_feladat.csproj.CoreCompileInputs.cache
 C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\tetelek_feladat\tetelek_feladat\obj\Debug\tetelek_feladat.exe
 C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\C#\tetelek_feladat\tetelek_feladat\obj\Debug\tetelek_feladat.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Rózsahegyi Ákos\C#\tetelek_feladat\tetelek_feladat\bin\Debug\tetelek_feladat.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Rózsahegyi Ákos\C#\tetelek_feladat\tetelek_feladat\bin\Debug\tetelek_feladat.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Rózsahegyi Ákos\C#\tetelek_feladat\tetelek_feladat\bin\Debug\tetelek_feladat.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Rózsahegyi Ákos\C#\tetelek_feladat\tetelek_feladat\obj\Debug\tetelek_feladat.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Rózsahegyi Ákos\C#\tetelek_feladat\tetelek_feladat\obj\Debug\tetelek_feladat.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Rózsahegyi Ákos\C#\tetelek_feladat\tetelek_feladat\obj\Debug\tetelek_feladat.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Rózsahegyi Ákos\C#\tetelek_feladat\tetelek_feladat\obj\Debug\tetelek_feladat.pdb

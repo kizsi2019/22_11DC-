@@ -1,0 +1,8 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\Iskola\Iskola\Iskola\bin\Debug\Iskola.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\Iskola\Iskola\Iskola\bin\Debug\Iskola.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\Iskola\Iskola\Iskola\bin\Debug\Iskola.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\Iskola\Iskola\Iskola\obj\Debug\Iskola.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\Iskola\Iskola\Iskola\obj\Debug\Iskola.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\Iskola\Iskola\Iskola\obj\Debug\Iskola.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\Iskola\Iskola\Iskola\obj\Debug\Iskola.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\Iskola\Iskola\Iskola\bin\Debug\Program.cs

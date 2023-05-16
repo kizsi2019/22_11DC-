@@ -1,0 +1,7 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\lista_addrange\lista_addrange\bin\Debug\lista_addrange.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\lista_addrange\lista_addrange\bin\Debug\lista_addrange.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\lista_addrange\lista_addrange\bin\Debug\lista_addrange.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\lista_addrange\lista_addrange\obj\Debug\lista_addrange.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\lista_addrange\lista_addrange\obj\Debug\lista_addrange.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\lista_addrange\lista_addrange\obj\Debug\lista_addrange.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\lista_addrange\lista_addrange\obj\Debug\lista_addrange.pdb

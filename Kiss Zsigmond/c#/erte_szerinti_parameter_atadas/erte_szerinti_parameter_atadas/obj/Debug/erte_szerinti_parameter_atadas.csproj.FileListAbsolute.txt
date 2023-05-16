@@ -1,0 +1,6 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\erte_szerinti_parameter_atadas\erte_szerinti_parameter_atadas\obj\Debug\erte_szerinti_parameter_atadas.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\erte_szerinti_parameter_atadas\erte_szerinti_parameter_atadas\bin\Debug\erte_szerinti_parameter_atadas.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\erte_szerinti_parameter_atadas\erte_szerinti_parameter_atadas\bin\Debug\erte_szerinti_parameter_atadas.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\erte_szerinti_parameter_atadas\erte_szerinti_parameter_atadas\bin\Debug\erte_szerinti_parameter_atadas.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\erte_szerinti_parameter_atadas\erte_szerinti_parameter_atadas\obj\Debug\erte_szerinti_parameter_atadas.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\erte_szerinti_parameter_atadas\erte_szerinti_parameter_atadas\obj\Debug\erte_szerinti_parameter_atadas.pdb

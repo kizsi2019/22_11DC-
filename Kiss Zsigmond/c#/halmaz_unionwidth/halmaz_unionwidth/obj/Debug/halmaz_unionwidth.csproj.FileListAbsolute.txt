@@ -1,0 +1,7 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\halmaz_unionwidth\halmaz_unionwidth\bin\Debug\halmaz_unionwidth.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\halmaz_unionwidth\halmaz_unionwidth\bin\Debug\halmaz_unionwidth.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\halmaz_unionwidth\halmaz_unionwidth\bin\Debug\halmaz_unionwidth.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\halmaz_unionwidth\halmaz_unionwidth\obj\Debug\halmaz_unionwidth.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\halmaz_unionwidth\halmaz_unionwidth\obj\Debug\halmaz_unionwidth.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\halmaz_unionwidth\halmaz_unionwidth\obj\Debug\halmaz_unionwidth.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\halmaz_unionwidth\halmaz_unionwidth\obj\Debug\halmaz_unionwidth.csproj.AssemblyReference.cache

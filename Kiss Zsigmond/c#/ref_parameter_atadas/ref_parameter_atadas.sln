@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ref_parameter_atadas", "ref_parameter_atadas\ref_parameter_atadas.csproj", "{3DDE29E3-E621-4B17-9DDC-4C896B1DB58C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DDE29E3-E621-4B17-9DDC-4C896B1DB58C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DDE29E3-E621-4B17-9DDC-4C896B1DB58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DDE29E3-E621-4B17-9DDC-4C896B1DB58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DDE29E3-E621-4B17-9DDC-4C896B1DB58C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC2EA601-8432-4974-AAB0-3E36E54A2009}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\buborekos_rendezes\buborekos_rendezes\bin\Debug\buborekos_rendezes.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\buborekos_rendezes\buborekos_rendezes\bin\Debug\buborekos_rendezes.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\buborekos_rendezes\buborekos_rendezes\bin\Debug\buborekos_rendezes.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\buborekos_rendezes\buborekos_rendezes\obj\Debug\buborekos_rendezes.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\buborekos_rendezes\buborekos_rendezes\obj\Debug\buborekos_rendezes.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\buborekos_rendezes\buborekos_rendezes\obj\Debug\buborekos_rendezes.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\buborekos_rendezes\buborekos_rendezes\obj\Debug\buborekos_rendezes.csproj.AssemblyReference.cache
