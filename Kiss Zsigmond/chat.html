@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Chat program</title>
+    <style>
+        #chat-box {
+            height: 300px;
+            overflow-y: scroll;
+            border: 1px solid black;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+        
+        #chat-input {
+            margin-bottom: 10px;
+        }
+        
+        #chat-message {
+            width: 80%;
+            padding: 5px;
+            margin-right: 5px;
+        }
+        
+        #chat-send {
+            width: 18%;
+            padding: 5px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="chat-box"></div>
+    <input type="text" id="chat-input" placeholder="Írd be az üzeneted">
+    <button id="chat-send">Küldés</button>
+    <script src="chat.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,7 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\megszamlalas1\megszamlalas1\bin\Debug\megszamlalas1.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\megszamlalas1\megszamlalas1\bin\Debug\megszamlalas1.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\megszamlalas1\megszamlalas1\bin\Debug\megszamlalas1.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\megszamlalas1\megszamlalas1\obj\Debug\megszamlalas1.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\megszamlalas1\megszamlalas1\obj\Debug\megszamlalas1.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\megszamlalas1\megszamlalas1\obj\Debug\megszamlalas1.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\megszamlalas1\megszamlalas1\obj\Debug\megszamlalas1.pdb

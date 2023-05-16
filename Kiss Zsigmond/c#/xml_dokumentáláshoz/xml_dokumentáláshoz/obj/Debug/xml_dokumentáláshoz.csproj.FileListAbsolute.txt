@@ -1,0 +1,7 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\xml_dokumentáláshoz\xml_dokumentáláshoz\obj\Debug\xml_dokumentáláshoz.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\xml_dokumentáláshoz\xml_dokumentáláshoz\obj\Debug\xml_dokumentáláshoz.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\xml_dokumentáláshoz\xml_dokumentáláshoz\bin\Debug\xml_dokumentáláshoz.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\xml_dokumentáláshoz\xml_dokumentáláshoz\bin\Debug\xml_dokumentáláshoz.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\xml_dokumentáláshoz\xml_dokumentáláshoz\bin\Debug\xml_dokumentáláshoz.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\xml_dokumentáláshoz\xml_dokumentáláshoz\obj\Debug\xml_dokumentáláshoz.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\xml_dokumentáláshoz\xml_dokumentáláshoz\obj\Debug\xml_dokumentáláshoz.pdb

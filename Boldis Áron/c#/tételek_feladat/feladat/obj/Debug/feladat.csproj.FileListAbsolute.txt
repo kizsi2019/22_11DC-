@@ -6,6 +6,15 @@ C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\feladat\feladat\obj\
 C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\feladat\feladat\obj\Debug\feladat.csproj.CoreCompileInputs.cache
 C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\feladat\feladat\obj\Debug\feladat.exe
 C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\feladat\feladat\obj\Debug\feladat.pdb
+<<<<<<< HEAD
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Boldis Áron\c#\tételek_feladat\feladat\bin\Debug\feladat.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Boldis Áron\c#\tételek_feladat\feladat\bin\Debug\feladat.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Boldis Áron\c#\tételek_feladat\feladat\bin\Debug\feladat.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Boldis Áron\c#\tételek_feladat\feladat\obj\Debug\feladat.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Boldis Áron\c#\tételek_feladat\feladat\obj\Debug\feladat.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Boldis Áron\c#\tételek_feladat\feladat\obj\Debug\feladat.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Boldis Áron\c#\tételek_feladat\feladat\obj\Debug\feladat.pdb
+=======
 C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\tételek_feladat\feladat\bin\Debug\feladat.exe.config
 C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\tételek_feladat\feladat\bin\Debug\feladat.exe
 C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\tételek_feladat\feladat\bin\Debug\feladat.pdb
@@ -14,3 +23,4 @@ C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\tételek_feladat\fel
 C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\tételek_feladat\feladat\obj\Debug\feladat.csproj.CoreCompileInputs.cache
 C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\tételek_feladat\feladat\obj\Debug\feladat.exe
 C:\Users\BoldisAron\Desktop\github\22_11DC-\Boldis Áron\c#\tételek_feladat\feladat\obj\Debug\feladat.pdb
+>>>>>>> 968ef55bffde62e73932b37242a9e84bcc44df4d

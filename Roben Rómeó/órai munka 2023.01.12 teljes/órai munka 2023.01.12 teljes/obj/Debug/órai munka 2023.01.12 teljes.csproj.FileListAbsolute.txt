@@ -6,3 +6,10 @@ C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\órai munka 2023.0
 C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\órai munka 2023.01.12 teljes\órai munka 2023.01.12 teljes\bin\Debug\órai munka 2023.01.12 teljes.pdb
 C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\órai munka 2023.01.12 teljes\órai munka 2023.01.12 teljes\obj\Debug\órai munka 2023.01.12 teljes.exe
 C:\Users\RobenRomeo\Desktop\github új\22_11DC-\Roben Rómeó\órai munka 2023.01.12 teljes\órai munka 2023.01.12 teljes\obj\Debug\órai munka 2023.01.12 teljes.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Roben Rómeó\órai munka 2023.01.12 teljes\órai munka 2023.01.12 teljes\bin\Debug\órai munka 2023.01.12 teljes.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Roben Rómeó\órai munka 2023.01.12 teljes\órai munka 2023.01.12 teljes\bin\Debug\órai munka 2023.01.12 teljes.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Roben Rómeó\órai munka 2023.01.12 teljes\órai munka 2023.01.12 teljes\bin\Debug\órai munka 2023.01.12 teljes.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Roben Rómeó\órai munka 2023.01.12 teljes\órai munka 2023.01.12 teljes\obj\Debug\órai munka 2023.01.12 teljes.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Roben Rómeó\órai munka 2023.01.12 teljes\órai munka 2023.01.12 teljes\obj\Debug\órai munka 2023.01.12 teljes.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Roben Rómeó\órai munka 2023.01.12 teljes\órai munka 2023.01.12 teljes\obj\Debug\órai munka 2023.01.12 teljes.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Roben Rómeó\órai munka 2023.01.12 teljes\órai munka 2023.01.12 teljes\obj\Debug\órai munka 2023.01.12 teljes.pdb
