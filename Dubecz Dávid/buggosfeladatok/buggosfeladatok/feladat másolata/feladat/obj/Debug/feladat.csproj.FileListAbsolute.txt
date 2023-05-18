@@ -1,0 +1,12 @@
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\feladat\feladat\bin\Debug\feladat.exe.config
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\feladat\feladat\bin\Debug\feladat.exe
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\feladat\feladat\bin\Debug\feladat.pdb
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\feladat\feladat\obj\Debug\feladat.csproj.AssemblyReference.cache
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\feladat\feladat\obj\Debug\feladat.csproj.SuggestedBindingRedirects.cache
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\feladat\feladat\obj\Debug\feladat.csproj.CoreCompileInputs.cache
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\feladat\feladat\obj\Debug\feladat.exe
+C:\Users\DubeczDavidRaymundo\OneDrive - BGéSZC Katona József Technikum\Asztal\github\22_11DC-\Dubecz Dávid\feladat\feladat\obj\Debug\feladat.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Dubecz Dávid\buggosfeladatok\buggosfeladatok\feladat másolata\feladat\obj\Debug\feladat.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Dubecz Dávid\buggosfeladatok\buggosfeladatok\feladat másolata\feladat\obj\Debug\feladat.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Dubecz Dávid\buggosfeladatok\buggosfeladatok\feladat másolata\feladat\obj\Debug\feladat.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Dubecz Dávid\buggosfeladatok\buggosfeladatok\feladat másolata\feladat\obj\Debug\feladat.pdb

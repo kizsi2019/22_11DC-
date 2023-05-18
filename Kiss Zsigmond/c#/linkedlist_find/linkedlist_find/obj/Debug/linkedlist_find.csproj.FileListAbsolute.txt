@@ -1,0 +1,6 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\linkedlist_find\linkedlist_find\bin\Debug\linkedlist_find.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\linkedlist_find\linkedlist_find\bin\Debug\linkedlist_find.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\linkedlist_find\linkedlist_find\bin\Debug\linkedlist_find.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\linkedlist_find\linkedlist_find\obj\Debug\linkedlist_find.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\linkedlist_find\linkedlist_find\obj\Debug\linkedlist_find.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\linkedlist_find\linkedlist_find\obj\Debug\linkedlist_find.pdb

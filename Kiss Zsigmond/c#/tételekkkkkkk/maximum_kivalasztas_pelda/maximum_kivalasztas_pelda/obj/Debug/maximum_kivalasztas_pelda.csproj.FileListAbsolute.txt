@@ -1,0 +1,7 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\maximum_kivalasztas_pelda\maximum_kivalasztas_pelda\bin\Debug\maximum_kivalasztas_pelda.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\maximum_kivalasztas_pelda\maximum_kivalasztas_pelda\bin\Debug\maximum_kivalasztas_pelda.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\maximum_kivalasztas_pelda\maximum_kivalasztas_pelda\bin\Debug\maximum_kivalasztas_pelda.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\maximum_kivalasztas_pelda\maximum_kivalasztas_pelda\obj\Debug\maximum_kivalasztas_pelda.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\maximum_kivalasztas_pelda\maximum_kivalasztas_pelda\obj\Debug\maximum_kivalasztas_pelda.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\maximum_kivalasztas_pelda\maximum_kivalasztas_pelda\obj\Debug\maximum_kivalasztas_pelda.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\maximum_kivalasztas_pelda\maximum_kivalasztas_pelda\obj\Debug\maximum_kivalasztas_pelda.pdb

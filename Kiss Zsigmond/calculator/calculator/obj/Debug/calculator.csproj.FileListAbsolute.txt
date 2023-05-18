@@ -1,0 +1,15 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\calculator\calculator\obj\Debug\MainWindow.g.cs
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\calculator\calculator\obj\Debug\App.g.cs
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\calculator\calculator\obj\Debug\calculator_MarkupCompile.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\calculator\calculator\obj\Debug\calculator_MarkupCompile.lref
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\calculator\calculator\obj\Debug\MainWindow.baml
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\calculator\calculator\obj\Debug\calculator.g.resources
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\calculator\calculator\obj\Debug\calculator.pdb

@@ -1,0 +1,6 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\halmaz_exceptwidth\halmaz_exceptwidth\bin\Debug\halmaz_exceptwidth.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\halmaz_exceptwidth\halmaz_exceptwidth\bin\Debug\halmaz_exceptwidth.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\halmaz_exceptwidth\halmaz_exceptwidth\bin\Debug\halmaz_exceptwidth.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\halmaz_exceptwidth\halmaz_exceptwidth\obj\Debug\halmaz_exceptwidth.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\halmaz_exceptwidth\halmaz_exceptwidth\obj\Debug\halmaz_exceptwidth.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\halmaz_exceptwidth\halmaz_exceptwidth\obj\Debug\halmaz_exceptwidth.pdb

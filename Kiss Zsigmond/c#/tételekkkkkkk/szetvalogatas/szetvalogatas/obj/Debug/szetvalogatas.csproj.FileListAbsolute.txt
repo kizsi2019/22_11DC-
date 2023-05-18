@@ -1,0 +1,7 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\szetvalogatas\szetvalogatas\bin\Debug\szetvalogatas.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\szetvalogatas\szetvalogatas\bin\Debug\szetvalogatas.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\szetvalogatas\szetvalogatas\bin\Debug\szetvalogatas.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\szetvalogatas\szetvalogatas\obj\Debug\szetvalogatas.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\szetvalogatas\szetvalogatas\obj\Debug\szetvalogatas.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\szetvalogatas\szetvalogatas\obj\Debug\szetvalogatas.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\szetvalogatas\szetvalogatas\obj\Debug\szetvalogatas.pdb
