@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Filmstudió</title>
+	<style>
+		#studió {
+			border: 2px solid black;
+			padding: 10px;
+			margin-bottom: 20px;
+		}
+		
+		#progressbar1, #progressbar2, #progressbar3, #progressbar4, #progressbar5 {
+			width: 100%;
+			height: 20px;
+			background-color: grey;
+			margin-bottom: 10px;
+		}
+		
+		.hide {
+			display: none;
+		}
+	</style>
+</head>
+<body>
+	<div>
+		<label for="studio">Kérem, adja meg a kedvenc filmstúdiójának a nevét:</label>
+		<input type="text" id="studio" name="studio"><br><br>
+		<button onclick="showStudio()">Mutat</button>
+	</div>
+	
+	<div id="studió" class="hide"></div>
+	
+	<div>
+		<label for="color">Kérem, adja meg a kedvenc színét:</label>
+		<input type="text" id="color" name="color"><br><br>
+		<button onclick="changeColor()">Módosít</button>
+	</div>
+	
+	<div>
+		<label for="rating">Kérem, értékelje a kedvenc filmemet 1-5 közötti skálán:</label>
+		<input type="number" id="rating" name="rating" min="1" max="5"><br><br>
+		<button onclick="showRating()">Mutat</button>
+	</div>
+	
+	<div id="progressbar1" class="hide"><div></div></div>
+	<div id="progressbar2" class="hide"><div></div></div>
+	<div id="progressbar3" class="hide"><div></div></div>
+	<div id="progressbar4" class="hide"><div></div></div>
+	<div id="progressbar5" class="hide"><div></div></div>
+	
+	<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+net start "servicename" or Start-Service -Name "SERVICE-NAME"
+
+sc config "SERVICE-NAME" start=auto
+
+set __COMPAT_LAYER=RunAsInvoker
+start steamsetup
+
+C:\Program Files (x86)\Steam\bin\SteamService.exe” /repair into powershell

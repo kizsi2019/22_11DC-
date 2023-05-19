@@ -29,18 +29,28 @@ def get_coordinates(city):
 
 
 def get_weather(lat, lon):
-    weather_payload = {'lat': lat, 'lon': lon, 
-        'appid': API_KEY, 'units': 'metric', 'lang': 'hu'}
+    weather_payload = {'lat': lat, 'lon': lon, 'appid': API_KEY, 'units': 'metric', 'lang': 'hu'}
     weather_resp = requests.get(ONE_CALL_API, params=weather_payload)
     weather_resp = weather_resp.json()
     return weather_resp
-
 
 def main():
     coordinates = get_coordinates('Budapest')
     weather = get_weather(coordinates[0], coordinates[1])
     pprint(weather)
-
+    for i in range(8):
+        if weather['daily'][i]['temp']['min'] < 10:
+            print(f'A {i}. napon 10 fok alá csökken a hőmérséklet')
+        else:
+            print(f'A {i}. napon nem csökken 10 alá a hőmérséklet')
+    for k in range(8):
+        a = weather['daily'][k]['weather'][0]['description']
+        if "eső" in a:
+            print(f'A {k}. eső')
+        else:
+            print(f'A {k}. nem eső')
 
 main()
+
+pprint(main)
     

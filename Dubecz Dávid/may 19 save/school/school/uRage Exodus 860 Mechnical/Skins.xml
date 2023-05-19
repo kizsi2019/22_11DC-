@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+ <GLOBAL>
+ 		<TIP>Cougar Attack X3 Keyboard configuration</TIP>
+ 		<FONT_SIZE>16</FONT_SIZE>
+ </GLOBAL>
+ <BASE>
+ 		
+ 		<BK_NORMAL>main_normal.jpg</BK_NORMAL>
+ 		<BK_OVER>main_down.jpg</BK_OVER>
+ 		<BK_DOWN>main_over.jpg</BK_DOWN>
+ 		<BK_DISABLE>main_disable.jpg</BK_DISABLE>
+ 		<BK_MASK>main_mask.bmp</BK_MASK>	 		 	
+ </BASE>
+ <MAIN>
+  	<MAIN_NORMAL>main_normal.jpg</MAIN_NORMAL>
+	<MAIN_DOWN>main_down.jpg</MAIN_DOWN>
+  	<MAIN_OVER>main_over.jpg</MAIN_OVER>
+  	<MAIN_DISABLE>main_disable.jpg</MAIN_DISABLE>
+  	<MAIN_MASK>main_mask.bmp</MAIN_MASK>
+	<MAIN_SET>main_set.jpg</MAIN_SET>
+ </MAIN> 	
+ <PROFILE_MANAGE>
+  	<NORMAL>Game Profile Management-normal.jpg</NORMAL>
+	<DOWN>Game Profile Management-down.jpg</DOWN>
+  	<OVER>Game Profile Management-over.jpg</OVER>
+  	<DISABLE>Game Profile Management-disabled.jpg</DISABLE>
+  	<MASK>Game Profile Management-mask.bmp</MASK>
+ </PROFILE_MANAGE> 
+ <NEW_PROFILE>
+ 	<NORMAL>NewGameProfile_normal.jpg</NORMAL>
+	<DOWN>NewGameProfile_down.jpg</DOWN>
+  	<OVER>NewGameProfile_over.jpg</OVER>
+  	<DISABLE>NewGameProfile_normal.jpg</DISABLE>
+  	<MASK></MASK>
+ </NEW_PROFILE>
+
+
+
+ <LIGHTING>
+  	<MAIN_BASE>Lighting_base.jpg</MAIN_BASE>
+  	<MAIN_NORMAL>lighting_normal.jpg</MAIN_NORMAL>
+	<MAIN_DOWN>lighting_down.jpg</MAIN_DOWN>
+  	<MAIN_OVER>lighting_over.jpg</MAIN_OVER>
+  	<MAIN_MASK>Lighting_mask.bmp</MAIN_MASK>
+
+  <BREATHING_NORMAL>Breathing_normal.jpg</BREATHING_NORMAL>
+  <BREATHING_DOWN>Breathing_down.jpg</BREATHING_DOWN>
+
+  	<WAVE_NORMAL>Wave_normal.jpg</WAVE_NORMAL>
+	<WAVE_OVER>Wave_over.jpg</WAVE_OVER>
+
+  	<EXPLOSION_NORMAL>Explosion_normal.jpg</EXPLOSION_NORMAL>
+	<EXPLOSION_OVER>Explosion_over.jpg</EXPLOSION_OVER>
+	<EXPLOSION_DOWN>Explosion_down.jpg</EXPLOSION_DOWN>
+
+  	<CUSTOMIZE_NORMAL>Customize_normal.jpg</CUSTOMIZE_NORMAL>
+	<CUSTOMIZE_OVER>Customize_over.jpg</CUSTOMIZE_OVER>
+
+  	<SLIDER_NORMAL>BrightBar.png</SLIDER_NORMAL>
+  	<SLIDER_NORMAL_JPG>BrightBar.jpg</SLIDER_NORMAL_JPG>
+
+ </LIGHTING> 
+ <KEY_ASSIGNMENT>
+  	<MAIN_BASE>Key Assignment_base.jpg</MAIN_BASE>
+  	<MAIN_MASK>Key Assignment_mask.bmp</MAIN_MASK>
+
+
+  	<MAIN_NORMAL>Key Assignment_normal.jpg</MAIN_NORMAL>
+	<MAIN_DOWN>Key Assignment_down.jpg</MAIN_DOWN>
+  	<MAIN_OVER>Key Assignment_over.jpg</MAIN_OVER>
+ </KEY_ASSIGNMENT> 
+
+ <KEY_ASSIGNMENT_MACRO>
+
+
+ </KEY_ASSIGNMENT_MACRO>
+ <KEY_ASSIGNMENT_MEDIA>
+
+
+ </KEY_ASSIGNMENT_MEDIA>
+
+ <SPECTRUM>
+  	<MAIN_NORMAL>Spectrum_normal.jpg</MAIN_NORMAL>
+  	<MAIN_DISABLE>Spectrum_normal.jpg</MAIN_DISABLE>
+	<MAIN_DOWN>Spectrum_down.jpg</MAIN_DOWN>
+  	<MAIN_OVER>Spectrum_over.jpg</MAIN_OVER>
+  	<MAIN_ON_OVER>Spectrum_on_over.jpg</MAIN_ON_OVER>
+  	<MAIN_MASK>main_mask.bmp</MAIN_MASK>
+ </SPECTRUM>  
+ <MACRO>
+  	<MAIN_NORMAL>Macro_normal.jpg</MAIN_NORMAL>
+	<MAIN_DOWN>Macro_down.jpg</MAIN_DOWN>
+  	<MAIN_OVER>Macro_over.jpg</MAIN_OVER>
+  	<MAIN_MASK>main_mask.bmp</MAIN_MASK>
+ </MACRO>  
+ <MACRO_MenuBtn>
+  	<MAIN_NORMAL>MacroMenuBtn_Normal.jpg</MAIN_NORMAL>
+	<MAIN_DOWN>MacroMenuBtn_Down.jpg</MAIN_DOWN>
+  	<MAIN_OVER>MacroMenuBtn_Over.jpg</MAIN_OVER>
+  	<MAIN_MASK>MacroMenuBtn_Mark.bmp</MAIN_MASK>
+ </MACRO_MenuBtn>  
+ <SYNC>
+  	<MAIN_NORMAL>Sync_normal.jpg</MAIN_NORMAL>
+	<MAIN_DOWN>Sync_over.jpg</MAIN_DOWN>
+  	<MAIN_OVER>Sync_over.jpg</MAIN_OVER>
+  	<MAIN_MASK>main_mask.bmp</MAIN_MASK>
+ </SYNC> 
+
+
+
+
+ <FUNCTION_DLG>
+  	<MAIN_NORMAL>FunctionDlg_normal.jpg</MAIN_NORMAL>
+	<MAIN_DOWN>FunctionDlg_down.jpg</MAIN_DOWN>
+  	<MAIN_OVER>FunctionDlg_over.jpg</MAIN_OVER>
+  	<MAIN_MASK>Button_Setting_mask.bmp</MAIN_MASK>
+ </FUNCTION_DLG> 
+ <MACRO_MANAGEMENT_DLG>
+  	<MAIN_NORMAL>Macro_normal.jpg</MAIN_NORMAL>
+	<MAIN_DOWN>Macro_down.jpg</MAIN_DOWN>
+  	<MAIN_OVER>Macro_over.jpg</MAIN_OVER>
+	<MAIN_DISABLE>Macro_disable.jpg</MAIN_DISABLE>
+  	<MAIN_MASK></MAIN_MASK>
+ </MACRO_MANAGEMENT_DLG>
+ <CREATE_GROUP_DLG>
+  	<MAIN_NORMAL>create_groupmacro_normal.jpg</MAIN_NORMAL>
+	<MAIN_DOWN>create_groupmacro_down.jpg</MAIN_DOWN>
+  	<MAIN_OVER>create_groupmacro_over.jpg</MAIN_OVER>
+  	<MAIN_MASK></MAIN_MASK>
+ </CREATE_GROUP_DLG>
+ <MACRO_DLG>
+  	<MAIN_NORMAL>Macro edit-normal.jpg</MAIN_NORMAL>
+	<MAIN_DOWN>Macro edit-down.jpg</MAIN_DOWN>
+  	<MAIN_OVER>Macro edit-over.jpg</MAIN_OVER>
+	<MAIN_DISABLE>Macro edit-Disabled.jpg</MAIN_DISABLE>
+  	<MAIN_MASK>Macro edit-Mask.bmp</MAIN_MASK>
+ </MACRO_DLG>
+ <LAUNCH_DLG>
+  	<MAIN_NORMAL>Quick launch-normal.jpg</MAIN_NORMAL>
+	<MAIN_DOWN>Quick launch-down.jpg</MAIN_DOWN>
+  	<MAIN_OVER>Quick launch-over.jpg</MAIN_OVER>
+	<MAIN_DISABLE>Quick launch-normal.jpg</MAIN_DISABLE>
+  	<MAIN_MASK>Quick launch_mask.bmp</MAIN_MASK>
+ </LAUNCH_DLG>
+ <SINGLE_KEY_DLG>
+  	<MAIN_NORMAL>Shortcut Setting_normal.jpg</MAIN_NORMAL>
+	<MAIN_DOWN>Shortcut Setting_down.jpg</MAIN_DOWN>
+  	<MAIN_OVER>Shortcut Setting_over.jpg</MAIN_OVER>
+	<MAIN_DISABLE>Shortcut Setting_normal.jpg</MAIN_DISABLE>
+  	<MAIN_MASK>single key_mask.bmp</MAIN_MASK>
+ </SINGLE_KEY_DLG>
+
+ ===============Func List Pic===========
+
+ <FUNC_DEFAULT>
+  	<MAIN_NORMAL>Button_Setting_normal.jpg</MAIN_NORMAL>
+	<MAIN_DOWN>Button_Setting_down.jpg</MAIN_DOWN>
+  	<MAIN_OVER>Button_Setting_over.jpg</MAIN_OVER>
+  	<MAIN_MASK></MAIN_MASK> 
+ </FUNC_DEFAULT>
+ <FUNC_MACRO>
+  	<MAIN_NORMAL>Macro_Setting_normal.jpg</MAIN_NORMAL>
+	<MAIN_DOWN>Macro_Setting_down.jpg</MAIN_DOWN>
+  	<MAIN_OVER>Macro_Setting_over.jpg</MAIN_OVER>
+  	<MAIN_MASK></MAIN_MASK>
+ </FUNC_MACRO>
+ <FUNC_Profile switch>
+  	<MAIN_NORMAL>Profile_switch_normal.jpg</MAIN_NORMAL>
+	  <MAIN_DOWN>Profile_switch_down.jpg</MAIN_DOWN>
+  	<MAIN_OVER>Profile_switch_over.jpg</MAIN_OVER>
+  	<MAIN_MASK></MAIN_MASK>
+ </FUNC_Profile switch>
+ <FUNC_Mouse function>
+  	<MAIN_NORMAL>Mouse_Function_normal.jpg</MAIN_NORMAL>
+	  <MAIN_DOWN>Mouse_Function_down.jpg</MAIN_DOWN>
+  	<MAIN_OVER>Mouse_Function_over.jpg</MAIN_OVER>
+  	<MAIN_MASK></MAIN_MASK>
+ </FUNC_Mouse function>
+ <FUNC_Keyboard function>
+    <MAIN_NORMAL>Keyboard_Function_normal.jpg</MAIN_NORMAL>
+    <MAIN_DOWN>Keyboard_Function_down.jpg</MAIN_DOWN>
+    <MAIN_OVER>Keyboard_Function_over.jpg</MAIN_OVER>
+    <MAIN_MASK></MAIN_MASK>
+ </FUNC_Keyboard function>
+ <FUNC_Media control>
+    <MAIN_NORMAL>Media_control_normal.jpg</MAIN_NORMAL>
+    <MAIN_DOWN>Media_control_down.jpg</MAIN_DOWN>
+    <MAIN_OVER>Media_control_over.jpg</MAIN_OVER>
+    <MAIN_MASK></MAIN_MASK>
+ </FUNC_Media control>
+
+ <FUNC_Multi Media>
+  	<MAIN_NORMAL>(Advance)_Multi Media_normal.jpg</MAIN_NORMAL>
+	<MAIN_DOWN>(Advance)_Multi Media_down.jpg</MAIN_DOWN>
+  	<MAIN_OVER>(Advance)_Multi Media_over.jpg</MAIN_OVER>
+  	<MAIN_MASK></MAIN_MASK>
+ </FUNC_Multi Media>
+ <FUNC_Quick Launch Function>
+  	<MAIN_NORMAL>Button_Setting.jpg</MAIN_NORMAL>
+	<MAIN_DOWN>Button_Setting_down.jpg</MAIN_DOWN>
+  	<MAIN_OVER>Button_Setting_over.jpg</MAIN_OVER>
+  	<MAIN_MASK></MAIN_MASK>
+ </FUNC_Quick Launch Function>
+
+
+ <FUNC_WINDOWS>
+	 <MAIN_NORMAL>Windows_shortcut_normal.jpg</MAIN_NORMAL>
+	<MAIN_DOWN>Windows_shortcut_down.jpg</MAIN_DOWN>
+  	<MAIN_OVER>Windows_shortcut_over.jpg</MAIN_OVER>
+ </FUNC_WINDOWS>
+
+
+=================Warn================
+ <WARN_0>
+  	<MAIN_NORMAL>Warning_normal.jpg</MAIN_NORMAL>
+	<MAIN_DOWN>Warning_down.jpg</MAIN_DOWN>
+  	<MAIN_OVER>Warning_over.jpg</MAIN_OVER>
+  	<MAIN_MASK>warning_mask.bmp</MAIN_MASK>
+ </WARN_0> 
+ <WARN_1>
+  	<MAIN_NORMAL>Warning1_normal.jpg</MAIN_NORMAL>
+	<MAIN_DOWN>Warning1_down.jpg</MAIN_DOWN>
+  	<MAIN_OVER>Warning1_over.jpg</MAIN_OVER>
+  	<MAIN_MASK>warning_mask.bmp</MAIN_MASK>
+ </WARN_1> 
+ <WARN_2>
+  	<MAIN_NORMAL>default_normal.jpg</MAIN_NORMAL>
+	<MAIN_DOWN>default_over.jpg</MAIN_DOWN>
+  	<MAIN_OVER>default_over.jpg</MAIN_OVER>
+  	<MAIN_MASK>default_mask.bmp</MAIN_MASK>
+ </WARN_2> 
+
+=================Setting================
+ <SETTING>
+  	<MAIN_NORMAL>setting_normal.jpg</MAIN_NORMAL>
+	<MAIN_DOWN>setting_down.jpg</MAIN_DOWN>
+  	<MAIN_OVER>setting_over.jpg</MAIN_OVER>
+  	<MAIN_MASK>Button_Setting_mask.jpg</MAIN_MASK>
+ </SETTING> 
+</root>
