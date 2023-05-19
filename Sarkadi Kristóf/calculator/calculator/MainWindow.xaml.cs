@@ -20,9 +20,149 @@ namespace calculator
     /// </summary>
     public partial class MainWindow : Window
     {
+        string first = "";
+        string second = "";
+        char function;
+        double result = 0.0;
+        string userInput = "";
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void btn7_Click(object sender, RoutedEventArgs e)
+        {
+            lblkijelzo.Content += "";
+            userInput += "7";
+            lblkijelzo.Content = userInput;
+        }
+
+        private void btn8_Click(object sender, RoutedEventArgs e)
+        {
+            lblkijelzo.Content += "";
+            userInput += "8";
+            lblkijelzo.Content = userInput;
+        }
+
+        private void btn9_Click(object sender, RoutedEventArgs e)
+        {
+            lblkijelzo.Content += "";
+            userInput += "9";
+            lblkijelzo.Content = userInput;
+        }
+
+        private void btn6_Click(object sender, RoutedEventArgs e)
+        {
+            lblkijelzo.Content += "";
+            userInput += "6";
+            lblkijelzo.Content = userInput;
+        }
+
+        private void btn5_Click(object sender, RoutedEventArgs e)
+        {
+            lblkijelzo.Content += "";
+            userInput += "5";
+            lblkijelzo.Content = userInput;
+        }
+
+        private void btn4_Click(object sender, RoutedEventArgs e)
+        {
+            lblkijelzo.Content += "";
+            userInput += "4";
+            lblkijelzo.Content = userInput;
+        }
+
+        private void btn1_Click(object sender, RoutedEventArgs e)
+        {
+            lblkijelzo.Content += "";
+            userInput += "1";
+            lblkijelzo.Content = userInput;
+        }
+
+        private void btn2_Click(object sender, RoutedEventArgs e)
+        {
+            lblkijelzo.Content += "";
+            userInput += "2";
+            lblkijelzo.Content = userInput;
+        }
+
+        private void btn3_Click(object sender, RoutedEventArgs e)
+        {
+            lblkijelzo.Content += "";
+            userInput += "3";
+            lblkijelzo.Content = userInput;
+        }
+
+        private void btn0_Click(object sender, RoutedEventArgs e)
+        {
+            lblkijelzo.Content += "";
+            userInput += "0";
+            lblkijelzo.Content = userInput;
+        }
+
+        private void btnDivided_Click(object sender, RoutedEventArgs e)
+        {
+            function = '/';
+            first = userInput;
+            userInput = "";
+        }
+
+        private void btnPlusz_Click(object sender, RoutedEventArgs e)
+        {
+            function = '+';
+            first = userInput;
+            userInput = "";
+        }
+
+        private void btnMinus_Click(object sender, RoutedEventArgs e)
+        {
+            function = '-';
+            first = userInput;
+            userInput = "";
+        }
+
+        private void btnMultiplied_Click(object sender, RoutedEventArgs e)
+        {
+            function = '*';
+            first = userInput;
+            userInput = "";
+        }
+
+        private void btnPoint_Click(object sender, RoutedEventArgs e)
+        {
+            lblkijelzo.Content += "";
+            userInput += ".";
+            lblkijelzo.Content += userInput;
+        }
+
+        private void btnequal_Click(object sender, RoutedEventArgs e)
+        {
+            second = userInput;
+            double firstNum, secondNum;
+            firstNum = Convert.ToDouble(first);
+            secondNum = Convert.ToDouble(second);
+            if (function == '+')
+            {
+                result = firstNum + secondNum;
+                lblkijelzo.Content = result;
+            }
+            else if (function == '-')
+            {
+                result = firstNum - secondNum;
+                lblkijelzo.Content = result;
+            }
+            else if (function == '*')
+            {
+                result = firstNum * secondNum;
+                lblkijelzo.Content = result;
+            }
+            else if (function == '/')
+            {
+                if (secondNum == 0)
+                {
+                    lblkijelzo = "Nullával nem lehet osztani";
+                }
+            }
         }
     }
 }

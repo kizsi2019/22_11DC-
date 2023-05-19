@@ -1,0 +1,7 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\lancolt_lista\lancolt_lista\bin\Debug\lancolt_lista.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\lancolt_lista\lancolt_lista\bin\Debug\lancolt_lista.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\lancolt_lista\lancolt_lista\bin\Debug\lancolt_lista.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\lancolt_lista\lancolt_lista\obj\Debug\lancolt_lista.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\lancolt_lista\lancolt_lista\obj\Debug\lancolt_lista.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\lancolt_lista\lancolt_lista\obj\Debug\lancolt_lista.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\lancolt_lista\lancolt_lista\obj\Debug\lancolt_lista.pdb

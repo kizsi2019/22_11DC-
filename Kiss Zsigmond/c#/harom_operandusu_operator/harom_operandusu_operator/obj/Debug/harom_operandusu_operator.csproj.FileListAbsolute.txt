@@ -1,0 +1,7 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\harom_operandusu_operator\harom_operandusu_operator\bin\Debug\harom_operandusu_operator.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\harom_operandusu_operator\harom_operandusu_operator\bin\Debug\harom_operandusu_operator.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\harom_operandusu_operator\harom_operandusu_operator\bin\Debug\harom_operandusu_operator.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\harom_operandusu_operator\harom_operandusu_operator\obj\Debug\harom_operandusu_operator.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\harom_operandusu_operator\harom_operandusu_operator\obj\Debug\harom_operandusu_operator.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\harom_operandusu_operator\harom_operandusu_operator\obj\Debug\harom_operandusu_operator.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\harom_operandusu_operator\harom_operandusu_operator\obj\Debug\harom_operandusu_operator.csproj.AssemblyReference.cache

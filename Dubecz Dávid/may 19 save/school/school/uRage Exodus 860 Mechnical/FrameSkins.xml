@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+ <DEBUG>	
+ 		<DEBUG>1</DEBUG>
+ 		<DEBUG_NAME>AttackX3</DEBUG_NAME>
+ </DEBUG>	
+ <GLOBAL>
+ 		<TIP>COUGAR UIX SYSTEM</TIP>
+ 		<FONT_SIZE>16</FONT_SIZE>
+ </GLOBAL>
+ <BASE>	
+ 		<BK_NORMAL>main_normal.jpg</BK_NORMAL>
+ 		<BK_OVER>main_down.jpg</BK_OVER>
+ 		<BK_DOWN>main_over.jpg</BK_DOWN>
+ 		<BK_DISABLE>main_disable.jpg</BK_DISABLE>
+ 		<BK_MASK>main_mask.bmp</BK_MASK>	 		 	
+ </BASE>
+ <WARN_0>
+  	<MAIN_NORMAL>WARNING_plug in device_normal.jpg</MAIN_NORMAL>
+	<MAIN_DOWN>WARNING_plug in device_down.jpg</MAIN_DOWN>
+  	<MAIN_OVER>WARNING_plug in device_over.jpg</MAIN_OVER>
+  	<MAIN_MASK>warning_mask.bmp</MAIN_MASK>
+ </WARN_0> 
+ <ABOUT_DLG>	
+  	<MAIN_NORMAL>About-normal.jpg</MAIN_NORMAL>
+	<MAIN_DOWN>About-down.jpg</MAIN_DOWN>
+  	<MAIN_OVER>About-over.jpg</MAIN_OVER>
+  	<MAIN_MASK>About-mask.bmp</MAIN_MASK>
+
+  	<LIST_INFO>ListBG.jpg</LIST_INFO>
+ </ABOUT_DLG>	
+</root>

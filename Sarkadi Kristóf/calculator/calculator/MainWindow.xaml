@@ -7,25 +7,26 @@
         mc:Ignorable="d"
         Title="Számológép" Height="450" Width="300">
     <Grid>
-        <Label Content="0" HorizontalAlignment="Center" Height="88" Margin="0,36,0,0" VerticalAlignment="Top" Width="300"/>
-        <Button Name="btn7" Content="7" HorizontalAlignment="Left" Height="55" Margin="7,162,0,0" VerticalAlignment="Top" Width="58"/>
-        <Button Name="btn8" Content="8" HorizontalAlignment="Left" Height="55" Margin="70,162,0,0" VerticalAlignment="Top" Width="58"/>
-        <Button Name="btn9" Content="9" HorizontalAlignment="Left" Height="55" Margin="133,162,0,0" VerticalAlignment="Top" Width="58"/>
-        <Button Name="btn6" Content="6" HorizontalAlignment="Left" Height="55" Margin="133,222,0,0" VerticalAlignment="Top" Width="58"/>
-        <Button Name="btn5" Content="5" HorizontalAlignment="Left" Height="55" Margin="70,222,0,0" VerticalAlignment="Top" Width="58"/>
-        <Button Name="btn4" Content="4" HorizontalAlignment="Left" Height="55" Margin="7,222,0,0" VerticalAlignment="Top" Width="58"/>
-        <Button Name="btn3" Content="3" HorizontalAlignment="Left" Height="55" Margin="133,282,0,0" VerticalAlignment="Top" Width="58"/>
-        <Button Name="btn2" Content="2" HorizontalAlignment="Left" Height="55" Margin="70,282,0,0" VerticalAlignment="Top" Width="58"/>
-        <Button Name="btn1" Content="1" HorizontalAlignment="Left" Height="55" Margin="7,282,0,0" VerticalAlignment="Top" Width="58"/>
-        <Button Name="btn0" Content="0" HorizontalAlignment="Left" Height="55" Margin="70,342,0,0" VerticalAlignment="Top" Width="58"/>
-        <Button Name="btnequal" Content="=" HorizontalAlignment="Left" Height="107" Margin="254,222,0,0" VerticalAlignment="Top" Width="46" Background="#FF3838F3"/>
-        <Button Name="btndel" Content="DEL" HorizontalAlignment="Left" Height="55" Margin="196,342,0,0" VerticalAlignment="Top" Width="104" Background="Red"/>
-        <Button Name="btnPlusz" Content="+" HorizontalAlignment="Left" Height="47" Margin="196,166,0,0" VerticalAlignment="Top" Width="47"/>
-        <Button Name="btnMinus" Content="-" HorizontalAlignment="Left" Height="47" Margin="196,222,0,0" VerticalAlignment="Top" Width="46"/>
-        <Button Name="btnMultiplied" Content="X" HorizontalAlignment="Left" Height="47" Margin="196,282,0,0" VerticalAlignment="Top" Width="46"/>
-        <Button Name="btnDivided" Content="/" HorizontalAlignment="Left" Height="47" Margin="254,166,0,0" VerticalAlignment="Top" Width="46"/>
-        <Button Name="btnPoint" Content="." HorizontalAlignment="Left" Height="55" Margin="7,342,0,0" VerticalAlignment="Top" Width="58"/>
-        <Button Name="btnPersent" Content="%" HorizontalAlignment="Left" Height="55" Margin="133,342,0,0" VerticalAlignment="Top" Width="58"/>
+        <Label Name="lblkijelzo" Content="0" HorizontalAlignment="Center" Height="88" Margin="0,36,0,0" VerticalAlignment="Top" Width="300" FontSize="45"/>
+        <Button Name="btn7" Content="7" HorizontalAlignment="Left" Height="55" Margin="7,162,0,0" VerticalAlignment="Top" Width="58" Click="btn7_Click"/>
+        <Button Name="btn8" Content="8" HorizontalAlignment="Left" Height="55" Margin="70,162,0,0" VerticalAlignment="Top" Width="58" Click="btn8_Click"/>
+        <Button Name="btn9" Content="9" HorizontalAlignment="Left" Height="55" Margin="133,162,0,0" VerticalAlignment="Top" Width="58" Click="btn9_Click"/>
+        <Button Name="btn6" Content="6" HorizontalAlignment="Left" Height="55" Margin="133,222,0,0" VerticalAlignment="Top" Width="58" Click="btn6_Click"/>
+        <Button Name="btn5" Content="5" HorizontalAlignment="Left" Height="55" Margin="70,222,0,0" VerticalAlignment="Top" Width="58" Click="btn5_Click"/>
+        <Button Name="btn4" Content="4" HorizontalAlignment="Left" Height="55" Margin="7,222,0,0" VerticalAlignment="Top" Width="58" Click="btn4_Click"/>
+        <Button Name="btn3" Content="3" HorizontalAlignment="Left" Height="55" Margin="133,282,0,0" VerticalAlignment="Top" Width="58" Click="btn3_Click"/>
+        <Button Name="btn2" Content="2" HorizontalAlignment="Left" Height="55" Margin="70,282,0,0" VerticalAlignment="Top" Width="58" Click="btn2_Click"/>
+        <Button Name="btn1" Content="1" HorizontalAlignment="Left" Height="55" Margin="7,282,0,0" VerticalAlignment="Top" Width="58" Click="btn1_Click"/>
+        <Button Name="btn0" Content="0" HorizontalAlignment="Left" Height="55" Margin="70,342,0,0" VerticalAlignment="Top" Width="58" Click="btn0_Click"/>
+        <Button Name="btnequal" Content="=" HorizontalAlignment="Left" Height="107" Margin="248,222,0,0" VerticalAlignment="Top" Width="46" Background="#FF3838F3" Click="btnequal_Click"/>
+        <Button Name="btndel" Content="DEL" HorizontalAlignment="Left" Height="55" Margin="248,342,0,0" VerticalAlignment="Top" Width="46" Background="Red"/>
+        <Button Name="btnPlusz" Content="+" HorizontalAlignment="Left" Height="47" Margin="196,166,0,0" VerticalAlignment="Top" Width="47" Click="btnPlusz_Click"/>
+        <Button Name="btnMinus" Content="-" HorizontalAlignment="Left" Height="47" Margin="196,222,0,0" VerticalAlignment="Top" Width="46" Click="btnMinus_Click"/>
+        <Button Name="btnMultiplied" Content="X" HorizontalAlignment="Left" Height="47" Margin="196,282,0,0" VerticalAlignment="Top" Width="46" Click="btnMultiplied_Click"/>
+        <Button Name="btnDivided" Content="/" HorizontalAlignment="Left" Height="47" Margin="248,166,0,0" VerticalAlignment="Top" Width="46" Click="btnDivided_Click"/>
+        <Button Name="btnPoint" Content="." HorizontalAlignment="Left" Height="55" Margin="7,342,0,0" VerticalAlignment="Top" Width="58" Click="btnPoint_Click"/>
+        <Button Name="btnPercent" Content="%" HorizontalAlignment="Left" Height="55" Margin="133,342,0,0" VerticalAlignment="Top" Width="58" Click="btnPersent_Click"/>
+        <Button x:Name="btnAC" Content="AC" HorizontalAlignment="Left" Height="47" Margin="197,346,0,0" VerticalAlignment="Top" Width="46"/>
 
     </Grid>
 </Window>

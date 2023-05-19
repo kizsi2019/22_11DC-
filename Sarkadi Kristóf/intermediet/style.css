@@ -1,0 +1,12 @@
+body {
+    background-color: #97c1b0;
+}
+
+.card {
+    background-color: #1a4158;
+    color: #2ef338;
+}
+
+.card-body {
+    text-align: right;
+}

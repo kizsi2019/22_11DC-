@@ -1,0 +1,6 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\kimeneti_valtozo_out\kimeneti_valtozo_out\bin\Debug\kimeneti_valtozo_out.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\kimeneti_valtozo_out\kimeneti_valtozo_out\bin\Debug\kimeneti_valtozo_out.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\kimeneti_valtozo_out\kimeneti_valtozo_out\bin\Debug\kimeneti_valtozo_out.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\kimeneti_valtozo_out\kimeneti_valtozo_out\obj\Debug\kimeneti_valtozo_out.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\kimeneti_valtozo_out\kimeneti_valtozo_out\obj\Debug\kimeneti_valtozo_out.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\kimeneti_valtozo_out\kimeneti_valtozo_out\obj\Debug\kimeneti_valtozo_out.pdb

@@ -1,0 +1,7 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\eldontes1\eldontes1\bin\Debug\eldontes1.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\eldontes1\eldontes1\bin\Debug\eldontes1.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\eldontes1\eldontes1\bin\Debug\eldontes1.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\eldontes1\eldontes1\obj\Debug\eldontes1.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\eldontes1\eldontes1\obj\Debug\eldontes1.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\eldontes1\eldontes1\obj\Debug\eldontes1.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\eldontes1\eldontes1\obj\Debug\eldontes1.pdb

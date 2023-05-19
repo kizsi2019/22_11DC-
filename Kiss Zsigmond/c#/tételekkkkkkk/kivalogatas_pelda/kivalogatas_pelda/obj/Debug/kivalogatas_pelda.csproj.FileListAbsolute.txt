@@ -1,0 +1,2 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\kivalogatas_pelda\kivalogatas_pelda\obj\Debug\kivalogatas_pelda.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\kivalogatas_pelda\kivalogatas_pelda\obj\Debug\kivalogatas_pelda.csproj.CoreCompileInputs.cache

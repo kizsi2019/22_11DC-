@@ -1,0 +1,7 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\matrix1\matrix1\obj\Debug\matrix1.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\matrix1\matrix1\obj\Debug\matrix1.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\matrix1\matrix1\bin\Debug\matrix1.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\matrix1\matrix1\bin\Debug\matrix1.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\matrix1\matrix1\bin\Debug\matrix1.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\matrix1\matrix1\obj\Debug\matrix1.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\matrix1\matrix1\obj\Debug\matrix1.pdb

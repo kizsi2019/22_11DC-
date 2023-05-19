@@ -1,0 +1,6 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\kivalogatas\kivalogatas\bin\Debug\kivalogatas.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\kivalogatas\kivalogatas\bin\Debug\kivalogatas.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\kivalogatas\kivalogatas\bin\Debug\kivalogatas.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\kivalogatas\kivalogatas\obj\Debug\kivalogatas.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\kivalogatas\kivalogatas\obj\Debug\kivalogatas.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\tételekkkkkkk\kivalogatas\kivalogatas\obj\Debug\kivalogatas.pdb

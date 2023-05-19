@@ -113,6 +113,7 @@ namespace tétel_feladatok
                 {
                     Console.WriteLine($"{tmb.Length}, ");
                 }
+            Console.ReadKey();
             }
         }
     }

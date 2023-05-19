@@ -22,5 +22,10 @@ def main():
     coordinates = get_coordinates("Budapest")
     weather = get_weather(coordinates[0], coordinates[1])
     pprint(weather)
+    for i in range(8):
+        if weather["daily"][i]["temp"]["min"] < 10:
+            print(f"A {i}. napon 10 fok alá csökken a hőmérséklet")
+        else:
+            print(f"A {i}. napon nem csökken 10 fok alá a hőmérséklet")
 
 main()

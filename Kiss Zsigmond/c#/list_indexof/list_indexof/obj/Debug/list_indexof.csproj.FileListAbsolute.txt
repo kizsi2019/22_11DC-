@@ -1,0 +1,6 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\list_indexof\list_indexof\bin\Debug\list_indexof.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\list_indexof\list_indexof\bin\Debug\list_indexof.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\list_indexof\list_indexof\bin\Debug\list_indexof.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\list_indexof\list_indexof\obj\Debug\list_indexof.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\list_indexof\list_indexof\obj\Debug\list_indexof.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\list_indexof\list_indexof\obj\Debug\list_indexof.pdb

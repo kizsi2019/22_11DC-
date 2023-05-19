@@ -6,3 +6,10 @@ C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\t
 C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\tetel_feladat__2023.I.12\tetel_feladat__2023.I.12\obj\Debug\tetel_feladat__2023.I.12.csproj.CoreCompileInputs.cache
 C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\tetel_feladat__2023.I.12\tetel_feladat__2023.I.12\obj\Debug\tetel_feladat__2023.I.12.exe
 C:\Users\SarkadiKristofStefan\Desktop\sark.kris.stef\22_11DC-\Sarkadi Kristóf\tetel_feladat__2023.I.12\tetel_feladat__2023.I.12\obj\Debug\tetel_feladat__2023.I.12.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Sarkadi Kristóf\tetel_feladat__2023.I.12\tetel_feladat__2023.I.12\bin\Debug\tetel_feladat__2023.I.12.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Sarkadi Kristóf\tetel_feladat__2023.I.12\tetel_feladat__2023.I.12\bin\Debug\tetel_feladat__2023.I.12.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Sarkadi Kristóf\tetel_feladat__2023.I.12\tetel_feladat__2023.I.12\bin\Debug\tetel_feladat__2023.I.12.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Sarkadi Kristóf\tetel_feladat__2023.I.12\tetel_feladat__2023.I.12\obj\Debug\tetel_feladat__2023.I.12.csproj.AssemblyReference.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Sarkadi Kristóf\tetel_feladat__2023.I.12\tetel_feladat__2023.I.12\obj\Debug\tetel_feladat__2023.I.12.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Sarkadi Kristóf\tetel_feladat__2023.I.12\tetel_feladat__2023.I.12\obj\Debug\tetel_feladat__2023.I.12.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Sarkadi Kristóf\tetel_feladat__2023.I.12\tetel_feladat__2023.I.12\obj\Debug\tetel_feladat__2023.I.12.pdb

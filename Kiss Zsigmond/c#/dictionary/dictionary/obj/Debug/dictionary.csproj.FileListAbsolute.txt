@@ -1,0 +1,6 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\dictionary\dictionary\obj\Debug\dictionary.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\dictionary\dictionary\bin\Debug\dictionary.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\dictionary\dictionary\bin\Debug\dictionary.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\dictionary\dictionary\bin\Debug\dictionary.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\dictionary\dictionary\obj\Debug\dictionary.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\c#\dictionary\dictionary\obj\Debug\dictionary.pdb

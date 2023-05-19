@@ -1,0 +1,7 @@
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\matrix_feltoltes__veletlenszamokkal\matrix_feltoltes__veletlenszamokkal\bin\Debug\matrix_feltoltes__veletlenszamokkal.exe.config
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\matrix_feltoltes__veletlenszamokkal\matrix_feltoltes__veletlenszamokkal\bin\Debug\matrix_feltoltes__veletlenszamokkal.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\matrix_feltoltes__veletlenszamokkal\matrix_feltoltes__veletlenszamokkal\bin\Debug\matrix_feltoltes__veletlenszamokkal.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\matrix_feltoltes__veletlenszamokkal\matrix_feltoltes__veletlenszamokkal\obj\Debug\matrix_feltoltes__veletlenszamokkal.csproj.CoreCompileInputs.cache
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\matrix_feltoltes__veletlenszamokkal\matrix_feltoltes__veletlenszamokkal\obj\Debug\matrix_feltoltes__veletlenszamokkal.exe
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\matrix_feltoltes__veletlenszamokkal\matrix_feltoltes__veletlenszamokkal\obj\Debug\matrix_feltoltes__veletlenszamokkal.pdb
+C:\Users\zsigm\OneDrive\Asztali gép\Github\22_11DC-\Kiss Zsigmond\matrix_feltoltes__veletlenszamokkal\matrix_feltoltes__veletlenszamokkal\obj\Debug\matrix_feltoltes__veletlenszamokkal.csproj.AssemblyReference.cache
