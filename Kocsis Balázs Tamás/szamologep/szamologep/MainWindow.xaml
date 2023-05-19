@@ -7,26 +7,26 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button Content="7" HorizontalAlignment="Left" Height="51" Margin="239,286,0,0" VerticalAlignment="Top" Width="55"/>
-        <Button Content="8" HorizontalAlignment="Left" Height="51" Margin="312,286,0,0" VerticalAlignment="Top" Width="55"/>
-        <Button Content="9" HorizontalAlignment="Left" Height="51" Margin="387,286,0,0" VerticalAlignment="Top" Width="55"/>
-        <Button Content="6" HorizontalAlignment="Left" Height="51" Margin="387,230,0,0" VerticalAlignment="Top" Width="55"/>
-        <Button Content="5" HorizontalAlignment="Left" Height="51" Margin="312,230,0,0" VerticalAlignment="Top" Width="55"/>
-        <Button Content="4" HorizontalAlignment="Left" Height="51" Margin="239,230,0,0" VerticalAlignment="Top" Width="55"/>
-        <Button Content="2" HorizontalAlignment="Left" Height="51" Margin="312,174,0,0" VerticalAlignment="Top" Width="55"/>
-        <Button Content="1" HorizontalAlignment="Left" Height="51" Margin="239,174,0,0" VerticalAlignment="Top" Width="55"/>
-        <Button Content="3" HorizontalAlignment="Left" Height="51" Margin="387,174,0,0" VerticalAlignment="Top" Width="55"/>
-        <Button Content="0" HorizontalAlignment="Left" Height="51" Margin="312,342,0,0" VerticalAlignment="Top" Width="55"/>
-        <Button Content="+" HorizontalAlignment="Left" Height="51" Margin="458,286,0,0" VerticalAlignment="Top" Width="55"/>
-        <Button Content="-" HorizontalAlignment="Left" Height="51" Margin="458,230,0,0" VerticalAlignment="Top" Width="55"/>
-        <Button Content="X" HorizontalAlignment="Left" Height="51" Margin="458,174,0,0" VerticalAlignment="Top" Width="55"/>
-        <Button Content=":" HorizontalAlignment="Left" Height="51" Margin="458,118,0,0" VerticalAlignment="Top" Width="55"/>
-        <Button Content="BS" HorizontalAlignment="Left" Height="51" Margin="387,118,0,0" VerticalAlignment="Top" Width="55"/>
-        <Button Content="C" HorizontalAlignment="Left" Height="51" Margin="312,118,0,0" VerticalAlignment="Top" Width="55"/>
-        <Button Content="%" HorizontalAlignment="Left" Height="51" Margin="239,118,0,0" VerticalAlignment="Top" Width="55"/>
-        <Button Content="=" HorizontalAlignment="Left" Height="51" Margin="458,342,0,0" VerticalAlignment="Top" Width="55"/>
-        <Button Content="," HorizontalAlignment="Left" Height="51" Margin="387,342,0,0" VerticalAlignment="Top" Width="55"/>
-        <TextBox HorizontalAlignment="Left" Height="67" Margin="239,35,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="274" TextAlignment="Right" FontSize="48"/>
+        <Button Name="hetbtn" Content="7" HorizontalAlignment="Left" Height="51" Margin="239,286,0,0" VerticalAlignment="Top" Width="55" Click="hetbtn_Click"/>
+        <Button Name="nyolcbtn" Content="8" HorizontalAlignment="Left" Height="51" Margin="312,286,0,0" VerticalAlignment="Top" Width="55" Click="nyolcbtn_Click"/>
+        <Button Name="kilencbtn" Content="9" HorizontalAlignment="Left" Height="51" Margin="387,286,0,0" VerticalAlignment="Top" Width="55" Click="kilencbtn_Click"/>
+        <Button Name="hatbtn" Content="6" HorizontalAlignment="Left" Height="51" Margin="387,230,0,0" VerticalAlignment="Top" Width="55" Click="hatbtn_Click"/>
+        <Button Name="otbtn" Content="5" HorizontalAlignment="Left" Height="51" Margin="312,230,0,0" VerticalAlignment="Top" Width="55" Click="otbtn_Click"/>
+        <Button Name="negybtn" Content="4" HorizontalAlignment="Left" Height="51" Margin="239,230,0,0" VerticalAlignment="Top" Width="55" Click="negybtn_Click"/>
+        <Button Name="kettobtn" Content="2" HorizontalAlignment="Left" Height="51" Margin="312,174,0,0" VerticalAlignment="Top" Width="55" Click="kettobtn_Click"/>
+        <Button Name="egybtn" Content="1" HorizontalAlignment="Left" Height="51" Margin="239,174,0,0" VerticalAlignment="Top" Width="55" Click="egybtn_Click"/>
+        <Button Name="harombtn" Content="3" HorizontalAlignment="Left" Height="51" Margin="387,174,0,0" VerticalAlignment="Top" Width="55" Click="harombtn_Click"/>
+        <Button Name="nullabtn" Content="0" HorizontalAlignment="Left" Height="51" Margin="312,342,0,0" VerticalAlignment="Top" Width="55" Click="nullabtn_Click"/>
+        <Button Name="pluszbtn" Content="+" HorizontalAlignment="Left" Height="51" Margin="458,286,0,0" VerticalAlignment="Top" Width="55" Click="pluszbtn_Click"/>
+        <Button Name="minuszbtn" Content="-" HorizontalAlignment="Left" Height="51" Margin="458,230,0,0" VerticalAlignment="Top" Width="55" Click="minuszbtn_Click"/>
+        <Button Name="szorzasbtn" Content="X" HorizontalAlignment="Left" Height="51" Margin="458,174,0,0" VerticalAlignment="Top" Width="55" Click="szorzasbtn_Click"/>
+        <Button Name="osztasbtn" Content=":" HorizontalAlignment="Left" Height="51" Margin="458,118,0,0" VerticalAlignment="Top" Width="55" Click="osztasbtn_Click"/>
+        <Button Name="bsbtn" Content="BS" HorizontalAlignment="Left" Height="51" Margin="387,118,0,0" VerticalAlignment="Top" Width="55" Click="bsbtn_Click"/>
+        <Button Name="clearbtn" Content="C" HorizontalAlignment="Left" Height="51" Margin="312,118,0,0" VerticalAlignment="Top" Width="55" Click="clearbtn_Click"/>
+        <Button Name="szazalekbtn" Content="%" HorizontalAlignment="Left" Height="51" Margin="239,118,0,0" VerticalAlignment="Top" Width="55" Click="szazalekbtn_Click"/>
+        <Button Name="egyenlobtn" Content="=" HorizontalAlignment="Left" Height="51" Margin="458,342,0,0" VerticalAlignment="Top" Width="55" Click="egyenlobtn_Click"/>
+        <Button Name="vesszobtn" Content="," HorizontalAlignment="Left" Height="51" Margin="387,342,0,0" VerticalAlignment="Top" Width="55" Click="vesszobtn_Click"/>
+        <TextBox Name="outtb" HorizontalAlignment="Left" Height="67" Margin="239,35,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="274" TextAlignment="Right" FontSize="48" TextChanged="outtb_TextChanged"/>
 
     </Grid>
 </Window>
