@@ -1,0 +1,16 @@
+C:\Users\RobenRomeo\Desktop\githubu\22_11DC-\Roben Rómeó\szmlgp\szmlgp\szmlgp\bin\Debug\szmlgp.exe.config
+C:\Users\RobenRomeo\Desktop\githubu\22_11DC-\Roben Rómeó\szmlgp\szmlgp\szmlgp\bin\Debug\szmlgp.exe
+C:\Users\RobenRomeo\Desktop\githubu\22_11DC-\Roben Rómeó\szmlgp\szmlgp\szmlgp\bin\Debug\szmlgp.pdb
+C:\Users\RobenRomeo\Desktop\githubu\22_11DC-\Roben Rómeó\szmlgp\szmlgp\szmlgp\obj\Debug\szmlgp.csproj.AssemblyReference.cache
+C:\Users\RobenRomeo\Desktop\githubu\22_11DC-\Roben Rómeó\szmlgp\szmlgp\szmlgp\obj\Debug\szmlgp.csproj.SuggestedBindingRedirects.cache
+C:\Users\RobenRomeo\Desktop\githubu\22_11DC-\Roben Rómeó\szmlgp\szmlgp\szmlgp\obj\Debug\MainWindow.g.cs
+C:\Users\RobenRomeo\Desktop\githubu\22_11DC-\Roben Rómeó\szmlgp\szmlgp\szmlgp\obj\Debug\App.g.cs
+C:\Users\RobenRomeo\Desktop\githubu\22_11DC-\Roben Rómeó\szmlgp\szmlgp\szmlgp\obj\Debug\szmlgp_MarkupCompile.cache
+C:\Users\RobenRomeo\Desktop\githubu\22_11DC-\Roben Rómeó\szmlgp\szmlgp\szmlgp\obj\Debug\szmlgp_MarkupCompile.lref
+C:\Users\RobenRomeo\Desktop\githubu\22_11DC-\Roben Rómeó\szmlgp\szmlgp\szmlgp\obj\Debug\MainWindow.baml
+C:\Users\RobenRomeo\Desktop\githubu\22_11DC-\Roben Rómeó\szmlgp\szmlgp\szmlgp\obj\Debug\szmlgp.g.resources
+C:\Users\RobenRomeo\Desktop\githubu\22_11DC-\Roben Rómeó\szmlgp\szmlgp\szmlgp\obj\Debug\szmlgp.Properties.Resources.resources
+C:\Users\RobenRomeo\Desktop\githubu\22_11DC-\Roben Rómeó\szmlgp\szmlgp\szmlgp\obj\Debug\szmlgp.csproj.GenerateResource.cache
+C:\Users\RobenRomeo\Desktop\githubu\22_11DC-\Roben Rómeó\szmlgp\szmlgp\szmlgp\obj\Debug\szmlgp.csproj.CoreCompileInputs.cache
+C:\Users\RobenRomeo\Desktop\githubu\22_11DC-\Roben Rómeó\szmlgp\szmlgp\szmlgp\obj\Debug\szmlgp.exe
+C:\Users\RobenRomeo\Desktop\githubu\22_11DC-\Roben Rómeó\szmlgp\szmlgp\szmlgp\obj\Debug\szmlgp.pdb
