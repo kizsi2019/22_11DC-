@@ -34,74 +34,100 @@ namespace szamologep
 
         private void egybtn_Click(object sender, RoutedEventArgs e)
         {
-
+            outtb.Text += "";
+            userInput += "1";
+            outtb.Text = userInput;
         }
 
         private void kettobtn_Click(object sender, RoutedEventArgs e)
         {
-
+            outtb.Text += "";
+            userInput += "2";
+            outtb.Text = userInput;
         }
 
         private void harombtn_Click(object sender, RoutedEventArgs e)
         {
-
+            outtb.Text += "";
+            userInput += "3";
+            outtb.Text = userInput;
         }
 
         private void szorzasbtn_Click(object sender, RoutedEventArgs e)
         {
-
+            function = '*';
+            first = userInput;
+            userInput = "";
         }
 
         private void negybtn_Click(object sender, RoutedEventArgs e)
         {
-
+            outtb.Text += "";
+            userInput += "4";
+            outtb.Text = userInput;
         }
 
         private void otbtn_Click(object sender, RoutedEventArgs e)
         {
-
+            outtb.Text += "";
+            userInput += "5";
+            outtb.Text = userInput;
         }
 
         private void hatbtn_Click(object sender, RoutedEventArgs e)
         {
-
+            outtb.Text += "";
+            userInput += "6";
+            outtb.Text = userInput;
         }
 
         private void minuszbtn_Click(object sender, RoutedEventArgs e)
         {
-
+            function = '-';
+            first = userInput;
+            userInput = "";
         }
 
         private void hetbtn_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void nyolcbtn_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void kilencbtn_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void pluszbtn_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void nullabtn_Click(object sender, RoutedEventArgs e)
         {
             outtb.Text += "";
             userInput += "7";
             outtb.Text = userInput;
         }
 
+        private void nyolcbtn_Click(object sender, RoutedEventArgs e)
+        {
+            outtb.Text += "";
+            userInput += "8";
+            outtb.Text = userInput;
+        }
+
+        private void kilencbtn_Click(object sender, RoutedEventArgs e)
+        {
+            outtb.Text += "";
+            userInput += "9";
+            outtb.Text = userInput;
+        }
+
+        private void pluszbtn_Click(object sender, RoutedEventArgs e)
+        {
+            function = '+';
+            first = userInput;
+            userInput = "";
+        }
+
+        private void nullabtn_Click(object sender, RoutedEventArgs e)
+        {
+            outtb.Text += "";
+            userInput += "0";
+            outtb.Text = userInput;
+        }
+
         private void vesszobtn_Click(object sender, RoutedEventArgs e)
         {
-
+            outtb.Text += "";
+            userInput += ",";
+            outtb.Text = userInput;
         }
 
         private void egyenlobtn_Click(object sender, RoutedEventArgs e)
@@ -150,17 +176,36 @@ namespace szamologep
 
         private void bsbtn_Click(object sender, RoutedEventArgs e)
         {
-
+            function = 'B';
+            first = userInput;
+            userInput = "";
+            if (Convert.ToString(outtb.Text).Length > 1)
+            {
+                outtb.Text = Convert.ToString(outtb.Text).Substring(0, Convert.ToString(outtb.Text).Length - 1);
+            }
+            else
+            {
+                outtb.Text = "0";
+            }
         }
 
         private void clearbtn_Click(object sender, RoutedEventArgs e)
         {
-
+            first = "";
+            second = "";
+            userInput = "";
+            result = 0.0;
+            outtb.Text = "0";
         }
 
         private void szazalekbtn_Click(object sender, RoutedEventArgs e)
         {
-
+            function = '%';
+            double firstNUM;
+            first = userInput;
+            firstNUM = Convert.ToDouble(first);
+            userInput = Convert.ToString(firstNUM / 100);
+            outtb.Text = userInput;
         }
 
         private void outtb_TextChanged(object sender, TextChangedEventArgs e)
