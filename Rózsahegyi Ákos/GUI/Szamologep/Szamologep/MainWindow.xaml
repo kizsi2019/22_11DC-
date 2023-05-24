@@ -7,9 +7,9 @@
         mc:Ignorable="d"
         Title="Számológép" Height="530" Width="320">
     <Grid>
-        <TextBox Name="TBox" HorizontalAlignment="Center" Height="58" Margin="0,54,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="300" FontSize="36" TextAlignment="Right" TextChanged="TextBox_TextChanged" FontWeight="Bold"/>
+        <TextBox Name="TBox" HorizontalAlignment="Center" Height="58" Margin="0,54,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="300" FontSize="36" TextAlignment="Right" TextChanged="TextBox_TextChanged" FontWeight="Bold" Visibility="Hidden"/>
         <Button Name="BtnC" Content="C" HorizontalAlignment="Left" Height="50" Margin="165,152,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White"/>
-        <Button Name="BtnBack" Content="" HorizontalAlignment="Left" Height="50" Margin="240,152,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="{x:Null}"/>
+        <Button Name="BtnBack" Content="Back" HorizontalAlignment="Left" Height="50" Margin="240,152,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="{x:Null}" Click="BtnBack_Click"/>
         <Button Name="BtnDivide" Content="÷" HorizontalAlignment="Left" Height="50" Margin="240,207,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White" Click="BtnDivide_Click"/>
         <Button Name="BtnX" Content="X" HorizontalAlignment="Left" Height="50" Margin="240,262,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White" Click="BtnX_Click"/>
         <Button Name="BtnMinus" Content="-" HorizontalAlignment="Left" Height="50" Margin="240,317,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White" Click="BtnMinus_Click"/>
@@ -26,8 +26,9 @@
         <Button Name="Btn0" Content="0" HorizontalAlignment="Left" Height="50" Margin="90,427,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White" Click="Btn0_Click"/>
         <Button Name="BtnSlash" Content="," HorizontalAlignment="Left" Height="50" Margin="165,427,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White" Click="BtnSlash_Click"/>
         <Button Name="BtnEqual" Content="=" HorizontalAlignment="Left" Height="50" Margin="240,427,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="#FF00BF1D" Foreground="White" Click="BtnEqual_Click"/>
-        <Button Name="BtnPm" Content="+/-" HorizontalAlignment="Left" Height="50" Margin="15,427,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White"/>
+        <Button Name="BtnPm" Content="+/-" HorizontalAlignment="Left" Height="50" Margin="15,427,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White" Click="BtnPm_Click"/>
         <Button Name="BtnPercent" Content="%" HorizontalAlignment="Left" Height="50" Margin="165,207,0,0" VerticalAlignment="Top" Width="70" FontSize="20" BorderBrush="#FFABADB3" Background="White" Click="BtnPercent_Click"/>
+        <Label Name="LblBox" Content="0" HorizontalAlignment="Center" Height="60" Margin="0,54,0,0" VerticalAlignment="Top" Width="300" FontSize="36" FontWeight="Bold" Foreground="White" BorderBrush="#FF2F2F2F" Background="#FF131313"/>
 
     </Grid>
 </Window>

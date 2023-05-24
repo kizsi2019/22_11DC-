@@ -38,76 +38,78 @@ namespace Szamologep
         private void BtnPercent_Click(object sender, RoutedEventArgs e)
         {
             function = '%';
+            first = userInput;
+            userInput = "";
         }
 
         private void Btn0_Click(object sender, RoutedEventArgs e)
         {
-            TBox.Text += "";
+            LblBox.Content += "";
             userInput += "0";
-            TBox.Text = userInput;
+            LblBox.Content = userInput;
         }
 
         private void Btn1_Click(object sender, RoutedEventArgs e)
         {
-            TBox.Text += "";
+            LblBox.Content += "";
             userInput += "1";
-            TBox.Text = userInput;
+            LblBox.Content = userInput;
         }
 
         private void Btn2_Click(object sender, RoutedEventArgs e)
         {
-            TBox.Text += "";
+            LblBox.Content += "";
             userInput += "2";
-            TBox.Text = userInput;
+            LblBox.Content = userInput;
         }
 
         private void Btn3_Click(object sender, RoutedEventArgs e)
         {
-            TBox.Text += "";
+            LblBox.Content += "";
             userInput += "3";
-            TBox.Text = userInput;
+            LblBox.Content = userInput;
         }
 
         private void Btn4_Click(object sender, RoutedEventArgs e)
         {
-            TBox.Text += "";
+            LblBox.Content += "";
             userInput += "4";
-            TBox.Text = userInput;
+            LblBox.Content = userInput;
         }
 
         private void Btn5_Click(object sender, RoutedEventArgs e)
         {
-            TBox.Text += "";
+            LblBox.Content += "";
             userInput += "5";
-            TBox.Text = userInput;
+            LblBox.Content = userInput;
         }
 
         private void Btn6_Click(object sender, RoutedEventArgs e)
         {
-            TBox.Text += "";
+            LblBox.Content += "";
             userInput += "6";
-            TBox.Text = userInput;
+            LblBox.Content = userInput;
         }
 
         private void Btn7_Click(object sender, RoutedEventArgs e)
         {
-            TBox.Text += "";
+            LblBox.Content += "";
             userInput += "7";
-            TBox.Text = userInput;
+            LblBox.Content = userInput;
         }
 
         private void Btn8_Click(object sender, RoutedEventArgs e)
         {
-            TBox.Text += "";
+            LblBox.Content += "";
             userInput += "8";
-            TBox.Text = userInput;
+            LblBox.Content = userInput;
         }
 
         private void Btn9_Click(object sender, RoutedEventArgs e)
         {
-            TBox.Text += "";
+            LblBox.Content += "";
             userInput += "9";
-            TBox.Text = userInput;
+            LblBox.Content = userInput;
         }
 
         private void BtnDivide_Click(object sender, RoutedEventArgs e)
@@ -140,9 +142,9 @@ namespace Szamologep
 
         private void BtnSlash_Click(object sender, RoutedEventArgs e)
         {
-            TBox.Text += "";
+            LblBox.Content += "";
             userInput += ",";
-            TBox.Text = userInput;
+            LblBox.Content = userInput;
         }
 
         private void BtnEqual_Click(object sender, RoutedEventArgs e)
@@ -155,30 +157,53 @@ namespace Szamologep
             if (function == '+')
             {
                 result = firstNum + secondNum;
-                TBox.Text = result;
+                LblBox.Content = result;
             }
             else if (function == '-')
             {
                 result = firstNum - secondNum;
-                TBox.Text = result;
+                LblBox.Content = result;
             }
             else if (function == '*')
             {
                 result = firstNum * secondNum;
-                TBox.Text = result;
+                LblBox.Content = result;
             }
             else if (function == '/')
             {
                 if (secondNum == 0)
                 {
-                    TBox.Text = "Nullával nem lehet osztani";
+                    LblBox.Content = "Nullával nem lehet osztani";
                 }
                 else
                 {
                     result = firstNum / secondNum;
-                    TBox.Text = result;
+                    LblBox.Content = result;
                 }
             }
+        }
+
+        private void BtnBack_Click(object sender, RoutedEventArgs e)
+        {
+            function = 'B';
+            first = userInput;
+            userInput = "";
+            if (Convert.ToString(LblBox.Content).Length > 1)
+            {
+                LblBox.Content = Convert.ToString(LblBox.Content).Substring(0, Convert.ToString(LblBox.Content).Length - 1);
+            }
+        }
+
+        private void BtnPm_Click(object sender, RoutedEventArgs e)
+        {
+            first = userInput;
+            double firstNum;
+            firstNum = Convert.ToDouble(first);
+
+            result = firstNum * (-1);
+
+            LblBox.Content = result;
+            first = Convert.ToString(result);
         }
     }
 }
