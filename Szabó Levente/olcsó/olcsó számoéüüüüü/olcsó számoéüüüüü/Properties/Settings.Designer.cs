@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace számoló.Properties
+namespace olcsó_számoéüüüüü.Properties
 {
 
 

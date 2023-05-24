@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C11D5FFE-3843-46CC-8DF9-C2E99B84C5A7}</ProjectGuid>
+    <ProjectGuid>{13819957-383D-4490-8443-8AE21C53296E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>számoló</RootNamespace>
-    <AssemblyName>számoló</AssemblyName>
+    <RootNamespace>olcsó_számoéüüüüü</RootNamespace>
+    <AssemblyName>olcsó számoéüüüüü</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
