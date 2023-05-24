@@ -7,28 +7,26 @@
         mc:Ignorable="d"
         Title="Számológép" Height="500" Width="300">
     <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Height="50
-                " Margin="10,412,0,0" VerticalAlignment="Top" Width="53"/>
-        <Button Content="0" HorizontalAlignment="Left" Height="50" Margin="84,412,0,0" VerticalAlignment="Top" Width="53" FontSize="20"/>
-        <Button Content="," HorizontalAlignment="Left" Height="50" Margin="158,412,0,0" VerticalAlignment="Top" Width="54" FontSize="22"/>
-        <Button Content="=" HorizontalAlignment="Left" Height="50" Margin="236,412,0,0" VerticalAlignment="Top" Width="53" FontSize="22"/>
-        <Button Content="1" HorizontalAlignment="Left" Height="50" Margin="10,352,0,0" VerticalAlignment="Top" Width="53" Click="Button_Click" FontSize="22"/>
-        <Button Content="+/-" HorizontalAlignment="Left" Height="50" Margin="10,412,0,0" VerticalAlignment="Top" Width="53" FontSize="22"/>
-        <Button Content="2" HorizontalAlignment="Left" Height="50" Margin="84,352,0,0" VerticalAlignment="Top" Width="53" FontSize="22"/>
-        <Button Content="3" HorizontalAlignment="Left" Height="50" Margin="158,352,0,0" VerticalAlignment="Top" Width="54" FontSize="22"/>
-        <Button Content="+" HorizontalAlignment="Left" Height="50" Margin="236,352,0,0" VerticalAlignment="Top" Width="53"/>
-        <Button Content="4" HorizontalAlignment="Left" Height="50" Margin="10,287,0,0" VerticalAlignment="Top" Width="53" FontSize="22"/>
-        <Button Content="5" HorizontalAlignment="Left" Height="50" Margin="84,287,0,0" VerticalAlignment="Top" Width="53" FontSize="22"/>
-        <Button Content="6" HorizontalAlignment="Left" Height="50" Margin="158,287,0,0" VerticalAlignment="Top" Width="54" FontSize="22"/>
-        <Button Content="-" HorizontalAlignment="Left" Height="50" Margin="236,287,0,0" VerticalAlignment="Top" Width="53"/>
-        <Button Content="7" HorizontalAlignment="Left" Height="50" Margin="10,0,0,0" VerticalAlignment="Center" Width="53" FontSize="22"/>
-        <Button Content="8" HorizontalAlignment="Left" Height="50" Margin="84,0,0,0" VerticalAlignment="Center" Width="53" FontSize="22"/>
-        <Button Content="9" HorizontalAlignment="Left" Height="50" Margin="158,0,0,0" VerticalAlignment="Center" Width="54" FontSize="22"/>
-        <Button Content="*" HorizontalAlignment="Left" Height="50" Margin="236,0,0,0" VerticalAlignment="Center" Width="53"/>
-        <Button Content="÷" HorizontalAlignment="Left" Height="50" Margin="236,149,0,0" VerticalAlignment="Top" Width="53" FontSize="22"/>
-        <Button Content="C" HorizontalAlignment="Left" Height="50" Margin="158,149,0,0" VerticalAlignment="Top" Width="54" FontSize="22"/>
-        <Button Content="CE" HorizontalAlignment="Left" Height="50" Margin="84,149,0,0" VerticalAlignment="Top" Width="53" FontSize="22"/>
-        <Button Content="Del" HorizontalAlignment="Left" Height="50" Margin="10,149,0,0" VerticalAlignment="Top" Width="53" FontSize="22"/>
-        <TextBox HorizontalAlignment="Center" Height="79" Margin="0,43,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="279" Text="               0" FontSize="58"/>
+        <Button Name="nula" Content="0" HorizontalAlignment="Left" Height="50" Margin="84,412,0,0" VerticalAlignment="Top" Width="53" FontSize="20"/>
+        <Button Name="vezs" Content="," HorizontalAlignment="Left" Height="50" Margin="158,412,0,0" VerticalAlignment="Top" Width="54" FontSize="22"/>
+        <Button Name="egyen" Content="=" HorizontalAlignment="Left" Height="50" Margin="236,412,0,0" VerticalAlignment="Top" Width="53" FontSize="22"/>
+        <Button Name="egy" Content="1" HorizontalAlignment="Left" Height="50" Margin="10,352,0,0" VerticalAlignment="Top" Width="53" Click="Button_Click" FontSize="22"/>
+        <Button Name="pvagym" Content="+/-" HorizontalAlignment="Left" Height="50" Margin="10,412,0,0" VerticalAlignment="Top" Width="53" FontSize="22"/>
+        <Button Name="keto" Content="2" HorizontalAlignment="Left" Height="50" Margin="84,352,0,0" VerticalAlignment="Top" Width="53" FontSize="22"/>
+        <Button Name="harom" Content="3" HorizontalAlignment="Left" Height="50" Margin="158,352,0,0" VerticalAlignment="Top" Width="54" FontSize="22"/>
+        <Button Name="plus" Content="+" HorizontalAlignment="Left" Height="50" Margin="236,352,0,0" VerticalAlignment="Top" Width="53"/>
+        <Button Name="negy" Content="4" HorizontalAlignment="Left" Height="50" Margin="10,287,0,0" VerticalAlignment="Top" Width="53" FontSize="22"/>
+        <Button Name="ot" Content="5" HorizontalAlignment="Left" Height="50" Margin="84,287,0,0" VerticalAlignment="Top" Width="53" FontSize="22"/>
+        <Button Name="hat" Content="6" HorizontalAlignment="Left" Height="50" Margin="158,287,0,0" VerticalAlignment="Top" Width="54" FontSize="22"/>
+        <Button Name="minsz" Content="-" HorizontalAlignment="Left" Height="50" Margin="236,287,0,0" VerticalAlignment="Top" Width="53"/>
+        <Button Name="het" Content="7" HorizontalAlignment="Left" Height="50" Margin="10,0,0,0" VerticalAlignment="Center" Width="53" FontSize="22"/>
+        <Button Name="nyoc" Content="8" HorizontalAlignment="Left" Height="50" Margin="84,0,0,0" VerticalAlignment="Center" Width="53" FontSize="22"/>
+        <Button Name="kelenc" Content="9" HorizontalAlignment="Left" Height="50" Margin="158,0,0,0" VerticalAlignment="Center" Width="54" FontSize="22"/>
+        <Button Name="szor" Content="*" HorizontalAlignment="Left" Height="50" Margin="236,0,0,0" VerticalAlignment="Center" Width="53"/>
+        <Button Name="oszt" Content="÷" HorizontalAlignment="Left" Height="50" Margin="236,149,0,0" VerticalAlignment="Top" Width="53" FontSize="22"/>
+        <Button Name="cT" Content="C" HorizontalAlignment="Left" Height="50" Margin="158,149,0,0" VerticalAlignment="Top" Width="54" FontSize="22"/>
+        <Button Name="ceT" Content="CE" HorizontalAlignment="Left" Height="50" Margin="84,149,0,0" VerticalAlignment="Top" Width="53" FontSize="22"/>
+        <Button Name="dell" Content="Del" HorizontalAlignment="Left" Height="50" Margin="10,149,0,0" VerticalAlignment="Top" Width="53" FontSize="22"/>
+        <TextBox Name="kijelzoo" HorizontalAlignment="Center" Height="80" Margin="0,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="280" Text="0" FontSize="58" TextChanged="TextBox_TextChanged"/>
     </Grid>
 </Window>
