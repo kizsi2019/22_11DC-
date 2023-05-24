@@ -160,9 +160,48 @@ namespace calculator
             {
                 if (secondNum == 0)
                 {
-                    lblkijelzo = "Nullával nem lehet osztani";
+                    lblkijelzo.Content = "Nullával nem lehet osztani";
+                }
+                else
+                {
+
                 }
             }
+        }
+
+        private void btnPersent_Click(object sender, RoutedEventArgs e)
+        {
+            function = '%';
+            double firstNum;
+            first = userInput;
+            firstNum = Convert.ToDouble(first);
+            userInput = Convert.ToString(firstNum / 100);
+            lblkijelzo.Content = userInput;
+        }
+
+        private void btndel_Click(object sender, RoutedEventArgs e)
+        {
+            function = '0';
+            first = userInput;
+            userInput = "";
+            if (Convert.ToString(lblkijelzo.Content).Length > 1)
+            {
+                lblkijelzo.Content = Convert.ToString(lblkijelzo.Content).Substring(0, Convert.ToString(lblkijelzo.Content));
+            }
+        }
+
+        private void btnAC_Click(object sender, RoutedEventArgs e)
+        {
+            first = "";
+            second = "";
+            userInput = "";
+            result = 0.0;
+            lblkijelzo.Content = "0";
+        }
+
+        private void btnElojel_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

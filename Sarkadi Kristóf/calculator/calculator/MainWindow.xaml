@@ -19,14 +19,15 @@
         <Button Name="btn1" Content="1" HorizontalAlignment="Left" Height="55" Margin="7,282,0,0" VerticalAlignment="Top" Width="58" Click="btn1_Click"/>
         <Button Name="btn0" Content="0" HorizontalAlignment="Left" Height="55" Margin="70,342,0,0" VerticalAlignment="Top" Width="58" Click="btn0_Click"/>
         <Button Name="btnequal" Content="=" HorizontalAlignment="Left" Height="107" Margin="248,222,0,0" VerticalAlignment="Top" Width="46" Background="#FF3838F3" Click="btnequal_Click"/>
-        <Button Name="btndel" Content="DEL" HorizontalAlignment="Left" Height="55" Margin="248,342,0,0" VerticalAlignment="Top" Width="46" Background="Red"/>
-        <Button Name="btnPlusz" Content="+" HorizontalAlignment="Left" Height="47" Margin="196,166,0,0" VerticalAlignment="Top" Width="47" Click="btnPlusz_Click"/>
-        <Button Name="btnMinus" Content="-" HorizontalAlignment="Left" Height="47" Margin="196,222,0,0" VerticalAlignment="Top" Width="46" Click="btnMinus_Click"/>
-        <Button Name="btnMultiplied" Content="X" HorizontalAlignment="Left" Height="47" Margin="196,282,0,0" VerticalAlignment="Top" Width="46" Click="btnMultiplied_Click"/>
+        <Button Name="btndel" Content="DEL" HorizontalAlignment="Left" Height="55" Margin="248,342,0,0" VerticalAlignment="Top" Width="46" Background="Red" Click="btndel_Click"/>
+        <Button Name="btnPlusz" Content="+" HorizontalAlignment="Left" Height="36" Margin="197,240,0,0" VerticalAlignment="Top" Width="36" Click="btnPlusz_Click"/>
+        <Button Name="btnMinus" Content="-" HorizontalAlignment="Left" Height="36" Margin="196,279,0,0" VerticalAlignment="Top" Width="36" Click="btnMinus_Click"/>
+        <Button Name="btnMultiplied" Content="X" HorizontalAlignment="Left" Height="35" Margin="197,320,0,0" VerticalAlignment="Top" Width="36" Click="btnMultiplied_Click"/>
         <Button Name="btnDivided" Content="/" HorizontalAlignment="Left" Height="47" Margin="248,166,0,0" VerticalAlignment="Top" Width="46" Click="btnDivided_Click"/>
         <Button Name="btnPoint" Content="." HorizontalAlignment="Left" Height="55" Margin="7,342,0,0" VerticalAlignment="Top" Width="58" Click="btnPoint_Click"/>
         <Button Name="btnPercent" Content="%" HorizontalAlignment="Left" Height="55" Margin="133,342,0,0" VerticalAlignment="Top" Width="58" Click="btnPersent_Click"/>
-        <Button x:Name="btnAC" Content="AC" HorizontalAlignment="Left" Height="47" Margin="197,346,0,0" VerticalAlignment="Top" Width="46"/>
+        <Button Name="btnAC" Content="AC" HorizontalAlignment="Left" Height="37" Margin="197,360,0,0" VerticalAlignment="Top" Width="36" Click="btnAC_Click"/>
+        <Button Name="btnElojel" Content="+/-" HorizontalAlignment="Left" Height="36" Margin="197,0,0,0" VerticalAlignment="Center" Width="36" Click="btnElojel_Click"/>
 
     </Grid>
 </Window>
