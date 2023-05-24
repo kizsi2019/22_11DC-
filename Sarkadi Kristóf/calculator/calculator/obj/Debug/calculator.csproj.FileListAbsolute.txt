@@ -4,3 +4,13 @@ C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\calc
 C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\calculator\calculator\obj\Debug\App.g.cs
 C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\calculator\calculator\obj\Debug\calculator_MarkupCompile.cache
 C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\calculator\calculator\obj\Debug\calculator_MarkupCompile.lref
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\calculator\calculator\obj\Debug\MainWindow.baml
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\calculator\calculator\obj\Debug\calculator.g.resources
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\SarkadiKristofStefan\Desktop\sar.kri.ste\22_11DC-\Sarkadi Kristóf\calculator\calculator\obj\Debug\calculator.pdb
