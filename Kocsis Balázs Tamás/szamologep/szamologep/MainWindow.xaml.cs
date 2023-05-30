@@ -132,6 +132,7 @@ namespace szamologep
 
         private void egyenlobtn_Click(object sender, RoutedEventArgs e)
         {
+            double result1 = 0.0;
             second = userInput;
             double firstNUM, secondNUM;
             firstNUM = Convert.ToDouble(first);
@@ -140,17 +141,17 @@ namespace szamologep
             if (function == '+')
             {
                 result = firstNUM + secondNUM;
-                outtb.Text = result;
+                outtb.Text = result1;
             }
             else if (function == '-')
             {
                 result = firstNUM - secondNUM;
-                outtb.Text = result;
+                outtb.Text = result1;
             }
             else if (function == '*')
             {
                 result = firstNUM * secondNUM;
-                outtb.Text = result;
+                outtb.Text = result1;
             }
 
             else if (function == '/')
@@ -162,7 +163,7 @@ namespace szamologep
                 else
                 {
                     result = firstNUM / secondNUM;
-                    outtb.Text = result;
+                    outtb.Text = result1;
                 }
             }
         }
