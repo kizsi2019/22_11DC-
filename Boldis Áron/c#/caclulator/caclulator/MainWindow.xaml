@@ -5,25 +5,25 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:caclulator"
         mc:Ignorable="d"
-        Title="Szamologép" Height="553" Width="507">
-    <Grid>
-        <TextBox x:Name="fasz" HorizontalAlignment="Center" Height="107" Margin="0,25,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="487"/>
-        <Button x:Name="percent" Content="%" HorizontalAlignment="Left" Height="45" Margin="10,152,0,0" VerticalAlignment="Top" Width="67"/>
-        <Button x:Name="osztas" Content="/" HorizontalAlignment="Left" Height="45" Margin="82,152,0,0" VerticalAlignment="Top" Width="86"/>
-        <Button x:Name="hét" Content="7" HorizontalAlignment="Left" Margin="173,152,0,0" VerticalAlignment="Top" Height="45" Width="80"/>
-        <Button x:Name="nyolc" Content="8" HorizontalAlignment="Left" Height="45" Margin="258,152,0,0" VerticalAlignment="Top" Width="83"/>
-        <Button x:Name="kilenc" Content="9" HorizontalAlignment="Left" Height="45" Margin="341,152,0,0" VerticalAlignment="Top" Width="86"/>
-        <Button x:Name="negy" Content="4" HorizontalAlignment="Left" Height="67" Margin="10,202,0,0" VerticalAlignment="Top" Width="67"/>
-        <Button x:Name="öt" Content="5" HorizontalAlignment="Left" Height="67" Margin="82,202,0,0" VerticalAlignment="Top" Width="86"/>
-        <Button x:Name="hat" Content="6" HorizontalAlignment="Left" Height="55" Margin="189,214,0,0" VerticalAlignment="Top" Width="86"/>
-        <Button x:Name="egy" Content="1" HorizontalAlignment="Left" Height="45" Margin="432,152,0,0" VerticalAlignment="Top" Width="87"/>
-        <Button x:Name="ketto" Content="2" HorizontalAlignment="Left" Height="55" Margin="300,214,0,0" VerticalAlignment="Top" Width="67"/>
-        <Button x:Name="harom" Content="3" HorizontalAlignment="Left" Height="55" Margin="384,214,0,0" VerticalAlignment="Top" Width="59"/>
-        <Button x:Name="nulla" Content="0" HorizontalAlignment="Left" Height="55" Margin="460,214,0,0" VerticalAlignment="Top" Width="59"/>
-        <Button x:Name="kivonas" Content="-" HorizontalAlignment="Left" Height="57" Margin="10,274,0,0" VerticalAlignment="Top" Width="67"/>
-        <Button x:Name="egyenlo" Content="=" HorizontalAlignment="Left" Height="57" Margin="82,274,0,0" VerticalAlignment="Top" Width="86"/>
-        <Button x:Name="osszeadas" Content="+" HorizontalAlignment="Left" Height="57" Margin="189,274,0,0" VerticalAlignment="Top" Width="86"/>
-        <Button x:Name="vessző" Content="," HorizontalAlignment="Left" Height="45" Margin="300,286,0,0" VerticalAlignment="Top" Width="84"/>
+        Title="Szamologép" Height="424" Width="278">
+    <Grid Margin="10,0,10,-6">
+        <TextBox x:Name="textbox" HorizontalAlignment="Left" Height="107" Margin="10,29,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="235"/>
+        <Button x:Name="num7" Content="7" HorizontalAlignment="Left" Height="55" Margin="10,152,0,0" VerticalAlignment="Top" Width="55"/>
+        <Button x:Name="num8" Content="8" HorizontalAlignment="Left" Height="55" Margin="70,152,0,0" VerticalAlignment="Top" Width="55"/>
+        <Button x:Name="num9" Content="9" HorizontalAlignment="Left" Margin="130,152,0,0" VerticalAlignment="Top" Height="55" Width="55"/>
+        <Button x:Name="division" Content="/" HorizontalAlignment="Left" Height="55" Margin="190,152,0,0" VerticalAlignment="Top" Width="55"/>
+        <Button x:Name="num4" Content="4" HorizontalAlignment="Left" Height="55" Margin="10,212,0,0" VerticalAlignment="Top" Width="55"/>
+        <Button x:Name="num5" Content="5" HorizontalAlignment="Left" Height="55" Margin="70,212,0,0" VerticalAlignment="Top" Width="55"/>
+        <Button x:Name="num6" Content="6" HorizontalAlignment="Left" Height="55" Margin="130,212,0,0" VerticalAlignment="Top" Width="54" RenderTransformOrigin="0.151,0.343"/>
+        <Button x:Name="multip" Content="X" HorizontalAlignment="Left" Height="55" Margin="190,212,0,0" VerticalAlignment="Top" Width="55"/>
+        <Button x:Name="num1" Content="1" HorizontalAlignment="Left" Height="55" Margin="10,269,0,0" VerticalAlignment="Top" Width="55"/>
+        <Button x:Name="num2" Content="2" HorizontalAlignment="Left" Height="55" Margin="70,269,0,0" VerticalAlignment="Top" Width="55"/>
+        <Button x:Name="num3" Content="3" HorizontalAlignment="Left" Height="55" Margin="130,269,0,0" VerticalAlignment="Top" Width="55"/>
+        <Button x:Name="sub" Content="-" HorizontalAlignment="Left" Height="55" Margin="190,269,0,0" VerticalAlignment="Top" Width="55"/>
+        <Button x:Name="add" Content="+" HorizontalAlignment="Left" Height="55" Margin="190,329,0,0" VerticalAlignment="Top" Width="55"/>
+        <Button x:Name="percent" Content="%" HorizontalAlignment="Left" Height="55" Margin="70,329,0,0" VerticalAlignment="Top" Width="55"/>
+        <Button x:Name="nulla" Content="0" HorizontalAlignment="Left" Height="55" Margin="130,329,0,0" VerticalAlignment="Top" Width="55"/>
+        <Button x:Name="period" Content="," HorizontalAlignment="Left" Height="55" Margin="10,329,0,0" VerticalAlignment="Top" Width="55"/>
 
     </Grid>
 </Window>
