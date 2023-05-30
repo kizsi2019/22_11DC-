@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Roli\\Desktop\\Suli\\22_11DC-\\Simon Roland\\szamolo\\szamolo\\szamolo.csproj": {}
+    "C:\\Users\\SimonRoland\\Desktop\\Suli\\22_11DC-\\Simon Roland\\szamolo\\szamolo\\szamolo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Roli\\Desktop\\Suli\\22_11DC-\\Simon Roland\\szamolo\\szamolo\\szamolo.csproj": {
+    "C:\\Users\\SimonRoland\\Desktop\\Suli\\22_11DC-\\Simon Roland\\szamolo\\szamolo\\szamolo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Roli\\Desktop\\Suli\\22_11DC-\\Simon Roland\\szamolo\\szamolo\\szamolo.csproj",
+        "projectUniqueName": "C:\\Users\\SimonRoland\\Desktop\\Suli\\22_11DC-\\Simon Roland\\szamolo\\szamolo\\szamolo.csproj",
         "projectName": "szamolo",
-        "projectPath": "C:\\Users\\Roli\\Desktop\\Suli\\22_11DC-\\Simon Roland\\szamolo\\szamolo\\szamolo.csproj",
-        "packagesPath": "C:\\Users\\Roli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Roli\\Desktop\\Suli\\22_11DC-\\Simon Roland\\szamolo\\szamolo\\obj\\",
+        "projectPath": "C:\\Users\\SimonRoland\\Desktop\\Suli\\22_11DC-\\Simon Roland\\szamolo\\szamolo\\szamolo.csproj",
+        "packagesPath": "C:\\Users\\SimonRoland\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SimonRoland\\Desktop\\Suli\\22_11DC-\\Simon Roland\\szamolo\\szamolo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Roli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SimonRoland\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
