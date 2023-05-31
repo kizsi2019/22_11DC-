@@ -1,0 +1,15 @@
+C:\Users\SzaboLeventeTamas\Desktop\Eső 999\githab\22_11DC-\Szabó Levente\olcsó\olcsó számoéüüüüü\olcsó számoéüüüüü\bin\Debug\olcsó számoéüüüüü.exe.config
+C:\Users\SzaboLeventeTamas\Desktop\Eső 999\githab\22_11DC-\Szabó Levente\olcsó\olcsó számoéüüüüü\olcsó számoéüüüüü\bin\Debug\olcsó számoéüüüüü.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső 999\githab\22_11DC-\Szabó Levente\olcsó\olcsó számoéüüüüü\olcsó számoéüüüüü\bin\Debug\olcsó számoéüüüüü.pdb
+C:\Users\SzaboLeventeTamas\Desktop\Eső 999\githab\22_11DC-\Szabó Levente\olcsó\olcsó számoéüüüüü\olcsó számoéüüüüü\obj\Debug\olcsó számoéüüüüü.csproj.AssemblyReference.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső 999\githab\22_11DC-\Szabó Levente\olcsó\olcsó számoéüüüüü\olcsó számoéüüüüü\obj\Debug\olcsó számoéüüüüü.csproj.SuggestedBindingRedirects.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső 999\githab\22_11DC-\Szabó Levente\olcsó\olcsó számoéüüüüü\olcsó számoéüüüüü\obj\Debug\MainWindow.baml
+C:\Users\SzaboLeventeTamas\Desktop\Eső 999\githab\22_11DC-\Szabó Levente\olcsó\olcsó számoéüüüüü\olcsó számoéüüüüü\obj\Debug\MainWindow.g.cs
+C:\Users\SzaboLeventeTamas\Desktop\Eső 999\githab\22_11DC-\Szabó Levente\olcsó\olcsó számoéüüüüü\olcsó számoéüüüüü\obj\Debug\App.g.cs
+C:\Users\SzaboLeventeTamas\Desktop\Eső 999\githab\22_11DC-\Szabó Levente\olcsó\olcsó számoéüüüüü\olcsó számoéüüüüü\obj\Debug\olcsó számoéüüüüü_MarkupCompile.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső 999\githab\22_11DC-\Szabó Levente\olcsó\olcsó számoéüüüüü\olcsó számoéüüüüü\obj\Debug\olcsó számoéüüüüü.g.resources
+C:\Users\SzaboLeventeTamas\Desktop\Eső 999\githab\22_11DC-\Szabó Levente\olcsó\olcsó számoéüüüüü\olcsó számoéüüüüü\obj\Debug\olcsó_számoéüüüüü.Properties.Resources.resources
+C:\Users\SzaboLeventeTamas\Desktop\Eső 999\githab\22_11DC-\Szabó Levente\olcsó\olcsó számoéüüüüü\olcsó számoéüüüüü\obj\Debug\olcsó számoéüüüüü.csproj.GenerateResource.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső 999\githab\22_11DC-\Szabó Levente\olcsó\olcsó számoéüüüüü\olcsó számoéüüüüü\obj\Debug\olcsó számoéüüüüü.csproj.CoreCompileInputs.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső 999\githab\22_11DC-\Szabó Levente\olcsó\olcsó számoéüüüüü\olcsó számoéüüüüü\obj\Debug\olcsó számoéüüüüü.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső 999\githab\22_11DC-\Szabó Levente\olcsó\olcsó számoéüüüüü\olcsó számoéüüüüü\obj\Debug\olcsó számoéüüüüü.pdb
