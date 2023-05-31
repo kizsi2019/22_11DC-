@@ -1,0 +1,32 @@
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\Szamologep\Szamologep\bin\Debug\Szamologep.exe.config
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\Szamologep\Szamologep\bin\Debug\Szamologep.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\Szamologep\Szamologep\bin\Debug\Szamologep.pdb
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\Szamologep\Szamologep\obj\Debug\Szamologep.csproj.AssemblyReference.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\Szamologep\Szamologep\obj\Debug\Szamologep.csproj.SuggestedBindingRedirects.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\Szamologep\Szamologep\obj\Debug\MainWindow.g.cs
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\Szamologep\Szamologep\obj\Debug\App.g.cs
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\Szamologep\Szamologep\obj\Debug\Szamologep_MarkupCompile.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\Szamologep\Szamologep\obj\Debug\Szamologep_MarkupCompile.lref
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\Szamologep\Szamologep\obj\Debug\MainWindow.baml
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\Szamologep\Szamologep\obj\Debug\Szamologep.g.resources
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\Szamologep\Szamologep\obj\Debug\Szamologep.Properties.Resources.resources
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\Szamologep\Szamologep\obj\Debug\Szamologep.csproj.GenerateResource.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\Szamologep\Szamologep\obj\Debug\Szamologep.csproj.CoreCompileInputs.cache
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\Szamologep\Szamologep\obj\Debug\Szamologep.exe
+C:\Users\RozsahegyiAkos\Desktop\GITHUB\22_11DC-\Rózsahegyi Ákos\GUI\Szamologep\Szamologep\obj\Debug\Szamologep.pdb
+C:\Users\SoponyaiAron\Desktop\asd\22_11DC-\Soponyai Áron\c sharp\Szamologep\Szamologep\obj\Debug\Szamologep.csproj.AssemblyReference.cache
+C:\Users\SoponyaiAron\Desktop\asd\22_11DC-\Soponyai Áron\c sharp\Szamologep\Szamologep\obj\Debug\Szamologep.csproj.SuggestedBindingRedirects.cache
+C:\Users\SoponyaiAron\Desktop\asd\22_11DC-\Soponyai Áron\c sharp\Szamologep\Szamologep\obj\Debug\MainWindow.g.cs
+C:\Users\SoponyaiAron\Desktop\asd\22_11DC-\Soponyai Áron\c sharp\Szamologep\Szamologep\obj\Debug\App.g.cs
+C:\Users\SoponyaiAron\Desktop\asd\22_11DC-\Soponyai Áron\c sharp\Szamologep\Szamologep\obj\Debug\Szamologep_MarkupCompile.cache
+C:\Users\SoponyaiAron\Desktop\asd\22_11DC-\Soponyai Áron\c sharp\Szamologep\Szamologep\obj\Debug\Szamologep_MarkupCompile.lref
+C:\Users\SoponyaiAron\Desktop\asd\22_11DC-\Soponyai Áron\c sharp\Szamologep\Szamologep\obj\Debug\Szamologep.exe
+C:\Users\SoponyaiAron\Desktop\asd\22_11DC-\Soponyai Áron\c sharp\Szamologep\Szamologep\obj\Debug\Szamologep.pdb
+C:\Users\SoponyaiAron\Desktop\asd\22_11DC-\Soponyai Áron\c sharp\Szamologep\Szamologep\bin\Debug\Szamologep.exe.config
+C:\Users\SoponyaiAron\Desktop\asd\22_11DC-\Soponyai Áron\c sharp\Szamologep\Szamologep\bin\Debug\Szamologep.exe
+C:\Users\SoponyaiAron\Desktop\asd\22_11DC-\Soponyai Áron\c sharp\Szamologep\Szamologep\bin\Debug\Szamologep.pdb
+C:\Users\SoponyaiAron\Desktop\asd\22_11DC-\Soponyai Áron\c sharp\Szamologep\Szamologep\obj\Debug\MainWindow.baml
+C:\Users\SoponyaiAron\Desktop\asd\22_11DC-\Soponyai Áron\c sharp\Szamologep\Szamologep\obj\Debug\Szamologep.g.resources
+C:\Users\SoponyaiAron\Desktop\asd\22_11DC-\Soponyai Áron\c sharp\Szamologep\Szamologep\obj\Debug\Szamologep.Properties.Resources.resources
+C:\Users\SoponyaiAron\Desktop\asd\22_11DC-\Soponyai Áron\c sharp\Szamologep\Szamologep\obj\Debug\Szamologep.csproj.GenerateResource.cache
+C:\Users\SoponyaiAron\Desktop\asd\22_11DC-\Soponyai Áron\c sharp\Szamologep\Szamologep\obj\Debug\Szamologep.csproj.CoreCompileInputs.cache

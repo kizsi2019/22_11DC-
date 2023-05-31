@@ -25,6 +25,7 @@ def main():
     Eső = get_weather(coordinates[0], coordinates[1])
     pprint(Eső)
     for i in range(8):
+        a = Eső['daily'][i]['weather'][0]['description']
         if 'eső' in Eső:
             print(f'Esik az eső a {i} napon')
         else:
