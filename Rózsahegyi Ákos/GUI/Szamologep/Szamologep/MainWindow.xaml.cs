@@ -205,5 +205,14 @@ namespace Szamologep
             LblBox.Content = result;
             first = Convert.ToString(result);
         }
+
+        private void BtnC_Click(object sender, RoutedEventArgs e)
+        {
+            first = "";
+            second = "";
+            userInput = "";
+            result = 0.0;
+            LblBox.Content = "0";
+        }
     }
 }
