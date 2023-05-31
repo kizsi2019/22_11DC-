@@ -1,0 +1,6 @@
+C:\Users\PachBalint\source\repos\szamologep\szamologep\obj\Debug\szamologep.csproj.AssemblyReference.cache
+C:\Users\PachBalint\source\repos\szamologep\szamologep\obj\Debug\szamologep.csproj.SuggestedBindingRedirects.cache
+C:\Users\PachBalint\source\repos\szamologep\szamologep\obj\Debug\MainWindow.g.cs
+C:\Users\PachBalint\source\repos\szamologep\szamologep\obj\Debug\App.g.cs
+C:\Users\PachBalint\source\repos\szamologep\szamologep\obj\Debug\szamologep_MarkupCompile.cache
+C:\Users\PachBalint\source\repos\szamologep\szamologep\obj\Debug\szamologep_MarkupCompile.lref
