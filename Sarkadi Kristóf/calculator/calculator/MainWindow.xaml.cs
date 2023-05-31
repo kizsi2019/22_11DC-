@@ -186,7 +186,7 @@ namespace calculator
             userInput = "";
             if (Convert.ToString(lblkijelzo.Content).Length > 1)
             {
-                lblkijelzo.Content = Convert.ToString(lblkijelzo.Content).Substring(0, Convert.ToString(lblkijelzo.Content));
+                lblkijelzo.Content = Convert.ToString(lblkijelzo.Content).Substring(0, Convert.ToString(lblkijelzo.Content).Length - 1);
             }
         }
 
