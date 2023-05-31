@@ -26,7 +26,7 @@
         <Button Name="szazalekbtn" Content="%" HorizontalAlignment="Left" Height="51" Margin="239,118,0,0" VerticalAlignment="Top" Width="55" Click="szazalekbtn_Click"/>
         <Button Name="egyenlobtn" Content="=" HorizontalAlignment="Left" Height="51" Margin="458,342,0,0" VerticalAlignment="Top" Width="55" Click="egyenlobtn_Click"/>
         <Button Name="vesszobtn" Content="," HorizontalAlignment="Left" Height="51" Margin="387,342,0,0" VerticalAlignment="Top" Width="55" Click="vesszobtn_Click"/>
-        <TextBox Name="outtb" HorizontalAlignment="Left" Height="67" Margin="239,35,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="274" TextAlignment="Right" FontSize="48" TextChanged="outtb_TextChanged"/>
+        <Label  Name="outlbl" Content="0" HorizontalAlignment="Left" Height="68" Margin="239,32,0,0" VerticalAlignment="Top" Width="274" FontSize="48"/>
 
     </Grid>
 </Window>
