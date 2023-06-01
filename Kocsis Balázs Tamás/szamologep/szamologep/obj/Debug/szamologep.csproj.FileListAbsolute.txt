@@ -1,0 +1,16 @@
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\szamologep\szamologep\bin\Debug\szamologep.exe.config
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\szamologep\szamologep\bin\Debug\szamologep.exe
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\szamologep\szamologep\bin\Debug\szamologep.pdb
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\szamologep\szamologep\obj\Debug\szamologep.csproj.AssemblyReference.cache
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\szamologep\szamologep\obj\Debug\szamologep.csproj.SuggestedBindingRedirects.cache
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\szamologep\szamologep\obj\Debug\MainWindow.g.cs
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\szamologep\szamologep\obj\Debug\App.g.cs
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\szamologep\szamologep\obj\Debug\szamologep_MarkupCompile.cache
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\szamologep\szamologep\obj\Debug\szamologep_MarkupCompile.lref
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\szamologep\szamologep\obj\Debug\MainWindow.baml
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\szamologep\szamologep\obj\Debug\szamologep.g.resources
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\szamologep\szamologep\obj\Debug\szamologep.Properties.Resources.resources
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\szamologep\szamologep\obj\Debug\szamologep.csproj.GenerateResource.cache
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\szamologep\szamologep\obj\Debug\szamologep.csproj.CoreCompileInputs.cache
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\szamologep\szamologep\obj\Debug\szamologep.exe
+C:\Users\KocsisBalazsTamas\Desktop\11.d\22_11DC-\Kocsis Balázs Tamás\szamologep\szamologep\obj\Debug\szamologep.pdb
