@@ -21,9 +21,9 @@ def main():
     coordinates = get_coordinates('Budapest')
     weather = get_weather(coordinates[0], coordinates[1])
     pprint(weather)
-    for i in range(8):
-        a = weather['list'][i]['weather'][0]['description']
+    for forecast in weather['list']:
+        a = forecast['weather'][0]['description']
         if 'eső' in a:
-            print(f'A {i}. napon {a}')
+            print(f"Az időjárás előrejelzésben {forecast['dt_txt']}-kor eső")
 
 main()
