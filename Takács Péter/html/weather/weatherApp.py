@@ -5,6 +5,8 @@ from pprint import pprint
 
 API_KEY = 'feca2615202ef0a4b6ca3c8ab70712ca'
 API_URL = 'https://api.openweathermap.org/data/2.5/weather'
+ONE_CALL_API = 'https://api.openweathermap.org/data/2.5/onecall'
+GEOCODING_API = 'http://api.openweathermap.org/geo/1.0/direct'
 payload = {'lat': 35, 'lon': 139, 'appid': API_KEY}
 resp = requests.get(API_URL, params=payload)
 resp = resp.json()
@@ -29,3 +31,5 @@ def main():
     coordinates = get_coordinates('Budapest')
     weather = get_weather(coordinates[0], coordinates[1])
     pprint(weather)
+
+main()
