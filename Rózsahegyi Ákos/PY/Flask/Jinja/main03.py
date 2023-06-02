@@ -1,4 +1,5 @@
 from flask import Flask, redirect, url_for, render_template
+from data import courses
 from datetime import datetime
 
 app = Flask(__name__)
@@ -6,11 +7,11 @@ app = Flask(__name__)
 @app.route("/")
 @app.route("/home")
 def home():
-    return render_template("index.html")
+    return render_template("courses.html", courses=courses, title="Üzenőfal")
 
 @app.route("/contact")
 def contact():
-    return render_template("contact.html")
+    return render_template("contact.html", title="Elérhetőség")
 
 @app.route("/time")
 def time():
