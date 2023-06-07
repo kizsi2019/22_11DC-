@@ -1,7 +1,9 @@
 from flask import Flask, redirect, url_for, render_template, request
 from data import courses
+from forms import NewCourseForm
 
 app = Flask(__name__)
+app.config['SECRET_KEY'] = 'fshghb162167t8jvbnodbndnb'
 
 @app.route("/")
 @app.route("/home")
@@ -12,7 +14,7 @@ def home():
 def contact():
     return render_template("contact.html", title="Elérhetőség")
 
-@app.route("/uzenofal")
+@app.route("/message_board")
 def message_board():
     return redirect(url_for("home"))
 
@@ -22,13 +24,13 @@ def course(number):
 
 @app.route("/course/new", methods=["GET", "POST"])
 def create():
-    if request.method == "POST":
-        title = request.form.get("title")
-        teacher = request.form.get("teacher")
-        date = request.form.get("date")
-        courses.append({"title": title, "teacher": teacher, "date": date})
-        return  redirect(url_for("home"))
-    return render_template("create.html", title="Új kurzus létrehozása")
+    form = NewCourseForm()
+    if request.method == 'POST':
+        if form.validate_on_submit():
+            courses.append({"title": form.title.data, "teacher": form.teacher.data, "date": form.date.data})
+            flash("A kurzus a megadott adatokkal mentésre került!", "success")
+            return redirect(url_for('home'))
+    return render_template("create.html", title="Új kurzus létrehozása", form=form)
 
 if __name__ == "__main__":
     app.run(debug=True)
