@@ -1,0 +1,16 @@
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\Sudoku\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\Sudoku\obj\Debug\Sudoku.csproj.SuggestedBindingRedirects.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\Sudoku\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\SoponyaiAron\Desktop\git\22_11DC-\Soponyai Áron\c sharp\Sudoku\obj\Debug\Sudoku.pdb
+C:\Users\RobenRomeo\sodokus cucc\bin\Debug\Sudoku.exe.config
+C:\Users\RobenRomeo\sodokus cucc\bin\Debug\Sudoku.exe
+C:\Users\RobenRomeo\sodokus cucc\bin\Debug\Sudoku.pdb
+C:\Users\RobenRomeo\sodokus cucc\obj\Debug\Sudoku.csproj.AssemblyReference.cache
+C:\Users\RobenRomeo\sodokus cucc\obj\Debug\Sudoku.csproj.SuggestedBindingRedirects.cache
+C:\Users\RobenRomeo\sodokus cucc\obj\Debug\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\RobenRomeo\sodokus cucc\obj\Debug\Sudoku.exe
+C:\Users\RobenRomeo\sodokus cucc\obj\Debug\Sudoku.pdb

@@ -1,0 +1,8 @@
+C:\Users\SzaboLeventeTamas\Desktop\Eső 999\githab\22_11DC-\Szabó Levente\suddododoku\suddododoku\obj\Debug\suddododoku.csproj.AssemblyReference.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső 999\githab\22_11DC-\Szabó Levente\suddododoku\suddododoku\obj\Debug\suddododoku.csproj.SuggestedBindingRedirects.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső 999\githab\22_11DC-\Szabó Levente\suddododoku\suddododoku\obj\Debug\suddododoku.csproj.CoreCompileInputs.cache
+C:\Users\SzaboLeventeTamas\Desktop\Eső 999\githab\22_11DC-\Szabó Levente\suddododoku\suddododoku\bin\Debug\suddododoku.exe.config
+C:\Users\SzaboLeventeTamas\Desktop\Eső 999\githab\22_11DC-\Szabó Levente\suddododoku\suddododoku\bin\Debug\suddododoku.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső 999\githab\22_11DC-\Szabó Levente\suddododoku\suddododoku\bin\Debug\suddododoku.pdb
+C:\Users\SzaboLeventeTamas\Desktop\Eső 999\githab\22_11DC-\Szabó Levente\suddododoku\suddododoku\obj\Debug\suddododoku.exe
+C:\Users\SzaboLeventeTamas\Desktop\Eső 999\githab\22_11DC-\Szabó Levente\suddododoku\suddododoku\obj\Debug\suddododoku.pdb
