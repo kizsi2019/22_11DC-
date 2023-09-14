@@ -1,0 +1,16 @@
+C:\Users\DubeczDavidRaymundo\Downloads\OneDrive_2023-09-14\2. Szudoku\sodukuv2-23\sodukuv2-23\bin\Debug\sodukuv2-23.exe.config
+C:\Users\DubeczDavidRaymundo\Downloads\OneDrive_2023-09-14\2. Szudoku\sodukuv2-23\sodukuv2-23\bin\Debug\sodukuv2-23.exe
+C:\Users\DubeczDavidRaymundo\Downloads\OneDrive_2023-09-14\2. Szudoku\sodukuv2-23\sodukuv2-23\bin\Debug\sodukuv2-23.pdb
+C:\Users\DubeczDavidRaymundo\Downloads\OneDrive_2023-09-14\2. Szudoku\sodukuv2-23\sodukuv2-23\obj\Debug\sodukuv2-23.csproj.AssemblyReference.cache
+C:\Users\DubeczDavidRaymundo\Downloads\OneDrive_2023-09-14\2. Szudoku\sodukuv2-23\sodukuv2-23\obj\Debug\sodukuv2-23.csproj.SuggestedBindingRedirects.cache
+C:\Users\DubeczDavidRaymundo\Downloads\OneDrive_2023-09-14\2. Szudoku\sodukuv2-23\sodukuv2-23\obj\Debug\sodukuv2-23.csproj.CoreCompileInputs.cache
+C:\Users\DubeczDavidRaymundo\Downloads\OneDrive_2023-09-14\2. Szudoku\sodukuv2-23\sodukuv2-23\obj\Debug\sodukuv2-23.exe
+C:\Users\DubeczDavidRaymundo\Downloads\OneDrive_2023-09-14\2. Szudoku\sodukuv2-23\sodukuv2-23\obj\Debug\sodukuv2-23.pdb
+C:\Users\DubeczDavidRaymundo\Desktop\githubv1\22_11DC-\Dubecz Dávid\C#\soduku\2. Szudoku\sodukuv2-23\sodukuv2-23\bin\Debug\sodukuv2-23.exe.config
+C:\Users\DubeczDavidRaymundo\Desktop\githubv1\22_11DC-\Dubecz Dávid\C#\soduku\2. Szudoku\sodukuv2-23\sodukuv2-23\bin\Debug\sodukuv2-23.exe
+C:\Users\DubeczDavidRaymundo\Desktop\githubv1\22_11DC-\Dubecz Dávid\C#\soduku\2. Szudoku\sodukuv2-23\sodukuv2-23\bin\Debug\sodukuv2-23.pdb
+C:\Users\DubeczDavidRaymundo\Desktop\githubv1\22_11DC-\Dubecz Dávid\C#\soduku\2. Szudoku\sodukuv2-23\sodukuv2-23\obj\Debug\sodukuv2-23.csproj.AssemblyReference.cache
+C:\Users\DubeczDavidRaymundo\Desktop\githubv1\22_11DC-\Dubecz Dávid\C#\soduku\2. Szudoku\sodukuv2-23\sodukuv2-23\obj\Debug\sodukuv2-23.csproj.SuggestedBindingRedirects.cache
+C:\Users\DubeczDavidRaymundo\Desktop\githubv1\22_11DC-\Dubecz Dávid\C#\soduku\2. Szudoku\sodukuv2-23\sodukuv2-23\obj\Debug\sodukuv2-23.csproj.CoreCompileInputs.cache
+C:\Users\DubeczDavidRaymundo\Desktop\githubv1\22_11DC-\Dubecz Dávid\C#\soduku\2. Szudoku\sodukuv2-23\sodukuv2-23\obj\Debug\sodukuv2-23.exe
+C:\Users\DubeczDavidRaymundo\Desktop\githubv1\22_11DC-\Dubecz Dávid\C#\soduku\2. Szudoku\sodukuv2-23\sodukuv2-23\obj\Debug\sodukuv2-23.pdb
