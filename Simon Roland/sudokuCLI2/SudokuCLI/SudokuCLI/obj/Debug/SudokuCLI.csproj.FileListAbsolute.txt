@@ -1,0 +1,8 @@
+C:\Users\SimonRoland\Desktop\Suli\22_11DC-\Simon Roland\sudokuCLI2\SudokuCLI\SudokuCLI\bin\Debug\SudokuCLI.exe.config
+C:\Users\SimonRoland\Desktop\Suli\22_11DC-\Simon Roland\sudokuCLI2\SudokuCLI\SudokuCLI\bin\Debug\SudokuCLI.exe
+C:\Users\SimonRoland\Desktop\Suli\22_11DC-\Simon Roland\sudokuCLI2\SudokuCLI\SudokuCLI\bin\Debug\SudokuCLI.pdb
+C:\Users\SimonRoland\Desktop\Suli\22_11DC-\Simon Roland\sudokuCLI2\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.csproj.AssemblyReference.cache
+C:\Users\SimonRoland\Desktop\Suli\22_11DC-\Simon Roland\sudokuCLI2\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\SimonRoland\Desktop\Suli\22_11DC-\Simon Roland\sudokuCLI2\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.csproj.CoreCompileInputs.cache
+C:\Users\SimonRoland\Desktop\Suli\22_11DC-\Simon Roland\sudokuCLI2\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.exe
+C:\Users\SimonRoland\Desktop\Suli\22_11DC-\Simon Roland\sudokuCLI2\SudokuCLI\SudokuCLI\obj\Debug\SudokuCLI.pdb

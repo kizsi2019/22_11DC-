@@ -1,0 +1,8 @@
+C:\Users\BalintHajdu\Desktop\szudoku\bdc_sudoku\bin\Debug\bdc_sudoku.exe.config
+C:\Users\BalintHajdu\Desktop\szudoku\bdc_sudoku\bin\Debug\bdc_sudoku.exe
+C:\Users\BalintHajdu\Desktop\szudoku\bdc_sudoku\bin\Debug\bdc_sudoku.pdb
+C:\Users\BalintHajdu\Desktop\szudoku\bdc_sudoku\obj\Debug\bdc_sudoku.csproj.AssemblyReference.cache
+C:\Users\BalintHajdu\Desktop\szudoku\bdc_sudoku\obj\Debug\bdc_sudoku.csproj.SuggestedBindingRedirects.cache
+C:\Users\BalintHajdu\Desktop\szudoku\bdc_sudoku\obj\Debug\bdc_sudoku.csproj.CoreCompileInputs.cache
+C:\Users\BalintHajdu\Desktop\szudoku\bdc_sudoku\obj\Debug\bdc_sudoku.exe
+C:\Users\BalintHajdu\Desktop\szudoku\bdc_sudoku\obj\Debug\bdc_sudoku.pdb
